@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ILINA Policy Radar</title>
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d1d1b;--mute:#6b6a64;--line:#e7e4dc;--accent:#1f5f4a;--hi:#b3261e;--mid:#a86b00;--chip:#f1efe8;--hl:#e6f2ec}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--card:#1d1d1b;--ink:#ecebe6;--mute:#9d9b93;--line:#2e2d2a;--accent:#6cc4a1;--hi:#f28b82;--mid:#f0b45a;--chip:#2a2926;--hl:#1e3a30}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+header,main{max-width:980px;margin:0 auto;padding:0 16px}
+header{padding-top:28px}
+h1{font-size:22px;margin:0 0 2px;letter-spacing:-.01em}
+.sub{color:var(--mute);font-size:13px;display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.sub a{color:var(--accent);text-decoration:none}
+nav{display:flex;gap:4px;margin:20px 0 10px;overflow-x:auto;border-bottom:1px solid var(--line)}
+nav button{background:none;border:0;border-bottom:2px solid transparent;padding:8px 12px;font:inherit;color:var(--mute);cursor:pointer;white-space:nowrap}
+nav button.on{color:var(--ink);border-color:var(--accent);font-weight:600}
+nav .n{font-size:12px;opacity:.7;margin-left:4px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.bar input[type=search]{flex:1;min-width:180px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+.bar label{font-size:13px;color:var(--mute);display:flex;gap:4px;align-items:center;cursor:pointer}
+.hint{color:var(--mute);font-size:13px;margin:0 0 12px}
+.e{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px;display:grid;grid-template-columns:42px 1fr auto;gap:12px}
+.e.new{box-shadow:inset 3px 0 0 var(--accent)}
+.e.gone{opacity:.45}
+.s{width:42px;height:42px;border-radius:50%;display:grid;place-items:center;font-weight:700;font-size:15px;background:var(--chip)}
+.s.h{background:var(--hi);color:#fff}.s.m{background:var(--mid);color:#fff}
+.t{font-weight:600;color:var(--ink);text-decoration:none}
+.t:hover{text-decoration:underline}
+.meta{display:flex;flex-wrap:wrap;gap:6px;margin:5px 0;font-size:12.5px;color:var(--mute)}
+.c{background:var(--chip);border-radius:5px;padding:1px 7px}
+.c.dl{font-weight:600}.c.r{background:var(--hi);color:#fff}.c.a{background:var(--mid);color:#fff}
+.c.w{background:var(--hl);color:var(--accent);font-weight:600}
+.why{font-size:14px;margin:2px 0}
+.act{font-size:14px;color:var(--accent);font-weight:500}
+details{margin-top:6px;font-size:13.5px}
+summary{cursor:pointer;color:var(--mute);font-size:12.5px}
+details p{margin:6px 0}
+details ul{margin:6px 0;padding-left:18px}
+details li a{color:var(--accent)}
+details li span{color:var(--mute);font-size:12px}
+.tools{display:flex;flex-direction:column;gap:4px}
+.tools button{border:1px solid var(--line);background:var(--card);border-radius:7px;width:32px;height:30px;cursor:pointer;color:var(--mute);font-size:15px}
+.tools button.on{color:var(--accent);border-color:var(--accent)}
+.empty{color:var(--mute);padding:30px 0;text-align:center}
+@media (max-width:560px){.e{grid-template-columns:1fr auto}.s{width:34px;height:34px;font-size:13px;grid-row:1;grid-column:2}.e>div:nth-child(2){grid-row:1/3;grid-column:1}.tools{flex-direction:row;grid-column:2}}
+</style>
+</head>
+<body>
+<header>
+  <h1>ILINA Policy Radar</h1>
+  <div class="sub"><span id="gen"></span><a id="cal" href="deadlines.ics">📅 Subscribe to deadlines</a><a href="radar.csv">⬇ Spreadsheet (CSV)</a></div>
+  <nav id="tabs"></nav>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Search titles, organisers, countries…">
+    <label><input type="checkbox" id="af"> Africa</label>
+    <label><input type="checkbox" id="warm"> Warm contact</label>
+    <label><input type="checkbox" id="showgone"> Show dismissed</label>
+  </div>
+  <p class="hint" id="hint"></p>
+</header>
+<main id="list"></main>
+<script>
+const $=s=>document.querySelector(s), today=new Date(new Date().toDateString());
+const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
+const marks=store.get('marks',{}), lastVisit=store.get('lastVisit','');
+const AF=/africa|kenya|nigeria|rwanda|ghana|ethiopia|uganda|tanzania|senegal|togo|zambia|egypt|morocco|south africa|african union|nepad|uneca|smart africa/i;
+const days=d=>d?Math.round((new Date(d)-today)/864e5):null;
+const fmt=d=>new Date(d).toLocaleDateString(undefined,{day:'numeric',month:'short',year:'numeric'});
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const TABS={
+  act:{name:'Act now',hint:'Things ILINA can submit to, apply for or join. Closest deadline first.',
+       f:e=>(e.type==='opportunity'||e.african_input)&&(!e.deadline||days(e.deadline)>=0)&&e.score>=40,
+       sort:(a,b)=>(a.deadline||'9')<(b.deadline||'9')?-1:(a.deadline||'9')>(b.deadline||'9')?1:b.score-a.score},
+  events:{name:'Events',hint:'Upcoming convenings, soonest first. Every source about the same event is grouped under it.',
+       f:e=>e.type==='event'&&e.event_start, sort:(a,b)=>a.event_start<b.event_start?-1:1},
+  tracker:{name:'Policy tracker',hint:'New or changed AI laws, policies and strategies.',f:e=>e.type==='policy_change',sort:(a,b)=>b.updated<a.updated?-1:1},
+  reading:{name:'Reading',hint:'Recent publications and analysis worth using in memos and training.',f:e=>e.type==='publication'||(e.type==='news'&&e.score>=50),sort:(a,b)=>b.updated<a.updated?-1:1},
+  all:{name:'All',hint:'Everything, highest priority first.',f:e=>true,sort:(a,b)=>b.score-a.score},
+  star:{name:'★ Shortlist',hint:'Your starred items (saved in this browser).',f:e=>marks[e.id]==='star',sort:(a,b)=>b.score-a.score},
+};
+let data=[], tab=location.hash.slice(1) in TABS?location.hash.slice(1):'act';
+
+function row(e){
+  const dl=days(e.deadline), m=marks[e.id];
+  const dlc=e.deadline?`<span class="c dl ${dl<14?'r':dl<30?'a':''}">⏰ ${dl===0?'today':dl+' days'} · ${fmt(e.deadline)}</span>`:'';
+  const ev=e.event_start?`<span class="c">📍 ${fmt(e.event_start)}${e.location?' · '+esc(e.location):''}</span>`:(e.location?`<span class="c">📍 ${esc(e.location)}</span>`:'');
+  const warm=e.contacts.length?`<span class="c w">🤝 ${esc(e.contacts.join(', '))}</span>`:'';
+  const s=e.sources;
+  return `<article class="e ${e.found>lastVisit&&lastVisit?'new':''} ${m==='gone'?'gone':''}">
+   <div class="s ${e.score>=70?'h':e.score>=50?'m':''}" title="Priority score">${e.score}</div>
+   <div>
+    <a class="t" href="${esc(s[0].url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+    <div class="meta">${dlc}${ev}${warm}<span class="c">${e.type.replace('_',' ')}</span>${e.organizers.slice(0,3).map(o=>`<span>${esc(o)}</span>`).join(' · ')}</div>
+    <div class="why">${esc(e.why||e.summary)}</div>
+    ${e.action?`<div class="act">→ ${esc(e.action)}</div>`:''}
+    <details><summary>Details${s.length>1?` · ${s.length} sources`:''}</summary>
+     <p>${esc(e.summary)}</p>
+     ${e.participation?`<p><b>How to take part:</b> ${esc(e.participation)}</p>`:''}
+     ${e.countries.length?`<p><b>Where:</b> ${esc(e.countries.join(', '))}</p>`:''}
+     ${e.allies.length?`<p><b>Allies involved:</b> ${esc(e.allies.join(', '))}</p>`:''}
+     <ul>${s.map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a> <span>${esc(x.source)} · ${esc(x.date)}</span></li>`).join('')}</ul>
+    </details>
+   </div>
+   <div class="tools"><button data-id="${e.id}" data-m="star" class="${m==='star'?'on':''}" title="Shortlist">★</button><button data-id="${e.id}" data-m="gone" class="${m==='gone'?'on':''}" title="Not relevant">✕</button></div>
+  </article>`;
+}
+
+function render(){
+  const q=$('#q').value.toLowerCase(), af=$('#af').checked, warm=$('#warm').checked, gone=$('#showgone').checked;
+  const pass=e=>(!q||JSON.stringify([e.title,e.summary,e.organizers,e.countries,e.topics]).toLowerCase().includes(q))
+    &&(!af||AF.test(e.countries.join(' ')+e.title+e.summary))&&(!warm||e.contacts.length)&&(gone||tab==='star'||marks[e.id]!=='gone');
+  $('#tabs').innerHTML=Object.entries(TABS).map(([k,t])=>`<button data-t="${k}" class="${k===tab?'on':''}">${t.name}<span class="n">${data.filter(e=>t.f(e)&&pass(e)).length}</span></button>`).join('');
+  const T=TABS[tab], rows=data.filter(e=>T.f(e)&&pass(e)).sort(T.sort);
+  $('#hint').textContent=T.hint;
+  $('#list').innerHTML=rows.map(row).join('')||'<p class="empty">Nothing here right now.</p>';
+}
+
+document.addEventListener('click',ev=>{
+  const t=ev.target.closest('[data-t]'); if(t){tab=t.dataset.t;history.replaceState(null,'','#'+tab);render();return}
+  const b=ev.target.closest('[data-m]'); if(b){const {id,m}=b.dataset;marks[id]=marks[id]===m?undefined:m;store.set('marks',marks);render()}
+});
+['q','af','warm','showgone'].forEach(id=>$('#'+id).addEventListener('input',render));
+$('#cal').href='webcal://'+location.host+location.pathname.replace(/[^/]*$/,'')+'deadlines.ics';
+fetch('data.json').then(r=>r.json()).then(d=>{
+  data=d.entries; $('#gen').textContent='Updated '+fmt(d.generated)+' · '+data.length+' items'; render();
+  store.set('lastVisit',d.generated);
+}).catch(()=>{$('#list').innerHTML='<p class="empty">Could not load data.</p>'});
+</script>
+</body>
+</html>
