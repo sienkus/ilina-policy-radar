@@ -1,0 +1,162 @@
+# Models are tried in order; if one is unavailable the next is used.
+models:
+  - deepseek-ai/deepseek-v4.1-flash
+  - nvidia/nemotron-3-super-120b-a12b
+  - google/gemma-4-31b-it
+requests_per_minute: 35      # NVIDIA free tier allows 40
+time_budget_minutes: 40      # stop analysing after this; leftovers continue next run
+max_age_days: 30             # ignore feed items older than this
+digest_weekday: 0            # 0 = Monday
+
+# People ILINA already knows, matched by name in every item ("warm contact").
+# Kept out of the public repo: set them in the CONTACTS secret, one name per line.
+# Names listed here are added on top.
+contacts: []
+
+# Organisations that count as partners / allies when they organise or appear.
+allies:
+  - Global Center on AI Governance
+  - AI Safety Connect
+  - The Future Society
+  - Oxford Martin
+  - AI Safety Asia
+  - GovAI
+  - Centre for the Governance of AI
+  - GIZ
+  - Qhala
+  - DIFA
+  - Research ICT Africa
+  - Lawyers Hub
+  - IASEAI
+  - AUDA-NEPAD
+  - UNECA
+  - ITU
+  - Office for Digital and Emerging Technologies
+  - Smart Africa
+  - African Union
+
+# RSS feeds. filter: true = broad feed, only keep items that mention AI.
+feeds:
+  - {name: The Future Society, url: "https://thefuturesociety.org/feed/", group: safety}
+  - {name: Oxford Martin AIGI, url: "https://aigi.ox.ac.uk/feed/", group: safety}
+  - {name: CAIS AI Safety Newsletter, url: "https://newsletter.safe.ai/feed", group: safety}
+  - {name: Transformer, url: "https://www.transformernews.ai/feed", group: safety}
+  - {name: Partnership on AI, url: "https://partnershiponai.org/feed/", group: safety}
+  - {name: CSET, url: "https://cset.georgetown.edu/feed/", group: safety}
+  - {name: UN ODET, url: "https://www.un.org/digital-emerging-technologies/rss.xml", group: multilateral}
+  - {name: ITU, url: "https://www.itu.int/hub/feed/", group: multilateral, filter: true}
+  - {name: AI for Good, url: "https://aiforgood.itu.int/feed/", group: multilateral}
+  - {name: UN News, url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", group: multilateral, filter: true}
+  - {name: UNECA, url: "https://www.uneca.org/rss.xml", group: multilateral, filter: true}
+  - {name: AUDA-NEPAD, url: "https://www.nepad.org/rss.xml", group: multilateral, filter: true}
+  - {name: African Union, url: "https://au.int/en/rss.xml", group: multilateral, filter: true}
+  - {name: Smart Africa, url: "https://smartafrica.org/feed/", group: multilateral, filter: true}
+  - {name: Digital Watch, url: "https://dig.watch/feed", group: multilateral, filter: true}
+  - {name: Research ICT Africa, url: "https://researchictafrica.net/feed/", group: partner}
+  - {name: CIPESA, url: "https://cipesa.org/feed/", group: partner, filter: true}
+  - {name: Paradigm Initiative, url: "https://paradigmhq.org/feed/", group: partner, filter: true}
+  - {name: Datasphere Initiative, url: "https://www.thedatasphere.org/feed/", group: partner, filter: true}
+  - {name: ALT Advisory, url: "https://altadvisory.africa/feed/", group: partner, filter: true}
+  - {name: GovAI, url: "https://www.governance.ai/post/rss.xml", group: safety}
+  - {name: Digital Policy Alert, url: "https://digitalpolicyalert.org/feed.xml", group: partner}
+  - {name: DIFA Consultancy, url: "https://difaconsultancy.com/feed/", group: partner}
+  - {name: Vukosi Marivate (blog), url: "https://www.vima.co.za/feed/", group: people}
+  - {name: NITDA Nigeria, url: "https://nitda.gov.ng/feed/", group: government, filter: true}
+  - {name: Nigeria Ministry of Communications, url: "https://fmcide.gov.ng/feed/", group: government, filter: true}
+  - {name: TechCabal, url: "https://techcabal.com/feed/", group: news, filter: true}
+  - {name: Opportunities for Africans, url: "https://www.opportunitiesforafricans.com/feed/", group: opportunities, filter: true}
+  - {name: Opportunity Desk, url: "https://opportunitydesk.org/feed/", group: opportunities, filter: true}
+
+# Sites without feeds. The agent spots new links and reads the page itself
+# when its text changes (dates and deadlines often change silently).
+pages:
+  - {name: UN Global Dialogue on AI Governance, url: "https://www.un.org/global-dialogue-ai-governance/en", group: multilateral}
+  - {name: UN Scientific Panel on AI, url: "https://www.un.org/independent-international-scientific-panel-ai/en", group: multilateral}
+  - {name: UN ODET events, url: "https://www.un.org/digital-emerging-technologies/events", group: multilateral}
+  - {name: UNESCO AI, url: "https://www.unesco.org/en/artificial-intelligence", group: multilateral}
+  - {name: OECD.AI, url: "https://oecd.ai/en/", group: multilateral}
+  - {name: International AI Safety Report, url: "https://internationalaisafetyreport.org/", group: safety}
+  - {name: Global Center on AI Governance, url: "https://www.globalcenter.ai/news", group: safety}
+  - {name: AI Safety Asia, url: "https://www.aisafety.asia/", group: safety}
+  - {name: UK AI Security Institute, url: "https://www.aisi.gov.uk/", group: safety}
+  - {name: Lawyers Hub, url: "https://www.lawyershub.org/", group: partner}
+  - {name: Qhala, url: "https://qhala.com/", group: partner}
+  - {name: GIZ newsroom, url: "https://www.giz.de/en/newsroom", group: partner, filter: true}
+  - {name: Rwanda MINICT, url: "https://www.minict.gov.rw/news", group: government}
+  - {name: Togo Ministry of Digital Economy, url: "https://numerique.gouv.tg/", group: government}
+  - {name: Tech Policy Press, url: "https://www.techpolicy.press/", group: news, filter: true}
+
+# Google News searches (last 14 days). Covers people, LinkedIn-only orgs and press coverage.
+searches:
+  - {q: '"Global Dialogue on AI Governance"', group: multilateral}
+  - {q: '"Geneva AI Summit" OR "AI Safety Summit" OR "AI Impact Summit"', group: multilateral}
+  - {q: '"Scientific Panel on AI" OR "Global Fund for AI" OR "AI capacity building fund"', group: multilateral}
+  - {q: '"Internet Governance Forum" AI', group: multilateral}
+  - {q: '("AI policy" OR "AI strategy" OR "AI bill" OR "artificial intelligence bill" OR "AI regulation") (Kenya OR Nigeria OR Rwanda OR Ghana OR "South Africa" OR Ethiopia OR Uganda OR Tanzania OR Senegal OR Togo OR Zambia OR Egypt OR Morocco)', group: government}
+  - {q: '("public participation" OR "call for comments" OR "call for input" OR "stakeholder consultation" OR "call for submissions" OR "validation workshop") ("artificial intelligence" OR AI) Africa', group: government}
+  - {q: '"African Union" ("artificial intelligence" OR "AI")', group: multilateral}
+  - {q: '"AI safety" Africa OR "AI governance" Africa', group: news}
+  - {q: 'Kenya ("Ministry of ICT" OR "AI bill" OR "AI strategy" OR "Robotics and Artificial Intelligence")', group: government}
+  - {q: '("AI law" OR "AI act" OR "AI bill") (passed OR adopted OR signed OR enacted OR draft)', group: tracker}
+  - {q: '"AI Safety Institute" OR "AI Security Institute" OR "frontier AI" regulation', group: tracker}
+  - {q: '("call for proposals" OR "call for papers" OR "side event" OR fellowship) "AI governance"', group: opportunities}
+  - {q: '"AI Safety Asia" OR IASEAI OR "AI Safety Connect" OR "Global Center on AI Governance" OR "Lawyers Hub" OR "Digital Policy Alert" OR "Qhala"', group: partner}
+  - {q: '("Bosun Tijani" OR "Esther Kunda" OR "Cina Lawson" OR "Philip Thigo" OR "Ekitela Lokaale") (AI OR "artificial intelligence")', group: people}
+  - {q: '("Nanjira Sambuli" OR "Chinasa Okolo" OR "Vukosi Marivate" OR "Jonathan Shock" OR "Jane Munga" OR "Linda Bonyo" OR "Barbara Glover") (AI OR "artificial intelligence")', group: people}
+  - {q: '("Girmaw Abebe" OR "Imane Bello" OR "Ikran Ali" OR "Doreen Abiero" OR "Stephanie Kasaon" OR "George Gor" OR "Abra Ganz" OR "Ketana Krishna" OR "Peter Ngure") AI', group: people}
+
+# LinkedIn and X posts via Apify (only used if APIFY_TOKEN is set).
+# Add someone: paste their profile URL / handle. Not found online (add if you know them):
+# Imane Bello, Esther Kunda, Ekitela Lokaale, Peter Ngure, Doreen Abiero, Ikran Ali,
+# Stephanie Kasaon, George Gor, Ketana Krishna, Abra Ganz, IASEAI, Digital Policy Alert, ILINA.
+social:
+  monthly_budget_usd: 4.5   # Apify free plan gives $5/month
+  linkedin:
+    actor: harvestapi/linkedin-profile-posts   # ~$2 per 1,000 posts, no login needed
+    max_posts_per_profile: 3
+    targets:
+      - {name: Philip Thigo, url: "https://www.linkedin.com/in/philip-thigo"}
+      - {name: Jonathan Shock, url: "https://www.linkedin.com/in/jonathan-shock-38658928/"}
+      - {name: Vukosi Marivate, url: "https://www.linkedin.com/in/vukosimarivate/"}
+      - {name: Jane Munga, url: "https://www.linkedin.com/in/jmunga/"}
+      - {name: Barbara Glover, url: "https://www.linkedin.com/in/barbara-glover/"}
+      - {name: Chinasa Okolo, url: "https://www.linkedin.com/in/ChinasaTOkolo"}
+      - {name: Linda Bonyo, url: "https://www.linkedin.com/in/lindabonyo"}
+      - {name: Girmaw Abebe Tadesse, url: "https://www.linkedin.com/in/girmaw-abebe-tadesse/"}
+      - {name: Bosun Tijani, url: "https://www.linkedin.com/in/dr-%e2%80%98bosun-tijani-1b027b/"}
+      - {name: Cina Lawson, url: "https://www.linkedin.com/in/cinalawson"}
+      - {name: Nanjira Sambuli, url: "https://www.linkedin.com/in/nanjira/"}
+      - {name: Global Center on AI Governance, url: "https://www.linkedin.com/company/global-center-on-ai-governance/"}
+      - {name: AI Safety Connect, url: "https://www.linkedin.com/company/ai-safety-connect/"}
+      - {name: The Future Society, url: "https://www.linkedin.com/company/thefuturesociety/"}
+      - {name: Oxford Martin AIGI, url: "https://www.linkedin.com/company/oxford-martin-ai-governance-initiative/"}
+      - {name: AI Safety Asia, url: "https://www.linkedin.com/company/ai-safety-asia/"}
+      - {name: GIZ, url: "https://www.linkedin.com/company/gizgmbh/"}
+      - {name: Qhala, url: "https://www.linkedin.com/company/qhalahq"}
+      - {name: Research ICT Africa, url: "https://www.linkedin.com/company/research-ict-africa"}
+      - {name: Lawyers Hub, url: "https://www.linkedin.com/company/lawyers-hub-kenya"}
+      - {name: UN ODET, url: "https://www.linkedin.com/company/unodet"}
+      - {name: AI for Good, url: "https://www.linkedin.com/company/ai-for-good-global-summit-un/"}
+      - {name: UNESCO, url: "https://www.linkedin.com/company/unesco"}
+      - {name: UCT AI Initiative, url: "https://www.linkedin.com/company/uct-ai-initiative"}
+  x:
+    actor: kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest   # ~$0.25 per 1,000 tweets
+    max_items: 100
+    targets:
+      - {name: Vukosi Marivate, handle: vukosi}
+      - {name: Jane Munga, handle: jane_munga}
+      - {name: Chinasa Okolo, handle: ChinasaTOkolo}
+      - {name: Bosun Tijani, handle: bosuntijani}
+      - {name: Nanjira Sambuli, handle: NiNanjira}
+      - {name: Global Center on AI Governance, handle: gcg_ai}
+      - {name: The Future Society, handle: thefuturesoc}
+      - {name: Oxford Martin AIGI, handle: aigioxford}
+      - {name: Qhala, handle: qhalahq}
+      - {name: Research ICT Africa, handle: RIAnetwork}
+      - {name: Lawyers Hub, handle: LawyersHubHQ}
+      - {name: Kenya Ministry of ICT, handle: MoICTKenya}
+      - {name: UN ODET, handle: ODET_UN}
+      - {name: AUDA-NEPAD, handle: Nepad_agency}
+      - {name: UNECA, handle: eca_official}
+      - {name: AI for Good, handle: AIforGood}
+      - {name: UNESCO, handle: UNESCO}

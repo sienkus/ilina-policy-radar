@@ -1,0 +1,62 @@
+name: radar
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 07:00 Nairobi, daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run agent
+        run: python -m agent
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          CONTACTS: ${{ secrets.CONTACTS }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      - name: Rebuild site if the run failed midway
+        if: failure()
+        run: python -m agent publish
+      - name: Save progress
+        if: always()
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then git commit -m "radar: $(date -u +%F)"; git push; fi
+      - uses: actions/upload-pages-artifact@v3
+        if: always()
+        with:
+          path: public
+
+  deploy:
+    needs: scan
+    if: always()
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
