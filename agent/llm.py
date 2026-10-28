@@ -25,11 +25,19 @@ class LLM:
             time.sleep(wait)
         self.last = time.monotonic()
         self.calls += 1
-        return requests.post(URL, json=body, timeout=120,
+        return requests.post(URL, json=body, timeout=(15, 90),
                              headers={"Authorization": f"Bearer {self.key}", "Accept": "application/json"})
 
+    def _next_model(self, why):
+        """A model that keeps timing out or erroring is skipped for the rest of the run."""
+        if len(self.models) > 1:
+            print(f"  {self.models[0]} {why}, switching to {self.models[1]}")
+            self.models.pop(0)
+            return True
+        return False
+
     def chat(self, system, user, max_tokens=1200):
-        delay = 5
+        delay, strikes = 5, 0
         for attempt in range(8):
             if not self.models:
                 raise Unavailable("no working model")
@@ -37,6 +45,14 @@ class LLM:
                     "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}
             try:
                 r = self._post(body)
+            except (requests.Timeout, requests.exceptions.ChunkedEncodingError) as e:
+                strikes += 1  # the API answered slowly or broke off: likely this model, not our connection
+                if strikes >= 2 and self._next_model("is too slow"):
+                    strikes = 0
+                    continue
+                print(f"  {type(e).__name__}, retry in {delay}s")
+                time.sleep(delay); delay = min(delay * 2, 300)
+                continue
             except requests.RequestException as e:
                 print(f"  network error ({type(e).__name__}), retry in {delay}s")
                 time.sleep(delay); delay = min(delay * 2, 300)
@@ -51,6 +67,11 @@ class LLM:
                 continue
             if r.status_code in (401, 403):
                 raise Unavailable(f"auth error {r.status_code}: {r.text[:200]}")
+            if r.status_code >= 500:
+                strikes += 1
+                if strikes >= 2 and self._next_model(f"keeps failing ({r.status_code})"):
+                    strikes = 0
+                    continue
             # 429 / 5xx / anything else: back off
             ra = r.headers.get("Retry-After")
             wait = float(ra) if ra and ra.replace(".", "").isdigit() else delay
