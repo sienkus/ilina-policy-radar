@@ -31,6 +31,7 @@
    "source": "UN ODET",
    "status": "triaged",
    "title": "Barbados and United Nations to co-host Special Summit on AI Safety on 23 November",
+   "tries": 1,
    "url": "https://www.un.org/digital-emerging-technologies/content/barbados-and-united-nations-co-host-special-summit-ai-safety-23-november"
   },
   "00be208378a1": {
@@ -211,15 +212,8 @@
   },
   "07dbbef08608": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "07dbbef08608",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "UNESCO AI",
-   "status": "triaged",
-   "title": "Natural science We leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate re",
-   "tries": 1,
-   "url": "https://www.unesco.org/en/disaster-risk-reduction/ews"
+   "status": "skip"
   },
   "07eb8270ae5f": {
    "found": "2026-10-28",
@@ -253,6 +247,18 @@
    "status": "triaged",
    "title": "Commentary on South Africa’s National Draft Artificial Intelligence Policy",
    "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaWdwZXJycEFhNkUzMXRONVB4OUtCSEVqZkxwRURsODQyUU9OOC1UaGh1V1RUbDBlcnNWTWdPcWxOMEN0SEdsWTQ1bkNHQVF2cHFuQ1FWWW1FLTJnTWp6Qi1RZG1Kdk1MRHhpbEtPaHQzc2lTTjRiN1FEekp1aFY5eEFsalpoeVFORjV2ZFcwSk5aZzNqdTRqSk5OX3ZCQ3J3SFRWQjJUTmZvdmZmek9ZMjFZVzRjYUhYazh2ZE0teTZLend0YlAtdEJrYmxJZnZ5bjFJejFGZDA3amY0ZVg2Mk96cVpDeGVJMzRQT2M0S0QzNTlFLXV2Q3NmNE1xMFBsTExEUXZ0YVB6d1V3WjhDNDZCaUdXTURCejhSNWdhQkNVLUdNdjlDV3hPOFNuaXZUME1qbHg2ZjRPaE93a29od2kyVVBTT2RFcEh2ckhLTm52Tlpy?oc=5"
+  },
+  "087751eeaea8": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "087751eeaea8",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "MyJoyOnline (via search)",
+   "status": "triaged",
+   "title": "Ghana’s Sam George unanimously elected Chair of AU ICT Committee for two years",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUtZTkx2QzI5RkJRWkdHSkxfS2Iwb3Y4TjZaMXdrOHdTY3FSSXgxbmpHNE8yRGJ1bncwZmY1WUVHdl9yTjlzR1QxV2NjWGFud3pXOG95SFo3WnlSWGdFX3ZUcTlOT3BGdy1SM3d5OXhsemZ4ZnJvZ0FXNTlQWm5URHN0ODR5UWU3ODMxUDlNT1E4SXBoVktadzdTTkM2SGRreE5vRmQwd2hUdw?oc=5"
   },
   "08b4f9aa4602": {
    "found": "2026-10-29",
@@ -410,16 +416,40 @@
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDdCekhjOFZELXdWQlg4c25tclJmTHRKbUdEandXRVkxV0NKRlZNRm9aY2YyNlVZV0c2U1h2UFVGWFVQWkxSQU9JaUNCRjMzQ3Ita2RtY2ZUYlpmLW0xWWgzalFvck5tVWJJaDdiUExRMkQ1UDNnUTByWllNcmNLVzdRblV2SVVjeDlGQVBqX0o5bXJUeGlkRW9DWF9VVkpRQUNJeWJfN2NORjNEZktqaDlpX0RQenh1MUsxRmNPN3lYZGltQTh5NjJ2ODZkZE92MDhObW9tdjZCcGxkNUxmeTF4Vl9nQmlTWGc?oc=5"
   },
   "0da15595fcb1": {
+   "action": "Read full article; cite in memos on African positioning in frontier AI governance if it substantively addresses African roles.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-28",
    "group": "tracker",
+   "headline": "Could middle powers govern frontier AI development?",
    "id": "0da15595fcb1",
+   "location": "",
+   "organizers": [
+    "Tomorrow's Affairs"
+   ],
+   "participation": "",
    "published": "2026-10-28",
    "snippet": "",
    "source": "Tomorrow's Affairs (via search)",
-   "status": "triaged",
+   "status": "done",
+   "summary": "An analytical article examining whether middle-power countries can effectively govern frontier AI development, likely discussing governance models and geopolitical dynamics.",
+   "thread": "T14145",
    "title": "Could middle powers govern frontier AI development?",
+   "topics": [
+    "AI safety & security",
+    "global AI law",
+    "Africa policy"
+   ],
    "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWRkTlJXTkx1ckZLS0FRZlVuNE9BNzQwd1FJRkx0WVBrMTFQNTdsLWplVjZkRzh6NGRYQWJSRzUwRTA3NUtpTzgtc0NJUkFpbXAyS3JCdXFrVGNPNlZmRlZWTW96dV83V3IxLTV2c0xCdjF3YkVKZ1lfSGVNTjM1T05XS2l2UQ?oc=5"
+   "type": "publication",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWRkTlJXTkx1ckZLS0FRZlVuNE9BNzQwd1FJRkx0WVBrMTFQNTdsLWplVjZkRzh6NGRYQWJSRzUwRTA3NUtpTzgtc0NJUkFpbXAyS3JCdXFrVGNPNlZmRlZWTW96dV83V3IxLTV2c0xCdjF3YkVKZ1lfSGVNTjM1T05XS2l2UQ?oc=5",
+   "why": "Directly relevant to ILINA's mission of African countries shaping frontier AI governance; middle-power framing may include or apply to African states seeking agency in global AI rule-setting."
   },
   "0ddb3aafb605": {
    "found": "2026-10-28",
@@ -475,6 +505,17 @@
    "status": "triaged",
    "title": "AI-119 Vulcan Force Solution Targets California's May 2027 Frontier AI Deadline (Veterans ...",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQUk3bHJwamJWU1lnV09BNmRIbjgzS05ibzdKTFp6X0l1eG84SFVLYVlhWjZRVW5HNDNNYTVWN2JMNnZ5bDlJUmNoUEpGYm1TcGZfOE5uSUpRNUZxVE5YSjEybkZudWsxMF9pYlc4MEthU1EwWk1uOER2aWF4VVRVdE0xYWhJVzk1MmpfMVdCQjN6cDZSVnVPYUcxVlF6aENxeTdjNjRCQzdyMm9aX1dJRlhMNUllWlVBdGZZQzBPeG9FZUlYMF93d3A3VFh2QmlLOVlsMXhZa0cybjF0ZHNBN1FoajIzR21zQ0J0ZUlVbHZnd19QOTB4cnBUQnRnaG1DUEE?oc=5"
+  },
+  "0e9e8e9ed74a": {
+   "found": "2026-10-30",
+   "group": "tracker",
+   "id": "0e9e8e9ed74a",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "Advancing American Freedom (via search)",
+   "status": "triaged",
+   "title": "Evaluating: “A Framework for America’s AI Future”",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEl0MFUtZEdLWkVRWE5nOW5JQVpMVW9DU2NVNkFLOVlLMmh5TDRpbWhuN2hSTnItSmJQQmY2YmlnQ1RUeWQ0WVRMY0FaUGd3SWhVeXVHeWFmbzF4c1Y0VWRwX1BwVk04OUFHeXY5NXI1dVNrMGpXQ0t5R1pmeE5pZFQ0dHVmQjE4bDFabFJEbFRuQQ?oc=5"
   },
   "0f290b7bfd89": {
    "found": "2026-10-28",
@@ -684,6 +725,17 @@
    "title": "WHO Explores AI-for-Health Partnership With Ethiopia’s AI Institute",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2llNW9QdTd4X0I0NTRDM3BpZ014aHpXUXRBY0ZFbnhxZ0pBNlVGLTdwWjgtWXV0bGo4U3JwQW14WGVJS1R0VjZsOF9vT1FCZ2tFRF9fcHlkdTd5M1FPWXdwUE8wZW9HMXdXSHVQVkJ4dXZfUU4tUG1hWXd4U1FvcWp0R3QtcDY4a1hSZWF2UWc?oc=5"
   },
+  "15e1544fda20": {
+   "found": "2026-10-30",
+   "group": "news",
+   "id": "15e1544fda20",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "CNBC (via search)",
+   "status": "triaged",
+   "title": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zT2hqbHpJQWlRY2M5SElrcVpHc3BHM3dWdks0R0hhbWM4NFlmQkItUFhPUW9zSXhyaG1NWjNjV3U1eERDOGE2WVI0eF8zX0JjeURXR0NBTGlLbm1YZERsVkhsLWUtRm4xSl8tcHQ4NkFGWDZxN1hV0gF8QVVfeXFMTndoM0pabVhEX0Z2Xzc0aWI2QVZINmpJdEs3RjdqemVxUlNfVFJLczRhN0d1RTJZd19zTUN3dEc0R25OZXZvZmVnWDB5dkxtRHZhUVpyNEpfUVpNUUp5S0NCcGQ0MU9FQW1fTzJWYkdFZ3Z5VENGMXZtOVJfbQ?oc=5"
+  },
   "163a7d1df9be": {
    "found": "2026-10-28",
    "id": "163a7d1df9be",
@@ -710,6 +762,22 @@
    "status": "triaged",
    "title": "Research Manager (UK Fellowships) | GovAI Blog",
    "url": "https://www.governance.ai/post/research-manager-uk-fellowships"
+  },
+  "1720468d70a8": {
+   "found": "2026-10-30",
+   "id": "1720468d70a8",
+   "status": "skip"
+  },
+  "17d6d9083d20": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "17d6d9083d20",
+   "published": "2026-10-17",
+   "snippet": "",
+   "source": "The Guardian Nigeria News (via search)",
+   "status": "triaged",
+   "title": "NCC sets up working group to improve internet governance",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYWU1Rm1MTkd1Z0F0WmtQNHNNdU0xaUpOSWlrYnRXT2EwN2c5bFdSY2pWZ2xCWmQ1TDlLMUl0dDZlV29VR3lESG1wSmJHdGxwd25wVGFEUi1ub2JHU1Z2VGpPVlRpcFhQS3UtWmhHTlRDdlZHUlptTktvUEQ0bGpWaTZ1blJBajFJcXc?oc=5"
   },
   "180fd023177e": {
    "found": "2026-10-28",
@@ -864,6 +932,33 @@
    "id": "1d73344e5b5a",
    "status": "skip"
   },
+  "1d85270e5ef1": {
+   "found": "2026-10-30",
+   "group": "tracker",
+   "id": "1d85270e5ef1",
+   "published": "2026-10-19",
+   "snippet": "",
+   "source": "EU Digital Strategy (via search)",
+   "status": "triaged",
+   "title": "AI Act | Shaping Europe’s digital future",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3Um0wTW9MYVN3ZnEwZU1sMWxDTnNHYjM4cjg0OGhWa2k5N3Ywb3VfU2pVdEhlR0NqUVdwYUw5Zm82WFNUaGhGZ0o2anZxN2p5MFBiRURiQlJEMkNpLXZ3UEtUbjMzTDJoYzVtRjF1UWNpcVZnQnVUVnhCb1Jwdw?oc=5"
+  },
+  "1d8e6012e857": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "1d8e6012e857",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "https://www.indiagazette.com/ (via search)",
+   "status": "triaged",
+   "title": "PM Modi invites Polish firms under 'Make in India'; Warsaw backs New Delhi's permanent UNSC bid",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPXzdLVDlQYzljS3YxTVkwU3AyaVNyUkFJYmpselhZUkpQOFVkbnd5VFJsLWQ1akdxbWctUmE3ZnlzNVBpLVNpVmJHNnAxOUthM0xfWlFBY3ptdUZMVzFCa095OXc1VFVUNm5QTzlYb05HZlZwRVM3bEJWamk2TnZ3MTBWcktsWmFxeDlWc3lGbVEzbmFCb3B1ZTdFcVdJT0k2elBqVU05U2JKS1FQTnc5eHd2ZkliN3k5Mm1wSElUS3dyd3p6Mm5yV2EtYUZhbEk?oc=5"
+  },
+  "1dfd490fda34": {
+   "found": "2026-10-30",
+   "id": "1dfd490fda34",
+   "status": "skip"
+  },
   "1e3d871c0360": {
    "found": "2026-10-28",
    "group": "people",
@@ -924,6 +1019,18 @@
    "id": "1f0c29e86473",
    "status": "skip"
   },
+  "1f2c85897900": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "1f2c85897900",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "triaged",
+   "title": "AI, disinformation put media at centre of Africa’s electoral preparedness",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRmxUUmo0bUxDeXpnel9XTFBkaXNialpaNTF0cVptM1lTSHVBWWZZbVhhSHJXSmhrWWpLallPWUZFVEs3cERFeTJ2SWtpdDlSZTRnZnAxWDNwS3BqQ0VVLUx0SzVaS0JySmFhZ0pVSnd0RUQ4aXNfN2RvcEFGTzFNelg3NE41eFk4TTEycWEzejhTWFA3MDhoY0pxeXVCM1cwRVozUFFYOXJncjk2aGRndA?oc=5"
+  },
   "1f6572b8f3c3": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -959,14 +1066,8 @@
   },
   "1ff326543c3e": {
    "found": "2026-10-29",
-   "group": "tracker",
    "id": "1ff326543c3e",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "Indian Masterminds (via search)",
-   "status": "triaged",
-   "title": "How This Crucial Emergency Landing Test Help the HAL LUH Helicopter Programme",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMkFrbVFmRmRwWjdZN2s0cVFWWXUxalhSckh3N21mM1NFd3ZJMzdEUHJfX3lZOWUyMXVpTm8tb3A4bEVUVDNTSHlUSFRUeHFkbjNnWmpLclFQVHJ2NDVDSGZNQmZqWWs2V2NvMmdaUGx0VEpucDJ6cUFLbWRHdWF3czJ3?oc=5"
+   "status": "skip"
   },
   "20080c5abe18": {
    "found": "2026-10-28",
@@ -1050,6 +1151,17 @@
    "title": "Draft AI policy approved for publication for public comment",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajB0RjVkNC1CdC0wVURRQVFNaG9vcktNY2RPRE9ULVl4bTBGSWJ6YzFabklZNWZQTk1CVnZkeGdxaVktYWxCYVBQeHhnNkV0anZobjZqWkh4RXBKNlBsQ0ROdzFsWjhOUE9NcUttUlM1S2syWnlGU0J2bHMwbjBOWmE2aXZ4Yzh0WklneGhHTHc5dTIw?oc=5"
   },
+  "225f5f1758f1": {
+   "found": "2026-10-30",
+   "group": "opportunities",
+   "id": "225f5f1758f1",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "Cryptopolitan (via search)",
+   "status": "triaged",
+   "title": "NextGen Intelligence 2027 to Bring Data, Cloud and AI Leaders to London on 11-12 November",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1dGTGdueFBkdi1WN1pXRDltOWJndWx1YzRzU3BDVTV1MTZyNE5MTFNRRE01dFNOYXE2SktyRjdnb1JLbGRjU210aW9DRXF6czVoMFlnWVB5TXNjaHVwU3BMUzh3NU5vUTUtaGtocjdYSzhIY1ZQd2VnSkZjX0xFTE5QZC1XV0lVWEFHbkdIdFZIZEJ0Z1FWQktvNEFkZlJpQXRkLXpTdTkybngtaEdTMXBQZnRGWXdrVmFZ?oc=5"
+  },
   "2266052f0c69": {
    "found": "2026-10-28",
    "group": "government",
@@ -1071,6 +1183,17 @@
    "status": "triaged",
    "title": "CISA, NSA & FBI Warn Foreign Adversaries Are Siphoning US Frontier AI Models via Industrial-Scale Distillation Campaigns",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODdGRHQtN3FVSVBVS3RpYzBWc2tEVW4zcGYzMXh3RzROZllrOXBWaS11ZTg3cThvSDFxdkFxbnFHYjg4eGl4YWg3eHBHTXdDUXFLUTNzSG44azMzVFpOdlBZcFh2MUgzNF9WV0pWM29Zem5HQ0lfcWdpQTF6Qm1ucXRnbEQ?oc=5"
+  },
+  "2303cac176cd": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "2303cac176cd",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "www.coe.int (via search)",
+   "status": "triaged",
+   "title": "Local action at the heart of journalist safety",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLU13NVNwb2FPbmVHX21neHkyb2cwOGhKbUtIckpsekM3em5QSExOMTVrelJHckV0UUl4SzdfWTFiTV96Qmc3ZmlJeTFWOHdFNkdTd0E5a0pKd1FHWTNJVko4M0ZlXzBUSDdIazZJYmRFMTVPZElwWWdqRjFXb2wxdFNqbUhHX1ZBekZIQXJGaTg2SDllak93MUNB?oc=5"
   },
   "23208d509861": {
    "found": "2026-10-28",
@@ -1154,6 +1277,11 @@
    "id": "260d77b352af",
    "status": "skip"
   },
+  "26672e1274a3": {
+   "found": "2026-10-30",
+   "id": "26672e1274a3",
+   "status": "skip"
+  },
   "26ae24622327": {
    "found": "2026-10-29",
    "id": "26ae24622327",
@@ -1169,6 +1297,54 @@
    "status": "triaged",
    "title": "Ribadu seeks stronger global cooperation to combat terrorism in Africa",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDNNeElrY2V0RHZ5YlZlNHBWY1UxVTdVNTc2WWZwSEt2MGo3WUVxMzBnS01uWE56cENVNnlkaFpnNVVSWHBTbTJyVHZVdENIWk1Hd0MyRDRpTUVQbnI5bFAxSl9qR1RlUlJvUGtsUlNNNlc3djNMRS1UMGVNT0pmNGhGYmVud0hKdTE5ZE5iLXJfZzZFdEdreEl1VTlSZjFJenFv0gGoAUFVX3lxTFBJWUJQU3RDT1lDSXBuVTlfZEwtRlZSMEs5ejZ1Qm9WbUswbnpJR2haZ0tLWTk2VXVwVW5ONE84SzhNVmszbHhLVzk2ZC0wbVdkaUw4QURRWklDSU1SUlQ1TXNKY21NVndRTU1kY0NMMU15a19HdzZTOWlPRURadUtfSFgxTWNvS2xXbGdWZjhCbV9JVElacFJpaWVlamo3dUFVampuVDFpcQ?oc=5"
+  },
+  "276040a0f36e": {
+   "found": "2026-10-30",
+   "group": "opportunities",
+   "id": "276040a0f36e",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "Global South Opportunities (via search)",
+   "status": "triaged",
+   "title": "Call for Applications: Tarbell Fellowship 2027 for AI Journalism - Apply By 22 November 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsQ0ItZVNYcWRObDc2bUpjZnN0OG9sS1VFbkQ0ZFQtWThvUElaUkpOVXZfc2VTSnY0dHcwOWxoa1ZHa0tDM0Rjd0hYbHpEVE45ZWVBS1dPNDJ1cldVbi1oWUR3cWNXMHZKNnV0OUdJaw?oc=5"
+  },
+  "2910679427c2": {
+   "action": "Monitor for consultation details and submit written input on AI safety, sovereignty, and capacity-building.",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": "2026-11-30",
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-10-30",
+   "group": "government",
+   "headline": "South Africa AI policy consultation deadline 30 November",
+   "id": "2910679427c2",
+   "location": "South Africa",
+   "organizers": [
+    "South African Government (Department of Communications and Digital Technologies)"
+   ],
+   "participation": "Written submission / public consultation (details to be confirmed)",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "TechCentral (via search)",
+   "status": "done",
+   "summary": "South Africa's AI policy team is working toward a 30 November deadline, likely for public consultation or policy submission on the national AI strategy.",
+   "thread": "T43733",
+   "title": "South Africa’s AI policy team is racing a 30 November deadline",
+   "topics": [
+    "Africa policy",
+    "AI safety & security",
+    "AI fund & capacity"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmJBZlZROGxaMUFXaTRXSFRvMUtIdkVFX3cxcWZrbFM1eVQtUGV3YUd4Z01BUElZaGQ2dDV4VlVwVlhuSWJzYktidks3TzJ6MkxSam1ncWFFd1JreE9IbHZma3I4NjlpUEo5dkQ3OE01TmhCaE01cXBMaGlzX0tMUms0Vm5UNDVnWnlKcnJXTUlsUFJ4Wnpwcg?oc=5",
+   "why": "Direct opportunity to contribute to an African government's AI policy formulation, ILINA's top priority."
   },
   "2944a2bb62f3": {
    "found": "2026-10-28",
@@ -1229,6 +1405,11 @@
    "status": "triaged",
    "title": "Anthropic grants employee like access to METR for frontier AI model evaluation; partners with SecureBio and Accenture (ACN); is in talks with Hugging Face for evaluation",
    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNam5kRThjcEhwRmxSMjFHakFUTjNoSDF2d280R0ljWmZ1WlZZWVpCQWEydU85T3VZWHV6T2Q0OUtXWU56MmQtdGp1NjBCUUt2aWVVTEh6d1E2Vjc1YkF1Wlp2aDh6VWNOWWY2Nnk2am92a3VQV0pIQnVLZGhXajk1VXJpVmt2QzRCTUt3Nk5NMWpDbUMxcEYta1JfMG1jM1ZhNnZ1UEh2QVp0aXFObjhNUVlncDdzS2tOcTh0V2VudnFFNzd6dF9sRlBacWxmenNtTkJqQWhsRmVaR3pVYk9tZjdUV20wVGQwNjlLUUgzalBiTkNFcE5iSnNUMGRjYUpRcnphU0oybTRxOTFNejk3NkJJYkxVcDlVOHV0SXhSbGo0Wnl4Qk5rQg?oc=5"
+  },
+  "2aa0b672d29a": {
+   "found": "2026-10-30",
+   "id": "2aa0b672d29a",
+   "status": "skip"
   },
   "2aa74ea10836": {
    "found": "2026-10-28",
@@ -1318,6 +1499,11 @@
    "title": "China’s Next Frontier",
    "url": "https://cset.georgetown.edu/article/chinas-next-frontier/"
   },
+  "2cb206728cf9": {
+   "found": "2026-10-30",
+   "id": "2cb206728cf9",
+   "status": "skip"
+  },
   "2cecf25db2b5": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -1378,6 +1564,52 @@
    "title": "Lisbon AI Safety Hub adds second fellowship cohort after strong applicant demand",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmRuYkpPa3RPbjNIX0wwQWZjeFItZmxwM1J4MEtrQ0cwbFdJSDJXWWtudXltWnlUNEdaRkZSNXMxZmV6MUg4NGZvaVBxZVRsLXVkU3pTOE9aVFExbDFFQWZtcWl5MnpYcFk5bXN1ZXoyTDlGZFdoeHRWc2Ytb0dIckZ1dmlKbFlya1RRd3p2S1lQX3dGanJHQ3ZiY1BBNkU2R3VWelAxOWJfbFFDMTdXOXZoV1lVQ0NSVWI3aEFR?oc=5"
   },
+  "2e1b65623749": {
+   "action": "Monitor for public consultation drafts; prepare written submission on AI safety, evaluations, and Global Fund design for EAC consideration.",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Burundi",
+    "Democratic Republic of Congo",
+    "Kenya",
+    "Rwanda",
+    "South Sudan",
+    "Tanzania",
+    "Uganda",
+    "Somalia"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-10-30",
+   "group": "government",
+   "headline": "EAC states pursue unified AI strategy",
+   "id": "2e1b65623749",
+   "location": "East African Community region",
+   "organizers": [
+    "East African Community (EAC) Secretariat",
+    "EAC Partner States"
+   ],
+   "participation": "Likely public consultation process; details to be confirmed via EAC official channels.",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "ITWeb Africa (via search)",
+   "status": "done",
+   "summary": "East African Community partner states are working toward a harmonised regional AI strategy, signalling a coordinated approach to AI governance across the bloc's eight member countries.",
+   "thread": "Tf7c3f",
+   "title": "EAC states pursue unified AI strategy",
+   "topics": [
+    "Africa policy",
+    "AI safety & security",
+    "AI fund & capacity",
+    "evaluations & monitoring"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFdMUkRvNDA0OHBHMVlOU3k0VTFqTjd5U3BsOHpCdnA2ZDBUNlFlVlJCbmxFQjhiY2FDSndqMG45dkhLS2ZkeHNjdUl1LVBvYWszZDFzbFBidnVYejhiRU51OXJ2NTdaTmpVQlVkOTJNNEhCWGtfclEyUnVZcVZhTWdVUENnc0V6Zk1r?oc=5",
+   "why": "A unified EAC AI strategy creates a direct opening for ILINA to shape regional policy on AI safety, sovereignty, and capacity development across multiple African governments simultaneously."
+  },
   "2ed7a0542f42": {
    "found": "2026-10-28",
    "group": "government",
@@ -1410,6 +1642,17 @@
    "status": "triaged",
    "title": "Democrats prepare to battle over AI regulation",
    "url": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation"
+  },
+  "2f0819e062a0": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "2f0819e062a0",
+   "published": "2026-10-24",
+   "snippet": "",
+   "source": "MorungExpress (via search)",
+   "status": "triaged",
+   "title": "Rogue AI threat: OpenAI to train frontier models without internet access",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYk50dlpIYVZCQk1ZVDBVTU41bml6NUxERnk4RzNYWmpOb3hKUHVuSGZVNmF1ZkhtVVFsRWVjdnFxMzVNeHg1QXBHWDlsTkdDZFF5dHJNSmlCalo3Z3pJU2tzNlJQZnZBc1VzWDhYdWcwUlhaMUp1eU5IdUpmRlNibnVoZ1gwSWM3T0dxV3lwdG41SWRGd2dpd3lDSkdFdw?oc=5"
   },
   "2fa52dbcd8cf": {
    "found": "2026-10-28",
@@ -1458,8 +1701,13 @@
    "source": "UNESCO AI",
    "status": "triaged",
    "title": "News UNESCO's Digital Transformation Collaborative: Charting how AI is reshaping education systems 19 October 2026",
-   "tries": 1,
+   "tries": 2,
    "url": "https://www.unesco.org/en/articles/unescos-digital-transformation-collaborative-charting-how-ai-reshaping-education-systems"
+  },
+  "31052a355edb": {
+   "found": "2026-10-30",
+   "id": "31052a355edb",
+   "status": "skip"
   },
   "31e1e052e7a1": {
    "found": "2026-10-28",
@@ -1484,16 +1732,41 @@
    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5pWU1pdjR5Q0ltQjhFeEJueXpkSGhfa1JtU3hfVjhsNVFGWmkxbkhoSVYtSnZPb2xDbzhaUjJWemQ?oc=5"
   },
   "331478e98dbc": {
+   "action": "Cite in memo on public-sector AI readiness and governance gaps",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-28",
    "group": "multilateral",
+   "headline": "World Bank: AI Use in African Public Services Remains Basic in 9 of 15 Countries",
    "id": "331478e98dbc",
+   "location": "",
+   "organizers": [
+    "World Bank"
+   ],
+   "participation": "",
    "published": "2026-10-28",
    "snippet": "",
    "source": "We are Tech (via search)",
-   "status": "triaged",
+   "status": "done",
+   "summary": "A World Bank report finds that AI adoption in public services across 15 African countries remains at a basic level in 9 of them, highlighting gaps in deployment and governance.",
+   "thread": "T14145",
    "title": "AI Use in African Public Services Remains Basic in 9 of 15 Countries, (World Bank)",
+   "topics": [
+    "public services",
+    "Africa policy"
+   ],
    "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzE4Y0FKNFA0Z21BN1VQcGdxVE5HVzhFalZWamMyTi1JSTFXbUFJQmhnSkpFVkpKYkdKNHF3dnllU1NscGxtM29rZWJKU1E3R3g3YlpwQmNiSENabG9fMDVGbEg5UWU3RGsxMlM2cjlIOFNOM1dPNWxjdlZ0ZWFyWFdHN2dyMXRGZzJkZkVQeGNzMHFvN0VmYVg1dG9WeUMtZEVhUndob21EUVJGRW9fWGIzMTZQUXVXTGVSNWhZeVlXc0pCbDFjMQ?oc=5"
+   "type": "publication",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzE4Y0FKNFA0Z21BN1VQcGdxVE5HVzhFalZWamMyTi1JSTFXbUFJQmhnSkpFVkpKYkdKNHF3dnllU1NscGxtM29rZWJKU1E3R3g3YlpwQmNiSENabG9fMDVGbEg5UWU3RGsxMlM2cjlIOFNOM1dPNWxjdlZ0ZWFyWFdHN2dyMXRGZzJkZkVQeGNzMHFvN0VmYVg1dG9WeUMtZEVhUndob21EUVJGRW9fWGIzMTZQUXVXTGVSNWhZeVlXc0pCbDFjMQ?oc=5",
+   "why": "Directly relevant to ILINA's priority on responsible AI integration in public services (land registries, ID systems, administrative processing) and provides evidence for policy memos on African AI governance."
   },
   "3335296eda17": {
    "found": "2026-10-28",
@@ -1572,6 +1845,17 @@
    "title": "​21st BIGF urges safe, human-centred digital future ​",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUNVSGREMl8xT1VTSzZfeUcwRnlsM0kzX1l6ZFpHcnhzR0tKVFM5YzQ1dUVsMVpmdjJWcVRVYnlELWotYURJdWJtV3psZnhkSVdaZjVLd1ZMRjFoMy03X2s2UWpIeEcyTF9tVHdJTlFfd0tjR3huTE5zRXViTHNxa3lKTmQwYXBEemtrMXZrcTVKS0JvLXNJQmVERnhpOE5WeGdpYUM0UkJOcXc?oc=5"
   },
+  "353ac1cb35fb": {
+   "found": "2026-10-30",
+   "group": "tracker",
+   "id": "353ac1cb35fb",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "Mashable (via search)",
+   "status": "triaged",
+   "title": "Google announces Gemini 4 Carbon, its new frontier AI model",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KY0huTm8xc1V3aXd3ekl4NHdfX05NMGd1SmdERWxNdnllUWhDUVozVGNsVDFzekk3SklmMEdzdUV1SThYUERLRjFWRmRSZHJJMVBtME95QUEzcXlpOFBxQXFKdWRheTVjQjBNZXpqUUlybzdJR2NOZDVR?oc=5"
+  },
   "355dbef0f9ef": {
    "found": "2026-10-28",
    "group": "safety",
@@ -1593,6 +1877,17 @@
    "status": "triaged",
    "title": "Morocco Speaks for African Union at UN Talks on Youth, Peace, and Security",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHZhZVBCV2l5eGkxaGJHLVd4UnpuY1RMSmdBcW5Hb1BuWnFkWDltSXN2bzBQNV9kN05ETFluZEJOeDlxb0dPVTU2blIzWkJzMWpNdVRiRkwta2x4ZkZUY1UxaXlnWldyUTM3Zi1hQi1zVHZYXzQ5dTk1X0RVTzBqT0l6VmtEakowLU1qUHpJZkhLSFllR3dKOVZfUGNQVzF3QnFyRjFKUG1laXZ5N2xCLWg5dTBUM0FuUmt1RERR?oc=5"
+  },
+  "35a020976923": {
+   "found": "2026-10-30",
+   "group": "safety",
+   "id": "35a020976923",
+   "published": "2026-10-06",
+   "snippet": "CSET’s Owen J. Daniels shared his expert insight in an newsletter published by The Washington Post’s WP Intelligence. The article examines President Donald Trump’s appointment of Director of National Intelligence Jay Clayton to lead the new “Super Intelligence Force” and its implications for U.S. AI policy. The post AI & Tech Brief: Jay Clayton takes control appeared first on Center for Security and Emerging Technology .",
+   "source": "CSET",
+   "status": "triaged",
+   "title": "AI & Tech Brief: Jay Clayton takes control",
+   "url": "https://cset.georgetown.edu/article/ai-tech-brief-jay-clayton-takes-control/"
   },
   "364ee8b2447e": {
    "found": "2026-10-28",
@@ -1701,8 +1996,13 @@
    "source": "UNESCO AI",
    "status": "triaged",
    "title": "Internet Universality Indicators This tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.",
-   "tries": 1,
+   "tries": 2,
    "url": "https://www.unesco.org/en/internet-universality-indicators"
+  },
+  "39b7de8e1833": {
+   "found": "2026-10-30",
+   "id": "39b7de8e1833",
+   "status": "skip"
   },
   "3a1da2d0e534": {
    "found": "2026-10-28",
@@ -1747,6 +2047,17 @@
    "status": "triaged",
    "title": "AI agents to outnumber humans online by 2029",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcU94MVZsZ1g4VzViVXRLZlRBblByVktHUURaZDZYb0pxNWV1TVBndnd6WUswXzVvU3NNeFhZc3Q1emEwUUtvMnplc3MtaFY3ZGU5NUNReG9jYm1iUUxYYjlERGtZOFZwNlB3bk9LZl9UM0Z4OFhxZEhxZ015Wkx4T0FRVU1WNXc4OHBLU2ROdXYwVUFmVzU4UQ?oc=5"
+  },
+  "3b026c087eb5": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "3b026c087eb5",
+   "published": "2026-04-27",
+   "snippet": "",
+   "source": "APAnews - Agence de Presse Africaine (via search)",
+   "status": "triaged",
+   "title": "South Africa withdraws AI policy after fictitious sources found",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkZuVFlyTFlrQ3J1d0d2VHZ3Z09KQ3h2dURuOHMwTTJoWTFnNlJmZmZDaDhVbFpjRXVpckNmVVRBSE1rNExNVjlvOXY1NFl3R0plc3E3aG1wV0hUZ21xenYxZUJIazItd043V28xQWFfQ2FFaGdKaUxNVWRIZ3BxR1RlMWpKRzFCQlFocg?oc=5"
   },
   "3b3872f67469": {
    "found": "2026-10-28",
@@ -1829,6 +2140,17 @@
    "title": "Anthropic’s AI Bill: Could 50 People Be Put at Risk Before the US Can Stop Dangerous AI?",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXZQdzV4eFl0ZWpDdVJNaU1KWmRyRjZFR0EyWXBOQTR3bHFKRWFQV0s1dnpVTEJIcGR4SEhWY1N0TzdZNzlGYnJYcWpzWW5GX2ZzX2JDMlV1TlRqTHBZTnVDQmtBa2lWTHVmTzFkelNQRi1laDNBM3p1bmdydDNMX01KVk4?oc=5"
   },
+  "3cc5c0dc31a2": {
+   "found": "2026-10-30",
+   "group": "opportunities",
+   "id": "3cc5c0dc31a2",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Global South Opportunities (via search)",
+   "status": "triaged",
+   "title": "International Doctoral Workshop 2027 at Roma Tre University, Italy: Call for Papers on Law and Social Change",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ck5abE9pQkdOSmI2TThaa0hPRHRtOFhTeWxGemxmRTliWGtJUFN2aE41TzFVNGJpSG9MSzB2SlRMd3hwb2hlUDJQNDFlQnl6VTdycUQ2UEVlNUhvY0NnSGJrUllhOFEtd1owajAzczc?oc=5"
+  },
   "3d2645af5393": {
    "found": "2026-10-28",
    "group": "government",
@@ -1844,6 +2166,49 @@
    "found": "2026-10-29",
    "id": "3d38a2ff8f60",
    "status": "skip"
+  },
+  "3df5a6f87944": {
+   "action": "Monitor for consultation mechanisms, written submission calls, or stakeholder engagement processes; prepare to contribute expertise on AI safety and sovereignty aspects.",
+   "african_input": true,
+   "allies": [
+    "AUDA-NEPAD",
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa (continental)",
+    "African Union member states"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "headline": "African Union launches native AI initiative for digital independence",
+   "id": "3df5a6f87944",
+   "location": "Addis Ababa, Ethiopia / Continental",
+   "organizers": [
+    "African Union",
+    "AUDA-NEPAD"
+   ],
+   "participation": "Await formal stakeholder engagement channels; likely through AU policy organs, RECs, or AUDA-NEPAD consultations.",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "done",
+   "summary": "The African Union has announced a native AI initiative aimed at achieving digital independence for the continent, signaling a coordinated continental approach to AI development and governance.",
+   "thread": "T14145",
+   "title": "African Union targets digital independence with native AI initiative",
+   "topics": [
+    "Africa policy",
+    "AI safety & security",
+    "AI fund & capacity",
+    "global AI law"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaS0zbHV4eVhudUNLeDVuaVI4Y0FKYzh5UzNzUU5EX2U3eWUwajhxdXBlSW9XVUh3ZlBNSDJScURzQThWZ3BiOEdqcEp4LTZtUGJNWjQ3UnZJTEZrdU5nNzhlSEh2bVhTYUd3cTdJVDNLTm9rMnc2V2NWMHo3YWpPVzBOclIyRV9KczdyX1MzeVpMRUxuZll3QkFpUk5vbk9zUmk0UU1tTi1kWC1I?oc=5",
+   "why": "Directly aligns with ILINA's top priority of African AI policy formulation and the AU's role as a key multilateral body shaping continental AI governance."
   },
   "3dfde97b1002": {
    "found": "2026-10-28",
@@ -2026,7 +2391,7 @@
    "source": "The Star, Kenya (via search)",
    "status": "triaged",
    "title": "African journalists adopt action plan to regulate AI and protect quality journalism",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRENaNjFoX1hqV2pXbnNCcmRua3gwcmMxOUh3UnBWWDdIb3hOZ2VxbkhCQjR5bVpIRnBJR0JzMVpHaEVFZjNTVllqUW9mRU5MS256TmdQdWwtVV82TUFIY1lYcXhvbFlaOThLdlYwcm1vencxclNiZ2hENGFTMzM3bFhrT3FaV21pMlUwNllvMDFKSzFiQVlEVkxidjNmLXk1WUZEZFRkZnoySlhSZ2RHUldMLXAwLUh3OVFmUm9wa25ZZHBaNWtnclNwZDFwdw?oc=5"
   },
   "424c7e77097d": {
@@ -2112,28 +2477,51 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajE3QmJUZXVub0N1SlMxMFJPYnFickFIUTE3OFhncGFya1Jxb2NFeG1vbV85UjJ6N0NDNTVDSmp1LTZGbURSMlgwN3hKUjY3ZTAwT0wyNVMzY2R5aWo4cGx3TVZTcndPTF9HbkFDd2JXV3MydndfblVvVVJNMUxoX21WX09TYzVY?oc=5"
   },
   "455fcad2e874": {
+   "action": "Monitor for follow-up policy consultations or funding calls.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa",
+    "European Union"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-28",
    "group": "multilateral",
+   "headline": "AU–EU partnership targets AI for health, food security, sustainability",
    "id": "455fcad2e874",
+   "location": "",
+   "organizers": [
+    "African Union",
+    "European Union"
+   ],
+   "participation": "",
    "published": "2026-10-28",
    "snippet": "",
    "source": "The Brussels Times (via search)",
-   "status": "triaged",
+   "status": "done",
+   "summary": "The African Union and European Union announce a partnership using AI to address health, food security, and sustainability challenges in Africa.",
+   "thread": "T14145",
    "title": "AU–EU partnership targets AI for tackling health, food security, and sustainability",
+   "topics": [
+    "health / agriculture / education",
+    "Africa policy",
+    "AI fund & capacity"
+   ],
    "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHNIOEhJaFhuU0FSTG5uNUJJV2xNamtWWkd5aTdNTWU1VVRMM2V3Y2lITGNyV2x4VWpzazc5YWdET0tLVl9MaW5LY1hFSmMtbzR0bl9rdEhWT0t4Uk56WXdrYzVZWmFMRGNxeXZTWmZzRFdzMHpvVF91OWphWW9MUy0tZVE1YWN0ZElELWxJcm1hTkhDZngxZS1vQmt5UlowRFlhOXVfTzFjdFJieHp0ZmY2X25yd2ZoV0xQUjVPTlhBNGl2WHY3SVpR?oc=5"
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHNIOEhJaFhuU0FSTG5uNUJJV2xNamtWWkd5aTdNTWU1VVRMM2V3Y2lITGNyV2x4VWpzazc5YWdET0tLVl9MaW5LY1hFSmMtbzR0bl9rdEhWT0t4Uk56WXdrYzVZWmFMRGNxeXZTWmZzRFdzMHpvVF91OWphWW9MUy0tZVE1YWN0ZElELWxJcm1hTkhDZngxZS1vQmt5UlowRFlhOXVfTzFjdFJieHp0ZmY2X25yd2ZoV0xQUjVPTlhBNGl2WHY3SVpR?oc=5",
+   "why": "Signals high-level AU-EU cooperation on AI for development, relevant to ILINA's focus on African sovereignty and AI in public services."
   },
   "463b7302bd87": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "463b7302bd87",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "SoftPower News (via search)",
-   "status": "triaged",
-   "title": "AU Opens Continental Digital Talks, Invites Youth to Design 2027 Summit Logo",
-   "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjVuSGtWbnpWWFp4SGJrTU9vSTgtYWY5VGZSbXZ0MXVaUkNQY08xd2tBYjlnTktucHV5dUVtUTRTSU5Ec2h3OXZnN3dpM1ZlbTVBeXdGTVIyVjNoUFpvc0piLXB6bkZsOGpDc0Vha0RCelJIcEc0N3RLNGJsQlc4YlZ5U0pmZjRfRzJGSGVxNDdQSEhKUDR6QzVubHYtUQ?oc=5"
+   "status": "skip"
   },
   "465b598866ed": {
    "found": "2026-10-28",
@@ -2298,7 +2686,7 @@
    "source": "The Hindu (via search)",
    "status": "triaged",
    "title": "AI summit: How AI is reshaping agriculture and gender dynamics in the global south",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHdhVmdOWmFGejFwbFBoc09BRkFXWkRGQmVkdU5UN0pUbUtVaHdPQUdyanV2OUo1NlFNN2Z1WWxYLWFFcEg3X1Awekh6dllMZ19wTnBfcFBUQkZBNHdzU01NajVxSTh4YXZLY0MzUzlmZ0tQQWNpanRicmdPUjVRdE9wbHJ0ajlTdnhTemxBbmZudmpVV051TW1WSHhlZExPVGNsNXdUQVhSNU9GRFV5eFFnWFRobzNBYnBsNDA2MkhONW1xZ2VkZkNEMzlkdER6N3lKS0diclpKcFRWa2dBWkViaU95bXfSAecBQVVfeXFMUHh3YVZnTlphRnoxcGxQaHNPQUZBV1pERkJlZHVOVDdKVG1LVWh3T0FHcmp1djlKNTZRTTdmdVlsWC1hRXBIN19QMHpIenZZTGdfcE5wX3BQVEJGQTR3c1NNTWo1cUk4eGF2S2NDM1M5ZmdLUEFjaWp0YnJnT1I1UXRPcGxydGo5U3Z4U3psQW5mbnZqVVdOdU1tVkh4ZWRMT1RjbDV3VEFYUjVPRkRVeXhRZ1hUaG8zQWJwbDQwNjJITjVtcWdlZGZDRDM5ZHREejd5SktHYnJaSnBUVmtnQVpFYmlPeW13?oc=5"
   },
   "4bbe91e9f664": {
@@ -2347,15 +2735,8 @@
   },
   "4c79bff71be4": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "4c79bff71be4",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "Digital Watch Observatory (via search)",
-   "status": "triaged",
-   "title": "ECOWAS statistics directorate recommends regional data governance framework",
-   "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0T2pQZFU4ZDBlWFhBaG4tM2lZUUJ5N2JpTFBHbGQ1Ukh2SHdNRXVFdWZMTnpZVy0tX0EzVk1JdDYwQ3Fab1BJZjJ4ZDF2bnFMRndIaUc2dTFKeHNRS1Bnbi0xa2JMQ3Fvb29hcXdQTFoyN1AzQUE?oc=5"
+   "status": "skip"
   },
   "4c8fa7e690bd": {
    "found": "2026-10-28",
@@ -2517,6 +2898,11 @@
    "title": "New Luxembourg AI bill addressing enforcement concerns, data watchdog head says",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1J2Z0JneVZpWnBBN19nV1JKbUpGQkhhTTFDQXRqSUdWcGV5Wk5RWEVkWmtiRnRzbHNZcFJFYnhENXVBblRwQnEybTVhVkJ2RnhXNVJ0S21RMXVWNUh6RFo2aTEtSWI2aXpJN1lROVdLaVBMVENXVXRsaDZjcG1IR3FtWThjbmt4UWFjUEUxQkMwY0xYRzNSSVZPNVJyanV1c3AyNG41LWtNMlhxb1VsYlRsUDhSRE9IVmtJY2hn0gFaQVVfeXFMTUF6d2E1aVV4d3o5QlFLbG1MOFN5YU1kTlJBNFRpcnNnR1l5RFF4MG13czhCQWVvckVTeHNvSnZxMG96TV83a1VtMTVjcTd2SUs0aWNBNU52WmVn?oc=5"
   },
+  "507817413167": {
+   "found": "2026-10-30",
+   "id": "507817413167",
+   "status": "skip"
+  },
   "50a7efb21d17": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -2549,6 +2935,11 @@
    "status": "triaged",
    "title": "The Internet in Kenya: concerns over cyber security breaches",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTRZNWhCZGlnTjRVY2k2Szl3QzQxdTlJNkFYTWlLS0VuSXNzLXBSdFJFS2UyY3FIZFdTb0FBZ3UyMGJvTzhqemVXb0owbHVldGhPS01GRS1ESXZOZE5VSlY0TjRzeVdtcmJ2WExHcFNjbTNad2pUQkVQY0J5VFFoMlkyQ2duR2NQMzliSXFrYjluTjE2VDlsdGNhNXVSQ1BLYVRqR3J5aVBJaE9VckZES0g2U3VxM25ERlVkdDBR?oc=5"
+  },
+  "5165c176def5": {
+   "found": "2026-10-30",
+   "id": "5165c176def5",
+   "status": "skip"
   },
   "516da11d5118": {
    "found": "2026-10-28",
@@ -2656,15 +3047,8 @@
   },
   "5508866403e3": {
    "found": "2026-10-28",
-   "group": "government",
    "id": "5508866403e3",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "ITWeb Africa (via search)",
-   "status": "triaged",
-   "title": "Kenya advances digital programme agreements",
-   "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTNNeHFJeG53Z0JodFlkMHFqOVYwTTBBdTBJYzA1eUtZbTN2Smx5UlFhakJ0ekdiWlB3VlpKUTlHd0JISkVHem5FS2o0LTkxMnc1RmpCcnFuNTZhNnBVOXpwUlJtaDd6U3lwWjFnYldNS281a2NuUlhreklrZFNCZi05cWdVa2xNZDVzWjBnTTQ1Umc?oc=5"
+   "status": "skip"
   },
   "5514519789f3": {
    "found": "2026-10-28",
@@ -2757,8 +3141,13 @@
    "source": "Shabelle Media Network (via search)",
    "status": "triaged",
    "title": "African journalists adopt a continental action plan on responsible AI, decent work and media freedom",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONExtY3dMR2lDQUdGa2tsZ0U4cTRrek1xVkt6TXJ5TU1aa0l6eUlmX2xobi1HZk0xTENRLXVoRWNiYTRPemx1RFdVUFZuR3pqb0V1TGp2algxdUtRQU9EbHZDMHBwTzF1Ym1WUDhESm1razhDcjVWbDJMcTlDOFhURDBobjlZVmt0MWhpS25CNUdld1pkYmxPZl8zSFBnSHVtQkR4ejVtSVlFSUdGVXNwWDhfcnlVQjdRTUJzUF9NYXRYYV9G?oc=5"
+  },
+  "57bcacf2c7a9": {
+   "found": "2026-10-30",
+   "id": "57bcacf2c7a9",
+   "status": "skip"
   },
   "5893cfab7a5c": {
    "found": "2026-10-28",
@@ -2973,15 +3362,8 @@
   },
   "606ddaf79bce": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "606ddaf79bce",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "UNESCO AI",
-   "status": "triaged",
-   "title": "Chairs and UNITWIN Programme",
-   "tries": 1,
-   "url": "https://www.unesco.org/en/unitwin"
+   "status": "skip"
   },
   "607a39fbe3a1": {
    "found": "2026-10-28",
@@ -3092,6 +3474,17 @@
    "title": "Anthropic's leaked AI bill would act only at 50 deaths or $1bn in harm",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2h2Tll1SXBScHJ5eW42M29ybWc4Nl9jM05QeHhsMW40ZVAzYlFWMVVhckxNeFhDajBjWktsenpPMnVScUNaanRfQXg5NHhYWjZlM3lFRlVVbXlCZXRWUkkxWS1FQUF2bGVOYmVGZldBaGpHejFzUGZKS3ZTdklCSzkyQlMxZEJTcFFoYzNiNnV6a2I0ZFV0cTdJU1pXUFFzNlVxZmk3eGtSbWVveV9mS3FiNNIBuAFBVV95cUxPX1dqYzVpRXJrZ1NzSTR6R3ZkODlNUWc0LWxsMXRIbDJkUWJ6TDRZcDRuQThrd0syQ0tVODl4OUZYdUdOd04wdVZBNk9TX0hpcWVYTzkwNXotVkxOYWxnX09KTno1S0NfdHVwWnJYYlVaRXpBR3RsaXl5eGdGZWZqZkFGTmlUbXN3NGQ1UFRHQXJkcEtHbzBUOHRpcGVfSEpKTFdlSldfczdSZ21ram51RTRpelNNYmlk?oc=5"
   },
+  "636bad1963c2": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "636bad1963c2",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "www.coe.int (via search)",
+   "status": "triaged",
+   "title": "Council of Europe contributes to discussions on media trust and online safety at EPRA’s 64th meeting",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU2ZERmg3Ni1SVnlhLUZSeEp0N0ZWVWNqRGpnSVJ1ZERrNGRTaHlJTFpiRmJfN2wwVV9ESmNuRHVERFh1OVFhRE1XZzNxMzJheGw4NFJVLUlaT1AwajlUUGdSNDhOUV9GLWxrMUpnSF9ta0hBSHc0cjZiRDFpcGowSHhnYVA5aXB1M091Q1JwSW5sVDNyQlFrT2xVX0xFdWhWYmVDOUpBSE5LMlZXekpxQ0dMeFkya2tFUnYwbi1vRGRrNUREU2RsaUc4Rm5na3dGQTZGVk5mUlctZVg1NjB0VWRB?oc=5"
+  },
   "637a33f6b71b": {
    "found": "2026-10-29",
    "id": "637a33f6b71b",
@@ -3140,6 +3533,17 @@
    "id": "66a49b310aaa",
    "status": "skip"
   },
+  "66e77235251e": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "66e77235251e",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "Voice of Nigeria (via search)",
+   "status": "triaged",
+   "title": "Nigeria’s AI Bill Targets Sovereignty, Investment, Power",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CZXdYWDJYb0pjV1hRT0RUdjBSSjF1UFBIZnd4MjBtWGp3SlJWNFBTYVY5Q09xR3hJbUQ3UHFlcEdzWF9fVXg0S1JUWTRYZzlyS0EyVHJRV2xya09wTEhuc1lkUm5zZDEyVE95UDR5bnM1R0ZlME1CbHZDcjllUQ?oc=5"
+  },
   "670c8e0812f1": {
    "found": "2026-10-28",
    "id": "670c8e0812f1",
@@ -3171,6 +3575,11 @@
    "status": "triaged",
    "title": "Ben Jones & Chad Jones on Economic Growth in the Long Run: Artificial Intelligence Explosion or an Empty Planet? | GovAI Blog",
    "url": "https://www.governance.ai/post/unfinished-ben-jones-chad-jones-on-economic-growth-in-the-long-run-artificial-intelligence-explosion-or-an-empty-planet"
+  },
+  "6a0f50c84b6f": {
+   "found": "2026-10-30",
+   "id": "6a0f50c84b6f",
+   "status": "skip"
   },
   "6ad8b25d9470": {
    "found": "2026-10-28",
@@ -3233,6 +3642,17 @@
    "type": "publication",
    "url": "https://www.unesco.org/ethics-ai/en",
    "why": "UNESCO is a key multilateral body; the Observatory's country profiles, RAM tool, and expert networks (especially AI Supervisory Authorities and Linguistic Diversity Coalition) are relevant to African AI governance capacity-building."
+  },
+  "6baea75a50bc": {
+   "found": "2026-10-30",
+   "group": "tracker",
+   "id": "6baea75a50bc",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "Unite.AI (via search)",
+   "status": "triaged",
+   "title": "UK Establishes AI Biosecurity Lab Backed by OpenAI and Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjB0by04NkV3bjZUanBpc3dMdWhBOVhpaFFFdUZIZFlTc0NLRHFhbzF5bGVpclgza1FQM1MtLVhRaU80TzduQW1SVldGME1NU2sxN1Rja2NhZDlIcU5sVUc4SXNuNkFnOTJoUDdadDRIUmp4azdnR2o0bExVNTQwekFvUWk1S2VyRkE1WlB5dw?oc=5"
   },
   "6bc5855aa8ae": {
    "found": "2026-10-28",
@@ -3300,16 +3720,45 @@
    "status": "skip"
   },
   "6c9c9d095622": {
+   "action": "Cite in policy memos on African AI governance baselines; monitor country RAM reports for gaps ILINA can address.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Nigeria",
+    "Africa (regional)"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-28",
    "group": "multilateral",
+   "headline": "UNESCO AI Readiness Assessment Methodology (RAM) 2.0",
    "id": "6c9c9d095622",
+   "location": "",
+   "organizers": [
+    "UNESCO"
+   ],
+   "participation": "Methodology available for government adoption; country reports published as case studies.",
    "published": "2026-10-28",
    "snippet": "",
    "source": "UNESCO AI",
-   "status": "triaged",
+   "status": "done",
+   "summary": "UNESCO's RAM is a structured methodology helping over 70 countries assess their AI governance readiness against the UNESCO Recommendation on the Ethics of AI, producing country reports with policy recommendations. African participants include Ghana and Nigeria.",
+   "thread": "T14145",
    "title": "Readiness Assessment Methodology (RAM) The RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly t",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "evaluations & monitoring",
+    "global AI law"
+   ],
    "tries": 1,
-   "url": "https://www.unesco.org/ethics-ai/en/ram?hub=195885"
+   "type": "publication",
+   "url": "https://www.unesco.org/ethics-ai/en/ram?hub=195885",
+   "why": "Provides a multilateral benchmark for ethical AI governance that African countries are actively using, relevant for ILINA's policy analysis and advocacy on African AI sovereignty."
   },
   "6cd48f1b8511": {
    "found": "2026-10-28",
@@ -3441,7 +3890,7 @@
    "source": "Opportunity Desk",
    "status": "triaged",
    "title": "AI for Human Rights (AI4HR) Peer-learning Programme for Youth-focused Organisations 2027",
-   "tries": 1,
+   "tries": 2,
    "url": "https://opportunitydesk.org/2026/10/28/ai4hr-peer-learning-programme-2027/"
   },
   "6f5b973220f9": {
@@ -3479,14 +3928,8 @@
   },
   "709d39a08e17": {
    "found": "2026-10-29",
-   "group": "multilateral",
    "id": "709d39a08e17",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "Internet Society (via search)",
-   "status": "triaged",
-   "title": "Local Action, Global Impact: Chapters Champion Internet Governance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXNpeHY3OTNjUzUxZk9KX3daNnFBRzFpWnpENUp1WFZiWXJJdlEtWUI4UFF4QTRrMjdKV0d4V1RDcnJMd2E3MTdwNUl0bGdkUko2Rk12cVA4RGxhR2JlUzBmQ3p4aU9iWFAzbzZzemxtWXVQOVRTYnFsZFBlV2Y1RFQ0ODNJYUZqUzdXOXA3V0NGS1pNYVNfUXYzTUYydw?oc=5"
+   "status": "skip"
   },
   "71284523cd22": {
    "found": "2026-10-29",
@@ -3509,6 +3952,16 @@
    "status": "triaged",
    "title": "New wildlife photographic book celebrates Africa’s majestic giraffes",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDFHU1FsUUhQMEZ1SVBMNE5lVHVCOGFIekphZW9QNDRNd3JnYVlQTkI5U25UenRsY3NzV20yZEEyaDlfZFdKeGlOMmgyWnpRS3hIM0RaYjFWLXhWc0EtMkdJU09WaUw5dWpvRFRDV2J2eTFDSTd1aDdoa045RENDNHA2ZVlnS3pCNmdwbndVZUpfNVNkeEJSZlpXRVdkb0dVUWc?oc=5"
+  },
+  "71d704b4e29c": {
+   "found": "2026-10-30",
+   "id": "71d704b4e29c",
+   "status": "skip"
+  },
+  "723cb0920cf8": {
+   "found": "2026-10-30",
+   "id": "723cb0920cf8",
+   "status": "skip"
   },
   "726e64917ab0": {
    "found": "2026-10-28",
@@ -3556,25 +4009,47 @@
   },
   "73f375f36733": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "73f375f36733",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "UNESCO AI",
-   "status": "triaged",
-   "title": "Culture As AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for ",
-   "url": "https://www.unesco.org/en/artificial-intelligence-culture"
+   "status": "skip"
   },
   "7414d37b5d5f": {
+   "action": "Review RAM country reports for Ghana and Nigeria; consider citing RAM findings in policy memos on African AI governance readiness.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Nigeria",
+    "Africa (regional)"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-28",
    "group": "multilateral",
+   "headline": "UNESCO AI Readiness Assessment Methodology (RAM) 2.0",
    "id": "7414d37b5d5f",
+   "location": "",
+   "organizers": [
+    "UNESCO"
+   ],
+   "participation": "Countries implement RAM through a national multi-stakeholder process supported by independent experts; no open call for organisational participation.",
    "published": "2026-10-28",
    "snippet": "",
    "source": "UNESCO AI",
-   "status": "triaged",
+   "status": "done",
+   "summary": "UNESCO's methodology helps countries assess their readiness to govern AI ethically per the UNESCO Recommendation on AI Ethics. Over 70 countries, including Ghana and Nigeria, have implemented or are implementing RAM to identify governance gaps and develop national AI roadmaps.",
+   "thread": "T14145",
    "title": "Readiness Assessment Methodology",
-   "url": "https://www.unesco.org/ethics-ai/en/ram"
+   "topics": [
+    "Africa policy",
+    "Global Dialogue / UN",
+    "evaluations & monitoring"
+   ],
+   "type": "publication",
+   "url": "https://www.unesco.org/ethics-ai/en/ram",
+   "why": "RAM is a key multilateral governance tool already used in African countries; understanding its findings and process informs ILINA's work on African AI policy and capacity-building."
   },
   "749c9b9c3a6c": {
    "found": "2026-10-28",
@@ -3627,14 +4102,8 @@
   },
   "769b90bc3561": {
    "found": "2026-10-29",
-   "group": "news",
    "id": "769b90bc3561",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "Global South Opportunities (via search)",
-   "status": "triaged",
-   "title": "Anthropic Hiring: Policy Development, Technical AI Governance — Salary of $265,000–$295,000 Per Year",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyUEt0OHpqWjJiVy1aN3hyeWdNOXUyN2l3MGx1bjZBdjBkcmxkcWJWQmJPZHhoTFRJV0NuU2ZvQmttS3g0dUdfY29uYUY5Z0liQUt4bm5NakNLUHJaOWhqSXk1VDJ4bm5BQ0MwNzFkTklqUQ?oc=5"
+   "status": "skip"
   },
   "76cdc767d92d": {
    "found": "2026-10-28",
@@ -3684,6 +4153,46 @@
    "status": "triaged",
    "title": "What America and China Fear Most About AI",
    "url": "https://cset.georgetown.edu/article/what-america-and-china-fear-most-about-ai/"
+  },
+  "774fa6dd820b": {
+   "action": "Engage with AICE Africa and Eswatini government to explore partnership, advisory role, or joint standard-setting activities",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Eswatini",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-10-30",
+   "group": "news",
+   "headline": "Eswatini and AICE Africa launch AI safety centre for African standards",
+   "id": "774fa6dd820b",
+   "location": "Eswatini",
+   "organizers": [
+    "Government of Eswatini",
+    "AICE Africa"
+   ],
+   "participation": "Partnership discussions, technical advisory, joint research or standard-setting",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "Capital FM Africa (via search)",
+   "status": "done",
+   "summary": "Eswatini partners with AICE Africa to establish an AI safety centre aimed at boosting African standards capacity for AI governance.",
+   "thread": "T14145",
+   "title": "Eswatini, AICE Africa to establish AI safety centre to boost African standards capacity",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "evaluations & monitoring",
+    "AI fund & capacity"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMkFwNlRacjMyd3g3N1hnX1NUNVRBbnlWSUVsV0VnZ3BtbTNJMXFuTXN1OXVKQ1A4UnU2c3AyeklDY1VPZVVOZUhhRW9OZnBLMmFqSEhYb1plUUtncWJBMmJReGlteWRSbTdhWHVqSjM2VHE0XzRKNGRieXlDQ3kxdXBrUmVYYzVWNmRTNVROSU9qVWFvTDMzYlA3NVhlUWtmWUxaMUJQVlRvOGJGN3pSbkhB?oc=5",
+   "why": "Creates a new African-led AI safety institution that ILINA could collaborate with or advise, directly supporting African sovereignty in AI safety governance."
   },
   "7793768e0277": {
    "found": "2026-10-28",
@@ -3806,6 +4315,11 @@
    "title": "The world can’t agree on AI safety. So why does the EU keep trying?",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHU3VGlmamVWUHk3UG9fS19sdWJjbVJ2bjgwRUFEYWhZaUZvcnp3TW85LWlsY3lLQnAxZkNtM2pEbnFmbnN0NzQxdGF0dHVLR0RoSTlMeTkwaDl5dHRxSXNQTFhNMWdmTVJ1X0Z1OXViT2ZLbC1IeGEwLUEtTll2TWpGMFc0UEVWUGVxZ09jTk5QRjJCWTloTXhCS2RzSmVkSVYwM3hjQ0RVOTg?oc=5"
   },
+  "7a40c270f4a0": {
+   "found": "2026-10-30",
+   "id": "7a40c270f4a0",
+   "status": "skip"
+  },
   "7a8608f506e6": {
    "found": "2026-10-28",
    "group": "opportunities",
@@ -3921,6 +4435,11 @@
    "title": "Anthropic warns of ‘catastrophic risk’ as it unveils historic IPO",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2djZUZIMFFkSjVYUldWVkpjc00yaDdIelV2a3daa0JfbWgyMExDRzJSRXI3UXFVcl9sT1VSaDYycS0zOG02QUUyc2R1YXBjTlJIaVkyYkhkamJlSU1SUW9KSTVIWEUxVEhaVUJabWptMG9LWHJnS0JkOVlXckFZaVJVeFZJN0s5N1l2N2E4a1dXZFVTLUM1LUtvVThGNm8ycVFxeDA4ZF8tNUtWYUE?oc=5"
   },
+  "7c5bbe878eb8": {
+   "found": "2026-10-30",
+   "id": "7c5bbe878eb8",
+   "status": "skip"
+  },
   "7c88cb49fecf": {
    "found": "2026-10-28",
    "group": "government",
@@ -3964,6 +4483,11 @@
    "status": "triaged",
    "title": "Nigeria Risks Falling Behind In Global AI Race, Tijani Warns",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3luZ041MzhjR0xhNVdFdUJ6N19La0VIRFpqT3FURWRaYUlxb2d5V0d1T1VZck0zYnpnaWIxZnVRRjJTWm1XY184RzQxR3MxTDRJRTl3YWtrbVAwdlV5V015cU5CVmFZd2E5U2M2bmtwMGVJWTN0eUJGaVZpV2dUYWkwY09QLWljZG9B?oc=5"
+  },
+  "7e37745c6401": {
+   "found": "2026-10-30",
+   "id": "7e37745c6401",
+   "status": "skip"
   },
   "7f17b8dbe8e1": {
    "found": "2026-10-28",
@@ -4060,14 +4584,8 @@
   },
   "822222826d72": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "822222826d72",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "News On AIR (via search)",
-   "status": "triaged",
-   "title": "PM Modi holds bilateral meetings with several world leaders on sidelines of India AI Impact Summit",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaG96RTZKYkFxNUhnZ3JLVC1FMUZxWW9Sa1lUdWQ5a3BmSTVPWVQtckczblhtbk9abEUzRU8teUFQdkVvS1Q0Nmc3dmxoR1E2emFSbHk5X2pUTzF6bHhQVklBMkJEN3VSejJKUi1JTXlUaHhSVTctQjZwRW5nWDViQVpqZDdVVXRfTWUtRDlHN3JlcW5KWHdHVWViLVZndlJndGc3eDJWb3NvM1VMaFE?oc=5"
+   "status": "skip"
   },
   "82663a77c32d": {
    "found": "2026-10-28",
@@ -4093,14 +4611,13 @@
   },
   "82ad5d35de5d": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "82ad5d35de5d",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "Vietnam.vn (via search)",
-   "status": "triaged",
-   "title": "Vietnam promotes inter-regional cooperation to narrow the AI ​​capabilities gap.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFkzOG5BNWxXN0k4ZkM3RkVLaDRHUVVTcnVoMllDSlBIMk81ZWJxMzBsak9NOWRKNmM0ZzZvUEZxZ3duZDJxYXVDaHVfZl9GOHViYU5NalJzMUo1LUQ0a2JEc2V5aGwzTHJ0V0pPSmh0NnhRakcyeUVRRWgzaTEyaTh4NnpUbU9WdUxYcTB6SG94aVVIbTVlanlZSUo?oc=5"
+   "status": "skip"
+  },
+  "83610a11f140": {
+   "found": "2026-10-30",
+   "id": "83610a11f140",
+   "status": "skip"
   },
   "836a4c814d96": {
    "found": "2026-10-28",
@@ -4137,14 +4654,8 @@
   },
   "83fcb6e9628a": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "83fcb6e9628a",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "UNESCO AI",
-   "status": "triaged",
-   "title": "Report fraud, abuse, misconduct",
-   "url": "https://www.unesco.org/en/ios/report-wrongdoing"
+   "status": "skip"
   },
   "840433cf1f3e": {
    "found": "2026-10-28",
@@ -4166,6 +4677,7 @@
    "source": "Tech Review Africa (via search)",
    "status": "triaged",
    "title": "African Union highlights digital transformation at Gabon Digital Week and STC-CICT Meeting",
+   "tries": 1,
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkdId0pPX1dTR09fT216WW55SEplLXhMRGVxZURyOGNmamNjXzBqVFhDbERURVp3djE0RVpEYmFPOEVoVThnWUV5OUZ3Z0FZZnRnei1MalpXdVlTV0ZFcUYwWjJYQTh0aG9SMVA2LW03Rk05MnJETWZnUENVR0E0UlRMdnlaMTNObzdlZlZTa0JKUGlhbHJ4ck9aLW1QZE9haXZFTlAtY2tZRkI0WnBoa1kwRUhCYVBKaXZiZHY2em5KeURhSzZQUg?oc=5"
   },
   "854dd7537346": {
@@ -4179,6 +4691,7 @@
    "source": "Global Center on AI Governance",
    "status": "triaged",
    "title": "Global Center on AI Governance: current page",
+   "tries": 1,
    "url": "https://www.globalcenter.ai/news"
   },
   "856d9700ad81": {
@@ -4249,25 +4762,13 @@
   },
   "86b6d92168bf": {
    "found": "2026-10-28",
-   "group": "government",
    "id": "86b6d92168bf",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "TechTrendsKE (via search)",
-   "status": "triaged",
-   "title": "OPPO launches Reno16 series in Kenya from Sh69,999",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RcmpMZXFYcFZrMkNHcmtOTUhrdjVKOXd0cUIwZXBjVENSVnRmOUotZkVXb2JmR2hUVGlRel8xMHllcDRidm1iUUxxQUF0cEhJenBod1UtRDZFUFpMLXYwR2lUc0NPNGtnbXhfUkZ6V1p2c2Qt?oc=5"
+   "status": "skip"
   },
   "873c222edeef": {
    "found": "2026-10-28",
-   "group": "multilateral",
    "id": "873c222edeef",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "UNESCO AI",
-   "status": "triaged",
-   "title": "Associated Schools (ASPnet)",
-   "url": "https://www.unesco.org/en/aspnet"
+   "status": "skip"
   },
   "8769c0483273": {
    "found": "2026-10-28",
@@ -4292,15 +4793,43 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUxVSVlkRkZiSXp5VkR6c2ZiTkx3bTVrRXJON09iMG5WRU4yTExwNS03UDFGUGxtaC1oMWpYNzRUcWZoQzFSZ2liaXFlc2hycWx0S2VPWlhXLWNqN2pabVBRNk4wNUNoN242Y2JJUzJYSC1WUTc4OHhTa1Bzc2ZmNlMycmZKbmxEeGFQbWVsbmJqLWY2S1dpckRIMkFpbTlJU0JzSENWYklEcGkzUWgwMUhlMA?oc=5"
   },
   "881966348cae": {
+   "action": "Cite in policy memos when referencing international normative frameworks",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 2,
    "found": "2026-10-28",
    "group": "multilateral",
+   "headline": "UNESCO Recommendation on the Ethics of AI",
    "id": "881966348cae",
+   "location": "",
+   "organizers": [
+    "UNESCO"
+   ],
+   "participation": "",
    "published": "2026-10-28",
    "snippet": "",
    "source": "UNESCO AI",
-   "status": "triaged",
+   "status": "done",
+   "summary": "UNESCO's 2021 global normative instrument on AI ethics, adopted by all 194 member states, setting out values, principles, and policy action areas including data governance, education, health, and environment. The page serves as a reference hub for the recommendation and related resources.",
+   "thread": "T14145",
    "title": "Recommendation on the Ethics of Artificial Intelligence",
-   "url": "https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=195885"
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education",
+    "global AI law"
+   ],
+   "type": "publication",
+   "url": "https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=195885",
+   "why": "Provides the authoritative global ethics baseline that African policy processes often reference; useful for ILINA's policy memos and submissions but not a live engagement opportunity."
   },
   "88488818759c": {
    "found": "2026-10-28",
@@ -4325,17 +4854,9 @@
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczJoazBxcVlsS1NDbFhNT3EyN25SYXFfT3JqczA3dVh5MGdJU0VjR0Z0TVZrT0MyYjhpSFJhMzYzbVV4dF8tdnNEVEpCNEVQSElBcFU1YnM2dGpVSnhCZlVhM3NjVUVNNHhyWFNkRjdIMmxpaFliR1FpdW9HMjlSOXlaaE5hdUV5cktJTVRJLVduUGdEdTBqVFZjS3hjVTc5MFpzcWJ1Tm5FemE1cGRoSjNrZHhXbU5paVJhRHpuOFdkODdjR1ZwV1BBSWNDSUE?oc=5"
   },
   "89522bce1374": {
-   "body": "All Research\nThank you! Your submission has been received!\nOops! Something went wrong while submitting the form.\nAI and Biosecurity\nAI and Biosecurity\nManaging Biological Risks from General-Purpose AI Models under the EU AI Act\nOctober 2026\nTechnical Report\nBhuvana Sudarshan, Zaheed Kara, Matthew van der Merwe, John Halstead, et al.\nRecommendations to strengthen how developers of advanced AI models assess, mitigate, and report biological risks under the EU AI Act.\nNo items found.\nAI Lab Policy\nWhat If Automating AI R&D Triggers an Intelligence Explosion?\nSeptember 2026\nAlan Chan, Christoph Winter, Andrew Barto, Jakub Pachocki, Geoffrey Hinton, Eric Horvitz, Yoshua Bengio, Dawn Song, Jack Clark, Hilary Greaves, Anton Korinek, ... Sam Manning, et al.\nAn intelligence explosion would compress years of progress into months and create urgent challenges for oversight, control, and governance.\nNo items found.\nRisk Management\nEmbedded Assessments for Frontier AI\nSeptember 2026\nResearch Paper\nJacob Charnock, Sophie Williams, Zaheed Kara, Markus Anderljung, Alejandro Tlaie Boria, Stephen Casper, Anka Reuel, and Jonas Freund\nEmbedded assessments can enable deeper and more flexible assessments of risks that depend on internal systems and practices.\nNo items found.\nLaw and Policy\nImproving Frontier AI Incident Reporting Regimes\nSeptember 2026\nPolicy Brief\nZaheed Kara\nHow to ensure AI safety incidents are identified, investigated, and used to improve safety across the industry.\nNo items found.\nRisk Management\nTechnical Safeguards Against Extreme Misuse of AI: Current Landscape and Future Directions\nAugust 2026\nResearch Paper\nIsabella Duan, ..., Zaheed Kara, et al.\nDevelopers rely on model-level, deployment-level, and governance-level interventions to address extreme misuse risks.\nNo items found.\nAI and Biosecurity\nA Biosafety Agenda for AI-Bio Governance\nAugust 2026\nTechnical Report\nBhuvana Sudarshan, Rebecca Hersman\nPolicymakers should complement biosecurity measures with stronger biosafety systems.\nNo items found.\nAI and Public Administration\nCharacterizing Agentic Flooding of Government Services\nAugust 2026\nResearch Paper\nChris Schmitz, Lewis Hammond, and Alan Chan\nAs AI agents make government services easier to access, governments need to balance measures against surges in demand against the risk of reducing equitable access.\nSecurity\nSecurity\nConfronting the Barriers to AI Diffusion in the US Military\nAugust 2026\nResearch Paper\nJake Steckler\nThe US military faces organizational, technical, and operational barriers to adopting AI at scale.\nNo items found.\nThreat Modeling\nCould AI Enable Catastrophic Cyberattacks on the US Power Grid?\nJuly 2026\nReport\nMatthew van der Merwe\nA cyberattack of such magnitude would require a blackout affecting around 100 million people for roughly a week – four orders of magnitude more disruption than any grid cyberattack recorded to date.\nNo items found.\nRisk Management\nUnderwriting the Agent Economy: The Blueprint for an AI Insurance Stack\nJuly 2026\nResearch Paper\nCristian Trout, ..., Markus Anderljung, et al.\nScalable insurance for AI agents is will require coordinated industry infrastructure for pricing and managing rapidly evolving risks.\nNo items found.\nThreat Modeling\nAssessing the Risk of AI-Enabled Computer Worms\nJuly 2026\nReport\nJohn Halstead and Luca Righetti\nA risk model for AI helping threat actors to develop data-damaging worms.\nNo items found.\nAI Regulation\nDelays to Frontier AI in the EU and UK\nJune 2026\nTechnical Report\nJohn Lidiard, Oleksandra Vereschak, Tom Gibbs, and Markus Anderljung\nIn recent years, frontier AI companies have sometimes delayed the release of new models to the EU and UK – or not released them at all. To what extent has...\nNo items found.\nAI and Biosecurity\nTowards a Common Standard for Evaluating Frontier AI Safeguards Against Biological Misuse\nJune 2026\nTechnical Report\nBhuvana Sudarshan, Luca Righetti\nFrontier AI developers increasingly rely on safeguards to limit the biological misuse risk of their\nmodels. However, there is no agreed way to...\nNo items found.\nTechnical AI Governance\nEvaluating Offline Monitoring of Internal AI Agents\nJune 2026\nTechnical Report\nFrederik Hytting Jørgensen, Aidan Homewood\nFrontier AI companies use offline monitoring to address risks from internally deployed AI agents. AI developers increasingly rely on...\nNo items found.\nEconomics of AI\nHow Congress Is Approaching AI’s Labor Market Impacts\nJune 2026\nPolicy Brief\nSuchet Mittal, Sam Manning\nNo items found.\nTechnical AI Governance\nComprehensive AI Governance Requires Addressing Non-Model Capability Gains\nMay 2026\nResearch Paper\nArthur Goemans, Dan Altman, Noemi Dreksler, Jonas Freund, et al. inc Allan Dafoe\nFrontier AI governance often centers on the model-level governance paradigm, which assumes...\nNo items found.\nLaw and Policy\nAI-Powered Lawyering: AI Reasoning Models, Retrieval Augmented Generation, and the Future of Legal Practice\nApril 2026\nResearch Paper\nDaniel Schwarcz, Sam Manning, Patrick Barry, David R. Cleveland, JJ Prescott, Beverly Rich\nGenerative AI is set to transform the legal profession, but its full impact remains uncertain. While AI models like GPT-4 improve...\nNo items found.\nAI Regulation\nRequirements for Model Specifications in the EU GPAI Code of Practice\nMarch 2026\nPolicy Brief\nAlan Chan\nThe EU GPAI Code of Practice commits Signatories to providing a description of intended model behavior...\nNo items found.\nSecurity\nAI and Bomb Plots: Distinguishing Potential Effects from Language Models\nMarch 2026\nTechnical Report\nConnor A. Stewart Hunter, Luca Righetti\nFuture AI systems could impact the risk of terrorist bomb plots. This technical report analyzes two channels by which...\nRisk Management\nThreat Modeling\nGlobal Cybercrime Damages\nMarch 2026\nGovAI Technical Report\nKamile Lukosiute, John Halstead, Luca Righetti\nAI companies and governments have raised concerns about frontier AI systems enabling cyber-attacks and cybercrime. Some have expressed interest in...\nNo items found.\nTechnical AI Governance\nMeasuring AI R&D Automation\nMarch 2026\nResearch Paper\nAlan Chan, Ranay Padarath, Joe Kwon, Hilary Greaves, Markus Anderljung\nThe automation of AI R&D (AIRDA) could have significant implications, but its extent and ultimate effects remain uncertain. We need...\nNo items found.\nAI and Biosecurity\nMeasuring Mid-2025 LLM-Assistance on Novice Performance in Biology\nFebruary 2026\nResearch Paper\nShen Zhou Hong, Alex Kleinman, Alyssa Mathiowetz, Adam Howes, Julian Cohen, Suveer Ganta, Alex Letizia, Dora Liao, Deepika Pahari et al. inc Luca Righetti\nLarge language models (LLMs) perform strongly on biological benchmarks, raising concerns that they may help novice actors acquire.\nRisk Management\nTechnical AI Governance\nFrontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies\nJanuary 2026\nMiles Brundage, Noemi Dreksler, Aidan Homewood, Sean McGregor, Patricia Paskov, Con",
    "found": "2026-10-28",
-   "group": "safety",
    "id": "89522bce1374",
-   "kind": "page",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "GovAI research",
-   "status": "triaged",
-   "title": "GovAI research: current page",
-   "url": "https://www.governance.ai/research"
+   "status": "skip"
   },
   "89712cd3cc99": {
    "found": "2026-10-28",
@@ -4413,6 +4934,51 @@
    "status": "triaged",
    "title": "Democrats want to lead on AI – but can’t agree how",
    "url": "https://www.transformernews.ai/p/democrats-cant-agree-on-ai-midterms"
+  },
+  "8d2f6527e621": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "8d2f6527e621",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "The Economic Times (via search)",
+   "status": "triaged",
+   "title": "Beyond ethics policies, businesses face an AI accountability test",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmhxd0RCdVNMVVVvRDdOX3N0d0ZFZjNfYlh1Y0xsYmlmOUIxV28xemNRZHpZMll3OWpzckxxaG0xVFQwS0lqY29qTDhIMmtLOFpmUlJrSVpZeDZZY0hzTG1aWGNmeWViZ0txaElnakMyNjNRRDkyN0hoYUR1NzVBMHp3cTd0TjZ0UjlqY3JoZXJ2enRETjZuRWl6NG5MSUxneEZrcjY2UEVhYjlMSkt5YUlGNUZVb2pRRGg0NGZ6YVNJSGhlak9iOFZLZ2Q1Z9IB0wFBVV95cUxONE1ReVJ3SFptSnZMNm1KU0F5UmJqa1hhbDZrWUtxYy1ISWtrMGpzVTg2M25mRU5fYmRZYTJMR3p2aVh5b3o0MThjM0w2S2ZiNk9PNk1DRkt6andjcXBUUXFiZjBDRVpUUHo4bEpNVmRmc1FhMTFzWlNJU0tHLW9LVVFJX1dIWmN6WmJvVUsyMlhfS0pSak14WEQ3TmdLaG1UanI4emJkOF9iYTVIV2RQUVU1bHl4QmlKX2ZkUTZFTC1fQUYzdHo1cFdZUWVSUFFYTndJ?oc=5"
+  },
+  "8de1d9ce7f98": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "8de1d9ce7f98",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Wansom AI (via search)",
+   "status": "triaged",
+   "title": "South Africa’s ConCourt Upholds Animal Wellbeing in Biodiversity Law",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHk1VDRObGxWVW0tZHc5UHg1YThxZEVyc3AxTVFIMW9iNlZBMVZRSTQ1S2ZiS3VvR1laMEU5VWtKWmtJN195UGlWWExhTmFVVy1IaExhanlDRWNhWmF2TGduZzU2WnRwZ1M4R3d0NDNVZ1d4c0pNdWZrTWhXNi14UzhqcnUzQjhuMGp2b3h1VlI3dk1rZ2lOQkJqQXVOMmlkblBYQ2pfV1JzSjhtNDM1T24wRFI?oc=5"
+  },
+  "8e03fca32e7a": {
+   "found": "2026-10-30",
+   "group": "partner",
+   "id": "8e03fca32e7a",
+   "published": "2026-10-27",
+   "snippet": "Senior Researcher Mpho Moyo reflects on the Forum for Internet Freedom in Africa (FIFAfrica) session, AI Sovereignty for African Countries and Communities, co-hosted by Research ICT Africa, The Global Centre for […] The post From sovereignty to strategic interdependence: Reflections from FIFAfrica 2026 appeared first on Research ICT Africa .",
+   "source": "Research ICT Africa",
+   "status": "triaged",
+   "title": "From sovereignty to strategic interdependence: Reflections from FIFAfrica 2026",
+   "url": "https://researchictafrica.net/2026/10/27/from-sovereignty-to-strategic-interdependence-reflections-from-fifafrica-2026/"
+  },
+  "8e5b71c47819": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "8e5b71c47819",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "Global Policy Journal (via search)",
+   "status": "triaged",
+   "title": "AI standards as statecraft: a playbook for the Global South",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2ZwY2xsLU9uS0dVZFBhMDduWHhJRGh1eTRJRFNjOFRCRkR0Q0s4QUItLTBqZjdUWF9BUWo4dTJKeFRrcHp2Y1QtckVUUmwzeUlrRTdJZTRXYzFUN25oSUpzcHlFLXNwN2VFeHBvX1BSSFNqcnZZbmF3dy1pd1dSWk9ZVVBLU1RxdmRRa3N2SExmazNMTDVhT0hkV24yUQ?oc=5"
   },
   "8ea6cdaec3c7": {
    "found": "2026-10-28",
@@ -4579,6 +5145,18 @@
    "title": "African governments become customers for local AI",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGNObDB6dzVWMGtMNG0tbHhvOXZjc0prSkxqX3JQSDRHRDdwa1JGaThxTTBTc1g1OXByaUoyUDdZdDFwSEw2SldVU1U2b1VaUVBvV0s3QU9SNzFkaXBZUV9HRThMSUtsYUVDRmxwT3lPcVFrS0ZfT2N1eGNUdUlzRklHa0pIUTBqN3E2REh0TjRQQQ?oc=5"
   },
+  "9448709cc6f6": {
+   "found": "2026-10-30",
+   "group": "news",
+   "id": "9448709cc6f6",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "Global South Opportunities (via search)",
+   "status": "triaged",
+   "title": "AI and Intellectual Property in Africa (AIPA 2026): Call for Participation in Addis Ababa, Ethiopia",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WclN3TnpFejFBZnQyQzA5TnlmZ01Mb2hoNGE4Z1JCMXVEUTdGclpRSjhPT1BoNThLTEdTWWhlNTYzS0lDNmIwMWdZbkJybFNYUGZPMEtoVEI5N1MweVZRUEkzdlVYSV9jMlluVHJrYVg?oc=5"
+  },
   "9487c00abcf2": {
    "found": "2026-10-28",
    "group": "safety",
@@ -4645,6 +5223,56 @@
    "title": "South Africa officially withdraws draft AI policy with fake AI sources",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWng4QjFxLVk5UlRiZDZWbUhhV09seUtKMjRGNFZKdm9rWDUybDVMeUpCdXNURW1NUkRVcTk3aHNZY0JPVmFfZF9wbmhPREtFOTdhV2FKaUJTRzhtb1Jfc0hwblhQSGpMZU9zTXZVQ0o2SV9hZVhYR3dENkg5OW1QaUt2djZ2bWd5b3RpRzZibXB2VnFVazBwQ0hfQkZnMzNGZllxc0hYWGltY19ROVN0V01DYWhoSjd1cm9udlFxWmV0UQ?oc=5"
   },
+  "95cddbff80e7": {
+   "action": "Cite in policy memos on African AI sovereignty; monitor Ghana's AI policy trajectory for engagement opportunities",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "headline": "Sam George urges African control over data and AI development",
+   "id": "95cddbff80e7",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "GhanaWeb",
+    "Sam George (MP, Ningo-Prampram)"
+   ],
+   "participation": "",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "GhanaWeb (via search)",
+   "status": "done",
+   "summary": "Ghanaian MP and former Communications Minister Sam George has called for African nations to assert sovereignty over their data and AI development, arguing that the continent must not be mere consumers of foreign AI systems.",
+   "thread": "T14145",
+   "title": "Sam George calls for African control over data and AI development",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "global AI law"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbERFdnJCLUl1T25zWlFKRnUwRElFVWhkMThFVWhZNmtDV0FWcmdCeTlsYTZRQlpvS1lIVlBuUjRqazN4NHZ4aDVuc1RYbVctdjAxdE5nTFkzbnlKbW9EZjNtcnloc0lrdlVMaTJyMTR4OWZMUWR2MTdKMEhqVG9lY0dEVzQ2R1F0NThSSEdpT0oxMUJCVEJGcUJXb3RtRFhSejdncVNoTW4wQWtrX1Z0UVVNNHM3TzdkUHFoc3Vn?oc=5",
+   "why": "A senior African policymaker publicly advocating for data and AI sovereignty directly supports ILINA's core mission of ensuring African countries shape frontier AI governance."
+  },
+  "95cf1458b445": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "95cf1458b445",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "https://www.indiagazette.com/ (via search)",
+   "status": "triaged",
+   "title": "Hereditary Prince Alois of Liechtenstein attends ceremonial reception at Rashtrapati Bhavan",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbW40V2ZXZTBXazRBZ045S3NUb0JzaWlTX3NtclNES1dDNnRLdjA1WldyMTJ4Z1N2RGtUeDBQN3N1SDVwa3hkMEJGOTVlRzdCbmVxdGF1ZFF0R1NHbzhjcUJJa256OUhQZWtNNVZsa3J1Q2hzMkdHaWF5Z3JBa2twcTV1MHBlX1VSMGtnS1ZKOU9zSjYtOURoMkMxZWhGbnpuWVJrT1ZnMTV0YlJHOEstM18tN0F6NjlaUnl4dWZRQU5jS1hzc1A4bEwtSjVwMmFJ?oc=5"
+  },
   "95e93067fb40": {
    "found": "2026-10-28",
    "group": "news",
@@ -4655,6 +5283,11 @@
    "status": "triaged",
    "title": "Evening digest: Anthropic files IPO, oil falls and Musk warns of AI risks",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDNZNEc0SU1tVUxnUTdLVUZkYkdIQmxsMDJ6SWJ5RzhXZHQyLW85MFBwZlpoeExHb0xzMDJuSW5ibW1sazNYdG9KSHNiT3VhaEtxSVk3M2lSbVB1LXZfRGZKeDVYYjl0MWRiN1h6VFliRjZJNXQ3cUJxMlZMNzJsX29PbkhqMDhVbWM2eDJ2Z3dpRVBMdjFIQ2FZUTN3cDlHbW96aFB2TDU5THk1alR3?oc=5"
+  },
+  "9722deee7a98": {
+   "found": "2026-10-30",
+   "id": "9722deee7a98",
+   "status": "skip"
   },
   "972f4c1ab568": {
    "found": "2026-10-28",
@@ -4776,6 +5409,17 @@
    "status": "triaged",
    "title": "Fact Check: Is PM Modi angry over CJP protests & Prashant Bhushan’s ‘Regime change’ Remark? No, video is from February",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDYyd2dHMFFjRXgtdU1WY1NGUmVsS2hmUktTQmNhbnZmTUtLRjFRanBmekhaQkV2RDI4NGlLR21kNEJLWkpuVTFaUXdzSlhzOHNCLUdDaEhyUW9jSkJRRzY0ejFFZXBHWDZ0YmwtOFU3RG9FZU9sckF2ZXl6U05QQzNyM09sVTNKWFVYZUJrckdRRFFWYjZBd2RqemZEa1RjNkhNcW1GS3BZa0V5Um9zUW5zUTRpMnZBMHRielU1QUZmc2RLcDFvTGZjcTI1VkJDSWhaZUhsRDZNdUcxbWh3ZU5uR1BGLTktcmNnUF92UdIB9AFBVV95cUxNVTJiMk5fVnduOERhSGFTRUpVRUlJbjdVTWpXd1RhVlFwRTd2cXFpX2FtVHNGS2c1MGRXMUJTZ3o1UlNKdWo2LXZhbjJsc2ZGbHVPZ21Wc1lQWHA1ci1Xcm1JczNjSk9ZbWR2U2laR2Z3T0pHUG9vNlZZYVVrTmdTTEdTVmpRMlBMLTlsZlNpVDRYeV9oZTFSMVpUZHJUSE9ITEpuUzV2QUZZSkpwaGVqSk40OXpLd3lSejU0M0stOUtPeXlKN3hQQTdyUGFwSnhvY3VSSzBLQ3pqSV9LSE5pTXY4UHhDWDlRd3Jva2RMcWgzRmIx?oc=5"
+  },
+  "9b69530b25b9": {
+   "found": "2026-10-30",
+   "group": "opportunities",
+   "id": "9b69530b25b9",
+   "published": "2026-10-25",
+   "snippet": "",
+   "source": "Global South Opportunities (via search)",
+   "status": "triaged",
+   "title": "Fully Funded AI for Human Rights Professionals Training 2026 in Geneva: Apply for the Free 3-Day International Programme",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0OVF3dEdIbVlUVU1TenpXNmtjQTNUanZGVkNjckoySGUzZ1RmaUVHMUJiRm5ab0pLR2NiRjloY21ZMWFiZUl5cG40TktRUnMzUVQ2Vk5IaklBaUJRN3VPOGlBNFo4WVB2Z0RfVXFJb1Bvakdmanc?oc=5"
   },
   "9ba8545e5be3": {
    "found": "2026-10-28",
@@ -4922,6 +5566,11 @@
    "title": "Fact Check: CJP protest–PM Modi angry with ‘regime change’ remark? No, video is from February 2026",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0pSTkVILTRVTUdzZkRMYzd1WENVclMteGZoTXFJYmNvZ0JWS1J1eS01UWN6a2VNUFl6MlNoalNwQ1pSd0JWRDdTZFg5aTc3SHN6QlFabDMxNm93blBzZ29uVjJvd19QUTNXaktHNDNkQ1NZNUM0SUFOcUpZdVloNUJHRGh0TnRLSnFyTUFnZlY0R1Ayay04X0RUYldXeVNqemdYd2xkd2FDX3pIRC03cU5VR0FBN0ZIMVFWRw?oc=5"
   },
+  "a062cc4e8e66": {
+   "found": "2026-10-30",
+   "id": "a062cc4e8e66",
+   "status": "skip"
+  },
   "a171b3436c11": {
    "found": "2026-10-28",
    "group": "government",
@@ -4988,6 +5637,11 @@
    "title": "Uganda Begins Drafting National AI Policy to Balance Innovation and Data Privacy",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3oxS1p1MTdhOG40OGM1Y2dnOGVyOHFDZGVOQ0R0bXk1R21xMDl0Vkg2TFNDcW5hQjFWbUsxN2l1REc0MzhWam85cDNfdTBfTkJCOE40MXhmX1l5ZGpkTWl2ZTNmZEhIT0VUY2lleUdNYVBuSHB2WG9nV2lDeUJ3ckpURFFYVmR4eWsxVkNvVDd3eHhWX1dwZmRLd1VOLXJjbEVV?oc=5"
   },
+  "a41517d573a8": {
+   "found": "2026-10-30",
+   "id": "a41517d573a8",
+   "status": "skip"
+  },
   "a41b4e6ebff2": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -5009,6 +5663,27 @@
    "status": "triaged",
    "title": "Daron Acemoğlu, Diane Coyle, and Joseph Stiglitz on COVID-19 and the Economics of AI | GovAI Blog",
    "url": "https://www.governance.ai/post/daron-acemoglu-diane-coyle-and-joseph-stiglitz-on-covid-19-and-the-economics-of-ai"
+  },
+  "a47d9b912d0c": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "a47d9b912d0c",
+   "published": "2024-11-07",
+   "snippet": "",
+   "source": "ICTworks (via search)",
+   "status": "triaged",
+   "title": "Nigeria vs Rwanda: Which National Artificial Intelligence Policy is Better?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXZhYWJXeXp1RmFmYnJXVzZyRWRLRzV1bk54QmRZd19TYnFkaktacU1WYlRyTVVIOUhQV0NxRTVrandtWThXZlNtT243bHdnbEJYdzZFSWwtUHZ2SlpzT09RYzc2MXE2ZlZTZjZNZ2paU2piQnRUTUliamJKZVQtWg?oc=5"
+  },
+  "a4818b5f2fe7": {
+   "found": "2026-10-30",
+   "id": "a4818b5f2fe7",
+   "status": "skip"
+  },
+  "a4a518e4cbb1": {
+   "found": "2026-10-30",
+   "id": "a4a518e4cbb1",
+   "status": "skip"
   },
   "a4ca5cac32da": {
    "found": "2026-10-28",
@@ -5086,6 +5761,11 @@
    "status": "triaged",
    "title": "S. Korea's U.N. envoy named co-chair of global AI governance dialogue",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NamhvalI5MjBpb3hJSEdrSlJzM2QwQk5BeGo1V3BXVlJWZ0hXRVZNeXVmbi16RExucTA1VGFQUnotdUxyemllYzlCT0YtR1NHX1NtbF9PTjBZdw?oc=5"
+  },
+  "a6cd49136776": {
+   "found": "2026-10-30",
+   "id": "a6cd49136776",
+   "status": "skip"
   },
   "a6eb91ca6924": {
    "found": "2026-10-28",
@@ -5235,6 +5915,22 @@
    "title": "E‑governance: Africa seeks to connect its administrations",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3Rkcmt3dEJ1dEZXQU5yU2t5LVlEN1RFeHRZZy1qd1luZHVBZ0hNeEhyZzl0d1JQdXpwbHlpTEFzb0xHVlEtb0RaWHJIeDJ6eWxTSDRMTE02TzdUX1FtX3pCMXpWVUhHWXJ5ZE5fYVlrU2RKaFRzRmVSc0tSYWtibWl3SnFtOE1aTHdj?oc=5"
   },
+  "ab8fe365d568": {
+   "found": "2026-10-30",
+   "id": "ab8fe365d568",
+   "status": "skip"
+  },
+  "ab9777123d0e": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "ab9777123d0e",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "TechTrendsKE (via search)",
+   "status": "triaged",
+   "title": "Kenyan manufacturers are weighing solar investment against grid costs, capital requirements and reliability",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNURqT1Nld2VlTlRGbzlPRm5vUm82ZWpaay1zOWpRYjdtWVYtWkpsekd1cld2TzZGU3VDZkVTR19ORUZ1M2YzU3U1N0pic3NENTAxMFViMW1pOTVWWWdPbjFWMks1T0Vpd3NYdjc5SEZkWW5WaGJpS2gxcw?oc=5"
+  },
   "abb1fe73df02": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -5378,6 +6074,17 @@
    "title": "AI licensing fees may bypass creators, University of Amsterdam paper argues",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJvcFd4ZHY0Y3VpR1IwMklOZW5RWGgzR2pMQ1NIRTliSUR5ZElFZmpMWFU0Skl0NnZheTc0R1NoNVFGamxCMDV3OGpvZDZxdG5Wd0xHN2kzbVJLdTREaDJyQXgweFp2MkkwNjNNMG05dHZoN0RYSFRoVzc2UmR6VG1hWTAzbHlOWl9ROFo2VWxOdkpvLVpj?oc=5"
   },
+  "b0abe1dcb554": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "b0abe1dcb554",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "Capital FM Africa (via search)",
+   "status": "triaged",
+   "title": "Ethekon pledges Transparency and Public Participation Ahead of 2027 Election",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVpEM1ZwS202RGgyMWZHRklfVHdBT2tQaFVFNHNQZ19LQU11b0d2eFZoeHNZdW9rS2pKdXlDdGhUMkREQWdwTHREUUVWM3VwbW9jdG1HcXp3U1VhNG91M0RqOFo1UkR1dXhsMnlXa1NfZ2Jzb3pMREwtZVZybUUzQ3RQRlJ1czZSMFZWNERseWVVZkhjSnljM3ZxSkVMTWh4cEFsOGl1U0RuQQ?oc=5"
+  },
   "b1285cc4f068": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -5388,6 +6095,17 @@
    "status": "triaged",
    "title": "India-UAE relationship living up to its promise as Comprehensive Strategic Partnership: EAM Jaishankar",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTBKemJ4a0Y4ejZmdmFoYnpRdkYzQkJPOTNxWnljTTRpdXhJMGNIRldIa00ycHktTlM2aUpjMHFxTGoweHR6dGdDLWFmWlc2YUtacldXRkFjcjdCcFZEVU81VVBkLUo3OTFVcW5kdkp0VXlKQU42RjVpOUJxaHNzaVZyekpaankyVU0wN3Z6UXZOUkdjOG5TaUJ4WWtYR0tfWDhldUtmWnVxQkFZUkhYT3dQYTFOLW9pQXlFYm1GZEl3M3lpcmVfYW91NVd3UWg4WEd3?oc=5"
+  },
+  "b1847c03ef24": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "b1847c03ef24",
+   "published": "2026-10-20",
+   "snippet": "",
+   "source": "www.coe.int (via search)",
+   "status": "triaged",
+   "title": "Council of Europe facilitates cross-sectoral institutional dialogue on the implementation of EU Digital Services Act",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUGcwdHBnOVVwNVVKV2trS2VCTmZxRmJMTnNobE9OdktaZS10UXVOQ1k1bVJLak91Sk4tVFNBdzVZM01OYzUyQ3cyUDdaMFEtUGNnZ05lbHBjNHRSckIycS1rb08zejM2WjhvOG5RMGV6YXY4TFRfTGg4aWNfQnRTY0FkYzJXS2Z2dEJoajN5Nm4yN1diTFJXNDhvZ1Q4TFc0WWVZU1RKLUI5QWFrcVl0NHE3dHJZT0pLVGxLVVctQXEyQ1ZHTFEta3c5cVRTa3VmcGFCd0tnaF9KUFN4eTZOcTdNRS0wbG5wejJva21SVE8tSVdKXzdV?oc=5"
   },
   "b1f8e9907afa": {
    "found": "2026-10-28",
@@ -5410,6 +6128,17 @@
    "status": "triaged",
    "title": "Nigeria awaits parliamentary greenlight for landmark national AI strategy",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3BGaGxNVUtRSWIxRFIybkI5Ty1FekdjOUdoT3R1ZWM1ZTR4eVZYNHVxUEtmc1N6TGVnZGZPdWhKVGt1U3AwVFBsWnZCN2tkWG9ITkl6SVUzaVBPY0VObEp6Z2liY3RjZDlEZTk1RUJLOEdseWpFaDRTaXg3UlFaY2dERS1VUnd6WGdFQzZ2RTdOUTZnTDZCdmtSc2MwRnAtMVQ2X3dXRGRrTGtKdVczeXNQUVBKRE3SAbwBQVVfeXFMT29TeXNqM252aHQybVBTOVJqcEhGLVRNTDNvRFk0dExseGNUTVhDWjdsZDE1REJEMU1QeE43RmRYaGRkemowam1rZmp1SGhqZUd1a0piQ2ZCR1BtZUN0MUNYNm1YajV1SW1iM2R2V0pjNUxmQkM3MDNBQjJfdHVuQ3gyVGN2ZGlhUkpaT3pjLVIzdHhCdmZnQktiUXRjc0FsUUsyZHRhaTJvSjV4ZGJUOGxMTzkwS21OVVlWX3A?oc=5"
+  },
+  "b241aa6b103a": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "b241aa6b103a",
+   "published": "2026-10-16",
+   "snippet": "",
+   "source": "The Trumpet Newspaper Nigeria (via search)",
+   "status": "triaged",
+   "title": "NCC Survey Finds Only 2 Telecom Operators Ready For Internet Code",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1Q3Q2xsUGZKbk1rVG8ydUVYZEpSWTZ2b3lzckU5TUxBSDZOQXNDejctVWtjSTFqOTlVV1dxdHRIVlJQUnMyaGlFbFdza0hzWEt1elA4U1M0ZzhwZ1pmNk9YWGJUTmRVcjNmMzJ4Nk8yZ1hRWUNVR3hsc0w3Z2VMU1ZWazhGdWNiOUtGYUU4dzVOQQ?oc=5"
   },
   "b344a00a31bd": {
    "found": "2026-10-28",
@@ -5609,6 +6338,11 @@
    "title": "The Vietnam International Digital Week 2026 is coming soon.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11cnMwczRtVzdWTkpETTlrWWJaWnhlb2lPUFFQeFgwZGtOTy1pUzMtcjlLeGc2b21PaDJ2M01vMWwxTG9XMEtjT2lmdEZieWFzY0dRbV9BS3RJOXIyMkgyVUxPRldZRGVyUUtNWUdiWVRrTXJLV2RzNHZn?oc=5"
   },
+  "b831f46f9415": {
+   "found": "2026-10-30",
+   "id": "b831f46f9415",
+   "status": "skip"
+  },
   "b91a36d54be1": {
    "found": "2026-10-28",
    "group": "government",
@@ -5722,6 +6456,44 @@
    "status": "triaged",
    "title": "International AI Safety Report: current page",
    "url": "https://internationalaisafetyreport.org/"
+  },
+  "bd175e2c6276": {
+   "action": "Monitor for partnership calls, governance board seats, or research collaboration announcements from the centre.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Eswatini",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 4,
+   "found": "2026-10-30",
+   "group": "news",
+   "headline": "Eswatini launches AI safety centre for African capacity",
+   "id": "bd175e2c6276",
+   "location": "Eswatini",
+   "organizers": [
+    "Government of Eswatini"
+   ],
+   "participation": "",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "done",
+   "summary": "Eswatini has launched an AI safety centre aimed at boosting Africa's technology capacity, signalling growing African leadership in AI safety infrastructure.",
+   "thread": "T14145",
+   "title": "Eswatini launches AI safety centre to boost Africa's technology capacity",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "AI fund & capacity"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclJWNjR2a2RqNy1xUXQ5S0NkMUtydWlrMkUtYWtEOE0wdHdKQUJjSXFEMTZraWl1MmhYcFpxR2pKWUVnWkxudllwMmpUeDM4NUplNTN0RHRLdWljbFNPaXVJWmxOY2Q2TVE4Yy0yNWZnalBSMHRMWlhvcjVmcWF3UTdXcUVoYjJYVWdBaHlOSmloeGliRDYtemowbkNTVm52RUpwOS1aUVpRT0xPWGg2aQ?oc=5",
+   "why": "Directly aligns with ILINA's focus on African AI safety capacity building and sovereignty; a new national centre could become a partner or policy anchor."
   },
   "bd5c66610f80": {
    "found": "2026-10-28",
@@ -5843,6 +6615,11 @@
    "status": "triaged",
    "title": "South Africa’s AI policy withdrawn after AI-generated citations found",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGd1RVJsSDdOZXBpXzMwNi1HNXJ5Z0gwS0RlUUpSQzB1OFppamFrelAtOFlxRnZBTjZlSlZPX0hZUUR3QnRfT3FDQXRNcU5aYTY4eXhzLXF5dnZaRm0zRUFRUHpyVW9oVnR3anFIZ2x2SlIydUstY0lRZFZLd0hJNHk4bk03d1RNN2FYXzhQSjBVQlJmeUp1WFVJeWEtR19NM3BCWTJ0d2lDaEU1SVo1WFF3RFRaVU42SlF5LU55LTZXdw?oc=5"
+  },
+  "c05e32dc01b8": {
+   "found": "2026-10-30",
+   "id": "c05e32dc01b8",
+   "status": "skip"
   },
   "c093bba050e5": {
    "found": "2026-10-28",
@@ -6011,6 +6788,11 @@
    "title": "GovAI U.S. AI Policy Program | GovAI Blog",
    "url": "https://www.governance.ai/post/govai-u-s-ai-policy-program"
   },
+  "c5485c2c03a7": {
+   "found": "2026-10-30",
+   "id": "c5485c2c03a7",
+   "status": "skip"
+  },
   "c559fd5f9be8": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -6043,6 +6825,11 @@
    "status": "triaged",
    "title": "Second edition of the roundtable on democracy, media and socialisation in Africa",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWwwNGF2UndXNkdwelgydU1aTEhQYVk5NEFXUEpWT18wQ0JtNXlpelBJSnNOSFBkVWZXSEhFUXMyUS0tX01MNUhsNUstNjl6Q3FZWWRIWkpXUXk2U0RiVWZNalV5VXFrenB1WHVSamMyZWYyZmZCZ2lmdExqQk9tYU5wcXJZcnV5XzkzZ0pIYVVsSGRRUTBVTVJ3?oc=5"
+  },
+  "c6e948a7bc91": {
+   "found": "2026-10-30",
+   "id": "c6e948a7bc91",
+   "status": "skip"
   },
   "c6ed5170c7e9": {
    "found": "2026-10-28",
@@ -6189,6 +6976,11 @@
    "title": "NCC launches Internet Governance Group to address cybersafety, AI accountability",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vTVNQaTN1NUZRNUtVZjlZVEo5WG54VU5iS29hVXlYY0RsSXZ2M3RRQ0VTVW1QR1MxLVluSUExYTlCVlJwaWx2SzZBa0FuUQ?oc=5"
   },
+  "ccd487ea860a": {
+   "found": "2026-10-30",
+   "id": "ccd487ea860a",
+   "status": "skip"
+  },
   "cce1137b3f5f": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -6277,6 +7069,11 @@
    "title": "AI, Tech Rally Lifts Global Equities As European Markets Diverge",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFY1ZFpoUHQ0enpjVDF1U3VuaG5aU2F6V19paGVqcUpJSFJYZU9wbTNST1BaSi1RTEhuUEpGMVpTZF9zbEd6ZzZpSU51RklCbGt5WDF4TGJnOVVsVTdySTRENktMc2JnQzhQTHN1S3ZvT0xYUnZZd0QwcmlXNXN1NEUzUlJpRDJpQVA4TjZrMjQ3QXBD?oc=5"
   },
+  "d182e73a0574": {
+   "found": "2026-10-30",
+   "id": "d182e73a0574",
+   "status": "skip"
+  },
   "d1c80e9a1010": {
    "found": "2026-10-28",
    "group": "government",
@@ -6332,6 +7129,17 @@
    "title": "Kenyan businesses could run AI on their own servers as Dell and NTT Data target SMEs",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zRlZHNUxlU09lVzRKWFZ5V2sxZGFzdVZrT0g0UnM4NkJmT1BKdjAxNXRfNkVFb1FEc190R0gxYmdjdEs4YWp1M3FJOE5VcWVYQWwtSGs4T3FkSjUwamVhWjFSemliend1eWRaUHhBVQ?oc=5"
   },
+  "d42f293a4435": {
+   "found": "2026-10-30",
+   "group": "tracker",
+   "id": "d42f293a4435",
+   "published": "2026-10-20",
+   "snippet": "",
+   "source": "shattered.io (via search)",
+   "status": "triaged",
+   "title": "White House Blocks 2 AI Labs From UK Testers [2026]",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DZ19nRWhmdk1hejROV3FrNmF4enRQeE5yMXpmZ1U0UFBzNjg0MjhoQk0xeVYzbFhpUTU4cjVIS2dZWFBZM2lLMjUzYzNKVDlTRl84ZlVPbGw0QVNmU2FVOE9qODdITzA3Z0VzTTd6QmtZUnU1?oc=5"
+  },
   "d44e9dab7024": {
    "found": "2026-10-28",
    "group": "government",
@@ -6379,6 +7187,11 @@
    "status": "triaged",
    "title": "UNESCO AI: current page",
    "url": "https://www.unesco.org/en/artificial-intelligence"
+  },
+  "d4e0acb80451": {
+   "found": "2026-10-30",
+   "id": "d4e0acb80451",
+   "status": "skip"
   },
   "d5269f2d63dd": {
    "found": "2026-10-28",
@@ -6445,6 +7258,17 @@
    "status": "triaged",
    "title": "AI Experts Call for Evidence-Based Debate on Artificial Intelligence Risks",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejZzYzRtUlc5TzFYaWJwUEZBNDV3Y3BxMDZYX3ZDcl9kUlBoQVN6LUNmQzltWkVKbkdvcWlOR0dJX0dHUnA2Qkd1TmhVd3RJM2wtWTU1YVlMREZyc0dyYXVmNmVQNVRDV2FZby1iVDgxVFVNcUV1V3FySXhaeVR2VVV6Y0VUSFljWTZBSlZ2RV9JOGtqT19jelN6RHQ5dHFIN0tWVlVVaHFoS0NhWnMtb1JUakN0YnVad0ZQQlVUeG5rQ1F4REFlZ0tfWUN2c1UzRTRHdFlVRGZ0ay1WMGc?oc=5"
+  },
+  "d7c3019acb22": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "d7c3019acb22",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Revoi.in (via search)",
+   "status": "triaged",
+   "title": "PM Modi holds talks with Liechtenstein’s Prince Alois; trade and technology cooperation in focus",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnZmdzVmSjZlRkNqb0Jad29NdHFrdjBSX3BxSXdwVG9EMUxWNlNzamFCV1NHTE5TcVU0d09RTi1IcFNkOE1LdWRLS1RkYkZ6Q3p0VjdGcVlBM0VWTkd5b1c2blF3cFcxUnBBeVZ0c3F4SDk4cV9ZZVR1NC1PMUsta2hEWWpYNzI0ZlRma0ttbmNvbU9HdnZ6dlY5WDRpMF9zb2l2VTNIWlhIcnA3ZEdMUW5CbkZXcW44a081SQ?oc=5"
   },
   "d81b2bb12d4a": {
    "found": "2026-10-29",
@@ -6544,6 +7368,11 @@
    "status": "triaged",
    "title": "Vodacom pitches a lighter AI rulebook as Pretoria redraws its policy",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2xta2Q3bUw1cEhDbi1MR0tsNVBaY1E2V1FBQ1lFQ21BMUNGNXo2YmtYRDVkamVuNmFSZnJlSE1aa3VFOXBjdHBJZk9wSmREeVQ3X0g2WGYzMlU1eFpQMkVYUHo3Y0V3ZXhsT0lLZEdpVjlUWUV4OGRpS0JPRThoYVJ4TQ?oc=5"
+  },
+  "d96193f57685": {
+   "found": "2026-10-30",
+   "id": "d96193f57685",
+   "status": "skip"
   },
   "d9982d528320": {
    "found": "2026-10-28",
@@ -6783,6 +7612,11 @@
    "title": "Africa AI & Data Protection Regulation Report | October 2026",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPai0tN3ZzQklwTVFxSnRwY2JzWHBNNkZ5c1hkUlo0bEpMSG0wYkN6NDBZYTR5SVhhRGwtWDI1UjBWYXhxTUJBQ29uRWF3c0tnVEQycUFET3A0Q0tMR043U2NmbS15MlJfQlNDZWUzNWR3a1FZSnVPRG5MN1ZJWnlMbk01N25zUVc4dWdDUHhLTlgxc3hvWml4ZFhqaTBQM1A0S3ZHYzliRm0?oc=5"
   },
+  "e2161f9adaa9": {
+   "found": "2026-10-30",
+   "id": "e2161f9adaa9",
+   "status": "skip"
+  },
   "e288041391c0": {
    "found": "2026-10-28",
    "group": "safety",
@@ -6815,6 +7649,17 @@
    "status": "triaged",
    "title": "Nigeria’s AI bill proposes mandatory registration and licensing for developers and users",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03T2g0TTB3bFNXZHBMajhQLVYtMXJxRFVWSWpaOVhOUzNWamdwZUlKczVfcVN6WlpkNkUzNWdxTUV2ZFVISThmRmk0M0thMmdlRUxtc1V3MDNKM3Z3QkE?oc=5"
+  },
+  "e4142961a38a": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "e4142961a38a",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "Goodreturns (via search)",
+   "status": "triaged",
+   "title": "India AI Summit: Reliance Unveils Rs 10 Lakh Cr Plan For 7 Yrs, Cut AI Cost ‘Dramatically’; Is This Jio 2.0?",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclFCUTJFc3pBSlFJZDV2eG9XODRWLXE5WWl1ZGwxeGRPTEpPZHZmS19RS1FVM0h3eGZPSng1R2I1RjZBVzNGSjRTRnotX2QtNGh2NjVhSEZ1cnlBc3JTNzRiMndqN2VKczJXTjg3dHpzVUtiRjJKdDRjcXZ2UElqNVVwQ1o3ZFlOQTFyNUhCeVp0ZVdlaXBsNzZxM0xXa1lENFUzVnF1V3NHbkJzM2MzWHltLTlCR010MWVKb2tWLTA1cmgtcVow?oc=5"
   },
   "e420918dfdb5": {
    "found": "2026-10-28",
@@ -6928,6 +7773,18 @@
    "title": "Building skills for resilient and competitive industries in Zim in the AI Age",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVY0N2hhM3lrU0NDTW96U0JKNmwwNGNyMlFsTG55MHUtWlNJbmhweDFqcnlqVGE5NGJMUFNjUzUtbkwxWTNNYVdrcFJSWTBiLV9MM21aUHFyYjlrRmtwdGMzVDZRM0phdDd0eXdrYlBfc2pTSnNaUmRaOGhucDd3bkhvYllZZURRcFU4OWRwTlgtU1JLVzgxUk9wbWxXeTA1bFFOd1BQRGJEZjRGYWc?oc=5"
   },
+  "e66475a62d03": {
+   "found": "2026-10-30",
+   "group": "news",
+   "id": "e66475a62d03",
+   "published": "2026-10-29",
+   "snippet": "At Moonshot by TechCabal 2026, the Nigeria AI Scaling Hub (NAISH) showcased five organisations developing artificial intelligence solutions for healthcare, agriculture, and local languages, underscoring how shared digital infrastructure and institutional partnerships can transition local research into widespread commercial adoption. The initiative brought together digital health provider mDoc, agritech platform Extension Africa, research enterprise Data […]",
+   "source": "TechCabal",
+   "status": "triaged",
+   "title": "Inside Nigeria’s $7.5M Gates-backed AI scaling hub",
+   "tries": 1,
+   "url": "https://techcabal.com/2026/10/29/nigeria-7-5m-gates-backed-ai-scaling-hub/"
+  },
   "e684fb74ecb7": {
    "found": "2026-10-28",
    "group": "safety",
@@ -6985,6 +7842,17 @@
    "title": "Tech Policy Press: current page",
    "url": "https://www.techpolicy.press/"
   },
+  "e84048487bcf": {
+   "found": "2026-10-30",
+   "group": "safety",
+   "id": "e84048487bcf",
+   "published": "2026-10-21",
+   "snippet": "CSET’s Owen J. Daniels shared his expert insight in an article published by Military Times. The article examines a Government Accountability Office report highlighting staffing shortages, incomplete initiatives, and oversight challenges as the Pentagon accelerates its adoption of artificial intelligence. The post Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds appeared first on Center for Security and Emerging Technology .",
+   "source": "CSET",
+   "status": "triaged",
+   "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+   "url": "https://cset.georgetown.edu/article/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/"
+  },
   "e87f00973c6a": {
    "found": "2026-10-28",
    "group": "opportunities",
@@ -7039,6 +7907,11 @@
    "status": "triaged",
    "title": "Dario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in the AI ‘race to the top’",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWERUMDJlblRzeHNBMFpheDA4R3lzVjBJV3otWlZrZlc2bDVzb1hwcHlUclFhTUltWjdTekl2MDN3MVpqNmFjaUllM204b2tfX1I4M0R0OVF1LU5NMl9IZVA1RWp1eGVycXN6V1FseHdRTl9qMGZBWTFoSzRrSnVPZEJfY3RaVERjSTlwZGE4cHhZTmZDTThFNWhqOE9hU2xYdnVDZ01WdHQtQkhRQkhYa2RFbkpPU0VIYVlmMVR0cEY4YlYtLVZtX0ZhX08?oc=5"
+  },
+  "ea7c0017d83a": {
+   "found": "2026-10-30",
+   "id": "ea7c0017d83a",
+   "status": "skip"
   },
   "eab33aa8c091": {
    "found": "2026-10-28",
@@ -7095,6 +7968,11 @@
    "title": "How AI is fuelling radicalisation and why Kenya must act now",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVY1VFVYamRNT0poQlhiSW5PY3lKR3lZRkZtdjhMUkZHemFnZGRlVjhJb19LaERNYXFwWjV5Z1gxMklJd2F3Vm1IUGdReVZ1b1NUVk05bjdqOUNySlAzTE0wMXM5Q00zYVNycko1cHdyRnZ4UXNKNjRJYU02X2JlLTdBYlNhN19KOFpvdDBQVHFJX25odWVoWVVURmdTZUFMLU1sVlNYRjZPXzJydEhyem5kdnRrb2M?oc=5"
   },
+  "ec4fd594b8bf": {
+   "found": "2026-10-30",
+   "id": "ec4fd594b8bf",
+   "status": "skip"
+  },
   "ec62cd95ae5f": {
    "found": "2026-10-28",
    "group": "news",
@@ -7139,6 +8017,11 @@
    "title": "Beyond the Seat at the Table: Raneem’s Journey from Policy to Action",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGt4Unc2UEFyQVJBZkhGU1JjWW5OT21JV1pXeVljWkVENk1OMWJDM3ZhdERYZ1lZN2ZrcTJfUTY4UkVfdF95eUxlTnM2UzItbEw5UzlZUk03RHFMQjlmYUlqTDF4Ung3bkJ3MlJ5cEUyNGY0WTZNM1I2Z0tjbjJUNTVlUV9IRC1zT19vczI2bks4ckdVYjlCbXFIazgzUGMtNHN2QjZCMkRaaEEybjdRcmt3?oc=5"
   },
+  "ed9e0249dab6": {
+   "found": "2026-10-30",
+   "id": "ed9e0249dab6",
+   "status": "skip"
+  },
   "ee09d22582a3": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -7160,6 +8043,17 @@
    "status": "triaged",
    "title": "AI’s global future: Access, skills and inequality",
    "url": "https://aiforgood.itu.int/ais-global-future-access-skills-and-inequality/"
+  },
+  "ee9a51ce4b9f": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "ee9a51ce4b9f",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "EEAS (via search)",
+   "status": "triaged",
+   "title": "The European Union Film Festival Addis Ababa is back! 23 October - 21 November, 2026",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWNqZmx1QVJzSlRXalViSnRzdW9JOVIzOTloeVpBNTF3OWxsQy02MWNId0dmekhRNEZKZ3lTUkpqaUpuVy1iVG1jMlpLdzNlZy0yOVpoODRDc0R3RXB5VGJ1QVpIQ3Q2WEpkOW5JTDI0dUNQUzlsWEpWczhRaDF6aGJCYmtQRFRhNFgxaFBvME9KTGpFZVBBWTY5LVcyUTZVUDktSEhCXzdjWVkzMVE?oc=5"
   },
   "eed515c8c2d3": {
    "found": "2026-10-28",
@@ -7416,6 +8310,17 @@
    "title": "EU Council agrees position on digital rulebook changes",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rU2phamNfVmMzbC1ZRTdCSDhvU254RTk4WXE3T1d3Q3l1U2ZrbHM0Sm44UmR4Rm5uZ01qdHZWUkpDVHRscFFPU29SQm45WGdaeVV1WGtHdWNNcWlzYkNLYzZwWUVWd3JmRmlha09xWHNYd1hWdXZR?oc=5"
   },
+  "f7655c1acf6f": {
+   "found": "2026-10-30",
+   "group": "government",
+   "id": "f7655c1acf6f",
+   "published": "2026-06-01",
+   "snippet": "",
+   "source": "Bizcommunity (via search)",
+   "status": "triaged",
+   "title": "South Africa's AI policy cheat sheet",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamlBQ1VmU3VWRjd4ZFRBcTVpVTZRdU5zc1FhVVhKR3JxaW13dkdvaTJ4V1VMeC1BSEI5WnFnbFpCdzlsclUwRG5jeWM4bTRKSmo1aHJ6UnpiNmUxc3BSRlNHQ2ZGdTVpRGdjcGhIaFRpQW50dFN5MWtWS3pOek5scjNJd2l4QQ?oc=5"
+  },
   "f86850c52842": {
    "found": "2026-10-28",
    "group": "government",
@@ -7515,6 +8420,46 @@
    "title": "Inside Kenya's Artificial Intelligence Bill and the fight for accountability",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWJGVkVlSFVFdlo5YUpGc3o1SUh4ZFVpY3h4Z1JNb1ZwWGlZMEJGSkVFczhYNDI4LXFWSzZkejRMV1JWMmZQOHlfd0pUQ3Vpa1FDazRYLU02Z3dfS1AxZ1NBYndqZW1ldXEzaEVhSUw1eUNRYzMyNi1tN1pGbVA2R05qSHlHOVZvOUtMNHhQU25kYS1Ub3ZTZUJiLUdGZDVadEdhMFpwckFBRGc1cUZqN05HVEs4cmI3NmtDQTVWUXlJM3p3bTB6Rm1qZXkwbEFNV3c1bFJ3LUtNcDg?oc=5"
   },
+  "fb9e3acfb2ca": {
+   "action": "Monitor STC work programme for AI policy consultations; consider outreach to Ghana's Ministry of Communications for input opportunities.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "African Union"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 2,
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "headline": "Ghana's Sam George confirmed as AU STC on Communication and ICT chair",
+   "id": "fb9e3acfb2ca",
+   "location": "Addis Ababa, Ethiopia / Online",
+   "organizers": [
+    "African Union",
+    "AU Specialized Technical Committee on Communication and ICT"
+   ],
+   "participation": "",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "MyJoyOnline (via search)",
+   "status": "done",
+   "summary": "Ghana's Communications Minister Sam George has been confirmed as chair of the African Union's Specialized Technical Committee on Communication and ICT, a key continental body for digital and AI policy.",
+   "thread": "T14145",
+   "title": "Communications Minister Sam George confirmed as chair of AU STC on Communication and ICT",
+   "topics": [
+    "Africa policy",
+    "global AI law"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTJHSHJZNUYwYjIzbW5LUHNZRExkeVIwUDFvNGkwbEd3cWhRRERSd0ZtM2VIY3JDWURfeTJhWm1Va3UxeW9aY3Z1eDA4WmdHZF9VVDlIUmNnaE1xSlBhaHBjTlk1U1c2eXFESjdjYkctbjdhZkwzZGwxLU1SWmJyUnZqbFBtUlptWFlrWWh3OGNNUzBvZ2MwX0FmbkQwS0FJR3hZVmt4SmE2cUI4VkVGbV83N2xWVEND?oc=5",
+   "why": "The AU STC on Communication and ICT shapes continental AI governance; its chair influences agenda-setting and could be an entry point for ILINA's policy engagement."
+  },
   "fc5dc484103f": {
    "found": "2026-10-28",
    "group": "government",
@@ -7580,6 +8525,17 @@
    "status": "triaged",
    "title": "African Union appoints Ugandan climate activist Vanessa Nakate to champion youth voices across Africa",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcTFJVGFwUzl5czQtMWJpVTdwOUZ0Q0kzdW1QS0ZfcHoxSFdYQjdKcm5udS1vdzhSYkVJNGlQMi1sSkV3VTlBbDdBbjZTQkxrWUtoeGRFN1ktZE0zTGZIZnpKVk9nNHRVNERMeHVkdkRud2JNTXR1MGJpVlFHYVN1ckFzRVZoak9UT2ljSnAxcFhkOGEwaWZKT0prdkd6Q3RQLVZCNUZNdExjWU5BNzdMbXl5SDBXU2NWLTJyVEprdWhoN1RlaThmSUFLY2otVEhGQnhEQkhKTmZXWUNkVlhIbmtPd0hfSHZya1E?oc=5"
+  },
+  "feeec5766ee5": {
+   "found": "2026-10-30",
+   "group": "multilateral",
+   "id": "feeec5766ee5",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "LatestLY (via search)",
+   "status": "triaged",
+   "title": "World News",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSW9kaGNpS25mU1AxWVRyaEN5NjRxQjZwVTZqWHozd3hqZHNGZjJKazJBVDl3YUxPdU53Q3NEWFVoYWpRMl9VWDhremkteWplUWR5Sk9rOEVBRkdGMzhseVJKd1htbDRTdnhaTVpGMFZqeGNHVHpXMDVPZ2Ita0U2ZlNrLWtiUGZTRmtwVWJybEtXMnVxT3htYkk3NVZ0SHFYYnI5cVJXOG9tQ1RVWFM1bE1aa0twOXdqMWxrMWxtNVRJaFpGeVNZVjY5UmdiNFlUYVFRSktiU1p6MGt5a05IMm9DRVlNc2M0ZzlxVWl5Z3pDNTduTGE2X9IB-AFBVV95cUxNSW9kaGNpS25mU1AxWVRyaEN5NjRxQjZwVTZqWHozd3hqZHNGZjJKazJBVDl3YUxPdU53Q3NEWFVoYWpRMl9VWDhremkteWplUWR5Sk9rOEVBRkdGMzhseVJKd1htbDRTdnhaTVpGMFZqeGNHVHpXMDVPZ2Ita0U2ZlNrLWtiUGZTRmtwVWJybEtXMnVxT3htYkk3NVZ0SHFYYnI5cVJXOG9tQ1RVWFM1bE1aa0twOXdqMWxrMWxtNVRJaFpGeVNZVjY5UmdiNFlUYVFRSktiU1p6MGt5a05IMm9DRVlNc2M0ZzlxVWl5Z3pDNTduTGE2Xw?oc=5"
   },
   "ff1394a543e6": {
    "found": "2026-10-28",
@@ -7734,9 +8690,9 @@
     "https://www.giz.de/en/expertise/infrastructure",
     "https://www.giz.de/en/newsroom/downloads",
     "https://www.giz.de/en/newsroom/news/armenia-together-thriving-lake",
+    "https://www.giz.de/en/newsroom/news/best-practice-turkiye-recycling-plastic-creating-opportunities",
     "https://www.giz.de/en/newsroom/news/biodiversity-protection-also-crisis-prevention",
     "https://www.giz.de/en/newsroom/news/colombian-coastline-armenian-fields-local-ideas-bolstering-climate-action-worldwide",
-    "https://www.giz.de/en/newsroom/news/rice-cultivation-thailand-two-million-euros-generate-120-million",
     "https://www.giz.de/en/newsroom/news/truth-basis-peace",
     "https://www.giz.de/en/newsroom/news/young-african-talents-boost-german-business-africa",
     "https://www.giz.de/en/newsroom/newsletter",
@@ -7748,7 +8704,7 @@
     "https://www.giz.de/en/partner/contractor/services-construction-work",
     "https://www.giz.de/en/regions/latin-america-caribbean"
    ],
-   "text": "Newsroom\nReport\nWhere Jordanian skilled workers are boosting the economy\nA medium-sized business in the East Westphalia region of Germany is meeting its demand for skilled workers with support from GIZ: the plastics processing firm Hadi-Plast is benefiting from apprentices from Jordan.\nFind out more\nWhere Jordanian skilled workers are boosting the economy\nBackground\nUN Biodiversity Conference 2026: COP17 in a nutshell\nThe next UN Biodiversity Conference will be held in Armenia in October. Here we answer the most important questions about the negotiations.\nFind out more\nUN Biodiversity Conference 2026: COP17 in a nutshell\nInterview\n‘What we do or do not do in cities will have a decisive effect on future temperatures’\nHow is the global housing shortage connected to climate change? Anacláudia Rossbach, Executive Director of UN-Habitat, explains this connection and which measures can be taken to make cities more climate-resilient.\nFind out more\n‘What we do or do not do in cities will have a decisive effect on future temperatures’\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nTopic\n26.10.2026\nYoung African talents boost German business in Africa\nWho understands African markets better than Africa´s emerging leaders? GIZ puts them in touch with companies directly as part of a fellowship programme.\nMore\nYoung African talents boost German business in Africa\nTopic\n22.10.2026\nTruth as the basis for peace\nGIZ has opened a school of journalism in Damascus to promote reporting that considers different perspectives and does not escalate conflicts.\nMore\nTruth as the basis for peace\nTopic\n15.10.2026\n'Biodiversity protection is also crisis prevention'\nInterviewed in the run-up to the Conference of the Parties to the Convention on Biological Diversity (COP 17) in Armenia, GIZ Director General Elke Siehl and Director of Division Alexander Haack explain why human existence depends on the biodiversity on Earth, how we are protecting the basis of our livelihoods around the world, and who is driving improvements.\nMore\n'Biodiversity protection is also crisis prevention'\nTopic\n14.10.2026\nArmenia: Together for a thriving lake\nArmenia is hosting this year’s UN Biodiversity Conference. Lake Sevan is a case study for how better data, nature-based solutions and strong government agencies can preserve biodiversity.\nMore\nArmenia: Together for a thriving lake\nTopic\n08.10.2026\nRice cultivation in Thailand: two million euros generate 120 million\nHow public funding and international cooperation attract investment in climate action.\nMore\nRice cultivation in Thailand: two million euros generate 120 million\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
+   "text": "Newsroom\nReport\nWhere Jordanian skilled workers are boosting the economy\nA medium-sized business in the East Westphalia region of Germany is meeting its demand for skilled workers with support from GIZ: the plastics processing firm Hadi-Plast is benefiting from apprentices from Jordan.\nFind out more\nWhere Jordanian skilled workers are boosting the economy\nBackground\nUN Biodiversity Conference 2026: COP17 in a nutshell\nThe next UN Biodiversity Conference will be held in Armenia in October. Here we answer the most important questions about the negotiations.\nFind out more\nUN Biodiversity Conference 2026: COP17 in a nutshell\nInterview\n‘What we do or do not do in cities will have a decisive effect on future temperatures’\nHow is the global housing shortage connected to climate change? Anacláudia Rossbach, Executive Director of UN-Habitat, explains this connection and which measures can be taken to make cities more climate-resilient.\nFind out more\n‘What we do or do not do in cities will have a decisive effect on future temperatures’\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n30.10.2026\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nIm Interview spricht Eyyup Sezer darüber, wie das Unternehmen Sönmez Global die Kreislaufwirtschaft fördert und gleichzeitig die Lebensgrundlage von Geflüchteten unterstützt. Eine Win-win-Situation für alle.\nMore\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nTopic\n26.10.2026\nYoung African talents boost German business in Africa\nWho understands African markets better than Africa´s emerging leaders? GIZ puts them in touch with companies directly as part of a fellowship programme.\nMore\nYoung African talents boost German business in Africa\nTopic\n22.10.2026\nTruth as the basis for peace\nGIZ has opened a school of journalism in Damascus to promote reporting that considers different perspectives and does not escalate conflicts.\nMore\nTruth as the basis for peace\nTopic\n15.10.2026\n'Biodiversity protection is also crisis prevention'\nInterviewed in the run-up to the Conference of the Parties to the Convention on Biological Diversity (COP 17) in Armenia, GIZ Director General Elke Siehl and Director of Division Alexander Haack explain why human existence depends on the biodiversity on Earth, how we are protecting the basis of our livelihoods around the world, and who is driving improvements.\nMore\n'Biodiversity protection is also crisis prevention'\nTopic\n14.10.2026\nArmenia: Together for a thriving lake\nArmenia is hosting this year’s UN Biodiversity Conference. Lake Sevan is a case study for how better data, nature-based solutions and strong government agencies can preserve biodiversity.\nMore\nArmenia: Together for a thriving lake\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
   },
   "https://www.globalcenter.ai/news": {
    "links": [
@@ -7901,8 +8857,6 @@
     "https://www.techpolicy.press/canada-and-europe-need-a-way-to-see-the-ai-they-cannot-access",
     "https://www.techpolicy.press/creating-a-new-internet-bargain-to-preserve-fair-use-and-protect-the-commons",
     "https://www.techpolicy.press/how-to-reclaim-the-future-from-strongmen-and-oligarchs",
-    "https://www.techpolicy.press/in-brazils-runoff-lula-faces-bolsonaro-trump-and-big-tech",
-    "https://www.techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
     "https://www.techpolicy.press/lulas-win-signals-fight-to-regulate-social-media-will-reach-new-level-in-brazil",
     "https://www.techpolicy.press/on-eve-of-vote-brazils-federal-prosecution-office-demands-answers-from-meta",
     "https://www.techpolicy.press/the-edge-dialogues-with-dr-alondra-nelson",
@@ -7910,11 +8864,13 @@
     "https://www.techpolicy.press/the-pentagon-has-a-big-tech-problem",
     "https://www.techpolicy.press/the-solution-to-ais-alignment-problem-is-precise-guardrails-on-how-we-use-it",
     "https://www.techpolicy.press/the-ukus-tech-deal-exposes-the-limits-of-britains-ai-ambitions",
+    "https://www.techpolicy.press/what-latino-voters-can-teach-washington-about-ai-governance",
     "https://www.techpolicy.press/what-to-do-about-the-coming-glut-of-ai-data-centers",
+    "https://www.techpolicy.press/what-training-dataset-transparency-mandates-hide",
     "https://www.techpolicy.press/will-prediction-markets-affect-democracy-take-a-bet",
     "https://www.techpolicy.press/without-an-exit-plan-ai-partnerships-risk-becoming-the-new-tied-aid"
    ],
-   "text": "Perspective\nCreating a New Internet Bargain to Preserve Fair Use and Protect the Commons\nPublic Knowledge’s Lisa Macpherson and Creative Commons’ Anna Tumadóttir say AI broke the open web’s bargain and propose principles to protect the commons.\nOctober 28, 2026\nFeatured\nPerspective\nThe Solution to AI’s Alignment Problem is Precise Guardrails on How We Use It\nOctober 28, 2026\nPerspective\nCanada and Europe Need a Way to See the AI They Cannot Access\nOctober 28, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nFeatured\nPerspective\nThe Solution to AI’s Alignment Problem is Precise Guardrails on How We Use It\nOctober 28, 2026\nPerspective\nCanada and Europe Need a Way to See the AI They Cannot Access\nOctober 28, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nLatest\nView more\nPerspective\nWill Prediction Markets Affect Democracy? Take a Bet\nOctober 28, 2026\nPerspective\nBreaking the Open Web Won’t Stop the Bad Bots\nOctober 27, 2026\nAnalysis\nThe UK-US Tech Deal Exposes the Limits of Britain's AI Ambitions\nOctober 27, 2026\nPerspective\nLula’s Win Signals Fight to Regulate Social Media Will Escalate in Brazil\nOctober 27, 2026\nPerspective\nWhat to Do About the Coming Glut of AI Data Centers\nOctober 27, 2026\nPerspective\n‘The Greatest Capitalist In History’? A Review of Alex Gibney’s ‘Musk’\nOctober 27, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\n‘The Greatest Capitalist In History’? A Review of Alex Gibney’s ‘Musk’\nOctober 27, 2026\nPerspective\nThe Pentagon Has a Big Tech Problem\nOctober 26, 2026\nPerspective\nWithout an Exit Plan, AI Partnerships in Africa Risk Becoming the New Tied Aid\nOctober 26, 2026\nNewsletter\nHow to Reclaim the Future from Strongmen and Oligarchs\nOctober 25, 2026\nPodcast\nThe Edge Dialogues with Dr. Alondra Nelson\nOctober 25, 2026\nNews\nOn Eve of Vote, Brazil’s Federal Prosecution Office Demands Answers from Meta\nOctober 23, 2026\nPerspective\nIn Brazil’s Runoff, Lula Faces Bolsonaro, Trump—and Big Tech\nOctober 23, 2026\nPerspective\nLLMs Are Still Making Election Deepfakes Just Days Before the US Midterms\nOctober 23, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Perspective\nWhat Latino Voters Can Teach Washington About AI Governance\nWhen it comes to AI, Latinos want progress, but they also want rules that protect their jobs, personal information, and communities, writes Roberta Braga.\nOctober 29, 2026\nFeatured\nPerspective\nWhat Training Dataset Transparency Mandates Hide\nOctober 29, 2026\nPerspective\nCreating a New Internet Bargain to Preserve Fair Use and Protect the Commons\nOctober 28, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nFeatured\nPerspective\nWhat Training Dataset Transparency Mandates Hide\nOctober 29, 2026\nPerspective\nCreating a New Internet Bargain to Preserve Fair Use and Protect the Commons\nOctober 28, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nLatest\nView more\nPerspective\nThe Solution to AI’s Alignment Problem is Precise Guardrails on How We Use It\nOctober 28, 2026\nPerspective\nWill Prediction Markets Affect Democracy? Take a Bet\nOctober 28, 2026\nPerspective\nCanada and Europe Need a Way to See the AI They Cannot Access\nOctober 28, 2026\nPerspective\nBreaking the Open Web Won’t Stop the Bad Bots\nOctober 27, 2026\nAnalysis\nThe UK-US Tech Deal Exposes the Limits of Britain's AI Ambitions\nOctober 27, 2026\nPerspective\nLula’s Win Signals Fight to Regulate Social Media Will Escalate in Brazil\nOctober 27, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nLula’s Win Signals Fight to Regulate Social Media Will Escalate in Brazil\nOctober 27, 2026\nPerspective\nWhat to Do About the Coming Glut of AI Data Centers\nOctober 27, 2026\nPerspective\n‘The Greatest Capitalist In History’? A Review of Alex Gibney’s ‘Musk’\nOctober 27, 2026\nPerspective\nThe Pentagon Has a Big Tech Problem\nOctober 26, 2026\nPerspective\nWithout an Exit Plan, AI Partnerships in Africa Risk Becoming the New Tied Aid\nOctober 26, 2026\nNewsletter\nHow to Reclaim the Future from Strongmen and Oligarchs\nOctober 25, 2026\nPodcast\nThe Edge Dialogues with Dr. Alondra Nelson\nOctober 25, 2026\nNews\nOn Eve of Vote, Brazil’s Federal Prosecution Office Demands Answers from Meta\nOctober 23, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
@@ -7955,10 +8911,10 @@
   "https://www.unesco.org/en/artificial-intelligence": {
    "links": [
     "https://www.unesco.org/en/articles/faculties-education-latin-america-address-how-prepare-future-teachers-age-artificial-intelligence",
-    "https://www.unesco.org/en/articles/how-karishma-india-broadens-access-sexuality-education-ai-and-digital-channels",
     "https://www.unesco.org/en/articles/how-youth-bridging-digital-knowledge-divide-course-ai-and-human-rights",
     "https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=195885",
     "https://www.unesco.org/en/articles/turning-global-interest-support-indigenous-led-ai",
+    "https://www.unesco.org/en/articles/unesco-santiago-commemorated-25th-anniversary-information-all-programme-ifap-regional-events",
     "https://www.unesco.org/en/articles/unescos-digital-transformation-collaborative-charting-how-ai-reshaping-education-systems",
     "https://www.unesco.org/en/artificial-intelligence-culture",
     "https://www.unesco.org/en/artificial-intelligence/ai-public-sector",
@@ -7982,17 +8938,21 @@
     "https://www.unesco.org/ethics-ai/en/ram",
     "https://www.unesco.org/ethics-ai/en/ram?hub=195885"
    ],
-   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nResources\nSince its founding at the dawn of the atomic age, UNESCO has helped societies navigate and manage the transformative power of technology – to the benefit of all.\nToday, in an era shaped by Artificial Intelligence (AI) and related breakthrough innovations, UNESCO continues the critical work of ensuring these emerging technologies are developed and deployed in service of equity, opportunity, and inclusivity.\nVideo series: 7 minutes to understand AI\n© shutterstock.com / 3rdtimeluckystudio\nOur impact\nHow UNESCO is shaping an ethical digital future.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nPolicy Development: Readiness Assessment Methodology (RAMs)\nUNESCO helps Member States evaluate their readiness for the AI transformation through its Readiness Assessment Methodology (RAM) program, which helps policymakers identify their policy gaps and develop their national policies and strategies toward the development and deployment of these transformative technologies.\nAs of October 2025, over 75 countries from five continents have initiated or completed to RAM assessments, and policymakers worldwide are further able to draw on the Technology Policy Assistance Facility, developed in cooperation with the South African G20 Presidency.\nReadiness Assessment Methodology\nTechnology Policy Assistance Facility\n© SeventyFour / Shutterstock.com\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nTurning global interest into support for Indigenous-led AI\n21 October 2026\nNews\nFaculties of Education in Latin America address how to prepare future teachers for the age of artificial intelligence\n20 October 2026\nNews\nUNESCO's Digital Transformation Collaborative: Charting how AI is reshaping education systems\n19 October 2026\nStory\nHow Karishma from India broadens access to sexuality education via AI and digital channels\n16 October 2026\nLoad more"
+   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nResources\nSince its founding at the dawn of the atomic age, UNESCO has helped societies navigate and manage the transformative power of technology – to the benefit of all.\nToday, in an era shaped by Artificial Intelligence (AI) and related breakthrough innovations, UNESCO continues the critical work of ensuring these emerging technologies are developed and deployed in service of equity, opportunity, and inclusivity.\nVideo series: 7 minutes to understand AI\n© shutterstock.com / 3rdtimeluckystudio\nOur impact\nHow UNESCO is shaping an ethical digital future.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nPolicy Development: Readiness Assessment Methodology (RAMs)\nUNESCO helps Member States evaluate their readiness for the AI transformation through its Readiness Assessment Methodology (RAM) program, which helps policymakers identify their policy gaps and develop their national policies and strategies toward the development and deployment of these transformative technologies.\nAs of October 2025, over 75 countries from five continents have initiated or completed to RAM assessments, and policymakers worldwide are further able to draw on the Technology Policy Assistance Facility, developed in cooperation with the South African G20 Presidency.\nReadiness Assessment Methodology\nTechnology Policy Assistance Facility\n© SeventyFour / Shutterstock.com\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nUNESCO Santiago commemorated the 25th anniversary of the Information for All Programme (IFAP) with regional events on artificial intelligence and critical literacy\n29 October 2026\nNews\nTurning global interest into support for Indigenous-led AI\n21 October 2026\nNews\nFaculties of Education in Latin America address how to prepare future teachers for the age of artificial intelligence\n20 October 2026\nNews\nUNESCO's Digital Transformation Collaborative: Charting how AI is reshaping education systems\n19 October 2026\nLoad more"
   }
  },
  "threads": {
   "T14145": {
    "name": "African AI sovereignty & safety discourse",
-   "updated": "2026-10-29"
+   "updated": "2026-10-30"
   },
   "T156d9": {
    "name": "AU Digital Transformation Strategy Review 2026",
    "updated": "2026-10-28"
+  },
+  "T43733": {
+   "name": "South Africa AI Policy Consultation 2026",
+   "updated": "2026-10-30"
   },
   "T5cef6": {
    "name": "UN Independent International Scientific Panel on AI",
@@ -8001,6 +8961,10 @@
   "Td92b1": {
    "name": "UN Global Dialogue on AI Governance 2027",
    "updated": "2026-10-29"
+  },
+  "Tf7c3f": {
+   "name": "EAC Unified AI Strategy 2026",
+   "updated": "2026-10-30"
   }
  }
 }
