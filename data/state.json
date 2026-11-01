@@ -22,17 +22,20 @@
    "title": "South Africa yanks AI policy after AI-assisted drafting invents citations",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWwzZEFHQnZkc2ZXbnE3U3dMd09seEZrcGxiVUFQWUdvb0YzcnBjSmlNajNKb3IwMlB5WkJQUWRWUFdwNzlwdFMzWmZGTXlHUGtjZG54QUw0ZFMzUGp6MlFKVGdhOTE1NWJwZHBEaVlUcmNqWEhJM1pFRkR4Rl9LYUVJdklwVGhJMUE2bmZkREg0YUZOT0JhWmFFTTVFM2dIMk9ET3lYYVhBWk1VYnZkLW4yN2h0cTg?oc=5"
   },
+  "00520fdf0266": {
+   "found": "2026-11-01",
+   "id": "00520fdf0266",
+   "status": "skip"
+  },
   "005260a82c94": {
    "found": "2026-10-29",
-   "group": "multilateral",
    "id": "005260a82c94",
-   "published": "2026-10-28",
-   "snippet": "Language Undefined Barbados and United Nations to co-host Special Summit on AI Safety on 23 November Senior representatives from governments, technology companies, the scientific community and civil society will meet in Barbados on 23 November to discuss international cooperation on artificial intelligence (AI) safety and how the benefits of AI can be shared more widely. The Bridgetown Special Summit on AI Safety will take place on 23 November 2026 in Bridgetown, Barbados and will be attended by Prime Minister Mia Amor Mottley of Barbados and UN Secretary-General António Guterres. The risks and opportunities of AI cross borders, and many countries are affected by AI systems they have little capacity to assess or influence. The Summit will look at where international cooperation can improve AI safety and preparedness, and how countries and communities can shape AI development and benefit from it. The agenda covers risk management, inclusion, access, capacity, diffusion, and cultural and linguistic representation. Participants are expected to include senior representatives from governments, technology companies, the scientific community, civil society, international organizations and United Nations system entities. From science to cooperation The Summit will be held back-to-back with the second in-person meeting of the Independent International Scientific Panel on Artificial Intelligence. The Panel's Co-Chairs have requested the UN to bring together independent experts and AI c",
-   "source": "UN ODET",
-   "status": "triaged",
-   "title": "Barbados and United Nations to co-host Special Summit on AI Safety on 23 November",
-   "tries": 2,
-   "url": "https://www.un.org/digital-emerging-technologies/content/barbados-and-united-nations-co-host-special-summit-ai-safety-23-november"
+   "status": "skip"
+  },
+  "00b112fca492": {
+   "found": "2026-11-01",
+   "id": "00b112fca492",
+   "status": "skip"
   },
   "00be208378a1": {
    "found": "2026-10-28",
@@ -409,6 +412,11 @@
    "url": "https://www.un.org/global-dialogue-ai-governance/en",
    "why": "This is the primary UN multilateral platform for AI governance where ILINA can track African state positions, engage in side events, and feed evidence from the Scientific Panel into African policy advocacy."
   },
+  "0a3371f69702": {
+   "found": "2026-11-01",
+   "id": "0a3371f69702",
+   "status": "skip"
+  },
   "0a8d85e48539": {
    "found": "2026-10-31",
    "id": "0a8d85e48539",
@@ -462,6 +470,17 @@
    "status": "triaged",
    "title": "Anthropic presents legislators with a draft proposal to regulate AI using risk thresholds and judicial oversight",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDdCekhjOFZELXdWQlg4c25tclJmTHRKbUdEandXRVkxV0NKRlZNRm9aY2YyNlVZV0c2U1h2UFVGWFVQWkxSQU9JaUNCRjMzQ3Ita2RtY2ZUYlpmLW0xWWgzalFvck5tVWJJaDdiUExRMkQ1UDNnUTByWllNcmNLVzdRblV2SVVjeDlGQVBqX0o5bXJUeGlkRW9DWF9VVkpRQUNJeWJfN2NORjNEZktqaDlpX0RQenh1MUsxRmNPN3lYZGltQTh5NjJ2ODZkZE92MDhObW9tdjZCcGxkNUxmeTF4Vl9nQmlTWGc?oc=5"
+  },
+  "0d9e8e8b6dc9": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "0d9e8e8b6dc9",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Benton Institute for Broadband & Society (via search)",
+   "status": "triaged",
+   "title": "How To Govern Artificial Intelligence Without Government",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHU4eG1kb1l0eEhZZEdVQkpmR3M3eFZpeEdwQzBRbDJreGhvcGQ1NnV1amU4Y2xwRFA5VGRFRmM1Y3Zub25Tc2E0UUxfX3AwRFdoM3NFVms5WWpEektrVWRsWk45T2xuVzg5WU9UX0hiOTNTVzhucmVZT0ZrN0xROERPQVZtUHRx?oc=5"
   },
   "0da15595fcb1": {
    "action": "Read full article; cite in memos on African positioning in frontier AI governance if it substantively addresses African roles.",
@@ -521,6 +540,17 @@
    "title": "Kenya’s AI Strategy 2025–2030: Signals for Global Companies Operating in Africa",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFBrNC11WXpDQkZLRDNqVVdpSmY0SC1uNVRydWtTZGozM3FkNTBVRTBHVWNZQW5KcDNaX2M4QkVPSlF6dHp4TmotODZuM1RYUnp1SHZFaDk2S1lEd3l5VURJVnIxRmJPdzZoYV9VS0FqcFVmMl92d1R3b0JMZWlFRk5tY05VemktSUxaRTFkTFZtTDQyNTViRVNiN19NUzM3WWRSUnEzWnRTajRzN1RMVEQ5a0xHVmtoZWhBRnAzMmxEMnpPdWNXbXNNNGs?oc=5"
   },
+  "0e0598df4434": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "0e0598df4434",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "3News (via search)",
+   "status": "triaged",
+   "title": "The PHP software incident - Is Ghana prepared for the consequences?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQndmM05nZHQwZVktR2dIUDlLSE1taFI0amNNN0ZaQ2w3TU5EMURTT0J1a2ViOUZ4VU9tRE8zbXpxWHJmWUlmNEo2SHNWdlFCNTlYVVNUSzBkUXJoRnkzMk14Zk5naHB6R21uaE54TTBkWkhzVlVDSkk3eVl2ZkFqM0puWTJSMmlZUkpoQzM0Q2U?oc=5"
+  },
   "0e0cf8027c7d": {
    "found": "2026-10-28",
    "group": "government",
@@ -575,6 +605,11 @@
    "status": "triaged",
    "title": "Evaluating: “A Framework for America’s AI Future”",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEl0MFUtZEdLWkVRWE5nOW5JQVpMVW9DU2NVNkFLOVlLMmh5TDRpbWhuN2hSTnItSmJQQmY2YmlnQ1RUeWQ0WVRMY0FaUGd3SWhVeXVHeWFmbzF4c1Y0VWRwX1BwVk04OUFHeXY5NXI1dVNrMGpXQ0t5R1pmeE5pZFQ0dHVmQjE4bDFabFJEbFRuQQ?oc=5"
+  },
+  "0ecc4be5af4b": {
+   "found": "2026-11-01",
+   "id": "0ecc4be5af4b",
+   "status": "skip"
   },
   "0f290b7bfd89": {
    "found": "2026-10-28",
@@ -663,6 +698,17 @@
    "id": "120a62e0aa1e",
    "status": "skip"
   },
+  "12602b2ddb04": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "12602b2ddb04",
+   "published": "2026-10-24",
+   "snippet": "",
+   "source": "Forkast News (via search)",
+   "status": "triaged",
+   "title": "The Enforcement Void: Accumulated Risks After 43 Days of Tracker Silence",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3k2a2RYRmpRTlA1MWdENzhWOG5nbkhrZWxQNGFfUm9rNm80cU5lOXR5RGUxLVdzeTF2ZG9XY2FMTEgtd1R0RGZBXzRqOV9SSzVnd3ZzTG1ScFU1Tl9YR1lvUXhUYVU1bGFUMjVXNHBLRFhHVmZZTzlPeUNxWExZUUl1aXJBbVRCY09XVVJvZVROUnFXOG5VdQ?oc=5"
+  },
   "12a023968c1d": {
    "found": "2026-10-28",
    "group": "government",
@@ -740,6 +786,17 @@
    "title": "Nigeria Urges Shared AI Computing Infrastructure Among African Nations",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVyellGVHpnV2tKY0RNQ0lrVEkzdTdseTJYbXB4aGVBUXk1ZXhVenoxMW5vRTNEZW55ZUo3TjdWRG9yczR0TDU2ZzBjR1haUVdsVFo0NklNTnhQcldmcmtfaDF6RmppZ3hndnRhUlRQZFl4RUg3ZGNmNUYzU3ZHY04xODNYNTAyTktnNEZaRHB6eUFxdE5QZ01kTkV4Z25WV1Nac1NZNU5aUQ?oc=5"
   },
+  "14ad36d259c0": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "14ad36d259c0",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "Traders Union (via search)",
+   "status": "triaged",
+   "title": "Europe startups weigh relocation as AI regulation and funding gaps strain growth",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFF3RWZOeE13VFE4WUhicnVJRXJrbU5veEpQa0s2eHF1Q1ZQQ0pLMXFhMUlpZjZKRWoxNnUwUlJSMnZ1QU0ydkV5YU9xSjU3UmJQV3F1MXdjQWV0TTlSR2pDZEpvV0k4c0ZWS2pscGV6a1FiWkJISlJXVnJfYVEwdWFIVFp6a1huOUcyeEptamJkUXdaUkNMblVlYlI3UQ?oc=5"
+  },
   "14ae90b73ce1": {
    "found": "2026-10-28",
    "group": "government",
@@ -783,6 +840,17 @@
    "status": "triaged",
    "title": "Anthropic IPO filing puts AI spending, valuation and profitability in focus",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanNxczhPaHFMQkJOb3NKT0puZnp1SzhxdTNJX1g0NWV2MUVfQktfemN5cGVtWFI2bG94RWFNVXpLazdjbFI5STI2blFzWVE0djA0T0dyN2pvMlE1V3FKMmR3c0VJOFdLenhJZFFTc0dnSkoySGk5TmpiTUZpUWdaV3JQLVVZcHVpU1Y1R3dlcms2TXlEZTdKV3VzWWhQTjlFdW4tYVF1UkRUcXBSbDdqWEdJZw?oc=5"
+  },
+  "156d76b4c74a": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "156d76b4c74a",
+   "published": "2026-10-25",
+   "snippet": "",
+   "source": "ET Enterprise AI (via search)",
+   "status": "triaged",
+   "title": "UK announces €100 million AI biosecurity lab with OpenAI, Anthropic, Google DeepMind: Report",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPanJXbjJqSmhVTEhXbVZfTVZESnVIcmh0eTZDalpRNmZTSkVCWFJWUm41REs3SHlIRnBlZU9SZ0hKOFRhY1dHdnQ1X1pFWW9MVmNBbUx3SjVpR2t5UWl0S0xFakJlUS04LWFnQ0NZRFlYNEk3dHFydFpseDhQaDBOanF0TlJoVXcyUUptbF9JOUNVQlotY2NYM1NZMG5sV3doajFYZUFfN2twTWx2SnBFdlMwblNINlRzbkxDVWE4WTgxdmFBanpaOTdIZEhaS2pxeU5JbDZlazMxZG5yRjJsbmRtVy1aUGRiT2xvU3VneHpROG9f0gH6AUFVX3lxTE4xMjVDQ1RiN0EyV3dOUWg0LTM4cnJKYnFXZmxkX28yRjlQMk5XYjBOWW4yVndBX2ZjQ1NoUjh2MEl3UGlBb3J2VmhkZWlVbmxoOWw4ZWFPbV9VenNwaGFYbGZQN196WDlyNy0tbFVxU0RocDlOT1g3SHQ3R3RyRm1KMEhHTnd4YUplTWIwUjhXVVU4TWlIZ0RwX0h0SGhKb25MdEtHS25NSkd1U0RMN1VuRW56UVZQaU5XbFRMTV9kMjRjeWdBaHNkWDk4UzV1TkFaa3Jrc0JScm1xZGxIb3h4OTlEMWZ2X2ZLYkc5QU5WOWRiaVdzVzlKLVE?oc=5"
   },
   "15798b35e3c3": {
    "found": "2026-10-28",
@@ -1083,6 +1151,11 @@
    "title": "The House | The UK's AI Security Institute: As Calls For Regulation Grow, Is It Still Fit For Purpose?",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelZSTXpYVm5iblRDSWRVcDFkazFWV0tNOXQ4NlRSYnpuUXdNckIyenJUdUtsal9NYURkV0xrYTlKUXA4VHlwZTgxamhWckNWajNiTXFvWGRYQXY1R0ltdGYySFVYTks4LWltdGRmTS05dThraEdzUWpaMjd4WmZsUnVyWmhQcGtobVRJckZqeUVYNVlTSkhQaVlSM0RTZjhuMHhERHg0dnlhVFk?oc=5"
   },
+  "1ecbb27ca448": {
+   "found": "2026-11-01",
+   "id": "1ecbb27ca448",
+   "status": "skip"
+  },
   "1eee4756e057": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -1142,6 +1215,11 @@
    "title": "Who controls AI in Africa? The governance gap Kenya must confront before 2027",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1hwOHhOR1ZtdkFCOE5pNkpGUkt1LWRVVHFiNzhFd1pnd0pIeFJNRWtoUUlGeExoNk1LY0tWSUFoNExXd2NQM3V4cEJiVlVLTkJySTJnYVJlTG5jemFiQkI3M0xzNk1PZzlteDVUWG8tYmNBcjlzSDZJVE5EaDA1X0MzT0dRd0VUejdKejN6U3IxY21rdEFhNmo0UmpjR3g2dFZEZDFsbzdiWG1FUm1mVVBwTQ?oc=5"
   },
+  "1fe90425e161": {
+   "found": "2026-11-01",
+   "id": "1fe90425e161",
+   "status": "skip"
+  },
   "1ff326543c3e": {
    "found": "2026-10-29",
    "id": "1ff326543c3e",
@@ -1195,6 +1273,11 @@
    "status": "triaged",
    "title": "AU–EU partnership opens new pathways for cooperation on AI in Science",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYndEeUtsaVByUUZ6Z2o5QTE4aWNyZ0VBWUdxMXJuZ19PNEo3VnI5U2VoX1hkM1JVQkFOVDFDajN3MzdCR3pnTnM5TDkzSERLMkpJdFJZRjIxR3JBWVBLMzg5ZmNVME1CYW1NeGhwNHQxanI1U3dkY09fZU9wdHA1bUxyMWpfRkQyQ3pKSEIyUUdGRjFkZUpBZzV5ajFiMVZjSXpiU2paMVJUTm50YW5YYVFqVEMzNFYzMFNIUzUwOUE?oc=5"
+  },
+  "21c69c8f7f0e": {
+   "found": "2026-11-01",
+   "id": "21c69c8f7f0e",
+   "status": "skip"
   },
   "21dfef266bfc": {
    "found": "2026-10-28",
@@ -1346,15 +1429,8 @@
   },
   "2523ced2d00b": {
    "found": "2026-10-31",
-   "group": "opportunities",
    "id": "2523ced2d00b",
-   "published": "2026-10-31",
-   "snippet": "",
-   "source": "Global South Opportunities (via search)",
-   "status": "triaged",
-   "title": "GovAI Announces 2027 UK Summer Fellowship in AI Governance and Policy: Applications Now Open",
-   "tries": 1,
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOXFPLTZ4aWdfMlZ2djNVMVIycm5rcktZaUkydDlWbHEyZlFHSFR2bDdTUEZsYm80REVxMTJYU24tdHVmQTVaS2hWNkw1UmZjVTFTNm93YW9SeGcwMHdxYmRBcXpkd0Fxc09vN2FtVnRHVDhOY0E?oc=5"
+   "status": "skip"
   },
   "25b05d725032": {
    "found": "2026-10-28",
@@ -1404,6 +1480,23 @@
    "title": "Ribadu seeks stronger global cooperation to combat terrorism in Africa",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDNNeElrY2V0RHZ5YlZlNHBWY1UxVTdVNTc2WWZwSEt2MGo3WUVxMzBnS01uWE56cENVNnlkaFpnNVVSWHBTbTJyVHZVdENIWk1Hd0MyRDRpTUVQbnI5bFAxSl9qR1RlUlJvUGtsUlNNNlc3djNMRS1UMGVNT0pmNGhGYmVud0hKdTE5ZE5iLXJfZzZFdEdreEl1VTlSZjFJenFv0gGoAUFVX3lxTFBJWUJQU3RDT1lDSXBuVTlfZEwtRlZSMEs5ejZ1Qm9WbUswbnpJR2haZ0tLWTk2VXVwVW5ONE84SzhNVmszbHhLVzk2ZC0wbVdkaUw4QURRWklDSU1SUlQ1TXNKY21NVndRTU1kY0NMMU15a19HdzZTOWlPRURadUtfSFgxTWNvS2xXbGdWZjhCbV9JVElacFJpaWVlamo3dUFVampuVDFpcQ?oc=5"
   },
+  "27247a21d07c": {
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "id": "27247a21d07c",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "MyJoyOnline (via search)",
+   "status": "triaged",
+   "title": "Sam George confirmed as chair of AU communication and ICT committee",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWF3SXBJQWg5WGJyd2luZjB4TkpURFF2T0ViMG51Vl8wRU1ld2ZLU1BzM3g2Ulk4N2ktWENyOVF2dGwtQ1gtUG5XalJaNlplY2xnYnZJNmIwdWlnVG50QXlCbUVsQTFIa2cxYzdDZktJSXE3S0E3djhBNGtxSFhhSGFaY25oalRZcXBKTi1LVnlyUHNZLTVfTXQ4N1M?oc=5"
+  },
+  "273e00c2c0e8": {
+   "found": "2026-11-01",
+   "id": "273e00c2c0e8",
+   "status": "skip"
+  },
   "276040a0f36e": {
    "found": "2026-10-30",
    "group": "opportunities",
@@ -1414,6 +1507,44 @@
    "status": "triaged",
    "title": "Call for Applications: Tarbell Fellowship 2027 for AI Journalism - Apply By 22 November 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsQ0ItZVNYcWRObDc2bUpjZnN0OG9sS1VFbkQ0ZFQtWThvUElaUkpOVXZfc2VTSnY0dHcwOWxoa1ZHa0tDM0Rjd0hYbHpEVE45ZWVBS1dPNDJ1cldVbi1oWUR3cWNXMHZKNnV0OUdJaw?oc=5"
+  },
+  "28b3934a9938": {
+   "action": "Monitor for AI-specific follow‑up; cite in AU engagement mapping.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa",
+    "African Union"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 2,
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "headline": "AU Commissioner urges digital policy investment",
+   "id": "28b3934a9938",
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "African Union"
+   ],
+   "participation": "",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "Digital Watch Observatory (via search)",
+   "status": "done",
+   "summary": "An African Union Commissioner has called for increased investment and implementation of digital policies across the continent.",
+   "thread": "T156d9",
+   "title": "AU Commissioner calls for investment and digital policy implementation",
+   "topics": [
+    "Africa policy"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rU2F5MF9VaUxBSXNhekNsOW9CMlBtTVBZdy1lNThwR0l1N2U2VHJJakt4MFZRYVY0NUhHb3JaNzR4SG1Camc1SnZNbld6NGNJNThEUHQ5NGFKV1hNM3ZyZTdxUEdmZ3AtZHFFS2FOdjg5bEpjbnJqdA?oc=5",
+   "why": "Signals AU-level political attention to digital governance, which may include AI policy implementation relevant to ILINA's Africa policy focus."
   },
   "2910679427c2": {
    "action": "Monitor for consultation details and submit written input on AI safety, sovereignty, and capacity-building.",
@@ -1610,6 +1741,44 @@
    "id": "2bfb5f2aaf98",
    "status": "skip"
   },
+  "2c1b62721824": {
+   "action": "Monitor for follow-up policy proposals or consultation opportunities; cite in memos on African data governance.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 2,
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "headline": "Sam George urges African data sovereignty over foreign tech firms",
+   "id": "2c1b62721824",
+   "location": "",
+   "organizers": [
+    "CitiNewsroom",
+    "Sam George (MP Ghana)"
+   ],
+   "participation": "",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "CitiNewsroom.com (via search)",
+   "status": "done",
+   "summary": "Ghanaian MP Sam George argues that Africa's data should benefit its people rather than foreign technology companies, highlighting data sovereignty concerns.",
+   "thread": "T14145",
+   "title": "Africa’s data must benefit its people, not foreign tech firms – Sam George",
+   "topics": [
+    "Africa policy",
+    "AI safety & security"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVRwa0J4N1FIOVI4WG1EUVpzdTA4bjN2YVh4UWh2dmpUbDJSUTk4YVFHY00xemhudTBObjh3S2RDY05fR3BvcTB2YXBMWGgwRFBnMVhMLWwzNlA4WTNKSUt1N3ZFSHhXY2hrZ1dFNTlmcGtlRlR1TjVwN1Q4bzBFRkNOQlhPcjhmd0lHaXk5SWhKaF9QbWw1amJMWG5oTjZreTllMDh0UGsxNUNO?oc=5",
+   "why": "Signals high-level African political advocacy for data sovereignty, relevant to ILINA's work on African AI governance and sovereignty discourse."
+  },
   "2cb206728cf9": {
    "found": "2026-10-30",
    "id": "2cb206728cf9",
@@ -1765,6 +1934,17 @@
    "title": "Rogue AI threat: OpenAI to train frontier models without internet access",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYk50dlpIYVZCQk1ZVDBVTU41bml6NUxERnk4RzNYWmpOb3hKUHVuSGZVNmF1ZkhtVVFsRWVjdnFxMzVNeHg1QXBHWDlsTkdDZFF5dHJNSmlCalo3Z3pJU2tzNlJQZnZBc1VzWDhYdWcwUlhaMUp1eU5IdUpmRlNibnVoZ1gwSWM3T0dxV3lwdG41SWRGd2dpd3lDSkdFdw?oc=5"
   },
+  "2f640cf4dbff": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "2f640cf4dbff",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "NeoTeo (via search)",
+   "status": "triaged",
+   "title": "Google AI priorities: Pichai puts compute first",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmlhS09DdC1xNjJnZGlIM3h3b0hfbWJJcFJ6LVZsTWxsQWxYNUhlVUFuVWF3NTlnbXFYcWVhR25mX2Z0cHZiUFBaUHRuQ2tXMXNwc1o2ZXFTQS1XZVRQOFZ5ZDBNdXJ1TXIxaDNtTG1IbDR2aHpmclk3dkFLdWlpamJ5RVpDbE9JcWd3N0R3?oc=5"
+  },
   "2fa52dbcd8cf": {
    "found": "2026-10-28",
    "id": "2fa52dbcd8cf",
@@ -1803,6 +1983,17 @@
    "title": "OpenAI stops training latests models, citing safety concerns",
    "url": "https://cset.georgetown.edu/article/openai-stops-training-latests-models-citing-safety-concerns/"
   },
+  "30376d7564e7": {
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "id": "30376d7564e7",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "BellaNaija (via search)",
+   "status": "triaged",
+   "title": "How Can Africans Advance Cross-Country Equity and Opportunities Through AI?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHdmaG5OVnJwV3ZVY1EyMjBWV2xyMGtUUUgyWEhvYkhkQlJfU3hKY1pEY2FQMUpVSUgxOTNOcC1peXZQeGU5ZzN3OGFsaWJMWFRvcE5iMkl6aVllQXhZZklHS2dmUlpWdTZDVFFzbWtuMnVVNTBZZS1ZdzV1SXI4VW1wNWw2YTA0bTMyOS1SaGVnNkVEQVd0VXlfYlg3LWNWOWNRUk9mWmNYMzNZQ0VwZi1uNHIwbWNNRWFv?oc=5"
+  },
   "30a8487f962e": {
    "found": "2026-10-28",
    "id": "30a8487f962e",
@@ -1811,6 +2002,11 @@
   "31052a355edb": {
    "found": "2026-10-30",
    "id": "31052a355edb",
+   "status": "skip"
+  },
+  "319673f4343c": {
+   "found": "2026-11-01",
+   "id": "319673f4343c",
    "status": "skip"
   },
   "31e1e052e7a1": {
@@ -1824,6 +2020,11 @@
    "title": "“Economics of AI” Open Online Course | GovAI Blog",
    "url": "https://www.governance.ai/post/new-economics-of-ai-open-online-course"
   },
+  "326535dc34f0": {
+   "found": "2026-11-01",
+   "id": "326535dc34f0",
+   "status": "skip"
+  },
   "326c1ed3d6bd": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -1834,6 +2035,17 @@
    "status": "triaged",
    "title": "EU AI Act",
    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5pWU1pdjR5Q0ltQjhFeEJueXpkSGhfa1JtU3hfVjhsNVFGWmkxbkhoSVYtSnZPb2xDbzhaUjJWemQ?oc=5"
+  },
+  "32ffd6138ca5": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "32ffd6138ca5",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Business Insider Africa (via search)",
+   "status": "triaged",
+   "title": "What smart people are saying about OpenAI's Exponential Time Hypothesis claim",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMlhEb0lFaEFieVQ3bV9RVklIa2I5NTVLaHFHQ3JpOGRUaTBBM0xPQW1zRWRmdDQwLWJ5MV9WYTlZaElvVGswZDduWEo0eDV3QTNXN1RVYUNhemhXQlI2b2dfQ2xZOGlRRWZLQXloRjQ5c0J1X3NsMEhwSnlpWnlMbExpaEVZMFc5S241NVlFSGtZS01QQmRtY1RzQ1RoTl9FejhFc05NclE1NWoyTVNCbWZPZ2xUTjdNekhMMEhMUkRUQQ?oc=5"
   },
   "331478e98dbc": {
    "action": "Cite in memo on public-sector AI readiness and governance gaps",
@@ -1938,6 +2150,11 @@
    "title": "Annual Report 2024 | GovAI Blog",
    "url": "https://www.governance.ai/post/annual-report-2024"
   },
+  "3532303dc451": {
+   "found": "2026-11-01",
+   "id": "3532303dc451",
+   "status": "skip"
+  },
   "35339afd0a0b": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -2030,6 +2247,18 @@
    "id": "3798b3601255",
    "status": "skip"
   },
+  "37dfe760e5b9": {
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "id": "37dfe760e5b9",
+   "published": "2026-10-31",
+   "snippet": "",
+   "source": "Seychelles News Agency (via search)",
+   "status": "triaged",
+   "title": "3rd Russia-Africa summit adopts cooperation plan and AI declaration as Seychelles advances trade ties",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbkxaMHBRcF9oMGZDT1pQX242bDFMeDZMTDA3RFZNd0NVb3E5TkhlNTNvNDI0OFB3ZG9sdEZkUjU4R3JlUlAwWFJUZW56MVNPWTRWV2V6Rjc0ZXJIemIzQlZDT3FiQnpFOEJYQVRhdHNUaFlScmpucExUYklfRUJHelJLVkN3SFNmOVlNSFR2N3JuSDJRTmRyR2RUZ1VMblpYYUwzNmtMdU1ZUDMzVlBpYWFEeHBPblJ2U0lobnloMklvNFZqZlluVGZzS1FEQW9RUnZ0VnVZb1h6Y080bU9IcXVaRUZlMHo0c0RzTnotNDdYVlRvei1KUkIwSEFHbUU?oc=5"
+  },
   "380d493fb5fb": {
    "found": "2026-10-28",
    "group": "safety",
@@ -2094,6 +2323,17 @@
    "found": "2026-10-30",
    "id": "39b7de8e1833",
    "status": "skip"
+  },
+  "39bd35cf7014": {
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "id": "39bd35cf7014",
+   "published": "2026-10-24",
+   "snippet": "",
+   "source": "LatestLY (via search)",
+   "status": "triaged",
+   "title": "World News | Hereditary Prince Alois of Liechtenstein to Visit India from October 25-28",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQUNIbm84VWY1S0dkcThHdEtWZGlGLTdxU0QyRmpUTkxoZkNZQmU1SlRnLWJYajZGOGluZ0sxTDlrckp6VkFxX0xjM0RfMENlTEZDZldOeThGcnE0dXZBUEhKVGFPMldWQWpKM25jdU54amNtTm05UTRGQ05mWEFTY1RDczNUZ2lucGlpejVDSlpiSldfcUNibnhTdE5pUFo3Y0hmS1ZlelR0cU90OEJHWHlZUkJZTEg2c1RrTnplVFR5WVl4T1RocVk0bTlZSk9w0gHWAUFVX3lxTFBNUUd0QTE1YWVuZVRkYXRCZE1PbE1OODJHTmF6ZFNidGxLUVZPSTY4RUtkR0ZiMEN0aER0akE0R3NYd3NiaTRpUjZGQ3Y0QlkzRnNDQk9QS2lPazZSb1QtZk9LcVlfWUZwZ0xXZFJuYThTM0xTODZ4T3d6S3BLZ2E2QzhOb1pjTENZMktDX2poMTgzQ09tZ0FnZ2Vxc29KZWtTVk9xMGdQXzZCWHp0bDlIaHA3emRvdnRzSkdfUVFwSXpRZm9MZWs1cEdkVDRaTERCalc5bFE?oc=5"
   },
   "3a1da2d0e534": {
    "found": "2026-10-28",
@@ -2314,6 +2554,17 @@
    "id": "3d38a2ff8f60",
    "status": "skip"
   },
+  "3d697e322267": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "3d697e322267",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Countercurrents (via search)",
+   "status": "triaged",
+   "title": "Middle Powers Can Lead on AI Safety",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MYXdGbHVUNXFnNFkzWGxuTWI3VEhNM1ViangyZnpFOWk0YnBLS2VQbENfVnRaYkRKMXpnRmlfMXRUSUlLUDNrMzNoX0IxM2F3NlhOMWFQZVA3azJKYzJpUUI4U21BT0t1UW1HRDBjNmRmR0oxZTdjQ3VRano?oc=5"
+  },
   "3db1dde63942": {
    "found": "2026-10-31",
    "group": "multilateral",
@@ -2378,6 +2629,11 @@
    "status": "triaged",
    "title": "NSA, UN warn terrorists using AI to recruit, spread fear across Africa",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTI4b19HQ01yUzYwOFl6cTQ2UlVJSUVnNl9BcWowSzF3dXlIeGJZU0k0MWppcnpwSTdTa3p3RGpMWWdXc2lPcl8ybENBYmZEN3NzQnlpZUI4LTdPcHVkSzdkQkpsbF9fUElKaUlibjJuNDVvbktwakpGRmlkS2JaVnZrU3pYOWwwNW9PNzRXdllCajFUWHpXVHNn?oc=5"
+  },
+  "3e0042407d8e": {
+   "found": "2026-11-01",
+   "id": "3e0042407d8e",
+   "status": "skip"
   },
   "3e2b564e77cf": {
    "found": "2026-10-28",
@@ -2545,6 +2801,17 @@
    "id": "4156cc5f4505",
    "status": "skip"
   },
+  "4213ca6eeb6d": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "4213ca6eeb6d",
+   "published": "2026-10-25",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "triaged",
+   "title": "Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0pnX09IcEUyV3RzNklDMzhaZVYxOVVZV1c1a203d1hrZnNhbjVsaGNUX2pGUm82eWp2N2w2ZmpZb0MtX1RwVWprMWdzTnZiSkJTV3FlT2QybVh0dDVfVkpMQmZkbWxRdUM5THhTYXVMOXFicU5hZlFkU085VlJ1cXE2YjlrWmpmaEpVeU5jZVFuRGxXVWhXTzBkTWhsZXgyVmhYSF85VVlXSy12NFE?oc=5"
+  },
   "424c7e77097d": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -2668,6 +2935,23 @@
    "type": "news",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHNIOEhJaFhuU0FSTG5uNUJJV2xNamtWWkd5aTdNTWU1VVRMM2V3Y2lITGNyV2x4VWpzazc5YWdET0tLVl9MaW5LY1hFSmMtbzR0bl9rdEhWT0t4Uk56WXdrYzVZWmFMRGNxeXZTWmZzRFdzMHpvVF91OWphWW9MUy0tZVE1YWN0ZElELWxJcm1hTkhDZngxZS1vQmt5UlowRFlhOXVfTzFjdFJieHp0ZmY2X25yd2ZoV0xQUjVPTlhBNGl2WHY3SVpR?oc=5",
    "why": "Signals high-level AU-EU cooperation on AI for development, relevant to ILINA's focus on African sovereignty and AI in public services."
+  },
+  "4585ba076683": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "4585ba076683",
+   "published": "2026-10-31",
+   "snippet": "",
+   "source": "Capital FM Africa (via search)",
+   "status": "triaged",
+   "title": "Africa’s AI Future Takes Centre Stage at Gates Foundation’s Goalkeepers 2026 in Dakar",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzRXVzhSS0hGeDYzdkx6ckNGcEZhNWFmS0VYTlAwQjZEc3RTMHVHcEJrRUp1ZFFPTDczZXNrTmVDQ0xpOG41Q2tJUFlPMFd5RjNkeVV1ZkU2Y2pjNXBxNVV5bVlMT0ZwZ2hvVTk4TVh6OFRqeDQ4WTlFYl84TnVGVk96M3lpRVh4RzhWcVNydzl4cEZWVHl1bm9tMWhnRDlkV2VLbjR4YzNEeTU4cXc?oc=5"
+  },
+  "45b914761fa6": {
+   "found": "2026-11-01",
+   "id": "45b914761fa6",
+   "status": "skip"
   },
   "463b7302bd87": {
    "found": "2026-10-28",
@@ -2805,6 +3089,17 @@
    "status": "triaged",
    "title": "PM Modi, Liechtenstein's Prince Alois hold talks to boost ties",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0xVVTJDUUpQLTZRV2pBNjc4T1VLbGNyOGtkaW1kdXVrWGdFODZGYXFkMzFnd1VhYU5fM2NiaGRLbUttNVJFZzlUVzhRUmRRbnNHdng4SmNuNlcyVWg0WUQ4bTAxLTZDTlA4dmlTaTFoMVZsOER4ejhsZW04bThWOEZUSVJyOE1fUkdRV0tKbS1BR0JPX0Rva05IMUY0OFd2encwYl9tWF81c0E3TDhxRDBhTDZTX1gtdFg5SUJONW9STEHSAcgBQVVfeXFMTWFBTGQyb3g3em5hV2h0TlhzOVR1VV92bEhxdTFvM0U5X1c4emVzN2RSbVZCVHBkem1BcUpsNEQ0VVNneHRFcG9TT2Naa2VGaklmMTJtN1ZBc1ZHMnFEc2ZRUWZidXlvaTVRNEk5ZjRrejFnZEJuOGs1SVp5YU5GWXBBYnVYMldnNFZydDNPSkVhN3FhWVZWMjJhNm14LVRiTXh1VkR6REVZay1URm5SWXZDRVFUMWV6dW5xWG1BZENTWDZkZUF0WHA?oc=5"
+  },
+  "49af5772fd3f": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "49af5772fd3f",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "Rediff MoneyWiz (via search)",
+   "status": "triaged",
+   "title": "Govt to Issue AI Law Consultation Paper Soon: Vaishnaw",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXNSUlpzVUFWRTNSMGRLUTNrMWprNTh6MFdlZFJvMUNRMDE4ZHJOMlhuMEIwUlBwTmw1dzJuWEEtWm55UGM4ODNqQ2RpX0lieG16NWdsMDc4aW5XTFFOc3BxaE1lczlacjRkZnQ0M3RwbGpEQ09NSzhLX04yYUFsVllTYlpUMGxTTV84Y3I4N2RrUWhDR3N2b2dySGg1OU5rSlVtR3FyRDjSAa4BQVVfeXFMTXpIeXNPLUs5RnRYYUE1eGVSV1h3WnZULTkyOGhqeWpMZXlFTXdXV1duZU9PNHpvQ1duM0Z1VzY2bEhXdnB0SWFvREhqVWVhM1EwNnpfQWZvbXF0bW1HV19NVGFoWW5ycHJ3MVhzV3pDT2RjTzJLZmVtNVR1LW5wLWkwZG9uTU9peWVvUDc5eEx6N2I1c0tidlQxc2xELUpZTk1tbW5renFZTmdOUW1n?oc=5"
   },
   "49eb2488ba2c": {
    "found": "2026-10-28",
@@ -3322,6 +3617,22 @@
    "url": "https://www.itu.int/hub/2026/10/ai-is-transforming-our-future-but-who-will-benefit/",
    "why": "References the UN Global Dialogue on AI Governance (a top ILINA priority) and quantifies the African AI infrastructure deficit, but offers no direct participation mechanism."
   },
+  "569c24a58407": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "569c24a58407",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "Bandwidth Blog (via search)",
+   "status": "triaged",
+   "title": "Anthropic files for historic Nasdaq IPO",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ieFVwaE5UUENkRmNpUEdHQVdwaEdNNlp2MmtYZjlKbWNWU2NyMXZLUGVLenVHTjRwaUwzemFFNmg0b0NVbGdXc0NjeVFURGxJU1l0TWRZYVc5T05HczYtUi03R2pLM0hrTnZUOVIxRHNlcy0yenJUOFJxMmwtZw?oc=5"
+  },
+  "56ba8d7ed93d": {
+   "found": "2026-11-01",
+   "id": "56ba8d7ed93d",
+   "status": "skip"
+  },
   "56e7c80b6691": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -3337,6 +3648,17 @@
    "found": "2026-10-29",
    "id": "5731b478a175",
    "status": "skip"
+  },
+  "576f0fe0f1a5": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "576f0fe0f1a5",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "StateScoop (via search)",
+   "status": "triaged",
+   "title": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekYxQzAtenA3SFBNODVpelA4dENGdEdBbUJHNVNOd0xRR3NOdnZLbWotYmFMdGZrd0I1TVdfS2l3X0gyOTk5aXJrcHNxSlZSRHdMM2g5Q1VhaXZ2a2NFM1kwN1E3X3pieHFhckhnMnRYMlMyZjlEdmpXR3BTZm93a1paZks1QlhOdGxuY1Rkb0hNYkRZZDZlQXIzeFlfSmdQSFotdTRuUTdnTXhuYU9n?oc=5"
   },
   "57bcacf2c7a9": {
    "found": "2026-10-30",
@@ -3440,6 +3762,11 @@
    "status": "triaged",
    "title": "AI Africa Intelligence (October 14–21, 2026) VOL. 27",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXpKd1lZY2FrUGpHMFJKTlJTTF9oLTZUQWFMNERwb1pPVGZMMGRKQUp6UlU3UENWRHdNUlc5emtXaVYxVlVFUGlYTVpzaUxWUlJPVUxYdl82NFdzMC1VeVdQbVZVakVnTVVHVDNmMlZ6ODN1c09NRlB2bXR3aGVtU2hpdDFwWTQ?oc=5"
+  },
+  "5d3429e7cc80": {
+   "found": "2026-11-01",
+   "id": "5d3429e7cc80",
+   "status": "skip"
   },
   "5d96ac9a0c2b": {
    "action": "Cite in policy memos on African AI safety frameworks; monitor for follow‑up policy proposals",
@@ -3585,6 +3912,17 @@
    "status": "triaged",
    "title": "An AI safety leader says he stopped saving for retirement because he believes AI will kill us all in the next 10 years",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNODVuN3FCblYyOThWbWMwYnRhOUhnOEExWnFsR3dzMlpvNnc0bE5SME5JQVc0Q2tSY3lmRk9DYjlTT2stZ2dLaVhxSHFzb1pjeWhNZEJacl9xV3J4YmFkaE4wR1oxeFIyRmo0aFBXZ2F4MldldVdESVR2ajBzZURENG5BbkxEQlVhcW9ZUjdBdjFzdXY2cXo4aXRUZkFROFpFbzBsQ0k2ZEhRZ0k0aFhkZThWS1psRXV1bENjUWlHMzhHOHJVVlZOOEVQdGlFZw?oc=5"
+  },
+  "6189b5748cbc": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "6189b5748cbc",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "Tech Times (via search)",
+   "status": "triaged",
+   "title": "Altman Named AI’s Compute-Monopoly Endgame; No Watchdog Exists to Stop It",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTc1R2VHQjl6d1BTOVNiaU9kUlhXSjU5YkQyUjJIWlZRZy1keHN6TnF4ZGlYR0F4aXE4YUEwVUVIVXBsRmxtNnlGTXY0VjQ4TmZmLUgwNEpfblNaX1NZdWJzamxJbVBiTkl1OGgzdEZQSEd6ZVhhVUNEMHFQZ2JjYThlY2JUeWY1NEU0S3ZrYUF5a3piSXlveTdYbmNwSWI0XzRwLWFHVlFhMVNVa3p2SHpFelpvclg1TU9PeHN3ajc?oc=5"
   },
   "61bbedf7e8db": {
    "found": "2026-10-28",
@@ -3785,6 +4123,11 @@
    "status": "triaged",
    "title": "Ben Jones & Chad Jones on Economic Growth in the Long Run: Artificial Intelligence Explosion or an Empty Planet? | GovAI Blog",
    "url": "https://www.governance.ai/post/unfinished-ben-jones-chad-jones-on-economic-growth-in-the-long-run-artificial-intelligence-explosion-or-an-empty-planet"
+  },
+  "69ae13024c28": {
+   "found": "2026-11-01",
+   "id": "69ae13024c28",
+   "status": "skip"
   },
   "6a0f50c84b6f": {
    "found": "2026-10-30",
@@ -4032,14 +4375,8 @@
   },
   "6d43c73bd467": {
    "found": "2026-10-31",
-   "group": "government",
    "id": "6d43c73bd467",
-   "published": "2026-10-28",
-   "snippet": "",
-   "source": "TechTrendsKE (via search)",
-   "status": "triaged",
-   "title": "Kenya, GIZ move to finalise Digital Transformation Centre II deal",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVThfT1J1b1RNNTFlaExhQjUwaDBXU2VlN2dsSDBaQkhRWFJsYUktREU0c1p5YXF6bVc4ZlJBUzFWaHNoMlFLR2Z0cEc4bS1fWm1IeFI1SHAyRzAtaHhQZ01LRlNXT0pSQ1RWUTRCdS1BT2FucnRZZVZnQTRzV1NhclZOZnFaWGhWZHlDOEN1TG1EU1Q5SHprRzZiVDYxcVdXSEJTN1Nn?oc=5"
+   "status": "skip"
   },
   "6d63d4858ea7": {
    "found": "2026-10-28",
@@ -4062,6 +4399,17 @@
    "status": "triaged",
    "title": "Anthropic circulates draft AI bill to us lawmakers to regulate frontier models",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTRLeE9NcUFSWmRaUllqVHRMcUM0b2s1alpYUUNpWUdKVUZxTF9DbktBUWNiNURkdUhqZUdfZFpxS2U1dk5QbkZVNy1zOXJDbEZvUHhrOGtMczZ2VU8yU1c0bWduSElMRFRFUG1sMkVZZmI3dnJHWktwbEZZcE9ici05UTFWLXpwTUl0NmdJdF9jRlZEOGp3V0VzRzJJZE81WmY2Tk4tekNJWGVSazhJaFdkd1pEUGlYai16NnRTc9IBxAFBVV95cUxNbEZ2NXpOSnhlcXc3TjZJM1F4T3NCOVBaNVB6czBvRXNoTW1FQlVnWWl3ZEg0RHdYVmptQ0VjQ2FvZjhiX1Jvc1FrbzgyTFl0cjZtVzhQN3FlM0V5ZVRFTFlQRG5pSTdCdVVDYlRaVV90TkVydE03aUFOOXctSjlEYy1aWF9iVW5PbXlfakhianY0U05ydjNBZkpKZmxiWGNNS1JibXJlQ05WSnFFd0ktZXh2cXkxTk1hVkFBT2ZSeFp1MzdX?oc=5"
+  },
+  "6d90e985f999": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "6d90e985f999",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "Facebook (via search)",
+   "status": "triaged",
+   "title": "Addis Standard. Addis Standard · Original audio.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkUTF1MHpxanRFX05DbHRCY19GWWMzdmd0c0lvWFZYN1FEaGVDajNaNURZcGhNal9JU0ZTYUpCVm1wVjdsWDJMUVpUX25oLUxuMUFGSHprT1hOUjU0bFNaTEU4M1pOc3JOVFdRblFVcl9tMjZO?oc=5"
   },
   "6e3fbcab3eae": {
    "found": "2026-10-28",
@@ -4112,6 +4460,17 @@
    "id": "6ee0672e4461",
    "status": "skip"
   },
+  "6f4f5124dfa5": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "6f4f5124dfa5",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "NewsBytes (via search)",
+   "status": "triaged",
+   "title": "OpenAI partners with Polish research institute to improve AI safety",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXZQZGNDTE5HWHY2ZVp1U1lkaUFQWmRfcHU3NEZYSnVsRnlhN2Naa0F0TnFSYVd4eURWUVRHTW9HdTltYTZiTnU3dkhkTjZFMkZGQk9jSFVqZHFiam5kYUFRV3FiT3RLclVnT2hFQzREMWdhR2s5anBLSnJVajRyM29VZkp2UE8zemNWcnVaOGNadTZVV1dGeFQtakw?oc=5"
+  },
   "6f5b973220f9": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -4148,6 +4507,50 @@
   "6fcec2cdfed4": {
    "found": "2026-10-31",
    "id": "6fcec2cdfed4",
+   "status": "skip"
+  },
+  "6fe3e9a12b6a": {
+   "action": "Monitor committee workplan for AI governance items; consider outreach to new chair's office",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa (continental)",
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "headline": "Sam George elected chair of AU ICT committee",
+   "id": "6fe3e9a12b6a",
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "African Union"
+   ],
+   "participation": "",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "Adomonline.com (via search)",
+   "status": "done",
+   "summary": "Ghanaian MP Sam George has been elected chair of the African Union's ICT committee, a body that shapes continental digital policy and strategy.",
+   "thread": "T156d9",
+   "title": "Sam George elected chair of AU ICT committee",
+   "topics": [
+    "Africa policy",
+    "AI fund & capacity"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11TzJUTllXTlowU2NkdHJmZ2gxQzJNcDhad3hzUS1XVGt6MmFuWlJNVmFsRWdZX010SW5YUDdtejhIWnVkUnUzcUNIV3FMMDRGeFFVSnhrSUpKRXlSc3haVnpRRU4zbzZXMjJOQ0lfOE8wdHB6TndWYm41UWs?oc=5",
+   "why": "The AU ICT committee influences digital transformation and AI governance agendas; its leadership matters for ILINA's engagement with AU processes."
+  },
+  "7064b7c8dafb": {
+   "found": "2026-11-01",
+   "id": "7064b7c8dafb",
    "status": "skip"
   },
   "709d39a08e17": {
@@ -4306,7 +4709,7 @@
    "source": "shattered.io (via search)",
    "status": "triaged",
    "title": "AU Targets AI Abuse of Women: 5 Instruments [2026]",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1ZQUmhDc01YZk5lWDlmeG55ZFFzdmszWEdyQzVLUEt2NUNtY0h1NVJ5R2dab1JvQ25MZ2NwMTZ5T2tOZ1lVTFdma3A1LVlzSEVKZWNTb05Zd1o2VEVVLTNidjgzcF9oQk9tWFQyZmN0TXBILUIyUnpuUnNubWhOeTN5RTBpWTAweThwbVU0RHZRUUg0VUFuUl9fOUY?oc=5"
   },
   "75e9811dd2d0": {
@@ -4463,6 +4866,11 @@
    "title": "Mahama launches Ghana’s National AI Strategy in Accra",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXVteWVia2JJYXdUY0dYTE9ocE83SjM1THNGbHdtUmpaRDRuVGh3MGltSUhlMFZETmFWeGlSN3U5TkwtMjAzTUQ1NXhQSDNJZ04wbTFLSVBTZHR0TUswMGJhOUpKN0o4MzZBOTRlQW5NN3d0RkNwdzdvTlJJcGprV2lCOGFSeEtpVHUyLXNQd3NmbWlk?oc=5"
   },
+  "77d4f4c39ebb": {
+   "found": "2026-11-01",
+   "id": "77d4f4c39ebb",
+   "status": "skip"
+  },
   "77de3b9fc516": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -4578,6 +4986,11 @@
    "title": "Fully Funded Pivotal AI Safety Research Fellowship 2027 in London: Earn Up to £18,000 and Work With Leading AI Experts",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpRnBmUTgtUkwzeW0wYUNCdFN6d1d3TVhFVThmNTZEU3c1ZE1pV0hjWEVWN291NUp1clNwalpKOHBpZ2prZjl6OVJtT2g1SDhRZUQyUHJtcFBDcEJrRmlGVGoyOURvSXNoS3dTUQ?oc=5"
   },
+  "7ae6578e4616": {
+   "found": "2026-11-01",
+   "id": "7ae6578e4616",
+   "status": "skip"
+  },
   "7aea17e74f9f": {
    "found": "2026-10-28",
    "id": "7aea17e74f9f",
@@ -4605,6 +5018,11 @@
    "title": "AI enables even smarter cities and communities",
    "url": "https://www.itu.int/hub/2026/09/ai-enables-even-smarter-cities-and-communities/"
   },
+  "7b5a32260ce7": {
+   "found": "2026-11-01",
+   "id": "7b5a32260ce7",
+   "status": "skip"
+  },
   "7b6613eda154": {
    "found": "2026-10-28",
    "group": "safety",
@@ -4626,6 +5044,17 @@
    "status": "triaged",
    "title": "VIDW 2026, October 28-30: Smart Connectivity - AI Governance, Driving AI Transformation",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnh0ckF5bmdlRDFMV3BmNFpRRDQtWDRfVnktbkRWSVN6OTNYQjBzWVhvREd3YU1rX2pBZGdpY2hVZDM1Q1ZPeEdBSHdUNjVtOUxwNW5keUtjazRQNnFyMUl1bkVrNEgzQnYzRzFTTDZLVlRVYl9MUjFuSjJ4WElkbHNLTGZhS3J2Slk0UkltQ0lIc2tvV1dsQW16R1RiaEtRczJqdGM4TnRDZw?oc=5"
+  },
+  "7b7aea2c9741": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "7b7aea2c9741",
+   "published": "2026-10-20",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "triaged",
+   "title": "US bans use of China's DeepSeek by govt agencies",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbkJJaDE0SGgxVUJRQVZ6RldNQWV2anpFRzBXREdILWRheGNWbnpacGFvZ2IzcDFhUHJWa1NzQmd6M0lEVzlIclhmeTFOM3hlWC02a2pnbGtaWmZNSkJzSnRVMVpxZVZtX1pJY3Y2ZTVwMHk2QWpyajcyM2FobkR3UVpYTXN1TnIwNWRES2MybTY?oc=5"
   },
   "7b8339461c87": {
    "found": "2026-10-28",
@@ -4802,6 +5231,17 @@
    "title": "NCC Launches Working Group To Tackle Online Fraud, AI Risks",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRk9YUkZ4ekRsRWlVNTZiZ3FrUEV5ZXptQVd5eVhLd0ZXVXlvUkJWVjJQMUFyMUwtVnhjcThzZkVzdnJEbDFBd3ZEaTVxSFFFbGE0cGlWQkdCTHhhQVdZLWxLN0QyZFR6b09vYTlJX0xqQWpsdXRfb3d0MkhyTHpWMm1pekZoaG9jODNrYmFmeUswdw?oc=5"
   },
+  "810936db60cc": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "810936db60cc",
+   "published": "2026-10-25",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "triaged",
+   "title": "British 'heirs of slavery' back reparations",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2IycFJwbVZhX2dtdFZTZGl4eDloN0UtSEl4ZmEzcTZVaEZrY2NMYVFkNFh1cWxfeFN5TzhsWFU5QkRxTnBTWDlQWS1faG5LdzRUel95Slp5Z0M3V2IzODRmRlRqRGk0VHZYREVSLXItYWJ1ekRBUWxYTTNjWk03aHg0NHhYR1Rt?oc=5"
+  },
   "81142c2210b6": {
    "found": "2026-10-28",
    "group": "government",
@@ -4828,6 +5268,17 @@
    "found": "2026-10-28",
    "id": "81c3a5554374",
    "status": "skip"
+  },
+  "820aa2ecde46": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "820aa2ecde46",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "WP Intelligence (via search)",
+   "status": "triaged",
+   "title": "AI in the new Washington: What changes?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3BNUUowUS1kSzBITlhrZTRtcmVCUWRPVldOM3JZUWN1YWVTODdvb01LUTNIUmtkcWxWRkJfQ0tlamY2Q1Vyd2gxV01RbUlyRWw4VlNiMXQ4Vm5mbllrRW5iX2lPWjdfRnBXQTc2TDZzcGxZSlZsYlBuTHhmU2pNRzdCNUdFUzBOcW9iaWlsWDl0TWxhbEVDd0t1dlBqVGhDSzNLQnpaNVVTUQ?oc=5"
   },
   "822222826d72": {
    "found": "2026-10-28",
@@ -4932,6 +5383,11 @@
    "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkdId0pPX1dTR09fT216WW55SEplLXhMRGVxZURyOGNmamNjXzBqVFhDbERURVp3djE0RVpEYmFPOEVoVThnWUV5OUZ3Z0FZZnRnei1MalpXdVlTV0ZFcUYwWjJYQTh0aG9SMVA2LW03Rk05MnJETWZnUENVR0E0UlRMdnlaMTNObzdlZlZTa0JKUGlhbHJ4ck9aLW1QZE9haXZFTlAtY2tZRkI0WnBoa1kwRUhCYVBKaXZiZHY2em5KeURhSzZQUg?oc=5"
   },
+  "84f276da21a0": {
+   "found": "2026-11-01",
+   "id": "84f276da21a0",
+   "status": "skip"
+  },
   "854dd7537346": {
    "body": "Stay Informed. Stay Engaged.\nExplore our latest news, insights, and events advancing responsible AI. Follow key moments in\npolicy, research, and innovation led by our team and global partners.\nNews\nNewsletters\nSep 29, 2026\nSave the Date | From Commitments to Accountability: Launch of the Global State of Responsible AI Report 2026\nEvent\nAug 20, 2026\nAI Made in Africa: How Policy Can Unlock Growth for African AI SMEs\nNews\nAug 10, 2026\nHuman Rights Implications Of Using Algorithms For Social Grants\nPress Release\nAug 6, 2026\nRethinking AI Literacy in South Africa: Educators as Knowledge Makers\nEvent\nView more\nNewsletters\nCatch up on our monthly newsletter, covering the latest research, events, and updates from\nacross the Global Center on AI Governance.\nOct 27, 2026\nThe State of Responsible AI: Policy, Infrastructure and Africaâs future\nSep 30, 2026\nThe strategy is signed. Now what?\nAug 26, 2026\nFrom the courtroom to the classroom:AI governance in practice\nJul 23, 2026\nResponsible AI in Practice: GCGâs July 2026 Updates\nView more",
    "found": "2026-10-28",
@@ -4979,6 +5435,18 @@
    "title": "Talent Program Manager | GovAI Blog",
    "url": "https://www.governance.ai/post/talent-program-manager"
   },
+  "85d87e5fbe64": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "85d87e5fbe64",
+   "published": "2026-10-31",
+   "snippet": "Nigeria’s AI progress will be judged by the local problems it solves, panellists said at “The State of AI in Nigeria\", a session at Moonshot by TechCabal.",
+   "source": "TechCabal",
+   "status": "triaged",
+   "title": "Nigeria’s AI ambitions depend on building for local realities",
+   "tries": 1,
+   "url": "https://techcabal.com/2026/10/31/nigerias-ai-progress/"
+  },
   "860012f8f3ca": {
    "found": "2026-10-28",
    "group": "government",
@@ -4991,16 +5459,43 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHFZOWNrRjhSekl4WHVRVUY5dDNIbWd0eXktSUdWcE1IRGU0MEJUdlZtSkZVUl9qSXA3VEQyT0U2SmdwSnQzUUh3T2FzczNhWmJydVNVT3pIWmIzSHZFVGNXaE44cEtQRFVDbVZudlpUeFBhZnhtYldlQjlQY3paMzRBNXB1QTdoREM4dzFFMkNLc1RPcGNDVEs4eXEwaVdpQzRPdVVUbk5Ya3o3WTNZY2pxYjVSZlZnd29Qcm5reVpfWE5sYU9pTW1remdTUQ?oc=5"
   },
   "86466a0150f2": {
+   "action": "Monitor for follow-up policy processes or consultation opportunities; cite in memos on AU digital strategy",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa (continental)"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-31",
    "group": "multilateral",
+   "headline": "AU Commissioner urges investment in African AI and digital infrastructure",
    "id": "86466a0150f2",
+   "location": "",
+   "organizers": [
+    "African Union Commission"
+   ],
+   "participation": "",
    "published": "2026-10-30",
    "snippet": "",
    "source": "Tech Review Africa (via search)",
-   "status": "triaged",
+   "status": "done",
+   "summary": "The African Union Commissioner has called for increased investment in AI and digital infrastructure across the continent, signalling policy-level attention to building domestic AI capacity.",
+   "thread": "T14145",
    "title": "African Union Commissioner calls for investment in African AI and digital infrastructure",
+   "topics": [
+    "Africa policy",
+    "AI fund & capacity"
+   ],
    "tries": 1,
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0ZNVmtjaW5yY2NRS0l5RUpoVHE1aDNkdWlHVFowT2h6VHNTZS01emhxekxTZmRkNHpROUdaZnczMkozdFliYnM3YloyVmdIWlZDRDRGc1phUU5WN3p3V0dXRkdRRmZraTRsQ1FnejBMdmhvSTF2eC1YekNveFRnVUZMeF9MeDFLbW1xOG9jMXVyLTZBb21YdlIxYUV2aHIxc1lGenMtQWdibExVMUYtdXBCVm8zV0hodnJ4UllJNTM0eGNTMGc?oc=5"
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0ZNVmtjaW5yY2NRS0l5RUpoVHE1aDNkdWlHVFowT2h6VHNTZS01emhxekxTZmRkNHpROUdaZnczMkozdFliYnM3YloyVmdIWlZDRDRGc1phUU5WN3p3V0dXRkdRRmZraTRsQ1FnejBMdmhvSTF2eC1YekNveFRnVUZMeF9MeDFLbW1xOG9jMXVyLTZBb21YdlIxYUV2aHIxc1lGenMtQWdibExVMUYtdXBCVm8zV0hodnJ4UllJNTM0eGNTMGc?oc=5",
+   "why": "Signals AU political commitment to African AI sovereignty and capacity building, core to ILINA's advocacy for African governance representation and domestic technical capacity."
   },
   "865ffd3381a5": {
    "found": "2026-10-28",
@@ -5117,6 +5612,11 @@
    "title": "Uncontrolled AI threatens major risks to global health",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczJoazBxcVlsS1NDbFhNT3EyN25SYXFfT3JqczA3dVh5MGdJU0VjR0Z0TVZrT0MyYjhpSFJhMzYzbVV4dF8tdnNEVEpCNEVQSElBcFU1YnM2dGpVSnhCZlVhM3NjVUVNNHhyWFNkRjdIMmxpaFliR1FpdW9HMjlSOXlaaE5hdUV5cktJTVRJLVduUGdEdTBqVFZjS3hjVTc5MFpzcWJ1Tm5FemE1cGRoSjNrZHhXbU5paVJhRHpuOFdkODdjR1ZwV1BBSWNDSUE?oc=5"
   },
+  "88b9efcc86a0": {
+   "found": "2026-11-01",
+   "id": "88b9efcc86a0",
+   "status": "skip"
+  },
   "89522bce1374": {
    "found": "2026-10-28",
    "id": "89522bce1374",
@@ -5193,6 +5693,17 @@
    "status": "triaged",
    "title": "Anthropic pushes own AI safety draft law in Congress",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRnNBU29HT0piakxIbDg0ekI0eFZxeWRvZkNvQlVpcVZKUk53TkRtMDVGeGFOX1RRQzVkZnoxNUswd1hxT0Z0X19YN0x1OFJLZ2lZb3h5RldaU0xWM1dHT0RPQ3hxUzN3TFJ2bDI5dw?oc=5"
+  },
+  "8d0aaefd47dd": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "8d0aaefd47dd",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "The Times of India (via search)",
+   "status": "triaged",
+   "title": "Sam Altman outlines three possible futures for AI, calls compute monopoly ‘terrible’",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLWRIUkJadXRGVDMtZU5JVFZQUTZkbTZxcmQxd2FjTm5NdHNmczh5YU5TWG5Wb2dHUXl0Z19lMXhZT240Z050SlFUUFdQLXFuXzlNN1pjTWw3QzRxcDRXTmloSUxvdXNRbDVzekJsZm5DaU1NWkh4bU91VzU4Rm0xODFSSXlRc19BS3dzZ0w3Y04ya01nQWsxbWhWZDRfRmltVmhXQ0JtTGdTQnE4QXBGUkVkMXR2SGdqMzlMYnRsYWprUDM5Z0pPYjdOV3JmUmxZbkRETzZqNU5ud21pbURSOWlJajFMeEU4YkRBY1Vaa9IB9AFBVV95cUxQVmRRRDBSUDA5QXVrWDkyZENIYjlQbHN6TDhyVnQ3MUNISHh0VmpIZzZuWThkbjdsaURydzdPazJyUkxSVUJxVDRqa21NSFp1d2FZVXdOWDBRNTRuRHUzdEVKeERzWlI2dEIzUHdaZFJSYzBiVzJEeFRtcnF4ZjVXUHRLaVk1aDlSV096Z21LNU1DNGU2V1lJWUZXZzFub1hqNnNsck5VdzVRWjNBUDNXU2tTMWZzR0czUDFLWVNNQ1BGZmdCVXJpZlBOT0FOSFAxWmVScVJzT3dfaU5XMTh4ejlMRmJzSTAxaUk0TXUyY01NazJE?oc=5"
   },
   "8d1dc43a37f7": {
    "found": "2026-10-28",
@@ -5276,16 +5787,44 @@
    "why": "Directly illustrates African sovereignty in AI safety — a core ILINA priority — and may indicate a new national institutional entry point for engagement."
   },
   "8e5b71c47819": {
+   "action": "Cite in policy memos and written submissions on African AI sovereignty and UN Global Dialogue processes",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Africa",
+    "Global South"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
    "found": "2026-10-30",
    "group": "multilateral",
+   "headline": "AI standards as statecraft: a playbook for the Global South",
    "id": "8e5b71c47819",
+   "location": "Online",
+   "organizers": [
+    "Global Policy Journal"
+   ],
+   "participation": "Read and reference; available via Global Policy Journal website",
    "published": "2026-10-30",
    "snippet": "",
    "source": "Global Policy Journal (via search)",
-   "status": "triaged",
+   "status": "done",
+   "summary": "An article in Global Policy Journal examining how Global South countries can leverage AI standard-setting as a tool of statecraft to shape governance frameworks and protect sovereignty.",
+   "thread": "T14145",
    "title": "AI standards as statecraft: a playbook for the Global South",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "global AI law",
+    "evaluations & monitoring"
+   ],
    "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2ZwY2xsLU9uS0dVZFBhMDduWHhJRGh1eTRJRFNjOFRCRkR0Q0s4QUItLTBqZjdUWF9BUWo4dTJKeFRrcHp2Y1QtckVUUmwzeUlrRTdJZTRXYzFUN25oSUpzcHlFLXNwN2VFeHBvX1BSSFNqcnZZbmF3dy1pd1dSWk9ZVVBLU1RxdmRRa3N2SExmazNMTDVhT0hkV24yUQ?oc=5"
+   "type": "publication",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2ZwY2xsLU9uS0dVZFBhMDduWHhJRGh1eTRJRFNjOFRCRkR0Q0s4QUItLTBqZjdUWF9BUWo4dTJKeFRrcHp2Y1QtckVUUmwzeUlrRTdJZTRXYzFUN25oSUpzcHlFLXNwN2VFeHBvX1BSSFNqcnZZbmF3dy1pd1dSWk9ZVVBLU1RxdmRRa3N2SExmazNMTDVhT0hkV24yUQ?oc=5",
+   "why": "Directly addresses African and Global South agency in AI governance, aligning with ILINA's core mission of ensuring African countries shape frontier AI development and deployment."
   },
   "8ea6cdaec3c7": {
    "found": "2026-10-28",
@@ -5308,6 +5847,17 @@
    "status": "triaged",
    "title": "AI for Good on CCTV",
    "url": "https://aiforgood.itu.int/ai-for-good-on-cctv/"
+  },
+  "8f4df79992a9": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "8f4df79992a9",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "Al Jazeera (via search)",
+   "status": "triaged",
+   "title": "Experts defer to AI in decision-making, Anthropic study finds",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkNYVlZwZ2dJMjZFOEp4TERHeUZINUsxTl9oN1YxM3N4RFRlQm9GMVlQV1E1RVZYbUZUS0g3MFlONmRYOVJVTTllQ1BqbWE3dGZGVnRZOGNzMW1JTW9sUHQ4YW5lMGtrMDdXSHpkOEJNXy1aa3NSd0FVZnNvMGZtOEY5TnlnT2p2MXdaaGpFRURNdEZxY3ZlMFpkOUtrdjJWWm8tdW9IRnjSAa4BQVVfeXFMUHRYd2hBNHdmRFA2OS1iNHJvdmwwS0JsbGIySGJoZmlLZEw0clNGSGs0Y3kxZjV1MEJDVHBXQ2NXSlNNamZMNkVuWHpYTXV2U1otMTlDN3lGTzVySl92RnlQc1VEVWtlMUNwNEJhTUNFLVo4cTJScXY0VnNuQWdld01NR09FdVNRVW5pTHRtMExiSWt6ODNUeWJwd0p5YlVsMHRjRzdxVnJfNndxTTdn?oc=5"
   },
   "8f5f2765dab4": {
    "found": "2026-10-28",
@@ -5461,6 +6011,11 @@
    "title": "IBC Podcast – Tilly Norwood: “Your future overlord is here”",
    "url": "https://aiforgood.itu.int/ibc-podcast-tilly-norwood-your-future-overlord-is-here/"
   },
+  "9300f9cc9e08": {
+   "found": "2026-11-01",
+   "id": "9300f9cc9e08",
+   "status": "skip"
+  },
   "9304107ab3e6": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -5486,15 +6041,8 @@
   },
   "9448709cc6f6": {
    "found": "2026-10-30",
-   "group": "news",
    "id": "9448709cc6f6",
-   "published": "2026-10-30",
-   "snippet": "",
-   "source": "Global South Opportunities (via search)",
-   "status": "triaged",
-   "title": "AI and Intellectual Property in Africa (AIPA 2026): Call for Participation in Addis Ababa, Ethiopia",
-   "tries": 2,
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WclN3TnpFejFBZnQyQzA5TnlmZ01Mb2hoNGE4Z1JCMXVEUTdGclpRSjhPT1BoNThLTEdTWWhlNTYzS0lDNmIwMWdZbkJybFNYUGZPMEtoVEI5N1MweVZRUEkzdlVYSV9jMlluVHJrYVg?oc=5"
+   "status": "skip"
   },
   "9487c00abcf2": {
    "found": "2026-10-28",
@@ -5664,6 +6212,43 @@
    "title": "Digital Omnibus explained, what changes for cookies, GDPR and AI",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHBucHlIS2I4TlAzSGstSmltM3IzLUQ0RjRjaE5fT19HTzlXNFpDc1F0aDVYX3Nmc3BYX1BOYWdTdVlCZmV3UVF1SWotSnQ0aFdPQTNqck11cUwyeVk5ZmJjdHNYb0R2RGZxTzhLZHhuNFdKN1drOEQyX1poX1dxZmkyaHlzYjczSVc4Wktn?oc=5"
   },
+  "981b76323c8e": {
+   "action": "Monitor STC-CICT communiqués for AI policy outcomes",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa (continental)"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": "2026-10-29",
+   "fit": 2,
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "headline": "AU STC-CICT 6th Session Opening Remarks",
+   "id": "981b76323c8e",
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "African Union Commission"
+   ],
+   "participation": "Closed ministerial meeting; follow official communiqués",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "African Union (via search)",
+   "status": "done",
+   "summary": "Opening remarks by AU Commissioner for Infrastructure and Energy at the 6th Specialized Technical Committee on Communication and ICT meeting.",
+   "thread": "T14145",
+   "title": "Opening Remarks by H.E. Lerato D. Mataboge, AUC Commissioner for Infrastructure and Energy at the 6th AU STC on Communication and ICT (STC-CICT)",
+   "topics": [
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak9CZXJFNnQyOE94VHB3ZUd6R2ZOT1E2bFhacERTalFudUtZSEFCSHI1djNYUlhYVE5YSFd0UDNHNDdDTVR0TlZaVDB4SVkxaWl0bUcyRzhrVlNYTHJ4R2Z6MlVaTUpaQ01oYlRLbXRJbEctVk9sbXZjRjBiejZxN1g2VU04UDN5eWV2TUpwVzNtZGF2ak1IV3V3?oc=5",
+   "why": "The STC-CICT sets continental ICT policy direction and may address AI governance; AU Commissioner statements signal policy priorities."
+  },
   "98756c718cf0": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -5773,6 +6358,28 @@
    "title": "Open Call for Proposals: Communities Leading on AI Program (United States)",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEUxOExXcy1TT0xOWmpWM2RaMnhvMEt1YVBSNU9wZjMxcWx6R0x4cnlQcFlSLVhaNVVLSVRjY2lvMllmeFlETDE2bnM4cGJaTHdtLWViYUJ0Q2Z3UDFQR0djY243Y3MxRVJiLWJwWGxpR2lkTWFVLTFaNUQ3MnZkdnJDd0p3NmJPYVE0UU1lVnEtZ0tRT1RLVXFWdE1ZZGNJdDdPRW5lRld0a2hsZS10UVFpS0zSAboBQVVfeXFMTkFuOFU2LUQ3RWZ5bnh1NXZvMUlRbWZ2U1VJTTlQaVRJaG9TZmVwZXlFNkxGTzM3T0xfS3U2WHpLb3BYSVJlWEwwZG5IT2RZcDNhcWY3YmFqazNmMXh4RkIwLVp4RjRDUGRxS0tUSEZ1cHJuQUZDZzJWRURFQTB5RzRyY0d0THR5LV9EQ0dNLXRVVm9zbGdwT1l1dWpONFlZQkkzaHgwakkwZU45ay1hZEFSS0FqbF9vdWlB?oc=5"
   },
+  "9a6921d37265": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "9a6921d37265",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "www.tokenpost.com (via search)",
+   "status": "triaged",
+   "title": "Action State Offers Tools to Check Records of AI-Agent Actions",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OUnNEVmVoYWI3cnBWV0MzcEw1MUI2aHNlSkxWMTA3MXZLZHhabUxBbVQwcmZINW1WMjRIdmhvQVkydUtqWGg0dlo1M05kVkJCUGw2M1E3eExWVUk?oc=5"
+  },
+  "9a8cb544fbd5": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "9a8cb544fbd5",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "The Standard Media Group (via search)",
+   "status": "triaged",
+   "title": "How air quality monitors are helping track pollution across five counties",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlYxbk1ROXExc29XVTZBRVFvUS1rRkJRQnoxN0d4WU5lakZ1emlVU3VqMUpRaGhtU0RZLU5pUzE3SGI0UHhOVkpaQ2RGaVJFVWVQYl9kUXM0X3ZHWXJhbnhmMUVRNTdzTndpdVJQSFVURUFGaGstR2tienhvZEI4eW04VFI5bXVpNHplbUxXNUJPaDdrTWdway05YlhsWWJmQ3VrTlMybEt2OWlKMm5UWG4yNnFCSUI4eDB1YXhMX19xdzlJZnYwdFI3b0FLeE82aG80Q254MUpBeEd10gHcAUFVX3lxTE1SVjFuTVE5cTFzb1dVNkFFUW9RLWtGQlFCejE3R3hZTmVqRnV6aVVTdWoxSlFoaG1TRFktTmlTMTdIYjRQeE5WSlpDZEZpUkVVZVBiX2RRczRfdkdZcmFueGYxRVE1N3NOd2l1UlBIVVRFQUZoay1Ha2J6eG9kQjh5bThUUjltdWk0emVtTFc1Qk9oN2tNZ3BrLTliWGxZYmZDdWtOUzJsS3Y5aUoyblRYbjI2cUJJQjh4MHVheExfX3F3OUlmdjB0UjdvQUt4TzZobzRDbngxSkF4R3U?oc=5"
+  },
   "9afe890c0848": {
    "found": "2026-10-31",
    "id": "9afe890c0848",
@@ -5826,6 +6433,27 @@
    "status": "triaged",
    "title": "Hiring Specialist | GovAI Blog",
    "url": "https://www.governance.ai/post/hiring-specialist-2"
+  },
+  "9c8dce26eb8d": {
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "id": "9c8dce26eb8d",
+   "published": "2026-10-23",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "triaged",
+   "title": "Formula 1: Lewis Hamilton defends Rwanda's choice to host African Grand Prix",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFhpejNTWVRuTnd6UUdnSWpHTVdTS21ReEZoWUowdXZwTGxONzBvTE9CX3NnNjROTFRkaXJvYlBBeDljaHJ4S1E1QXBkS1RNbVJnOGdya1NCVzFVcmR2amJYd1VieGp0RFM3Vk8tejRfY1ItV0NTeHpBY1pMTUtOeXk3NWdTZE8waHRwSnNUMC1kMGZuRG1WcEpGNXNreHpOT2JpNEoyLU5GWXVYcXl2ekNWV0s?oc=5"
+  },
+  "9cc7de698e4d": {
+   "found": "2026-11-01",
+   "id": "9cc7de698e4d",
+   "status": "skip"
+  },
+  "9d810661ef91": {
+   "found": "2026-11-01",
+   "id": "9d810661ef91",
+   "status": "skip"
   },
   "9dbbacc5bbb7": {
    "found": "2026-10-28",
@@ -5892,6 +6520,17 @@
    "title": "The HP-UCL IOE Fellowship in AI in Education - global executive leadership programme for senior education leaders (Funded)",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXd0bDJkSDE1NXozTy1waWJWRHVETHQzVnRxR3NybWVvc01SazhIR1RvY3prSUR2dk9IOUxxZlU0cE43OUdJOWFyRG1wX1dia1RaM0l4QmU5YURPRjRXR0llVVJISUdBa01kYUhpNGhCaW5maFg3N19FQWpTZ3VsQjdWaDNMaUZpVmlabUdyYjNRYnQ3d055WEVvTkoza21IYUxRcnJ6MTV2VEJqN3BZOWJzNV9ybWZBR3Ztb1JmZUpqdVZSN2E1UkVuUS1EQVVSTUd6dkFHZVdxbGJieUJscnZHbG52ZW9w?oc=5"
   },
+  "9f6f02c19bbf": {
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "id": "9f6f02c19bbf",
+   "published": "2026-10-20",
+   "snippet": "",
+   "source": "MyJoyOnline (via search)",
+   "status": "triaged",
+   "title": "UG secures 96,000 Gemini AI licences for staff and students",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVg4Y3JUb1FyS2pQT1FTajZaYVo1VFc1TjlZcmxSWnh4WkRxSFlPbVpjelcxMS1UVHpweGtaTEFVbTlwVk9EbFVWWEpNZ2pFRExZV0VNQXRTYnEweHV6cTkyaDhIUHJtcnVyMFVhNWIwbExic1BieDlNUW9pamNEcUlkdUpFRU0yT0R1REtUQ3k?oc=5"
+  },
   "9f7212f09164": {
    "found": "2026-10-28",
    "group": "tracker",
@@ -5940,6 +6579,17 @@
    "found": "2026-10-30",
    "id": "a062cc4e8e66",
    "status": "skip"
+  },
+  "a0c494248ef4": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "a0c494248ef4",
+   "published": "2026-10-19",
+   "snippet": "",
+   "source": "TechEngage (via search)",
+   "status": "triaged",
+   "title": "Anthropic and Nscale in Talks on Second $45B Compute Deal, Report Says",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OZDZXQ0hwWGxzR2pvRUhQV0dQZllmZ3VPM0w4T0pOdllha2RISzZ2eGVoV0JyNk5LdUhyQWdwdDZtbEZCSE1ZanVaSVlGRWZzZDFIT19xWlFiZjlwN3lVV3ZTTVJGa1BwaVpVSA?oc=5"
   },
   "a171b3436c11": {
    "found": "2026-10-28",
@@ -6033,6 +6683,11 @@
    "status": "triaged",
    "title": "Daron Acemoğlu, Diane Coyle, and Joseph Stiglitz on COVID-19 and the Economics of AI | GovAI Blog",
    "url": "https://www.governance.ai/post/daron-acemoglu-diane-coyle-and-joseph-stiglitz-on-covid-19-and-the-economics-of-ai"
+  },
+  "a44d88a9c744": {
+   "found": "2026-11-01",
+   "id": "a44d88a9c744",
+   "status": "skip"
   },
   "a47d9b912d0c": {
    "found": "2026-10-30",
@@ -6225,6 +6880,11 @@
    "id": "a85de055c640",
    "status": "skip"
   },
+  "a8f5fa00d361": {
+   "found": "2026-11-01",
+   "id": "a8f5fa00d361",
+   "status": "skip"
+  },
   "a93f2c2321ae": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -6325,6 +6985,17 @@
    "title": "Kenyan manufacturers are weighing solar investment against grid costs, capital requirements and reliability",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNURqT1Nld2VlTlRGbzlPRm5vUm82ZWpaay1zOWpRYjdtWVYtWkpsekd1cld2TzZGU3VDZkVTR19ORUZ1M2YzU3U1N0pic3NENTAxMFViMW1pOTVWWWdPbjFWMks1T0Vpd3NYdjc5SEZkWW5WaGJpS2gxcw?oc=5"
   },
+  "ab9f23554726": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "ab9f23554726",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "The Standard (via search)",
+   "status": "triaged",
+   "title": "Inside Treasury's calculation on Ruto's stamp duty waiver",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRaZmNsdXhGNzJOWUwwTWZrS3NTY3RoNTRIUEFVdDhrZUhvNWpYRUd0UXkyZFo5V1lPVHZTTVU1NE1neTFHV0h2Q1BiZFFUTEFvOUJEVTVmUXAxV0c1RGlXTUxGNl8xMkxBd2pjMGZuUnN6R3RYd1o4dW9ZaV9CejdSUVpqU01OUkJqVW5UcU5NQW5wZEdZNGZfTFQ5LWxMUnBvWjZvT2xnSno1SVNjNDZkczFQZ3VHNDkxRUgyUFQ5TENVbExpbXM0YkJQX09yYV93RHZWRmMwS2Y2SHRSR2Nn0gHiAUFVX3lxTE5SdFpmY2x1eEY3Mk5ZTDBNZmtLc1NjdGg1NEhQQVV0OGtlSG81alhFR3RReTJkWjlXWU9UdlNNVTU0TWd5MUdXSHZDUGJkUVRMQW85QkRVNWZRcDFXRzVEaVdNTEY2XzEyTEF3amMwZm5Sc3pHdFh3Wjh1b1lpX0J6N1JRWmpTTU5SQmpVblRxTk1BbnBkR1k0Zl9MVDktbExScG9aNm9PbGdKejVJU2M0NmRzMVBndUc0OTFFSDJQVDlMQ1VsTGltczRiQlBfT3JhX3dEdlZGYzBLZjZIdFJHY2c?oc=5"
+  },
   "abb1fe73df02": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -6419,16 +7090,43 @@
    "status": "skip"
   },
   "ae9b9bd6bfe3": {
+   "action": "Monitor for follow-up policy frameworks or consultation processes; cite in memos on AI safety in African peace and security.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa (continental)"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
    "found": "2026-10-31",
    "group": "multilateral",
+   "headline": "AU Peace and Security Dept calls for action on AI-facilitated violence against women",
    "id": "ae9b9bd6bfe3",
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "African Union Peace and Security Department"
+   ],
+   "participation": "",
    "published": "2026-10-30",
    "snippet": "",
    "source": "African Union,Peace and Security Department (via search)",
-   "status": "triaged",
+   "status": "done",
+   "summary": "The African Union's Peace and Security Department has issued a call for action to protect women from AI and technology-facilitated violence in peace and security contexts, highlighting emerging risks at the intersection of AI, gender, and conflict.",
+   "thread": "T14145",
    "title": "African Union Calls for Action to Protect Women from AI and Technology-Facilitated Violence in Peace and Security",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
    "tries": 1,
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb1dENGh5OERIN3BWel9VNDJySGNnUjVWb0E1QXpLZzBEVFZRTTJZLUE1TDNDbVNxMEVfTk1mVk9PenNfbWktQVNTNExraXdMZFlfdFJVMFQ5OUNHdlgwRE5yaXh4dUZJcHFyM0V1dFh2MmxobUhvZWRybHNHLU9jaE0ydy1UTWFvdVc1SHlvZFdLYVV6MGR0Qm43bGR2YWJyXy1tcXBoa0JtSGQ2LTZyUndVQUdUMTJiS283ZkJvSzJRWmJ5b1JpWGFmOGc4SFdsRS1wS0szZDNiN2YxNDVwdUlR?oc=5"
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb1dENGh5OERIN3BWel9VNDJySGNnUjVWb0E1QXpLZzBEVFZRTTJZLUE1TDNDbVNxMEVfTk1mVk9PenNfbWktQVNTNExraXdMZFlfdFJVMFQ5OUNHdlgwRE5yaXh4dUZJcHFyM0V1dFh2MmxobUhvZWRybHNHLU9jaE0ydy1UTWFvdVc1SHlvZFdLYVV6MGR0Qm43bGR2YWJyXy1tcXBoa0JtSGQ2LTZyUndVQUdUMTJiS283ZkJvSzJRWmJ5b1JpWGFmOGc4SFdsRS1wS0szZDNiN2YxNDVwdUlR?oc=5",
+   "why": "Signals AU-level recognition of AI safety risks in fragile settings and gendered impacts, aligning with ILINA's focus on AI security in African contexts."
   },
   "aedaeb8e2c3e": {
    "found": "2026-10-28",
@@ -6583,6 +7281,11 @@
    "id": "b3c66d70834c",
    "status": "skip"
   },
+  "b3dedf5dfe89": {
+   "found": "2026-11-01",
+   "id": "b3dedf5dfe89",
+   "status": "skip"
+  },
   "b3e1d2fe4346": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -6642,7 +7345,7 @@
    "source": "DD News (via search)",
    "status": "triaged",
    "title": "India AI Impact Summit 2026: Togo, Indonesia & Egypt Push Life-Impact Metrics Over Compute Power",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWc5bHdxYUlqR3laQ1hLNEQ1blNFcGdGMjQtV1RSeGdtR3AwdTVDQnhLZmstZlNhUjkySzBaNnZoQ2FVMWNjOGktVWxCX0h5S3k4VkNTc3VmNzRPWkpWMGFmUmxJUjBhdEJZZHM2QUM4VndwMG04c0kzRkJPRlNCLUd6ZC1teXhwa0JRUElLVGhrcmFhYk9WNUNWbUVVZHpoOG54YU1MamZ1RGFnS2ZPY2ctTTJ1bEhBVnc?oc=5"
   },
   "b51eb736c69d": {
@@ -6677,6 +7380,17 @@
    "status": "triaged",
    "title": "Russia-Africa Summit 2026 to Focus on Trade, Technology and Strategic Cooperation",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2t3TUYyVVowcHRweWpsQ1NlakNvWmRiSmZGaEhWWkt2RjAzVnB0anY2WFNTbnRyMjVMTVdZbmp4dGZoQ0c3VzJzb2I4cmEwZWdNcnQ2dTJWNDRmaE9aUktrUmlqdF95U01RaWk1UndRVVdxVFJiOE5xQUdzUlJRdU5RRERWZUJrWXNiLUZYVzM2T2xQWXZ5SzQwTnNQZw?oc=5"
+  },
+  "b69fbabf82c5": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "b69fbabf82c5",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "Electronics Weekly (via search)",
+   "status": "triaged",
+   "title": "Government to set up Biosecurity Lab for biological AI threats",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSU9XNTJ0SVQ1M0ZHYTFqdVVST0F0UnQ3aDZXd3hIcURMWGc3N1hJWUZ6eWZaYmFrRHl2YnVnNHFqUHhjYTlna2g3YVZ4eF9jTFozRmdvUDlWSUtGXy1hWUJmOFZPSURjRi1DWTd3YWFlRWFEeGRsWmt1YkQwSDlJSHY1bkVyei0xTlZqX0kxRXJpRDNVbnd4dFJ2MWdxVGtfWWpnSFRya0JpV3RK?oc=5"
   },
   "b6fd752de75f": {
    "found": "2026-10-28",
@@ -6738,6 +7452,45 @@
    "title": "India Weighs Pre-Release Safety Tests for Frontier AI Models",
    "tries": 1,
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0hjb1BnMGFjYnB4UXQwY1kxU2pZbE1BelBYdC1makFjcXV3T3N1b3RkR1dJU045dkw2VFJrNnNvVTZZVk9qcU9CQUhraDJtZ1RFOFVOV1ZTSWRJTW9SWm4wVEc0Z3ZGSWpQaGIxaWJaZG1WbnRmUGYyTGF3c2ZFNVFVemFTUTZkM1E?oc=5"
+  },
+  "b803b76c3c09": {
+   "action": "Monitor for AI-specific implementation plans and consultation opportunities",
+   "african_input": true,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa",
+    "African Union"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-01",
+   "group": "multilateral",
+   "headline": "AU Ministers Urge Faster Digital Strategy Implementation",
+   "id": "b803b76c3c09",
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "African Union"
+   ],
+   "participation": "",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "African Union (via search)",
+   "status": "done",
+   "summary": "African Union ministers call for increased investment and accelerated implementation of continental digital transformation strategies.",
+   "thread": "T156d9",
+   "title": "From Digital Strategies to Delivery: AU Ministers Call for Increased Investment and Faster Implementation",
+   "topics": [
+    "Africa policy",
+    "global AI law"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTG1kdlZXelpfWFg1Z1p4OWl5SXJoaTFhWXI0TW9XQlFnVk9Md1JCdUVSR3Vrekt3SE56SzFDaXlZWHJLc0hPZEpwN2w0Unh0VWtaaWlnN1JHd1FDcENJYmxvaW9JS19JTGQ4eE9YeWY0S1JnZXhUMWwzR3lRWi00dG1mOU9PRnV0M3o3M294d3EwSGJweElzNXpKdzdWSVk3VGxUa21WNTROWk0?oc=5",
+   "why": "Signals political momentum for digital/AI policy delivery at AU level, relevant to ILINA's engagement with AU processes."
   },
   "b831b5c2fe0b": {
    "found": "2026-10-28",
@@ -6824,6 +7577,17 @@
    "status": "triaged",
    "title": "The Great American AI Act Mirrors California’s AI Rulebook and Would Preempt It for Three Years",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdURlRTJWajd6M0FlSDI5MXdvR3I4azJSYXVwVHlMS3h2bUdzRHNUcllBWUhMVjY4dHg3SkJ6VTRHTktBcV9XSVZodHFubVJZMkRfdE1TYV9iTzdVb0ozdnZGU2J1bEhSUVdQWWJlRXhVcDNZUmp2amg1UUU1UEdNUkExRnNuLUoxLXkxNmtfSGdGQ3hpSXdFN1VpTEtkN01FRnRRRzVUdEp4ZFo1b255ZDBaaEh3RVE?oc=5"
+  },
+  "bcb32b319cd7": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "bcb32b319cd7",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "Countercurrents (via search)",
+   "status": "triaged",
+   "title": "What a US-China AI Safety Channel Needs",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTJRT1hHS0FwVURhYjZtNndMR0JEOUNmc2tXdG8wT3RzMXRpUlR2cUt5Qm1nVGZoOUljMVIzT2NMMENpV0JTOWpPTkh5RWNNQXNCZV9hMFVaU2ZGeEl5cW01WGNJRTltVTVSMjdQeC1UcnRTVXBlVGs3ZzdCazFiSmVn?oc=5"
   },
   "bcb37f39caf5": {
    "found": "2026-10-29",
@@ -6935,6 +7699,11 @@
    "title": "Kenya’s AI Policy, As the Government Sees It",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmtGSVloOFYtT3M5cDFvVDU5dGxkM3psTmt0TUtUNUdKWHlMTFY4WFF0SV9oRkMxSmo0TVU5Xzg4OWJ0Tk1LVW03QWdPcEdMS0IyN09RdWFNZTV1YV9iUUxhNUEzMllELWJjdHpKaUhqcmxMOGt5eGZnakdmLTZnag?oc=5"
   },
+  "bdd6c2273939": {
+   "found": "2026-11-01",
+   "id": "bdd6c2273939",
+   "status": "skip"
+  },
   "be1bb6600a65": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -6979,6 +7748,11 @@
    "status": "triaged",
    "title": "South Africa unveils draft AI policy, proposes new institutions and incentives",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdzU2NE10em9YSm5zLXl3dnY4V1M0bGFPRFFiZkoyLXkwcW1zbjAtQkQ0QkhRRUJnUnE4RkwxN3lXWWNaSzFsclBWWlR0WFhMNTlSUUU3bHEzRXpGaVFYNTVQMzFSeDFoRXdYek9NR21XVnBlSnQ5b2VJRVNsSGdiRko1UURScmxKQ1pkWDY4WF9tMTJKYzRWY1JyanRlME9vb25wVEp4SmRMMTl0WUo0aVA1aWZkdi1sNHBEZnZHNVBpQXA5?oc=5"
+  },
+  "bee393d9a2e3": {
+   "found": "2026-11-01",
+   "id": "bee393d9a2e3",
+   "status": "skip"
   },
   "beee2c890843": {
    "found": "2026-10-31",
@@ -7039,6 +7813,17 @@
    "status": "triaged",
    "title": "South Africa’s AI policy withdrawn after AI-generated citations found",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGd1RVJsSDdOZXBpXzMwNi1HNXJ5Z0gwS0RlUUpSQzB1OFppamFrelAtOFlxRnZBTjZlSlZPX0hZUUR3QnRfT3FDQXRNcU5aYTY4eXhzLXF5dnZaRm0zRUFRUHpyVW9oVnR3anFIZ2x2SlIydUstY0lRZFZLd0hJNHk4bk03d1RNN2FYXzhQSjBVQlJmeUp1WFVJeWEtR19NM3BCWTJ0d2lDaEU1SVo1WFF3RFRaVU42SlF5LU55LTZXdw?oc=5"
+  },
+  "c003f605913f": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "c003f605913f",
+   "published": "2026-10-27",
+   "snippet": "",
+   "source": "Finextra Research (via search)",
+   "status": "triaged",
+   "title": "Anthropic's IPO Filing Opens the Books on Frontier AI: Hypergrowth, Heavy Compute and an Existential: By Andrii Bilous",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUxNTW54X0FjT0xNc0x3bGNybWFjVE40TV9XSFg0VUpyQ05JM2NvRkFEVWVyb29JMElkdnZVQ2NDSVJLQTN2cXcwdEJ5b3UzMnlRVDJWUF80R29kZnA5cFlfQ2hYSmZrV0FVczd3aU9lNEoxVlRDUUt2XzYtYjFIOTJadG9wWDBWRzFCVFFzeG1kWXRNRmNISXdXN2NuWnBKNjFQcjc2OHcwY2RTR2prYjFFaVVPSUFRTVNCd3FSSFpzTUZ4U2kyS0M2d0U5SjE5WXliVnE0Zw?oc=5"
   },
   "c05e32dc01b8": {
    "found": "2026-10-30",
@@ -7312,6 +8097,17 @@
    "title": "NCC Calls for Stronger Collaboration on AI Governance, Online Safety",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHl1NW0tUGhXRER3WlpiWmZoNEFoM01UMDQ0cTA4dFlyMVRkS2xDanRVb1JpYVRxbUVjdjcyTkJEaHhwZUdCWGRuM1NmbURkUFJabmlOODU1NS1rSmxfLXhSd0VCbEF2V2RHa2N3SEZ6b0FYQ3NMc2RYeFRYRzBFQWpVMF9DaE0zaFRxdVFCNVA2V0pScmJZZ0RTb3JRVGtDSkVXeXNqaw?oc=5"
   },
+  "c8f6759cfe69": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "c8f6759cfe69",
+   "published": "2026-10-28",
+   "snippet": "",
+   "source": "Singapore Economic Development Board (EDB) (via search)",
+   "status": "triaged",
+   "title": "TÜV SÜD establishes AI Procured platform to qualify AI solutions",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGpZSEJYeDNxNUhjcFZVZ3E4UFZldWpTZW5ySzBQZnhJVzZIXzY3WUFYa1F0OWRkWEc2azBTRndjSHJ5SU43U1BkZ1REN2J2YnNRY3ZMZnVnWDU4OFZfS1FYcUc2eXRYMHdXd1N2RHNGX3plLWNXUmlhOXI2RklrQUJjTDFGUU5xcHZaVmJpRVJFd1lydlJ5b0xLRnlVdzNaRDctaURtaW0?oc=5"
+  },
   "c8f8f7ebdb58": {
    "found": "2026-10-28",
    "group": "people",
@@ -7448,6 +8244,11 @@
    "status": "triaged",
    "title": "How Black-Box Distillation Works",
    "url": "https://cset.georgetown.edu/article/how-black-box-distillation-works/"
+  },
+  "ceb6cd9cbb3f": {
+   "found": "2026-11-01",
+   "id": "ceb6cd9cbb3f",
+   "status": "skip"
   },
   "cf2b009741ab": {
    "found": "2026-10-28",
@@ -7616,6 +8417,11 @@
    "status": "triaged",
    "title": "UNESCO AI: current page",
    "url": "https://www.unesco.org/en/artificial-intelligence"
+  },
+  "d4dff498ce8c": {
+   "found": "2026-11-01",
+   "id": "d4dff498ce8c",
+   "status": "skip"
   },
   "d4e0acb80451": {
    "found": "2026-10-30",
@@ -7874,6 +8680,18 @@
    "title": "North Macedonia establishes National Committee for the Protection and Safety of Journalists",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc2Q4TEhWMXE1N202Zkg0emJoMWxSRmE2dU1oamFvS2JnNDVnS1E5d21mT190U2RSdUt1eUE0Yi1GSmNkS282VlNfaW10QTFHdmdteUxkS0wtZWJfcmVsVnJmRWRvUTkwTWo3Nlo5NFcxLXlaTU02d01VNVllVDV0enQ4dUxmVTNQRHdRTWFwdGQxeHRyb2JKUDhIRUx2SkxrdWZOdkV2Z3FzelFGcVdibDlVREhwdFZYRUhUMy1vRW1jYWUyRlBIbWUwVWhIRFZ4NmplcmxB?oc=5"
   },
+  "db3a06492331": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "db3a06492331",
+   "published": "2026-10-31",
+   "snippet": "",
+   "source": "Capital FM Africa (via search)",
+   "status": "triaged",
+   "title": "Gates Foundation’s Goalkeepers 2026 in Dakar spotlights AI innovations transforming healthcare in Africa",
+   "tries": 1,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVFuNjV5Um9NbV9ERzA2NEtiZ2lUNHdGQkVIamE3Z09aOEJMWlRfZFg4V1RmMEtmVzNtUUdmRTVmVWs4VzZKSlBfZVRKeXZSUldiSGY4cEo3aW9qQzNYQTZnSV9raEhXeU5qeDdsSFVBM2pJLU5OaVI5ckN5aWxDNUtoNWxVMWxLVXJaeE82YUJ6OVVIaG5RY2NKZF8zaVlGcndBSHZFMzFadkxob0huLXNhSTM4bU5Jb3luQQ?oc=5"
+  },
   "dc3794e32b83": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -7955,6 +8773,11 @@
    "status": "triaged",
    "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jOWxiRUlHT0hFWlpoek5fOV9GZDh1SGR5Uk9LV25jUG9CWXh2eTZmSmUwb1h0RVB0Q21mbzRpWjBrNFpKMC1ZUHNRY19LWWdNNHRnTEVTOElzOW8w?oc=5"
+  },
+  "df33f9a4a0b5": {
+   "found": "2026-11-01",
+   "id": "df33f9a4a0b5",
+   "status": "skip"
   },
   "df3ae4105a9c": {
    "found": "2026-10-28",
@@ -8106,6 +8929,11 @@
    "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on ‘potentially dangerous’ AI",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFd2NzlmY0pGMFFUNlZBaFRmUURTaGlnZzRsZkg5WGJiZkp5akRXUTBQYlpSY3pVaXBpMS04ZUsxRHROblVRc1p0M1NFYlBZeGpBcVIzczRDM1RaclBCV1dMWVpseTMtcm5DYWpIdHdFQkJSejA2ZEJZZHFEM1duS1ltb2FJTlU1aXhiRnMxelRLNDViNDhJRkp2eU1ucl9ES2VpSE9ZZkF2TEtx?oc=5"
   },
+  "e3b4aa01cd0d": {
+   "found": "2026-11-01",
+   "id": "e3b4aa01cd0d",
+   "status": "skip"
+  },
   "e4053b54c3d8": {
    "found": "2026-10-28",
    "group": "government",
@@ -8192,7 +9020,7 @@
    "source": "Global South Opportunities (via search)",
    "status": "triaged",
    "title": "Call for Applications: GovAI UK Summer Fellowship 2027: Applied Track",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sa0tZcjZ6OC1yaGpxMkQ2V3dnRXQ2Ukt1WDdxSXYzTDdDWXg2ZmJVclFvZC05b0ZXRG1HbXM5VTg4a2pONU93bWxFTzRXYzhqbE9Db1kzY3NpVWtINzBIRkRlQ2NNaVAxYUtKcQ?oc=5"
   },
   "e5198d83a457": {
@@ -8241,6 +9069,17 @@
    "title": "Nigeria’s AI Strategy Misses The Safety Mark",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkM1UzhmY3BwUS1Oc1E5Rjktdk5QY1NjeHF6MUdwYUxpeFBqUnAyYm9xZ2c0eXZmS3N4c01OLU4yWkcyb2tZYjlfWnQ0VG5SM3cxVE5NMDk1SHE5clJFeDlJRWVSaXk4VXRsR1FBckE5cjg4MGhXQTFoTElRWlhHdHZWMHpuUGZvTmxxUDFhOA?oc=5"
   },
+  "e63591d3d722": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "e63591d3d722",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "TechCentral (via search)",
+   "status": "triaged",
+   "title": "Discovery ranks cybercrime as its top risk, citing frontier AI",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTVxMUNJTmZERTBfOWlOeG13eWlESTFqc3JSR0tyZ3V3MG82ZUxOVndlTEE0UjdZU25pdzdFNkRaQ1luaEZDMTlMZjFXVmtRb2gzZmoyWmpfdE93ZGtZZGFGdkktR0stU1RwNGViVloyb1Axamh2RERZQTFNWXNXYw?oc=5"
+  },
   "e63bb2ef7c0a": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -8254,15 +9093,8 @@
   },
   "e66475a62d03": {
    "found": "2026-10-30",
-   "group": "news",
    "id": "e66475a62d03",
-   "published": "2026-10-29",
-   "snippet": "At Moonshot by TechCabal 2026, the Nigeria AI Scaling Hub (NAISH) showcased five organisations developing artificial intelligence solutions for healthcare, agriculture, and local languages, underscoring how shared digital infrastructure and institutional partnerships can transition local research into widespread commercial adoption. The initiative brought together digital health provider mDoc, agritech platform Extension Africa, research enterprise Data […]",
-   "source": "TechCabal",
-   "status": "triaged",
-   "title": "Inside Nigeria’s $7.5M Gates-backed AI scaling hub",
-   "tries": 2,
-   "url": "https://techcabal.com/2026/10/29/nigeria-7-5m-gates-backed-ai-scaling-hub/"
+   "status": "skip"
   },
   "e66f1b266f75": {
    "found": "2026-10-31",
@@ -8343,6 +9175,11 @@
    "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
    "url": "https://cset.georgetown.edu/article/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/"
   },
+  "e8631c2559e8": {
+   "found": "2026-11-01",
+   "id": "e8631c2559e8",
+   "status": "skip"
+  },
   "e87f00973c6a": {
    "found": "2026-10-28",
    "group": "opportunities",
@@ -8363,7 +9200,7 @@
    "source": "CIO Africa (via search)",
    "status": "triaged",
    "title": "Kenya’s County AI Pilots Need Decision-Recovery Drill",
-   "tries": 1,
+   "tries": 2,
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeTNLVmtTQ2JZYlNBdW1ySWNCMVBKWS1IY2VVa3oyLVVLajJ1QXRUb3V0SWtZUHE4eTVVU2hfbGEwYmZOVWFIYXpKNEhkdkphSVdVbFJDcG5HQVpYTHlDQmpPbUlxdUdGV0dTZk9xbllDNkxsaE1iZG5FZ3FRS0U?oc=5"
   },
   "e93793d057dc": {
@@ -8415,6 +9252,11 @@
    "title": "Dario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in the AI ‘race to the top’",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWERUMDJlblRzeHNBMFpheDA4R3lzVjBJV3otWlZrZlc2bDVzb1hwcHlUclFhTUltWjdTekl2MDN3MVpqNmFjaUllM204b2tfX1I4M0R0OVF1LU5NMl9IZVA1RWp1eGVycXN6V1FseHdRTl9qMGZBWTFoSzRrSnVPZEJfY3RaVERjSTlwZGE4cHhZTmZDTThFNWhqOE9hU2xYdnVDZ01WdHQtQkhRQkhYa2RFbkpPU0VIYVlmMVR0cEY4YlYtLVZtX0ZhX08?oc=5"
   },
+  "ea60c5aff4d7": {
+   "found": "2026-11-01",
+   "id": "ea60c5aff4d7",
+   "status": "skip"
+  },
   "ea7c0017d83a": {
    "found": "2026-10-30",
    "id": "ea7c0017d83a",
@@ -8463,6 +9305,22 @@
    "status": "triaged",
    "title": "Psychotic teen killer Barbara Glover \"couldn't remember\" knifing fellow pupil",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeU1YRFlab0Jtam1NOXVYakMwWVlGazV2MGVPVFdTS1N4cF9UVXBjbzY5QXpMdXduZU9OVTBXMmxsQTBrcmVHRjRhQV95cHBOYmFFZ2ZpcEZ5UE15NjRvWGpjXzNHU0daUXFXTHBhQmJuUmJNMElWaDlSNjFIdGRQYlp6eEMtZ1dhSWpodk9odnRBOGgxX0xfZl93?oc=5"
+  },
+  "eb38cc1572e2": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "eb38cc1572e2",
+   "published": "2026-10-25",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "triaged",
+   "title": "Protesters clash with police over India dam project bordering China",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmJuSzEwcElWU1dDSjFjbnJZeFpnUnN6bjdyM3J1eW43T0JrYzVHQ0FsZmZpRnlHYnpJTlQ3X09FVUc2cjVUTlJPMVNkTmd3VVNSUEFFRElxX2hpQTljb0RkR1BkRGFmN0hEYm1KaThWSjZhVElGMjFQYktpMHVSREdyNThUX2Q4YTgtdk9lUnhMRTFiQjgxR0pWcGpmeDA0bVpFRVMxMnViZFU?oc=5"
+  },
+  "ec054b4af910": {
+   "found": "2026-11-01",
+   "id": "ec054b4af910",
+   "status": "skip"
   },
   "ec25bab959c8": {
    "found": "2026-10-28",
@@ -8679,6 +9537,11 @@
    "title": "Safaricom lets fibre users share data with up to family members",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52RXp2Rk1GTjhqdl9FaUs5UWt2bmtZd2Q0c2lYbVFtLTljRVl5ZDY0TWI2TDlnQWUxYTRHekJmMDRpRnd2TWUzUjZ0TUZTWmIzbUpSNDJaT3QxaTRJbW9rT2dhWHNXbUNsOWN3TUhDSjVJYkV2?oc=5"
   },
+  "f2b8b443b136": {
+   "found": "2026-11-01",
+   "id": "f2b8b443b136",
+   "status": "skip"
+  },
   "f2b9ccec2a1f": {
    "found": "2026-10-28",
    "group": "multilateral",
@@ -8822,6 +9685,11 @@
    "title": "OpenAI ‘not racing to the bottom’ on AI safety, MPs told",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGtIUUJFSzM4bUdqNDh0OXVpa21QS3gtbXFoQWtRaGw2am5yWXJkUnhkNlZNSm5lb2RCd1dVRWtROEFGakhNUDVNdHZPN3RzYXI3Ty1takR3X2tUOVhnWEU5enNlV3RPS3ZBSmtXYnREbk1jdHV5NWRvSllOV3cxZlMybEFhbE4yVHFpUjlOYTViQQ?oc=5"
   },
+  "f7008ac06d7a": {
+   "found": "2026-11-01",
+   "id": "f7008ac06d7a",
+   "status": "skip"
+  },
   "f73af98d3db2": {
    "found": "2026-10-28",
    "group": "government",
@@ -8943,6 +9811,11 @@
    "title": "DC Winter Fellowship 2027 | GovAI Blog",
    "url": "https://www.governance.ai/post/dc-winter-fellowship-2027"
   },
+  "fb32ca9ab89a": {
+   "found": "2026-11-01",
+   "id": "fb32ca9ab89a",
+   "status": "skip"
+  },
   "fb56d869d0f2": {
    "found": "2026-10-28",
    "group": "government",
@@ -8953,6 +9826,17 @@
    "status": "triaged",
    "title": "Inside Kenya's Artificial Intelligence Bill and the fight for accountability",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWJGVkVlSFVFdlo5YUpGc3o1SUh4ZFVpY3h4Z1JNb1ZwWGlZMEJGSkVFczhYNDI4LXFWSzZkejRMV1JWMmZQOHlfd0pUQ3Vpa1FDazRYLU02Z3dfS1AxZ1NBYndqZW1ldXEzaEVhSUw1eUNRYzMyNi1tN1pGbVA2R05qSHlHOVZvOUtMNHhQU25kYS1Ub3ZTZUJiLUdGZDVadEdhMFpwckFBRGc1cUZqN05HVEs4cmI3NmtDQTVWUXlJM3p3bTB6Rm1qZXkwbEFNV3c1bFJ3LUtNcDg?oc=5"
+  },
+  "fb76f5cafa13": {
+   "found": "2026-11-01",
+   "group": "news",
+   "id": "fb76f5cafa13",
+   "published": "2026-10-20",
+   "snippet": "",
+   "source": "WRAL (via search)",
+   "status": "triaged",
+   "title": "Shark kills woman swimming off South Africa's Eastern Cape, beaches closed",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzZJeXBydlZVeW9UdnZKS3diQ25sV0ctWkNucTgyZHdYNlgyWHZvckRHZFlJa3piWnFybUpiLVNoVGJxUjBwUkd4akFrRWVGUFctSEFzY3pDT2lPM3hDWE5zUFFHMExjQzlpUnA1bFI3R2xhdWhIbDlHdjFGbWdxbmFpcDc5ZEZwaEowdWpQY2tyOWNSS2MySVdHR3pwbENxTC1kZXcwS1FPNUJP?oc=5"
   },
   "fb9e3acfb2ca": {
    "action": "Monitor STC work programme for AI policy consultations; consider outreach to Ghana's Ministry of Communications for input opportunities.",
@@ -9004,6 +9888,22 @@
    "status": "triaged",
    "title": "NERSA opens public participation on draft electricity tradi…",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2s1SWZWMy1NWUdrYTJsbFA3VjZMVDBwU0hxVklIV0RONGRMcGZZQkRRdHU3UEFZVlFiajlnYlBjNzNZOGZYcVg5aUpjSEl2UnFvV2NVSHhWVU1VTU53Nnd0YUhXR0JkZ3VCUEREXzJmcmc2SzUxT29YZFViYU1adEt2NklJN3RFQnUzT2Z0ZmNqQi1zemRRLVJ0Z0ZZalV4UUppNGpwdkY?oc=5"
+  },
+  "fc6772b59982": {
+   "found": "2026-11-01",
+   "group": "tracker",
+   "id": "fc6772b59982",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "ActuIA (via search)",
+   "status": "triaged",
+   "title": "US GSA LLM clause: what it means for European AI vendors",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3BpSjBKNHB4bnJseEtvOGthQ09TYTJxdW9uUW55RTZDVmRGZ1F6MVFNSnZQYzRSRk1zZHdVNUpqWHdYTGJyNXdOQ2trRS1DYkJ3X0NwMGJqczhzNE9Bc3FmQ284Ni1oN3Ywd0FJMTJzV2gtQ2k3WXZGUmxoVE8tZWVVWE1ra3M0WWZuaE9uZmU?oc=5"
+  },
+  "fcadaa446596": {
+   "found": "2026-11-01",
+   "id": "fcadaa446596",
+   "status": "skip"
   },
   "fd305a3267db": {
    "found": "2026-10-28",
@@ -9092,6 +9992,11 @@
    "status": "triaged",
    "title": "John Mahama | Achievements, Date of Birth, Biography, & Age",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlci1ERlJJbUI1MV9tbTRVWFNjZmJaMHB2MmFoeTJJdlFaa2t6ZXZsQXFyT1RwTEhUS1dDek5OWERKblhBNGdQajlDOGQ4dHVNLWRZd3VQQ2stWHE0?oc=5"
+  },
+  "ffc5cb932038": {
+   "found": "2026-11-01",
+   "id": "ffc5cb932038",
+   "status": "skip"
   },
   "fff5ef734cd3": {
    "found": "2026-10-28",
@@ -9478,11 +10383,11 @@
  "threads": {
   "T14145": {
    "name": "African AI sovereignty & safety discourse",
-   "updated": "2026-10-31"
+   "updated": "2026-11-01"
   },
   "T156d9": {
    "name": "AU Digital Transformation Strategy Review 2026",
-   "updated": "2026-10-28"
+   "updated": "2026-11-01"
   },
   "T43733": {
    "name": "South Africa AI Policy Consultation 2026",
