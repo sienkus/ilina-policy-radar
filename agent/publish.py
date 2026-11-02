@@ -94,6 +94,57 @@ def _ics(entries, today):
     return "\r\n".join(lines) + "\r\n"
 
 
+COLUMNS = ["Priority", "Score", "Deadline", "Days left", "Title", "Type", "Event date", "Location",
+           "Next step", "Why it matters", "Organisers", "Warm contacts", "Sources", "First seen"]
+WIDTHS = [9, 7, 12, 9, 50, 13, 12, 18, 45, 45, 30, 18, 8, 12]
+
+
+def _row(e, today):
+    dl, ev = _d(e["deadline"]), _d(e["event_start"])
+    return ["High" if e["score"] >= 70 else "Medium" if e["score"] >= 50 else "Low", e["score"], dl,
+            (dl - today).days if dl else None, e["title"], e["type"].replace("_", " ").capitalize(), ev, e["location"],
+            e["action"], e["why"], "; ".join(e["organizers"]), "; ".join(e["contacts"]), len(e["sources"]), _d(e["found"])]
+
+
+def _sheets(es, today):
+    """radar.xlsx for people (real dates, short links, colours); radar.csv for Google Sheets' IMPORTDATA."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Alignment, Font, PatternFill
+
+    with open(os.path.join(OUT, "radar.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(COLUMNS + ["Link"])
+        for e in es:
+            w.writerow([v.isoformat() if isinstance(v, date) else "" if v is None else v for v in _row(e, today)]
+                       + [e["sources"][0]["url"]])
+
+    wb = Workbook()
+    ws = wb.active
+    ws.title = f"Radar {today:%d %b}"
+    ws.append(COLUMNS)
+    fill = lambda c: PatternFill("solid", fgColor=c)
+    for c in ws[1]:
+        c.font, c.fill = Font(bold=True, color="FFFFFF"), fill("1F5F4A")
+    for e in es:
+        ws.append(_row(e, today))
+        r = ws.max_row
+        title = ws.cell(r, 5)
+        title.hyperlink, title.font = e["sources"][0]["url"], Font(color="1F5F4A", underline="single")
+        for col in (3, 7, 14):
+            ws.cell(r, col).number_format = "d mmm yyyy"
+        days = ws.cell(r, 4).value
+        if days is not None:
+            ws.cell(r, 4).fill = fill("F4C7C3" if days < 14 else "FCE8B2" if days < 30 else "D9EAD3")
+        ws.cell(r, 1).font = Font(bold=True, color={"High": "B3261E", "Medium": "A86B00"}.get(ws.cell(r, 1).value, "6B6A64"))
+        for c in ws[r]:
+            c.alignment = Alignment(wrap_text=True, vertical="top")
+    for i, width in enumerate(WIDTHS):
+        ws.column_dimensions[chr(65 + i)].width = width
+    ws.freeze_panes = "F2"  # priority, dates and title stay visible while scrolling
+    ws.auto_filter.ref = ws.dimensions
+    wb.save(os.path.join(OUT, "radar.xlsx"))
+
+
 def build(store):
     today = date.today()
     es = entries(store, today)
@@ -103,13 +154,6 @@ def build(store):
         json.dump({"generated": today.isoformat(), "entries": es}, f, ensure_ascii=False)
     with open(os.path.join(OUT, "deadlines.ics"), "w") as f:
         f.write(_ics(es, today))
-    with open(os.path.join(OUT, "radar.csv"), "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["Score", "Type", "Title", "Deadline", "Event date", "Location", "Action", "Why", "Organisers",
-                    "Warm contacts", "Link", "Updated"])
-        for e in es:
-            w.writerow([e["score"], e["type"], e["title"], e["deadline"] or "", e["event_start"] or "", e["location"],
-                        e["action"], e["why"], "; ".join(e["organizers"]), "; ".join(e["contacts"]),
-                        e["sources"][0]["url"], e["updated"]])
+    _sheets(es, today)
     print(f"  published {len(es)} entries")
     return es
