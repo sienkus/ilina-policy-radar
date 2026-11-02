@@ -1,8 +1,7 @@
 # Models are tried in order; if one is unavailable the next is used.
 models:
-  - nvidia/nemotron-3-ultra-550b-a55b
-  - nvidia/nemotron-3.5-lightning-30b-a3b
-  - openai/gpt-oss-20b
+  - nvidia/nemotron-3.5-lightning-30b-a3b   # ~3s per item with thinking off
+  - nvidia/nemotron-3-ultra-550b-a55b       # slower fallback
 requests_per_minute: 35      # NVIDIA free tier allows 40
 time_budget_minutes: 40      # stop analysing after this; leftovers continue next run
 max_age_days: 30             # ignore feed items older than this

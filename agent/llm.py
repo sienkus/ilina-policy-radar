@@ -41,7 +41,9 @@ class LLM:
         for attempt in range(8):
             if not self.models:
                 raise Unavailable("no working model")
+            # thinking off: on NVIDIA's models it eats the token budget and makes calls 10x slower
             body = {"model": self.models[0], "max_tokens": max_tokens, "temperature": 0.1,
+                    "chat_template_kwargs": {"enable_thinking": False}, "reasoning_effort": "low",
                     "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}
             try:
                 r = self._post(body)
