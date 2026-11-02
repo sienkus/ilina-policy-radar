@@ -31,9 +31,9 @@ Add `CONTACTS` there too, with one name per line for each person ILINA already h
 
 Everything else is optional and goes in the same Secrets page. Nothing you put there is visible in the repo or the logs.
 
-For LinkedIn and X posts, make a free [Apify](https://apify.com) account and add its token as `APIFY_TOKEN`. The free plan gives $5 a month and this should use $1 to $2 of it. The agent checks how much has been spent before each run and stops at $4.50, so you won't get a bill. The profiles it follows are under `social:` in the config.
+For LinkedIn and X posts, make a free [Apify](https://apify.com) account and add its token as `APIFY_TOKEN`. The free plan gives $5 a month and this uses well under that. The agent checks how much has been spent before each run and stops at $4.50, so you won't get a bill. It fetches posts once a week, which keeps the cost under a dollar. The profiles it follows are under `social:` in the config.
 
-For an email digest, add `SMTP_USER` (a Gmail address), `SMTP_PASS` (a Gmail [app password](https://myaccount.google.com/apppasswords), not the real one) and `DIGEST_TO` (who gets it, comma separated). You'll get an email when something high priority comes in, plus a roundup every Monday. For Slack, add `SLACK_WEBHOOK_URL` instead.
+For an email digest, add `SMTP_USER` (a Gmail address), `SMTP_PASS` (a Gmail [app password](https://myaccount.google.com/apppasswords), not the real one) and `DIGEST_TO` (who gets it, comma separated). You get one roundup every Monday, with anything urgent at the top and the week's new finds below it, plus the spreadsheet attached. Urgent means a real call to take part, a good fit, and a deadline in the next three weeks. If one of those turns up midweek you get a short email straight away, and that's the only time it interrupts you. For Slack, add `SLACK_WEBHOOK_URL` instead.
 
 ## Changing what it watches
 
