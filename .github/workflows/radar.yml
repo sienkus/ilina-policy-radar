@@ -44,7 +44,11 @@ jobs:
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
           git add data
-          if ! git diff --cached --quiet; then git commit -m "radar: $(date -u +%F)"; git push; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: $(date -u +%F)"
+            # code may have been pushed during the run; on a clash this run's data wins
+            for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
+          fi
       - uses: actions/upload-pages-artifact@v3
         if: always()
         with:
