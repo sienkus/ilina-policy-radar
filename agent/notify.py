@@ -1,6 +1,8 @@
 """Optional digest by email and/or Slack. Daily: only new high-priority items. Weekly: the full roundup."""
 import html, json, os, smtplib
 from datetime import date, timedelta
+from email.mime.application import MIMEApplication
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 import requests
@@ -45,7 +47,13 @@ def send(store, entries, weekday=0):
     body = "".join(f"<p>{_line(e)}</p>" for e in picks) + (f"<p><a href='{site}'>Open the full radar</a></p>" if site else "")
 
     if smtp:
-        msg = MIMEText(body, "html")
+        msg = MIMEMultipart()
+        msg.attach(MIMEText(f"<div style='font-family:sans-serif;font-size:14px;max-width:640px'>{body}</div>", "html"))
+        csv = os.path.join(os.path.dirname(__file__), "..", "public", "radar.csv")
+        if os.path.exists(csv):  # the full list as a spreadsheet; opens in Excel or Google Sheets
+            part = MIMEApplication(open(csv, "rb").read(), Name=f"ilina-radar-{today}.csv")
+            part["Content-Disposition"] = f'attachment; filename="ilina-radar-{today}.csv"'
+            msg.attach(part)
         msg["Subject"], msg["From"], msg["To"] = subject, smtp, os.environ.get("DIGEST_TO", smtp)
         with smtplib.SMTP_SSL(os.environ.get("SMTP_HOST", "smtp.gmail.com"), 465) as s:
             s.login(smtp, os.environ["SMTP_PASS"])

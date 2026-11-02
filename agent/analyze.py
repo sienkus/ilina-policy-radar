@@ -77,14 +77,19 @@ def triage(llm, store, profile, deadline_at):
         lines = "\n".join(f"{n}. [{i['source']}] {i['title']} — {i.get('snippet', '')[:250]}" for n, i in enumerate(batch, 1))
         try:
             keep = {int(k) for k in llm.json(TRIAGE.format(profile=profile), lines, 300).get("keep", []) if str(k).isdigit()}
-        except ValueError:  # unparseable answer: let the full pass decide
-            keep = set(range(1, len(batch) + 1))
+        except ValueError:  # unparseable twice: leave the batch for the next run, give up after 3 tries
+            for i in batch:
+                i["tries"] = i.get("tries", 0) + 1
+                i["status"] = "triaged" if i["tries"] >= 3 else "pending"
+            store.save()
+            continue
         for n, i in enumerate(batch, 1):
             i["status"] = "triaged" if n in keep else "skip"
         store.save()
         print(f"  triage {start + len(batch)}/{len(todo)}: kept {len(keep)}")
     for i in store.pending("pending"):  # page snapshots skip triage
-        i["status"] = "triaged"
+        if i.get("kind") == "page":
+            i["status"] = "triaged"
 
 
 def _mentions(names, text):
