@@ -7,6 +7,8 @@ from email.mime.text import MIMEText
 
 import requests
 
+from .publish import urgent
+
 
 def _site():
     repo = os.environ.get("GITHUB_REPOSITORY", "")
@@ -36,15 +38,19 @@ def send(store, entries, weekday=0):
     weekly = today.weekday() == weekday and store.meta.get("last_digest") != today.isoformat()
     if weekly:
         week = (today - timedelta(days=7)).isoformat()
-        picks = [e for e in entries if e["updated"] >= week or e["found"] >= week][:25]
-        subject = f"ILINA policy radar: week of {today:%d %b}"
-    else:
-        picks = [e for e in entries if e["score"] >= 70 and e["id"] not in sent][:15]
-        subject = f"ILINA policy radar: {len(picks)} new priority item(s)"
+        act = [e for e in entries if urgent(e, today)]
+        rest = [e for e in entries if not urgent(e, today) and e["score"] >= 50 and (e["found"] >= week or e["updated"] >= week)]
+        picks = act + rest[:20]
+        subject = f"ILINA policy radar, week of {today:%d %b}" + (f": {len(act)} need action" if act else "")
+    else:  # between digests, only interrupt for something urgent she hasn't been told about
+        picks = [e for e in entries if urgent(e, today) and e["id"] not in sent]
+        subject = f"ILINA policy radar: {len(picks)} urgent deadline(s)"
     if not picks:
         return
     site = _site()
-    body = "".join(f"<p>{_line(e)}</p>" for e in picks) + (f"<p><a href='{site}'>Open the full radar</a></p>" if site else "")
+    act = [e for e in picks if urgent(e, today)]
+    body = (("<h3>Needs action (deadline within 3 weeks)</h3>" + "".join(f"<p>{_line(e)}</p>" for e in act)) if act else "")
+    body += (("<h3>New this week</h3>" + "".join(f"<p>{_line(e)}</p>" for e in picks if e not in act)) if len(picks) > len(act) else "") + (f"<p><a href='{site}'>Open the full radar</a></p>" if site else "")
 
     if smtp:
         msg = MIMEMultipart()
@@ -64,7 +70,7 @@ def send(store, entries, weekday=0):
             for e in picks) + (f"\n<{site}|Open the full radar>" if site else "")
         requests.post(slack, data=json.dumps({"text": text}), timeout=20)
 
-    store.meta["notified"] = sorted(sent | {e["id"] for e in entries if e["score"] >= 70})
+    store.meta["notified"] = sorted(sent | {e["id"] for e in entries if urgent(e, today)})
     if weekly:
         store.meta["last_digest"] = today.isoformat()
     print(f"  sent: {subject}")

@@ -75,6 +75,9 @@ def collect(cfg, store):
         if not net or not net.get("targets"):
             continue
         today = date.today().isoformat()
+        last = store.meta.get("social_since", {}).get(key)
+        if last and (date.today() - date.fromisoformat(last)).days < net.get("every_days", 7):
+            continue  # weekly is enough and keeps Apify well inside the free credit
         try:
             used = _used_usd(token)
             if used >= sc.get("monthly_budget_usd", 4.5):

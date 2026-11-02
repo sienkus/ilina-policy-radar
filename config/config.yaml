@@ -112,7 +112,7 @@ social:
   monthly_budget_usd: 4.5   # Apify free plan gives $5/month
   linkedin:
     actor: harvestapi/linkedin-profile-posts   # ~$2 per 1,000 posts, no login needed
-    max_posts_per_profile: 3
+    max_posts_per_profile: 5   # per week
     targets:
       - {name: Philip Thigo, url: "https://www.linkedin.com/in/philip-thigo"}
       - {name: Jonathan Shock, url: "https://www.linkedin.com/in/jonathan-shock-38658928/"}
