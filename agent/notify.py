@@ -49,10 +49,10 @@ def send(store, entries, weekday=0):
     if smtp:
         msg = MIMEMultipart()
         msg.attach(MIMEText(f"<div style='font-family:sans-serif;font-size:14px;max-width:640px'>{body}</div>", "html"))
-        csv = os.path.join(os.path.dirname(__file__), "..", "public", "radar.csv")
-        if os.path.exists(csv):  # the full list as a spreadsheet; opens in Excel or Google Sheets
-            part = MIMEApplication(open(csv, "rb").read(), Name=f"ilina-radar-{today}.csv")
-            part["Content-Disposition"] = f'attachment; filename="ilina-radar-{today}.csv"'
+        sheet = os.path.join(os.path.dirname(__file__), "..", "public", "radar.xlsx")
+        if os.path.exists(sheet):  # the full list as a spreadsheet; opens in Excel, Numbers or Google Sheets
+            part = MIMEApplication(open(sheet, "rb").read(), Name=f"ILINA policy radar {today:%d %b %Y}.xlsx")
+            part["Content-Disposition"] = f'attachment; filename="ILINA policy radar {today:%d %b %Y}.xlsx"'
             msg.attach(part)
         msg["Subject"], msg["From"], msg["To"] = subject, smtp, os.environ.get("DIGEST_TO", smtp)
         with smtplib.SMTP_SSL(os.environ.get("SMTP_HOST", "smtp.gmail.com"), 465) as s:

@@ -12,7 +12,7 @@ The other tabs are Events, Policy tracker (new or changed AI laws and strategies
 
 Star what matters and dismiss what doesn't. Your browser remembers this, so it won't follow you to another device.
 
-There's also a calendar link at the top. Subscribe to it once and every deadline lands in your calendar, with a reminder two weeks before. If you'd rather work in a spreadsheet, the CSV link gives you the same data.
+There's also a calendar link at the top. Subscribe to it once and every deadline lands in your calendar, with a reminder two weeks before. If you'd rather work in a spreadsheet, the Spreadsheet link downloads an Excel file with the same list. For a Google Sheet that updates itself, put `=IMPORTDATA("https://<user>.github.io/<repo>/radar.csv")` in cell A1.
 
 ## How it decides what matters
 
