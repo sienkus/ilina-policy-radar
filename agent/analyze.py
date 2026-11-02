@@ -24,7 +24,11 @@ EXTRACT = """You analyse items for ILINA, an African AI safety and governance or
 Today is {today}. Read the item and return JSON with exactly these keys:
 {{
  "relevant": true/false,          // false if it does not matter to ILINA
- "type": one of {types},          // opportunity = something ILINA can apply/submit/speak/join; event = a convening; policy_change = new or amended law, policy, strategy, regulation
+ "type": one of {types},
+   // opportunity = ONLY if the text names a concrete way for an outside organisation to take part now: a call for
+   //   submissions, comments, input, applications, proposals, speakers or nominations, or open registration.
+   //   Speeches, statements, partnerships, investments, launches and reports are NOT opportunities.
+   // event = a specific dated convening; policy_change = a new or amended law, policy, strategy or regulation
  "title": "short clear title (max 12 words)",
  "summary": "what it is, max 2 plain sentences",
  "why": "why it matters to ILINA, 1 sentence",
@@ -37,8 +41,8 @@ Today is {today}. Read the item and return JSON with exactly these keys:
  "participation": "how to take part (modes, eligibility, link text), or empty",
  "countries": ["countries or regions concerned"],
  "topics": subset of {topics},
- "african_input": true/false,     // true if it is a chance to give input into an African AI policy process
- "fit": 1-5,                      // 5 = squarely in ILINA's top priorities, 1 = marginal
+ "african_input": true/false,     // true ONLY if an African government, the AU or a regional body runs a process that is explicitly open to outside input (public participation, call for comments, stakeholder consultation, validation workshop). Policy news alone is false.
+ "fit": 1-5,                      // 5 = squarely in ILINA's top priorities, 3 = useful context, 1 = marginal. Most news is 2-3.
  "thread": "the id (e.g. T1a2b3) of an ongoing thread below ONLY if this item is about that exact same event or process; else, if this item is itself an event, opportunity or policy process, a short name for it (e.g. 'UN Global Dialogue on AI Governance 2027'); else null"
 }}
 Only use dates stated or clearly implied in the text; never guess. Resolve relative dates using the publication date.
@@ -52,12 +56,25 @@ def _threads_prompt(store):
     return "\n".join(f"{k}: {t['name']}" for k, t in recent) or "(none yet)"
 
 
-def _thread_id(store, value, kind):
+GENERIC = {"africa", "african", "policy", "strategy", "governance", "artificial", "intelligence", "national",
+           "digital", "safety", "with", "from", "2025", "2026", "2027", "2028"}
+
+
+def _mentions_thread(name, text):
+    """Code-side check on the model: the item must mention most of the thread's distinctive words."""
+    words = {w for w in re.findall(r"[a-z0-9]+", name.lower()) if len(w) >= 4 and w not in GENERIC}
+    text = text.lower()
+    return not words or sum(w in text for w in words) >= max(1, round(len(words) * 2 / 3))
+
+
+def _thread_id(store, value, kind, text=""):
     if not value:
         return None
     value = str(value).strip()
     m = re.search(r"\bT[0-9a-f]{5}\b", value)
     if m and m.group(0) in store.threads:  # the model sometimes writes "T1a2b3: name"
+        if not _mentions_thread(store.threads[m.group(0)]["name"], text):
+            return None  # the model attached it loosely; keep it as its own card
         store.threads[m.group(0)]["updated"] = date.today().isoformat()
         return m.group(0)
     name = re.sub(r"^(T[0-9a-f]{5}:?\s*)+", "", value).strip()
@@ -125,7 +142,7 @@ def extract(llm, store, profile, cfg, deadline_at):
                                               "location", "organizers", "participation", "countries", "topics",
                                               "african_input", "fit"]})
             i["headline"] = out.get("title") or i["title"]
-            i["thread"] = _thread_id(store, out.get("thread"), i.get("type"))
+            i["thread"] = _thread_id(store, out.get("thread"), i.get("type"), f"{i['title']} {body[:3000]}")
             text = f"{i['title']} {body} {' '.join(i.get('organizers') or [])}"
             i["contacts"] = _mentions(cfg["contacts"], text)
             i["allies"] = _mentions(cfg["allies"], text)
