@@ -39,7 +39,7 @@ Today is {today}. Read the item and return JSON with exactly these keys:
  "topics": subset of {topics},
  "african_input": true/false,     // true if it is a chance to give input into an African AI policy process
  "fit": 1-5,                      // 5 = squarely in ILINA's top priorities, 1 = marginal
- "thread": "id of the matching ongoing thread below, or a short canonical name for a new one (e.g. 'UN Global Dialogue on AI Governance 2027'), or null for one-off news"
+ "thread": "the id (e.g. T1a2b3) of an ongoing thread below ONLY if this item is about that exact same event or process; else, if this item is itself an event, opportunity or policy process, a short name for it (e.g. 'UN Global Dialogue on AI Governance 2027'); else null"
 }}
 Only use dates stated or clearly implied in the text; never guess. Resolve relative dates using the publication date.
 
@@ -52,19 +52,23 @@ def _threads_prompt(store):
     return "\n".join(f"{k}: {t['name']}" for k, t in recent) or "(none yet)"
 
 
-def _thread_id(store, value):
+def _thread_id(store, value, kind):
     if not value:
         return None
     value = str(value).strip()
-    if value in store.threads:
-        store.threads[value]["updated"] = date.today().isoformat()
-        return value
-    norm = re.sub(r"\W+", " ", value.lower()).strip()
+    m = re.search(r"\bT[0-9a-f]{5}\b", value)
+    if m and m.group(0) in store.threads:  # the model sometimes writes "T1a2b3: name"
+        store.threads[m.group(0)]["updated"] = date.today().isoformat()
+        return m.group(0)
+    name = re.sub(r"^(T[0-9a-f]{5}:?\s*)+", "", value).strip()
+    norm = re.sub(r"\W+", " ", name.lower()).strip()
     for k, t in store.threads.items():
         if re.sub(r"\W+", " ", t["name"].lower()).strip() == norm:
             return k
+    if kind not in ("event", "opportunity", "policy_change") or not norm:
+        return None  # news and publications join threads but never start one
     k = "T" + uid(norm)[:5]
-    store.threads[k] = {"name": value, "updated": date.today().isoformat()}
+    store.threads[k] = {"name": name, "updated": date.today().isoformat()}
     return k
 
 
@@ -121,7 +125,7 @@ def extract(llm, store, profile, cfg, deadline_at):
                                               "location", "organizers", "participation", "countries", "topics",
                                               "african_input", "fit"]})
             i["headline"] = out.get("title") or i["title"]
-            i["thread"] = _thread_id(store, out.get("thread"))
+            i["thread"] = _thread_id(store, out.get("thread"), i.get("type"))
             text = f"{i['title']} {body} {' '.join(i.get('organizers') or [])}"
             i["contacts"] = _mentions(cfg["contacts"], text)
             i["allies"] = _mentions(cfg["allies"], text)
