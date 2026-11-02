@@ -68,6 +68,7 @@ def collect(cfg, store):
     token = os.environ.get("APIFY_TOKEN")
     sc = cfg.get("social") or {}
     if not token or not sc:
+        print("  LinkedIn/X: skipped (no APIFY_TOKEN)" if sc else "")
         return 0
     new = 0
     for key, fetch in (("linkedin", _linkedin), ("x", _x)):
