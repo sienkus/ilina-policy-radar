@@ -158,6 +158,11 @@
    "id": "0273b6300a39",
    "status": "skip"
   },
+  "031cd65fbc17": {
+   "found": "2026-11-03",
+   "id": "031cd65fbc17",
+   "status": "skip"
+  },
   "03cfb1a5cf75": {
    "action": "Submit written input to the NCC working group on internet governance",
    "african_input": true,
@@ -275,6 +280,11 @@
    "type": "policy_change",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmpJVE92NjdQOXVWUzgwak1WS3ZVVk9GME9RN2owclZKN1FQQ0hzM3pNTzFQR2gtOUZpalNTWUJlazRzSndwem9uRV85T3l6Y3BqRmZxLXFSa3RSS2k3WWN0YlRmdzB5ZWJPX3FwQUowdWs5eHhjOTA2bVlNZGNfaV9vb3lMQkpuV1kyMFF0TGhLdjd5NkhjbUR3TnpYV0p2SFhibE94dXRBa1I5YzFITzVPRTdydFhBeVE?oc=5",
    "why": "As Ghana's inaugural national AI strategy, this policy development is directly relevant to ILINA's priority of African countries shaping frontier AI governance and could inform regional approaches."
+  },
+  "078494e5e01e": {
+   "found": "2026-11-03",
+   "id": "078494e5e01e",
+   "status": "skip"
   },
   "07957b199d93": {
    "found": "2026-10-31",
@@ -506,6 +516,43 @@
    "found": "2026-10-31",
    "id": "0a8d85e48539",
    "status": "skip"
+  },
+  "0aef849faaea": {
+   "action": "Monitor for upcoming policy consultations or submission calls from Ghana's Ministry of Communications; prepare to engage with any stated initiatives.",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "Sam George urges Africa to lead in global internet and AI governance",
+   "id": "0aef849faaea",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Government of Ghana - Ministry of Communications"
+   ],
+   "participation": "Public statements and advocacy; watch for official government consultation channels.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "Modern Ghana (via search)",
+   "status": "done",
+   "summary": "Ghana's Minister of Communications, Samuel Nartey George, urges African nations to take a leading role in shaping global internet and AI governance frameworks, emphasizing the need for Africa to define its own digital future.",
+   "thread": null,
+   "title": "Sam George urges Africa to lead in global internet and AI governance",
+   "topics": [
+    "AI summits",
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHpKdWh0Y0JwYk5LU0duUjFrV1RIZzU5aTlXZG0xdThCanA5T0trUmF5RHg3bGdoVGZZQWkybTJrakVxbnRtV0FTdVUxcTBWS01KMTFQMlFUUkJSUHlSUlYwVWhTUWtWazc1bW1NOW8xTXlPY3k4WHNVWjIyR2p3aU1JN3RPbHdvLThmcVNVQTVSSGZBeWFYWlhNd9IBmwFBVV95cUxQWHpKdWh0Y0JwYk5LU0duUjFrV1RIZzU5aTlXZG0xdThCanA5T0trUmF5RHg3bGdoVGZZQWkybTJrakVxbnRtV0FTdVUxcTBWS01KMTFQMlFUUkJSUHlSUlYwVWhTUWtWazc1bW1NOW8xTXlPY3k4WHNVWjIyR2p3aU1JN3RPbHdvLThmcVNVQTVSSGZBeWFYWlhNdw?oc=5",
+   "why": "This high-level advocacy from a key African government minister directly aligns with ILINA's top priority of African countries shaping frontier AI development and policy formulation."
   },
   "0b31d3149de0": {
    "found": "2026-10-28",
@@ -1068,6 +1115,11 @@
    "id": "164eab7ddf8a",
    "status": "skip"
   },
+  "16647d4288b0": {
+   "found": "2026-11-03",
+   "id": "16647d4288b0",
+   "status": "skip"
+  },
   "166881372de6": {
    "found": "2026-10-31",
    "id": "166881372de6",
@@ -1366,9 +1418,19 @@
    "id": "1d3079bffc9b",
    "status": "skip"
   },
+  "1d33ff178664": {
+   "found": "2026-11-03",
+   "id": "1d33ff178664",
+   "status": "skip"
+  },
   "1d3a67405d78": {
    "found": "2026-10-28",
    "id": "1d3a67405d78",
+   "status": "skip"
+  },
+  "1d3e75a7aeeb": {
+   "found": "2026-11-03",
+   "id": "1d3e75a7aeeb",
    "status": "skip"
   },
   "1d73344e5b5a": {
@@ -1482,6 +1544,11 @@
   "1f90eb3b868c": {
    "found": "2026-10-31",
    "id": "1f90eb3b868c",
+   "status": "skip"
+  },
+  "1fbe6a5783dc": {
+   "found": "2026-11-03",
+   "id": "1fbe6a5783dc",
    "status": "skip"
   },
   "1fe063719820": {
@@ -1742,6 +1809,11 @@
    "id": "2272b300dbe0",
    "status": "skip"
   },
+  "22947a42a94a": {
+   "found": "2026-11-03",
+   "id": "22947a42a94a",
+   "status": "skip"
+  },
   "2303cac176cd": {
    "found": "2026-10-30",
    "id": "2303cac176cd",
@@ -1904,6 +1976,11 @@
   "26ae24622327": {
    "found": "2026-10-29",
    "id": "26ae24622327",
+   "status": "skip"
+  },
+  "26b828b90698": {
+   "found": "2026-11-03",
+   "id": "26b828b90698",
    "status": "skip"
   },
   "27123daf7625": {
@@ -2077,6 +2154,11 @@
    "type": "opportunity",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlNfekpYTjVxQXJPRVlZaEkzNXVFM21IcVFST01zejhVR1RJelZLZ2RNUVZ5V3UydC1SNUNtdVNPX2xLdXBscWp6SG8wYmQxMy1qQ3ZINmpOdHZXaC1QNXhGUlNzRFp4bWNjc1N3SUtlMTB6eHNrNTBWSTFhdG5NM2JnY1Y0Tk1keUVVZw?oc=5",
    "why": "This falls under ILINA's priority of AI improving outcomes in education on terms that protect African sovereignty and build domestic technical capacity."
+  },
+  "2988c3b91ff9": {
+   "found": "2026-11-03",
+   "id": "2988c3b91ff9",
+   "status": "skip"
   },
   "29949411c21f": {
    "action": "Monitor for policy reform opportunities; prepare analysis on interim governance gaps",
@@ -2385,6 +2467,11 @@
   "2cb206728cf9": {
    "found": "2026-10-30",
    "id": "2cb206728cf9",
+   "status": "skip"
+  },
+  "2cba1b02fd3a": {
+   "found": "2026-11-03",
+   "id": "2cba1b02fd3a",
    "status": "skip"
   },
   "2cecf25db2b5": {
@@ -2792,6 +2879,11 @@
    "id": "35a3c4198c3d",
    "status": "skip"
   },
+  "361f42d226bd": {
+   "found": "2026-11-03",
+   "id": "361f42d226bd",
+   "status": "skip"
+  },
   "364ee8b2447e": {
    "found": "2026-10-28",
    "id": "364ee8b2447e",
@@ -3108,6 +3200,11 @@
    "id": "3b6cd3bd2a69",
    "status": "skip"
   },
+  "3b86f54d4b6f": {
+   "found": "2026-11-03",
+   "id": "3b86f54d4b6f",
+   "status": "skip"
+  },
   "3b92638b3b5c": {
    "found": "2026-11-02",
    "id": "3b92638b3b5c",
@@ -3220,6 +3317,11 @@
   "3db1dde63942": {
    "found": "2026-10-31",
    "id": "3db1dde63942",
+   "status": "skip"
+  },
+  "3df12122e921": {
+   "found": "2026-11-03",
+   "id": "3df12122e921",
    "status": "skip"
   },
   "3df5a6f87944": {
@@ -3595,6 +3697,11 @@
    "id": "4213ca6eeb6d",
    "status": "skip"
   },
+  "4213e587ef2a": {
+   "found": "2026-11-03",
+   "id": "4213e587ef2a",
+   "status": "skip"
+  },
   "4237d05cf23f": {
    "found": "2026-11-02",
    "id": "4237d05cf23f",
@@ -3608,6 +3715,11 @@
   "42b18e0756b0": {
    "found": "2026-10-28",
    "id": "42b18e0756b0",
+   "status": "skip"
+  },
+  "437a0f40ea45": {
+   "found": "2026-11-03",
+   "id": "437a0f40ea45",
    "status": "skip"
   },
   "439f03212be2": {
@@ -3935,6 +4047,43 @@
    "found": "2026-10-28",
    "id": "4a07d9492d14",
    "status": "skip"
+  },
+  "4aad4643a616": {
+   "action": "Monitor for official calls for input, position papers, or stakeholder consultations from Ghana's Ministry of Communications or the African Union; prepare to submit governance insights.",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "Sam George urges Africa to help write global AI rules",
+   "id": "4aad4643a616",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Samuel Nartey George (Minister of Communications, Ghana)"
+   ],
+   "participation": "Await official invitation or platform from Ghana's Ministry of Communications or AU; no open call details published yet.",
+   "published": "2026-11-02",
+   "snippet": "",
+   "source": "News Ghana (via search)",
+   "status": "done",
+   "summary": "Ghana's Minister of Communications, Samuel Nartey George, is calling on African nations to actively participate in shaping global AI governance frameworks, emphasizing the need for Africa to have a voice in rule-making rather than just implementation.",
+   "thread": null,
+   "title": "Sam George urges Africa to help write global AI rules",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemJ6Q2JTak9fSktjdElGYkNhNDk2TmNJYTNtQzRERk81cU44aW5aODFMVEc0VUljVDRmMkxrWEp1Smlubnp1bnExWHJOME1MUEZTX3ZiaWhUQTJhZEoyWlIxWVhkSEJCZU15RGF1TDRmQWZXZXRhdVlfR1JGZEtEc0pLQU00dw?oc=5",
+   "why": "This directly aligns with ILINA's top priority of African countries shaping frontier AI development and policy formulation, and opens a pathway for Ghana and other African nations to influence global rules."
   },
   "4b26e256dc38": {
    "found": "2026-10-29",
@@ -4339,6 +4488,11 @@
    "id": "51ff5e0a8144",
    "status": "skip"
   },
+  "5247261d33cd": {
+   "found": "2026-11-03",
+   "id": "5247261d33cd",
+   "status": "skip"
+  },
   "52ed7471b7ed": {
    "found": "2026-10-28",
    "id": "52ed7471b7ed",
@@ -4676,6 +4830,11 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORm1lcmtQejVIOEJSbF9vdzlack9zZkNEMjlfcy1IMUpkdmdiQ2ZOVUNKY0lxRG51Z3Bfc1hQQ1JJTVJMeEdMYk1Ha25rU19fazg4SVZKOGxwNy14YmlScUt1aWQ2VEEyYUdPY2tkTjlXb3hDQzZYNXRabGRtMmtkT1hsUXhRZ2hKTzk3bjRXUzhwdWZySU9KYTR0NXlKUEdNT0IzOFQ1dVJFa1JGWmlyMU5IS0IyYmo4Qkx4eXVNUEotYW1lRkdFOFZjaWRuWVJvcWoxcm5xamRsUERM?oc=5",
    "why": "The pact touches on data governance, funding, and AI deployment in Kenya, which aligns with ILINA's interests in responsible AI integration, African sovereignty, and the Global Fund for AI Capacity Development."
   },
+  "59f11eb5bc2c": {
+   "found": "2026-11-03",
+   "id": "59f11eb5bc2c",
+   "status": "skip"
+  },
   "5a56373bdd59": {
    "found": "2026-10-28",
    "id": "5a56373bdd59",
@@ -4690,6 +4849,47 @@
    "found": "2026-11-02",
    "id": "5b3ac7df7830",
    "status": "skip"
+  },
+  "5b6abe309be7": {
+   "action": "Monitor the agreement's implementation and any opportunities for African civil society input on data governance terms",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Kenya",
+    "South Korea"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "government",
+   "headline": "Kenya ICT Authority signs AI Data cooperation agreement with South Korea's K-DATA",
+   "id": "5b6abe309be7",
+   "location": "Nairobi, Kenya / Seoul, South Korea",
+   "organizers": [
+    "Kenya ICT Authority",
+    "K-DATA (South Korea)"
+   ],
+   "participation": "Monitor for public consultation opportunities or stakeholder engagement sessions on the agreement's implementation",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "Tech Review Africa (via search)",
+   "status": "done",
+   "summary": "Kenya's ICT Authority has signed an AI data cooperation agreement with South Korea's K-DATA agency, establishing a framework for cross-border data sharing and joint AI development projects between the two governments.",
+   "thread": null,
+   "title": "Kenya ICT Authority signs AI Data cooperation agreement with South Korea’s K-DATA",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy",
+    "public services",
+    "AI fund & capacity"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3Z5THViU1lpOVJfY3JMRWVaaTRWYk1yb0pyLUdWRjNmeUZGN3BHaFlnWklpUXNac2VsaWJYWDNSM21vRHpMdFl6NjZMTDhmNkV3UXp6ZGlJNW11eXQ1R1ducWtSNDlUQ21FajRTbWtsQkF6RmNzYThKR3lyUHFNSC1wUTFKb0JKQktEN3BMajR3Zk5TbWpIaEVHVm5Sd2hCQzR0aWJkQVpvdUdxbzFsekJRb1Z2eUg4NE1n?oc=5",
+   "why": "This bilateral data cooperation agreement could set precedents for African data governance frameworks and cross-border AI data flows, relevant to ILINA's interest in model access terms and data sovereignty for lower-income governments."
   },
   "5c92ea0dbd05": {
    "found": "2026-10-28",
@@ -4902,6 +5102,11 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEkwbzE4ZkUxcE92eW1nd1N0akc1X1gtR05XT284Y0RnZmZLdHpVOHpucWdobGxSeEtCLVFtMTQ5MGc4SWNPcURac1lKU0xNTFpYZElmcVMtWFE3RVJIa2dEem5laWxodERhc2RERmh4TmgwYUlDZEt4VURDVVFUWXl2bTcwVFVSbTVMeEljenRJdlRCVDlIclAwM0h2STBQdmtvS0RHRVlfWkhqSmZQR3lTYUk?oc=5",
    "why": "ILINA prioritises African government policy formulation and public participation in AI strategies; Ghana's strategy is a concrete governance process open to stakeholder input."
   },
+  "5dcdd8f2c0bb": {
+   "found": "2026-11-03",
+   "id": "5dcdd8f2c0bb",
+   "status": "skip"
+  },
   "5efef37ac7ca": {
    "found": "2026-10-28",
    "id": "5efef37ac7ca",
@@ -4994,6 +5199,16 @@
   "61ca6e09cc25": {
    "found": "2026-10-28",
    "id": "61ca6e09cc25",
+   "status": "skip"
+  },
+  "6232647b8dfa": {
+   "found": "2026-11-03",
+   "id": "6232647b8dfa",
+   "status": "skip"
+  },
+  "625c68e99b6f": {
+   "found": "2026-11-03",
+   "id": "625c68e99b6f",
    "status": "skip"
   },
   "6277f3ce2cd4": {
@@ -5350,6 +5565,11 @@
    "type": "opportunity",
    "url": "https://www.unesco.org/ethics-ai/en/ram?hub=195885",
    "why": "Provides a structured pathway for African governments to evaluate AI governance gaps and align with the UNESCO Recommendation, supporting ILINA's focus on responsible AI integration and capacity development."
+  },
+  "6ca8ea232c69": {
+   "found": "2026-11-03",
+   "id": "6ca8ea232c69",
+   "status": "skip"
   },
   "6cd48f1b8511": {
    "found": "2026-10-28",
@@ -5914,6 +6134,11 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmVWNFprbGpNUUpFTjlNUVRXS01ENXZSSEZFdVl3bGdWT1lRS2Fsb25uSDFVQWhHbFN3bmw0ZlZMN1NNN1lMVzg5OFV2OWItMHhlRWVYX091djRoMmhybFoya0hRTGpsM2pVZ3IwX2NzT2ZrU3ZSNzBfVWc4djhyNWlidTdQQkhUQmoxVFZpaE4?oc=5",
    "why": "Directly relevant as a new national AI strategy from an African government, open for analysis and potential input from ILINA."
   },
+  "768d5cae02db": {
+   "found": "2026-11-03",
+   "id": "768d5cae02db",
+   "status": "skip"
+  },
   "769b90bc3561": {
    "found": "2026-10-29",
    "id": "769b90bc3561",
@@ -6426,6 +6651,43 @@
    "id": "7c1e7238b00b",
    "status": "skip"
   },
+  "7c353ac9d938": {
+   "action": "Monitor for participation opportunities or policy input calls from the centre",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Eswatini"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "news",
+   "headline": "Eswatini standards authority, AICE Africa unveil AI safety and standards center of excellence",
+   "id": "7c353ac9d938",
+   "location": "Eswatini",
+   "organizers": [
+    "Eswatini standards authority",
+    "AICE Africa"
+   ],
+   "participation": "Open to relevant stakeholders; check for upcoming workshops or submission calls from the new centre",
+   "published": "2026-11-02",
+   "snippet": "",
+   "source": "Realnews Magazine (via search)",
+   "status": "done",
+   "summary": "Eswatini's standards authority and AICE Africa have launched a new AI safety and standards centre of excellence, signalling a formal step toward AI governance infrastructure in the country.",
+   "thread": null,
+   "title": "Eswatini standards authority, AICE Africa unveil AI safety and standards center of excellence",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnR1M0ZsZzlvSWtKb21DWndBY0tfT0laNnEteUd4T0NlRUtYdmdWbUdtUDF6M2p3OE5nNFRNb0dndkE4UlBjd0JfQ3d6N2UtZ0pHRWJma0NYaHlGcGloaHd6bF92YXlPR1lMQ05YRkI5N2J1N2JObUFlWnBqR0pZQWJrcTlqcUE1VFpPQnBCR1JVLUxGcVltQVQ4MS04eFZBa3N2R1lyMlRjSkMtSkQwN3pXbjZKTWluTmJPNWZiQQ?oc=5",
+   "why": "This creates a new governance infrastructure in Eswatini, relevant to ILINA's focus on African countries shaping AI development and building domestic capacity."
+  },
   "7c57c921eb73": {
    "found": "2026-10-28",
    "id": "7c57c921eb73",
@@ -6492,6 +6754,11 @@
    "type": "news",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3luZ041MzhjR0xhNVdFdUJ6N19La0VIRFpqT3FURWRaYUlxb2d5V0d1T1VZck0zYnpnaWIxZnVRRjJTWm1XY184RzQxR3MxTDRJRTl3YWtrbVAwdlV5V015cU5CVmFZd2E5U2M2bmtwMGVJWTN0eUJGaVZpV2dUYWkwY09QLWljZG9B?oc=5",
    "why": "Highlights governance challenges and policy gaps relevant to ILINA's focus on African AI policy formulation and capacity development."
+  },
+  "7e2219ebf769": {
+   "found": "2026-11-03",
+   "id": "7e2219ebf769",
+   "status": "skip"
   },
   "7e37745c6401": {
    "found": "2026-10-30",
@@ -6591,6 +6858,46 @@
    "id": "80a22310a093",
    "status": "skip"
   },
+  "80b3c6b5feea": {
+   "action": "Submit written input to CBK via fin@centralbank.go.ke before the 7 November 2026 deadline",
+   "african_input": true,
+   "allies": [
+    "DIFA"
+   ],
+   "contacts": [],
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": "2026-11-07",
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-11-03",
+   "group": "partner",
+   "headline": "CBK Draft Guidance Note on AI in Banking",
+   "id": "80b3c6b5feea",
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "Central Bank of Kenya (CBK)"
+   ],
+   "participation": "Submit written comments to fin@centralbank.go.ke by 7 November 2026; institutions must register AI models and report incidents quarterly once the Note takes effect",
+   "published": "2026-11-03",
+   "snippet": "CBK Guidance Note on AI in the Banking Sector The Central Bank of Kenya (CBK), has issued a Guidance Note on Artificial Intelligence in the Banking Sector.. The Guidance Note, which is still a draft, outlines requirements for the responsible adoption of AI in financial Institutions. This comes after the 2025 Survey on AI in […] The post CBK Guidance Note on AI in the Banking Sector appeared first on DIFA Consultancy .",
+   "source": "DIFA Consultancy",
+   "status": "done",
+   "summary": "The Central Bank of Kenya issued a draft Guidance Note on AI in banking, requiring boards to ensure responsible AI adoption, data governance, AI risk management, and incident reporting. It classifies high-risk AI systems and mandates CBK approval for deployment, internal/external audits, and quarterly AI incident reports.",
+   "thread": null,
+   "title": "CBK Guidance Note on AI in the Banking Sector",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "global AI law"
+   ],
+   "type": "policy_change",
+   "url": "https://difaconsultancy.com/resources/cbk-guidance-note-on-ai-in-the-banking-sector/",
+   "why": "Kenya's central bank policy directly shapes AI governance in financial services, a key sector for public services and economic development; ILINA can contribute to policy formulation and comment on safeguards for African sovereignty."
+  },
   "80b66bcaeaea": {
    "found": "2026-10-28",
    "id": "80b66bcaeaea",
@@ -6674,6 +6981,11 @@
    "type": "policy_change",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVRnR212YzhBNjU5VEtEWFF0dm1vQ1FVUWRfZlNoNnVGUFZmLUFHZmlPUHFyMWhZa3ZfVlZTV0poaVhXbVNub3JWNnpEZkFfakpuV0l0Qml3UmJNZG1BdjFZemJPUnRIWVFxY2MtM2Q0ZTBFS1pKYXdwaVFaRkVxRDhDWWluMDltQjhqQ3p3dEZ1Zw?oc=5",
    "why": "Directly relates to ILINA's priority of AI improving outcomes in agriculture, healthcare and education on terms that protect African sovereignty and build domestic technical capacity."
+  },
+  "812b0ded04a7": {
+   "found": "2026-11-03",
+   "id": "812b0ded04a7",
+   "status": "skip"
   },
   "81744170c4cd": {
    "found": "2026-10-28",
@@ -7082,6 +7394,43 @@
    "id": "86b6d92168bf",
    "status": "skip"
   },
+  "8707ed697c83": {
+   "action": "Submit written input on the draft policy",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": "2026-05-10",
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-11-03",
+   "group": "government",
+   "headline": "South Africa: Draft National AI Policy public comment",
+   "id": "8707ed697c83",
+   "location": "Online",
+   "organizers": [
+    "South Africa Department of Communications and Digital Technologies"
+   ],
+   "participation": "Stakeholders can submit written comments on the draft National Artificial Intelligence Policy. Link to submission portal available in the full article. Open to civil society, industry, and academic institutions.",
+   "published": "2026-04-10",
+   "snippet": "",
+   "source": "Bowmans (via search)",
+   "status": "done",
+   "summary": "South Africa's Department of Communications and Digital Technologies has published a draft National Artificial Intelligence Policy for public comment, inviting stakeholders to submit written input on the policy framework.",
+   "thread": null,
+   "title": "South Africa: Draft National Artificial Intelligence Policy published for public comment",
+   "topics": [
+    "Africa policy",
+    "AI safety & security",
+    "public services"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX09CbnJZelZxbWRJOTJWWXJNcGo1TW5mcm9tQXo2V09NLTdMTkJOTlNwd095V29LdlBTWk90OWRrb09HSVd6UmpJVkxmeENQblREcXB5SzEtV0sxcjh6MHctNkJaYU9JVFpGajJGNURCRVVaVkgwVEpVZWNRV0lXVng1Q054VnE2UU5laVdIYlp2eXVldFRpRjBaY1hqTTFTUk9aSEU3ck1vTEJSYUlJMUp2NWctSXlUSm5MVg?oc=5",
+   "why": "This is a direct public participation call from an African government on AI policy, aligning with ILINA's top priority of contributing to AI policy formulation in Africa."
+  },
   "873c222edeef": {
    "found": "2026-10-28",
    "id": "873c222edeef",
@@ -7095,6 +7444,11 @@
   "87858a53995e": {
    "found": "2026-11-02",
    "id": "87858a53995e",
+   "status": "skip"
+  },
+  "87d2dd9ebf16": {
+   "found": "2026-11-03",
+   "id": "87d2dd9ebf16",
    "status": "skip"
   },
   "87e5c786c3f9": {
@@ -7422,6 +7776,11 @@
    "type": "opportunity",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2ZwY2xsLU9uS0dVZFBhMDduWHhJRGh1eTRJRFNjOFRCRkR0Q0s4QUItLTBqZjdUWF9BUWo4dTJKeFRrcHp2Y1QtckVUUmwzeUlrRTdJZTRXYzFUN25oSUpzcHlFLXNwN2VFeHBvX1BSSFNqcnZZbmF3dy1pd1dSWk9ZVVBLU1RxdmRRa3N2SExmazNMTDVhT0hkV24yUQ?oc=5",
    "why": "The playbook directly addresses how Global South nations can shape AI governance, aligning with ILINA's focus on African agency in frontier AI policy and the design of the Global Fund for AI Capacity Development."
+  },
+  "8e6df8779977": {
+   "found": "2026-11-03",
+   "id": "8e6df8779977",
+   "status": "skip"
   },
   "8ea6cdaec3c7": {
    "action": "Review for policy mapping and potential engagement opportunities with Kenyan regulatory processes",
@@ -7842,6 +8201,51 @@
    "id": "972f4c1ab568",
    "status": "skip"
   },
+  "97a946225c0a": {
+   "action": "Monitor for submission calls or participation opportunities from GNAIS or UNESCO; consider citing in policy memos on AI supervision and capacity building.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Saudi Arabia",
+    "Luxembourg",
+    "Cuba",
+    "Thailand",
+    "global membership invited"
+   ],
+   "deadline": null,
+   "event_end": "2026-09-17",
+   "event_start": "2026-09-14",
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "UNESCO Global Forum on Ethics of AI 2026",
+   "id": "97a946225c0a",
+   "location": "Riyadh, Saudi Arabia",
+   "organizers": [
+    "UNESCO",
+    "Saudi Data & AI Authority (SDAIA)",
+    "Luxembourg's National Commission for Data Protection (CNPD)"
+   ],
+   "participation": "Authorities interested in joining GNAIS can contact the GNAIS Secretariat at gnais@unesco.org; workshop and panel were by invitation/institutional participation; no public call for input identified in the text.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "UNESCO AI",
+   "status": "done",
+   "summary": "The 4th UNESCO Global Forum on the Ethics of AI was held in Riyadh, Saudi Arabia, 14-17 September 2026, featuring the Global Network of AI Supervisory Authorities (GNAIS) workshop on AI audit and evaluation, and a panel on international cooperation in AI supervision.",
+   "thread": null,
+   "title": "News Global Network on AI Supervision led by UNESCO pushes for practical cooperation 2 November 2026",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits",
+    "evaluations & monitoring",
+    "AI fund & capacity"
+   ],
+   "type": "event",
+   "url": "https://www.unesco.org/en/articles/global-network-ai-supervision-led-unesco-pushes-practical-cooperation",
+   "why": "The event advanced practical AI supervision and capacity building, including discussions on international cooperation and harmonisation of approaches relevant to African governance representation and the Global Fund for AI Capacity Development."
+  },
   "981b76323c8e": {
    "action": "Monitor agenda and submissions for opportunities to contribute governance input",
    "african_input": false,
@@ -8006,6 +8410,11 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTk45RGN6UTRQWVBqeUo3eXBadUlhcFltVFNSaXpSa0cxU0wxMDlSY0ZfODhEWHJELWh6TE1WUUVkM24tV01QWlREbElSYm1RVGZ3UXJpR1V5ZUpIYkpyd0s5OWp1amJsR2xSendaUjJIdWYxRjl4UGR2NkpGWlFldXFHcw?oc=5",
    "why": "This is a direct opportunity for African stakeholder input into national AI policy formulation, aligning with ILINA's top priority of contributing to AI policy formulation in Africa."
   },
+  "995de1d433b8": {
+   "found": "2026-11-03",
+   "id": "995de1d433b8",
+   "status": "skip"
+  },
   "99734940b9e7": {
    "found": "2026-10-28",
    "id": "99734940b9e7",
@@ -8044,6 +8453,11 @@
   "9a8cb544fbd5": {
    "found": "2026-11-01",
    "id": "9a8cb544fbd5",
+   "status": "skip"
+  },
+  "9a8e1ac0fd7f": {
+   "found": "2026-11-03",
+   "id": "9a8e1ac0fd7f",
    "status": "skip"
   },
   "9afe890c0848": {
@@ -8097,6 +8511,11 @@
    "type": "event",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGxHdDNSdnl1RGZtOGQ5azFDR3IxZ0NVb0lLX1ptbU4wVkRnN2JqRlpJUzBEMkJJTEw0cG1BZGFkSlNPNkxQT3dsbGJVRE5URzJBeC1yMm9TZ3p4N1hiMWdwdDE2VnhEYm1NaGt2R0ZJSUNLaUlBTTRwT3M0TmhtbUNTUGtyUnk3Y3Fnd3pRWS1JQ0VyUk5iZS1sRQ?oc=5",
    "why": "This event maps AI partnership dynamics in the Global South, which is directly relevant to ILINA's work on African governance representation and context-dependent risk assessment."
+  },
+  "9bf8d75d566c": {
+   "found": "2026-11-03",
+   "id": "9bf8d75d566c",
+   "status": "skip"
   },
   "9c372ca7d7ac": {
    "found": "2026-10-28",
@@ -9115,6 +9534,42 @@
    "id": "afc36e876942",
    "status": "skip"
   },
+  "affb79d3b949": {
+   "action": "Submit written input on the watchdog's design and incident response timeline",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Australia"
+   ],
+   "deadline": "2027-01-25",
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "tracker",
+   "headline": "Australia's AI Safety Watchdog Consultation",
+   "id": "affb79d3b949",
+   "location": "Online",
+   "organizers": [
+    "Australian Government"
+   ],
+   "participation": "Public consultation open to stakeholders; details on submission process available via the linked article or Australian government portal. Open to international input.",
+   "published": "2026-11-01",
+   "snippet": "",
+   "source": "tech-insider.org (via search)",
+   "status": "done",
+   "summary": "A$29.9 million watchdog proposal with an 84-day lag between AI incidents and regulatory response; the article announces a public consultation open to input on the design and governance of the new regulator.",
+   "thread": null,
+   "title": "AI Needs a Gardener: A$29.9M Watchdog, 84-Day Lag [2026]",
+   "topics": [
+    "AI safety & security",
+    "Global AI law"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDdCVlRIMTZzVnRtVmlqUDEzU0RxMFRrcllFVUFxVk55LUFqeGNZZ1RvNGVWQlNaWUlYZ1ZyMnhVTU1nWml6ajRrd0xfOHdXa1V2YmFVUVgzcVFURjdZNXZGajlrcG0wWGt6NXBMSWp1endrM0xJNndGaklDeFdIbnMweHpwQ3Y5?oc=5",
+   "why": "The consultation provides a concrete opportunity for ILINA to contribute governance expertise to an AI regulator design process, aligning with ILINA's priority of influencing AI policy formulation."
+  },
   "b0abe1dcb554": {
    "found": "2026-10-30",
    "id": "b0abe1dcb554",
@@ -9182,6 +9637,11 @@
    "id": "b2860aa9525e",
    "status": "skip"
   },
+  "b2f8dc802e55": {
+   "found": "2026-11-03",
+   "id": "b2f8dc802e55",
+   "status": "skip"
+  },
   "b344a00a31bd": {
    "found": "2026-10-28",
    "id": "b344a00a31bd",
@@ -9190,6 +9650,11 @@
   "b35af7b25f6c": {
    "found": "2026-10-28",
    "id": "b35af7b25f6c",
+   "status": "skip"
+  },
+  "b381595370dd": {
+   "found": "2026-11-03",
+   "id": "b381595370dd",
    "status": "skip"
   },
   "b38279f7a861": {
@@ -9408,6 +9873,11 @@
    "id": "b8afd89523b8",
    "status": "skip"
   },
+  "b8d7ce2c8e0a": {
+   "found": "2026-11-03",
+   "id": "b8d7ce2c8e0a",
+   "status": "skip"
+  },
   "b91a36d54be1": {
    "found": "2026-10-28",
    "id": "b91a36d54be1",
@@ -9428,6 +9898,11 @@
    "id": "b970a67578bd",
    "status": "skip"
   },
+  "b9b1b09eceed": {
+   "found": "2026-11-03",
+   "id": "b9b1b09eceed",
+   "status": "skip"
+  },
   "ba1a7f87be28": {
    "found": "2026-10-29",
    "id": "ba1a7f87be28",
@@ -9437,6 +9912,42 @@
    "found": "2026-10-28",
    "id": "baee958f3fdd",
    "status": "skip"
+  },
+  "bb379d0201bb": {
+   "action": "Monitor for public participation calls or consultation windows on the strategy's implementation",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "government",
+   "headline": "Nigeria Launches National AI Strategy",
+   "id": "bb379d0201bb",
+   "location": "Abuja, Nigeria",
+   "organizers": [
+    "Nigeria Federal Ministry of Communications, Innovation & Digital Economy"
+   ],
+   "participation": "Monitor official channels for consultation opportunities; no open call specified in this announcement",
+   "published": "2025-04-16",
+   "snippet": "",
+   "source": "Channels Television (via search)",
+   "status": "done",
+   "summary": "Nigeria has launched a national AI strategy aimed at driving AI development and boosting productivity across sectors.",
+   "thread": null,
+   "title": "Nigeria Launches National AI Strategy To Drive AI Development, Boost Productivity",
+   "topics": [
+    "Africa policy",
+    "public services"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTB0MkJSbDg3MG4yZ2o0eGZuN002NEVxNXRRZzVVWlU5eHdObzFpdzkteFdORGZ4THRFUGViRTJOelpPZ1U3RDJ3aVYzRjJKNVFJSXNtQmtUVjJYUWN5ZVEzQVpyWWVZMUxFZ3FXU2NNTklUV05TT1RKblNQWXdwelhQSGMybWxHSzN6WjhaYXlPM0NwelhObWZhTE1iajU1b2hFa1hUYjFvYXF5RmFtWXg1cEV6ME14R2lv?oc=5",
+   "why": "This is a concrete policy development from a key African government, signalling Nigeria's commitment to structured AI governance and creating opportunities for stakeholder input."
   },
   "bb69341cb5ab": {
    "found": "2026-10-28",
@@ -9667,6 +10178,11 @@
   "bdd6c2273939": {
    "found": "2026-11-01",
    "id": "bdd6c2273939",
+   "status": "skip"
+  },
+  "bde8cc218312": {
+   "found": "2026-11-03",
+   "id": "bde8cc218312",
    "status": "skip"
   },
   "be1bb6600a65": {
@@ -10140,6 +10656,44 @@
    "id": "c5f3bc3cfdbc",
    "status": "skip"
   },
+  "c5f6b01e4cbb": {
+   "action": "Monitor the forum for African representation and ILINA engagement opportunities",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Egypt",
+    "North Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "UN selects Egyptian judge to represent N. Africa at AI forum",
+   "id": "c5f6b01e4cbb",
+   "location": "Online / unspecified",
+   "organizers": [
+    "United Nations"
+   ],
+   "participation": "Open to attendees/followers of the forum; specific Egyptian delegation role",
+   "published": "2026-11-02",
+   "snippet": "",
+   "source": "Egyptian Gazette (via search)",
+   "status": "done",
+   "summary": "An Egyptian judge has been selected to represent North Africa at an AI forum, indicating Egypt's formal participation in a UN-led AI governance process.",
+   "thread": null,
+   "title": "UN selects Egyptian judge to represent N. Africa at AI forum",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjBvdHBIX2loTjJUanlIUV9MeVVyYjUwa3lOV01fQmZiX050Y3BUX1hwRFZHbmZISk1JdzJ3SmxRUW1iS24zZ04yS0NKc1lQd1hWV1ZzMmZPWXRWa1UxSHNmYVNvRjI5TW5hWFZXZWd5VEU0bTdLV1ZXaVhPUGJRN3RMeXFLSTZNVldSd3VYb0dJZlB0d3dqOG1fNA?oc=5",
+   "why": "This signals African regional representation in a UN AI governance forum, relevant to ILINA's interest in African voice in global AI policy."
+  },
   "c6e948a7bc91": {
    "found": "2026-10-30",
    "id": "c6e948a7bc91",
@@ -10148,6 +10702,11 @@
   "c6ed5170c7e9": {
    "found": "2026-10-28",
    "id": "c6ed5170c7e9",
+   "status": "skip"
+  },
+  "c764b882b7ef": {
+   "found": "2026-11-03",
+   "id": "c764b882b7ef",
    "status": "skip"
   },
   "c7af543de566": {
@@ -10366,6 +10925,99 @@
    "id": "c9bce14df4e8",
    "status": "skip"
   },
+  "c9f1a511f549": {
+   "action": "Review article for insights on corporate governance trends and consider ILINA's position on model access terms for lower-income governments and African representation in governance design.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "tracker",
+   "headline": "How AI Companies Want to Be Governed",
+   "id": "c9f1a511f549",
+   "location": "Online",
+   "organizers": [
+    "Tech Policy Press"
+   ],
+   "participation": "Read and analyse the article; no direct participation mechanism indicated, but insights can inform ILINA's policy submissions and position papers.",
+   "published": "2026-11-02",
+   "snippet": "",
+   "source": "Tech Policy Press (via search)",
+   "status": "done",
+   "summary": "A Tech Policy Press article published on 2026-11-02 examining how AI companies are shaping governance frameworks and what this means for the broader AI governance landscape.",
+   "thread": null,
+   "title": "How AI Companies Want to Be Governed, and What That Means for AI Governance",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education",
+    "evaluations & monitoring",
+    "AI fund & capacity",
+    "global AI law"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0NHN2JaT19DUnpQUGpRMU93OThITWE4akJpcGtERE5ZRnBaVG5raVhuWnZtVzhRTk9SYXd5S25JcnNpODVjQVVJSnNKcVJvMVQtaHA2MG1GZF90OS04Y1BET3dUYnJnWFdfU0RmLXJDSldNWDNBOS0yX1R2T2pHYlBfa290REdySjNaelNTSUFiRTVnTm5pbXNvZUtnOVpT?oc=5",
+   "why": "The article directly engages with AI governance questions relevant to ILINA's work on policy formulation, responsible AI integration, and African representation in global processes."
+  },
+  "cab4b9975931": {
+   "action": "Monitor for written submission calls or stakeholder consultation tied to the Report's findings or the Nairobi workshop outcomes.",
+   "african_input": false,
+   "allies": [
+    "DIFA"
+   ],
+   "contacts": [],
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-03",
+   "event_start": "2026-11-03",
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "partner",
+   "headline": "Launch of International AI Safety Report 2026 in Nairobi",
+   "id": "cab4b9975931",
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "DIFA Consultancy"
+   ],
+   "participation": "Attendees included judiciary representatives, private institutions, academic and research institutions, and development actors. No explicit open call for external input was stated in the source.",
+   "published": "2026-11-03",
+   "snippet": "DIFA Consultancy recently took part in the Nairobi AI Safety Workshop for the Kenya AI Ecosystem at Daystar University. The workshop was attended by various stakeholders including judiciary representatives, private institutions, academic and research institutions and development actors. The workshop was to launch  the International AI Safety Report of 2026 (the Report), published by the […] The post Launch of the International AI Safety Report (2026) in Nairobi, Kenya appeared first on DIFA Consultancy .",
+   "source": "DIFA Consultancy",
+   "status": "done",
+   "summary": "The International AI Safety Report 2026 was launched at a Nairobi workshop hosted by DIFA Consultancy, attended by judiciary, private sector, academia, and development actors, with the UK AI Security Institute as the report publisher.",
+   "thread": null,
+   "title": "Launch of the International AI Safety Report (2026) in Nairobi, Kenya",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education",
+    "evaluations & monitoring",
+    "AI fund & capacity",
+    "global AI law"
+   ],
+   "type": "event",
+   "url": "https://difaconsultancy.com/resources/launch-of-the-international-ai-safety-report-2026-in-nairobi-kenya/",
+   "why": "The event convenes African government decision makers and multilateral bodies with a governance track, aligning with ILINA's priority to engage African stakeholders in frontier AI governance processes."
+  },
+  "cab531afc959": {
+   "found": "2026-11-03",
+   "id": "cab531afc959",
+   "status": "skip"
+  },
   "cb5e97db65d8": {
    "found": "2026-10-28",
    "id": "cb5e97db65d8",
@@ -10411,6 +11063,48 @@
    "found": "2026-10-28",
    "id": "cc47aeca65a4",
    "status": "skip"
+  },
+  "cc4993a03695": {
+   "found": "2026-11-03",
+   "id": "cc4993a03695",
+   "status": "skip"
+  },
+  "ccc7dd573e31": {
+   "action": "Submit written input or position paper to Kenya's AI strategy process",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 5,
+   "found": "2026-11-03",
+   "group": "government",
+   "headline": "Kenya launches National AI strategy with Ksh.152B implementation budget",
+   "id": "ccc7dd573e31",
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "Kenyan Government"
+   ],
+   "participation": "Monitor for official calls for comments, stakeholder consultations, or validation workshops on the strategy; engage with Ministry of ICT or relevant oversight body",
+   "published": "2025-03-27",
+   "snippet": "",
+   "source": "Citizen Digital (via search)",
+   "status": "done",
+   "summary": "Kenya has launched its National AI strategy, backed by a Ksh.152 billion implementation budget, signalling a major government commitment to AI development and governance.",
+   "thread": null,
+   "title": "Kenya launches National AI strategy with Ksh.152B implementation budget",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUhGbkFYcC1lY2psSENSRV9RMHJFMTRzdVotd054MHA1Y05lRUtBWlF2WkVSdG1CWGY3R2Nxd2VxU2xwa08tVVNhMEt1YldFRHp3aWs2NTVveXkwd2Jvcm1rSDZ4NjZ6c1ljSEFETFF4U3FQbkp6MXp5WS1kMDV6dm96emdpSGJDUWREZGR4RWxObXZOVWkyQl9aWVZ2R0JRX25EOW9UbC1kdEM4b1lB?oc=5",
+   "why": "This is a concrete policy development from an African government that creates opportunities for stakeholder input and aligns with ILINA's focus on AI policy formulation in Africa."
   },
   "ccd487ea860a": {
    "found": "2026-10-30",
@@ -10540,6 +11234,11 @@
    "type": "policy_change",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDRseWtZNnZ1MjkyTkNuMVg2S3h0NXEyVURrakplQ2x5NmRVaURDcWRPYk0xYVUyT0JVWlE2a2hSX212azJ4WkxwUmdGOGNFVFhTR05Obm4ySHNIYWl2SlAyNERYaDMxWGF3MFZqeTZQenBvLXdVM2xLQVBIS0NYOWVMVFlMckxtZlZFYkpSclp1N0pnTTFlcG5TSV91X2tzQVdFVVdvcTBZcTE5dUtZbmczemNtYmM?oc=5",
    "why": "Directly shapes AI governance in a key African market and creates a public participation opening for civil society."
+  },
+  "d12c86a788e7": {
+   "found": "2026-11-03",
+   "id": "d12c86a788e7",
+   "status": "skip"
   },
   "d182e73a0574": {
    "found": "2026-10-30",
@@ -11028,6 +11727,45 @@
    "id": "d9982d528320",
    "status": "skip"
   },
+  "d9de54ab3084": {
+   "action": "Submit written input or a policy memo",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "government",
+   "headline": "Call for Submissions: AI for Social, Economic, and Policy Research Conference 2027",
+   "id": "d9de54ab3084",
+   "location": "",
+   "organizers": [],
+   "participation": "Open call for submissions; eligibility and link not specified in source text",
+   "published": "2026-11-02",
+   "snippet": "",
+   "source": "Opportunity Desk (via search)",
+   "status": "done",
+   "summary": "A call for submissions has been issued for the New Developments in AI for Social, Economic, and Policy Research Conference 2027, targeting researchers and practitioners working at the intersection of AI and social science.",
+   "thread": null,
+   "title": "Call for Submissions: New Developments in AI for Social, Economic, and Policy Research Conference 2027",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education",
+    "evaluations & monitoring",
+    "AI fund & capacity",
+    "global AI law"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0tSY0FCdC1iTTBzYnJYZzhjUzE2R2d5eHk3dWtDRF9UbDA0LW9XUHBaU1g2a0NRdnY0ZmpLcmRsWDhrUF9xYVhMZUVpYlFaLWN1anhfZTdmdlhYMDF0V2gxZVBUSzlucDZsbTlkaEpJbE5CZHJMeVEyV1FDTkRjTWZqdnczQ0d0V3k2Tlh2TUpSWUx0MkJlREJrOWQyeXh2bjd4Tmo1ZzBOWjZaRWNKcGY1Z1hScUJKRmc?oc=5",
+   "why": "This is a concrete call for submissions that could allow ILINA to contribute governance and policy perspectives, aligning with their priority on African input in AI research and policy."
+  },
   "da02c6900cc6": {
    "action": "Monitor for written submission calls or side events open to African stakeholder participation.",
    "african_input": false,
@@ -11175,6 +11913,11 @@
    "id": "dc79eb3f573e",
    "status": "skip"
   },
+  "dcbdc79372c3": {
+   "found": "2026-11-03",
+   "id": "dcbdc79372c3",
+   "status": "skip"
+  },
   "dcc7a2488f9e": {
    "action": "Monitor the summit programme and submission calls; prepare position papers or inputs on AI safety, capacity development, and public service integration.",
    "african_input": true,
@@ -11234,6 +11977,45 @@
    "found": "2026-10-31",
    "id": "ddabe5e05e1f",
    "status": "skip"
+  },
+  "de1503c14637": {
+   "action": "Monitor for official AU statements, consultation calls, or policy proposals on AI-facilitated gender violence; consider submitting ILINA input on context-specific risk evaluation.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "African Union Calls to Protect Women from AI aided Violence",
+   "id": "de1503c14637",
+   "location": "Online / Africa",
+   "organizers": [
+    "Genocide Watch"
+   ],
+   "participation": "Stay informed via AU channels; watch for open calls for input on AI governance and gender-based violence.",
+   "published": "2026-11-02",
+   "snippet": "",
+   "source": "Genocide Watch (via search)",
+   "status": "done",
+   "summary": "Genocide Watch reports that the African Union has called for measures to protect women from violence facilitated by AI technologies.",
+   "thread": null,
+   "title": "African Union Calls to Protect Women from AI aided Violence",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2dHbmloYnd6SXctNzJKaE1NUEplOFhTZDFuZmJoT053enFVYXdOSC02U3I5Q1RpVnRkZUI3MUItYThiOTFEczVLdWE0ZWhnTkpkUEg1MHR0SlRKcXBiSEs1UEprUXlpZlJhMU1taEFBR0t1MkUxRE81Qml3YTFsLTl0NnZGeUtpdkg0U3pKVzN0X1V4U2VHOXRSZ0syOG1VVm5lSnp1aU9weXd4ZjF3akR0S0hwdXh1dWNpTzZLSFd2dW9ZaGlNZ3hjVzFqZw?oc=5",
+   "why": "This signals AU engagement with AI safety and gendered risks, aligning with ILINA's interest in context-dependent risk assessment and African governance of frontier AI."
   },
   "dea1e8c7b427": {
    "found": "2026-10-29",
@@ -11451,6 +12233,44 @@
    "found": "2026-10-28",
    "id": "e288041391c0",
    "status": "skip"
+  },
+  "e2cc1c6b6457": {
+   "action": "Monitor the committee's agenda and position ILINA for potential input on AI governance aspects.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "African Union ICT committee chairmanship appointment",
+   "id": "e2cc1c6b6457",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "African Union"
+   ],
+   "participation": "Monitor for consultation calls or policy positions from the committee; no immediate application.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "Telecompaper (via search)",
+   "status": "done",
+   "summary": "The African Union has appointed a Ghanaian minister to chair its ICT committee, signalling a leadership role for Ghana in continental ICT governance.",
+   "thread": null,
+   "title": "African Union appoints Ghanaian minister to chair ICT committee",
+   "topics": [
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWRnMmp5QnJ1NkJrNDB4NVk3RFNfYXFQNFlTQ0owdWg2ejJNTG12YUJjbW0zVzltOXZLTDh1aEhOZ25XbHV5Ykp3Vnpnd1U1S1BIcHVIZHpfZWJEQVdzcUdEbWY0X2Nmc1pSbDRsb1RxeE90VEJ6a25yYTFXbVJGR2NvaVB4WUV6dFVwYmd3b3h2amtib2h2N3EtUzBDcUxRYUZ4eWN0Zk40UQ?oc=5",
+   "why": "This appointment could influence AU digital policy direction and presents a potential opportunity for ILINA to engage with Ghana's ICT agenda and broader African digital governance."
   },
   "e2e645ad6c72": {
    "found": "2026-10-28",
@@ -11858,6 +12678,44 @@
    "id": "e93793d057dc",
    "status": "skip"
   },
+  "e978ef41553d": {
+   "action": "Submit written input or co-sign a position paper on incident reporting standards",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Singapore",
+    "International"
+   ],
+   "deadline": "2027-01-15",
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "Singapore Frontier-AI Incident Reporting Pilot",
+   "id": "e978ef41553d",
+   "location": "Online / International",
+   "organizers": [
+    "Singapore Government / Infocomm Media Development Authority"
+   ],
+   "participation": "Open call for stakeholders to submit comments on the proposed incident reporting framework; eligibility likely international organisations, industry, and civil society; details via Singapore's IMDA or Ministry of Communications and Information channels",
+   "published": "2026-10-29",
+   "snippet": "",
+   "source": "CXO Digitalpulse (via search)",
+   "status": "done",
+   "summary": "Singapore proposes an international pilot to establish a standardised framework for reporting frontier-AI incidents, aiming to improve global coordination on AI safety and security.",
+   "thread": null,
+   "title": "Singapore Proposes International Pilot for Reporting Frontier-AI Incidents",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEtjdnRhTUVOZVUxWXlTeHZYRVRxOWxOWmtBWnR1QU9Tak1fNk81eWppeGh0Nnh5bFlJVTFvOW9wVldtZy1aRmF4UXVqdFFFWnRfSUVjenhxc2dkNUhUN1FNZmZzNmpuajRJaU9mT0N3TjhWZUxhM3N1Ui1Ya2lKRVV6Vk5KYVdMdk9qaU9SVUhuVktYemtRbXFSODJEa0FWbVVrNkl5ZVgxRTg?oc=5",
+   "why": "This pilot could shape global incident reporting norms; ILINA should engage to ensure African perspectives and fragile-state contexts are represented in the framework design."
+  },
   "e98c7353c4ac": {
    "found": "2026-10-31",
    "id": "e98c7353c4ac",
@@ -11974,6 +12832,11 @@
    "id": "eaea42bdcfe0",
    "status": "skip"
   },
+  "eb0de0c2a348": {
+   "found": "2026-11-03",
+   "id": "eb0de0c2a348",
+   "status": "skip"
+  },
   "eb17b856f63c": {
    "found": "2026-10-28",
    "id": "eb17b856f63c",
@@ -11983,6 +12846,42 @@
    "found": "2026-11-01",
    "id": "eb38cc1572e2",
    "status": "skip"
+  },
+  "eb68f30604e5": {
+   "action": "Cite in policy memo on AI security for lower-income governments",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "tracker",
+   "headline": "OpenAI outlines cyber defense blueprint for frontier AI",
+   "id": "eb68f30604e5",
+   "location": "",
+   "organizers": [
+    "OpenAI"
+   ],
+   "participation": "Read the blueprint; no direct participation required",
+   "published": "2026-10-21",
+   "snippet": "",
+   "source": "Blockchain News (via search)",
+   "status": "done",
+   "summary": "OpenAI has released a cyber defense blueprint proposing new infrastructure and policy measures to secure frontier AI systems against cyber threats.",
+   "thread": null,
+   "title": "OpenAI outlines cyber defense blueprint for frontier AI",
+   "topics": [
+    "AI safety & security",
+    "AI security"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zSjB3NTM0UmVDSmdZWG1HblhZcklCZEZHcDF4UGtWXy11ZkVlSzRXdGZzRS1jMFJBaDd0eWVHaUNBb2dqRnhJNTZla21HVUtFcUhKblNsYXJmUkVCUEVtV0tvWlZGZFY1U2pOOTRENGtWZlFkTUlJczcxMA?oc=5",
+   "why": "The blueprint addresses AI security and frontier AI risks, which are among ILINA's core positions, especially given the relevance to fragile states."
   },
   "ec054b4af910": {
    "found": "2026-11-01",
@@ -12382,6 +13281,11 @@
    "id": "f59afc24bc9e",
    "status": "skip"
   },
+  "f5a9ee1b14b1": {
+   "found": "2026-11-03",
+   "id": "f5a9ee1b14b1",
+   "status": "skip"
+  },
   "f62c95a2330c": {
    "found": "2026-10-28",
    "id": "f62c95a2330c",
@@ -12543,6 +13447,43 @@
    "id": "f9c0e74fd9ff",
    "status": "skip"
   },
+  "fa61fd939e2c": {
+   "action": "Monitor for specific participation mechanisms or consultation calls from Ghana or AUDA-NEPAD",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "multilateral",
+   "headline": "Ghana Urges Africa to Shape Global Internet and AI Governance",
+   "id": "fa61fd939e2c",
+   "location": "Online / Ghana",
+   "organizers": [
+    "Ghanaian government"
+   ],
+   "participation": "Watch for specific calls for input, comments, or stakeholder consultations from Ghana or AUDA-NEPAD; likely open to African civil society and organisations",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "TechAfrica News (via search)",
+   "status": "done",
+   "summary": "Ghana is calling on African nations to actively participate in shaping global internet and AI governance frameworks, emphasizing the need for African voices in international policy decisions.",
+   "thread": null,
+   "title": "Ghana Urges Africa to Shape Global Internet and AI Governance",
+   "topics": [
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalpFQ1I4X3l5R0VoRVRSWGZGb0Ruc29wUG94dzg4NDJQN1REdWVWZFVKUmhZbkhtdHJJV004WDJPZVRCeFliTGVHdC1mU0EyYV9iMHZUbHl0WUQyalJzV0lYYTFod0taYWxWZTJtTkNPdlBBT3hRSmJkMVdaS2pzSjJpaUtYTl9HSGxKakhZN3dDSWhQSTFiLUYycWotZmZYSXc?oc=5",
+   "why": "This aligns with ILINA's top priority of African countries shaping frontier AI development and governance, and offers a concrete opportunity for continental input into global processes."
+  },
   "fa625370fa07": {
    "action": "Monitor for concrete cooperation proposals or policy frameworks emerging from this bilateral initiative",
    "african_input": false,
@@ -12630,6 +13571,45 @@
    "found": "2026-10-28",
    "id": "fadc5fa39bbd",
    "status": "skip"
+  },
+  "fae4639c55ee": {
+   "action": "Submit written comments or input on the draft framework before finalisation",
+   "african_input": false,
+   "allies": [
+    "DIFA"
+   ],
+   "contacts": [],
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-03",
+   "group": "partner",
+   "headline": "CA Kenya releases proposed data centre licensing framework",
+   "id": "fae4639c55ee",
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "Communications Authority of Kenya"
+   ],
+   "participation": "Stakeholder comments invited; no specific deadline given but framework to be finalised in 2026/2027 financial year",
+   "published": "2026-11-03",
+   "snippet": "The Communications Authority of Kenya (CA) recently released the Proposed Licensing Framework for Data Centers (the draft Framework) for comments. The CA which regulates Kenya’s ICT sector is working to establish a standalone licence for co-location data center services, providing businesses with physical and digital hosting infrastructure including power, cooling, storage and computational power. Co-location […] The post Communication Authority of Kenya   Releases Proposed Licensing Framework for Data Centres appeared first on DIFA Consultancy .",
+   "source": "DIFA Consultancy",
+   "status": "done",
+   "summary": "The Communications Authority of Kenya released a draft framework to create a standalone licence for co-location data centre services, lowering fees from KES 15M to KES 100k and separating data centres from telecom regulations.",
+   "thread": null,
+   "title": "Communication Authority of Kenya   Releases Proposed Licensing Framework for Data Centres",
+   "topics": [
+    "AI fund & capacity",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "policy_change",
+   "url": "https://difaconsultancy.com/resources/communication-authority-of-kenya-releases-proposed-licensing-framework-for-data-centres/",
+   "why": "Lower compliance barriers and costs for data centres could improve infrastructure access for African governments and support digital economy goals, relevant to ILINA's public services and sovereignty priorities."
   },
   "faf07cdcd53d": {
    "found": "2026-11-02",
@@ -12782,6 +13762,11 @@
   "ff83c8907a26": {
    "found": "2026-10-28",
    "id": "ff83c8907a26",
+   "status": "skip"
+  },
+  "ff9d2d55cf65": {
+   "found": "2026-11-03",
+   "id": "ff9d2d55cf65",
    "status": "skip"
   },
   "ffade71660ff": {
@@ -12967,13 +13952,13 @@
     "https://www.giz.de/en/newsroom/newsletter",
     "https://www.giz.de/en/newsroom/press",
     "https://www.giz.de/en/newsroom/stories",
+    "https://www.giz.de/en/newsroom/stories/interview-hoven-giz-cop31",
     "https://www.giz.de/en/newsroom/stories/opportunity-climate-action",
-    "https://www.giz.de/en/newsroom/stories/what-we-do-or-do-not-do-in-cities-will-have-a-decisive-effect-on-future-temperatures",
-    "https://www.giz.de/en/newsroom/stories/where-jordanian-skilled-workers-are-boosting-economy",
+    "https://www.giz.de/en/newsroom/stories/un-climate-change-conference",
     "https://www.giz.de/en/partner/contractor/services-construction-work",
     "https://www.giz.de/en/regions/latin-america-caribbean"
    ],
-   "text": "Newsroom\nReport\nWhere Jordanian skilled workers are boosting the economy\nA medium-sized business in the East Westphalia region of Germany is meeting its demand for skilled workers with support from GIZ: the plastics processing firm Hadi-Plast is benefiting from apprentices from Jordan.\nFind out more\nWhere Jordanian skilled workers are boosting the economy\nBackground\nAn opportunity for climate action\nCarbon markets mobilise funds for climate action projects. As the head of several such projects at GIZ, Sven Egbers explains how this works.\nFind out more\nAn opportunity for climate action\nInterview\n‘What we do or do not do in cities will have a decisive effect on future temperatures’\nHow is the global housing shortage connected to climate change? Anacláudia Rossbach, Executive Director of UN-Habitat, explains this connection and which measures can be taken to make cities more climate-resilient.\nFind out more\n‘What we do or do not do in cities will have a decisive effect on future temperatures’\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n30.10.2026\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nIm Interview spricht Eyyup Sezer darüber, wie das Unternehmen Sönmez Global die Kreislaufwirtschaft fördert und gleichzeitig die Lebensgrundlage von Geflüchteten unterstützt. Eine Win-win-Situation für alle.\nMore\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nTopic\n26.10.2026\nYoung African talents boost German business in Africa\nWho understands African markets better than Africa´s emerging leaders? GIZ puts them in touch with companies directly as part of a fellowship programme.\nMore\nYoung African talents boost German business in Africa\nTopic\n22.10.2026\nTruth as the basis for peace\nGIZ has opened a school of journalism in Damascus to promote reporting that considers different perspectives and does not escalate conflicts.\nMore\nTruth as the basis for peace\nTopic\n15.10.2026\n'Biodiversity protection is also crisis prevention'\nInterviewed in the run-up to the Conference of the Parties to the Convention on Biological Diversity (COP 17) in Armenia, GIZ Director General Elke Siehl and Director of Division Alexander Haack explain why human existence depends on the biodiversity on Earth, how we are protecting the basis of our livelihoods around the world, and who is driving improvements.\nMore\n'Biodiversity protection is also crisis prevention'\nTopic\n14.10.2026\nArmenia: Together for a thriving lake\nArmenia is hosting this year’s UN Biodiversity Conference. Lake Sevan is a case study for how better data, nature-based solutions and strong government agencies can preserve biodiversity.\nMore\nArmenia: Together for a thriving lake\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
+   "text": "Newsroom\nInterview\n‘Climate pledges must now be turned into action’\nIn this interview, Ingrid-Gabriela Hoven talks about what she anticipates from the COP31 climate change conference in Antalya. The Managing Director at GIZ underlines why GIZ’s work in this area serves German interests, too.\nFind out more\n‘Climate pledges must now be turned into action’\nBackground\nAn opportunity for climate action\nCarbon markets mobilise funds for climate action projects. As the head of several such projects at GIZ, Sven Egbers explains how this works.\nFind out more\nAn opportunity for climate action\nBackground\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nThis year’s UN Climate Change Conference will be meeting in Türkiye. Here we answer key questions about it.\nFind out more\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n30.10.2026\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nIm Interview spricht Eyyup Sezer darüber, wie das Unternehmen Sönmez Global die Kreislaufwirtschaft fördert und gleichzeitig die Lebensgrundlage von Geflüchteten unterstützt. Eine Win-win-Situation für alle.\nMore\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nTopic\n26.10.2026\nYoung African talents boost German business in Africa\nWho understands African markets better than Africa´s emerging leaders? GIZ puts them in touch with companies directly as part of a fellowship programme.\nMore\nYoung African talents boost German business in Africa\nTopic\n22.10.2026\nTruth as the basis for peace\nGIZ has opened a school of journalism in Damascus to promote reporting that considers different perspectives and does not escalate conflicts.\nMore\nTruth as the basis for peace\nTopic\n15.10.2026\n'Biodiversity protection is also crisis prevention'\nInterviewed in the run-up to the Conference of the Parties to the Convention on Biological Diversity (COP 17) in Armenia, GIZ Director General Elke Siehl and Director of Division Alexander Haack explain why human existence depends on the biodiversity on Earth, how we are protecting the basis of our livelihoods around the world, and who is driving improvements.\nMore\n'Biodiversity protection is also crisis prevention'\nTopic\n14.10.2026\nArmenia: Together for a thriving lake\nArmenia is hosting this year’s UN Biodiversity Conference. Lake Sevan is a case study for how better data, nature-based solutions and strong government agencies can preserve biodiversity.\nMore\nArmenia: Together for a thriving lake\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
   },
   "https://www.globalcenter.ai/news": {
    "links": [
@@ -13122,24 +14107,24 @@
   "https://www.techpolicy.press/": {
    "links": [
     "https://www.techpolicy.press/brazil-shows-platform-illiberalism-is-big-techs-new-normal",
-    "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots",
-    "https://www.techpolicy.press/canada-and-europe-need-a-way-to-see-the-ai-they-cannot-access",
-    "https://www.techpolicy.press/creating-a-new-internet-bargain-to-preserve-fair-use-and-protect-the-commons",
     "https://www.techpolicy.press/electrocutions-intimidation-and-wage-theft-haunt-europes-data-center-workers",
-    "https://www.techpolicy.press/lulas-win-signals-fight-to-regulate-social-media-will-reach-new-level-in-brazil",
+    "https://www.techpolicy.press/europe-and-canada-plot-a-digital-alliance-as-us-ties-fray",
+    "https://www.techpolicy.press/how-ai-companies-want-to-be-governed-and-what-that-means-for-ai-governance",
+    "https://www.techpolicy.press/how-the-eu-ai-office-can-see-the-choices-behind-frontier-labs-safety-claims",
     "https://www.techpolicy.press/mapping-the-political-influencer-industry-and-the-problems-it-causes-for-democracy",
-    "https://www.techpolicy.press/the-greatest-capitalist-in-history-a-review-of-alex-gibneys-musk",
-    "https://www.techpolicy.press/the-pentagon-has-a-big-tech-problem",
+    "https://www.techpolicy.press/meta-streamlines-state-censorship-in-india-with-automated-takedowns",
+    "https://www.techpolicy.press/october-2026-us-tech-policy-roundup",
+    "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
     "https://www.techpolicy.press/the-solution-to-ais-alignment-problem-is-precise-guardrails-on-how-we-use-it",
-    "https://www.techpolicy.press/the-ukus-tech-deal-exposes-the-limits-of-britains-ai-ambitions",
+    "https://www.techpolicy.press/there-is-no-universal-election-integrity-playbook-for-platforms",
     "https://www.techpolicy.press/what-latino-voters-can-teach-washington-about-ai-governance",
-    "https://www.techpolicy.press/what-to-do-about-the-coming-glut-of-ai-data-centers",
     "https://www.techpolicy.press/what-training-dataset-transparency-mandates-hide",
+    "https://www.techpolicy.press/whats-really-behind-the-science-slowdown-the-white-house-wants-to-fix",
     "https://www.techpolicy.press/when-how-and-why-to-abandon-the-internet",
-    "https://www.techpolicy.press/will-prediction-markets-affect-democracy-take-a-bet",
-    "https://www.techpolicy.press/without-an-exit-plan-ai-partnerships-risk-becoming-the-new-tied-aid"
+    "https://www.techpolicy.press/why-parental-consent-policies-for-social-media-do-not-help-families",
+    "https://www.techpolicy.press/will-prediction-markets-affect-democracy-take-a-bet"
    ],
-   "text": "News\nElectrocutions, Intimidation and Wage Theft Haunt Europe’s Data Center Workers\nMigrant workers building US tech giants’ data centers across Europe face debilitating injuries, squalid housing, unpaid wages and labor exploitation.\nOctober 30, 2026\nFeatured\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nPerspective\nMapping the Political Influencer Industry and the Problems it Causes for Democracy\nOctober 30, 2026\nPerspective\nCreating a New Internet Bargain to Preserve Fair Use and Protect the Commons\nOctober 28, 2026\nFeatured\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nPerspective\nMapping the Political Influencer Industry and the Problems it Causes for Democracy\nOctober 30, 2026\nPerspective\nCreating a New Internet Bargain to Preserve Fair Use and Protect the Commons\nOctober 28, 2026\nLatest\nView more\nPerspective\nWhat Latino Voters Can Teach Washington About AI Governance\nOctober 29, 2026\nPerspective\nWhat Training Dataset Transparency Mandates Hide\nOctober 29, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nPerspective\nThe Solution to AI’s Alignment Problem is Precise Guardrails on How We Use It\nOctober 28, 2026\nPerspective\nWill Prediction Markets Affect Democracy? Take a Bet\nOctober 28, 2026\nPerspective\nCanada and Europe Need a Way to See the AI They Cannot Access\nOctober 28, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nCanada and Europe Need a Way to See the AI They Cannot Access\nOctober 28, 2026\nPerspective\nBreaking the Open Web Won’t Stop the Bad Bots\nOctober 27, 2026\nAnalysis\nThe UK-US Tech Deal Exposes the Limits of Britain's AI Ambitions\nOctober 27, 2026\nPerspective\nLula’s Win Signals Fight to Regulate Social Media Will Escalate in Brazil\nOctober 27, 2026\nPerspective\nWhat to Do About the Coming Glut of AI Data Centers\nOctober 27, 2026\nPerspective\n‘The Greatest Capitalist In History’? A Review of Alex Gibney’s ‘Musk’\nOctober 27, 2026\nPerspective\nThe Pentagon Has a Big Tech Problem\nOctober 26, 2026\nPerspective\nWithout an Exit Plan, AI Partnerships in Africa Risk Becoming the New Tied Aid\nOctober 26, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Analysis\nHow AI Companies Want to Be Governed, and What That Means for AI Governance\nHow do leading AI companies envision public governance? The recent pronouncements of Anthropic, Google, Meta, Microsoft, and OpenAI may provide an answer.\nNovember 2, 2026\nFeatured\nPerspective\nThere is No Universal Election Integrity Playbook for Platforms\nNovember 2, 2026\nAnalysis\nMeta Streamlines State Censorship in India with Automated Takedowns\nNovember 2, 2026\nPerspective\nHow the EU AI Office Can See the Choices Behind Frontier Labs’ Safety Claims\nNovember 2, 2026\nFeatured\nPerspective\nThere is No Universal Election Integrity Playbook for Platforms\nNovember 2, 2026\nAnalysis\nMeta Streamlines State Censorship in India with Automated Takedowns\nNovember 2, 2026\nPerspective\nHow the EU AI Office Can See the Choices Behind Frontier Labs’ Safety Claims\nNovember 2, 2026\nLatest\nView more\nPerspective\nThe SEC Should Block Anthropic’s IPO to Protect the Public\nNovember 2, 2026\nAnalysis\nOctober 2026 US Tech Policy Roundup\nNovember 2, 2026\nAnalysis\nEurope and Canada Plot a Digital Alliance as US Ties Fray\nNovember 2, 2026\nPerspective\nWhat’s Really Behind the Science Slowdown the White House Wants to Fix?\nNovember 2, 2026\nPerspective\nWhy Parental Consent Policies for Social Media Do Not Help Families\nNovember 2, 2026\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nPodcast\nView more\nRecent\nView more\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nPerspective\nMapping the Political Influencer Industry and the Problems it Causes for Democracy\nOctober 30, 2026\nNews\nElectrocutions, Intimidation and Wage Theft Haunt Europe’s Data Center Workers\nOctober 30, 2026\nPerspective\nWhat Latino Voters Can Teach Washington About AI Governance\nOctober 29, 2026\nPerspective\nWhat Training Dataset Transparency Mandates Hide\nOctober 29, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nPerspective\nThe Solution to AI’s Alignment Problem is Precise Guardrails on How We Use It\nOctober 28, 2026\nPerspective\nWill Prediction Markets Affect Democracy? Take a Bet\nOctober 28, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
@@ -13179,12 +14164,12 @@
   },
   "https://www.unesco.org/en/artificial-intelligence": {
    "links": [
-    "https://www.unesco.org/en/articles/faculties-education-latin-america-address-how-prepare-future-teachers-age-artificial-intelligence",
+    "https://www.unesco.org/en/articles/global-network-ai-supervision-led-unesco-pushes-practical-cooperation",
     "https://www.unesco.org/en/articles/how-youth-bridging-digital-knowledge-divide-course-ai-and-human-rights",
     "https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=195885",
     "https://www.unesco.org/en/articles/supreme-court-chile-and-unesco-strengthen-dialogue-artificial-intelligence",
-    "https://www.unesco.org/en/articles/turning-global-interest-support-indigenous-led-ai",
-    "https://www.unesco.org/en/articles/unesco-santiago-commemorated-25th-anniversary-information-all-programme-ifap-regional-events",
+    "https://www.unesco.org/en/articles/unesco-ai-ethics-action-cohorts-advance-practical-ai-governance",
+    "https://www.unesco.org/en/articles/unesco-and-google-partner-empower-brazilian-content-creators",
     "https://www.unesco.org/en/artificial-intelligence-culture",
     "https://www.unesco.org/en/artificial-intelligence/ai-public-sector",
     "https://www.unesco.org/en/artificial-intelligence/gender-equality",
@@ -13207,7 +14192,7 @@
     "https://www.unesco.org/ethics-ai/en/ram",
     "https://www.unesco.org/ethics-ai/en/ram?hub=195885"
    ],
-   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nResources\nSince its founding at the dawn of the atomic age, UNESCO has helped societies navigate and manage the transformative power of technology – to the benefit of all.\nToday, in an era shaped by Artificial Intelligence (AI) and related breakthrough innovations, UNESCO continues the critical work of ensuring these emerging technologies are developed and deployed in service of equity, opportunity, and inclusivity.\nVideo series: 7 minutes to understand AI\n© shutterstock.com / 3rdtimeluckystudio\nOur impact\nHow UNESCO is shaping an ethical digital future.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nPolicy Development: Readiness Assessment Methodology (RAMs)\nUNESCO helps Member States evaluate their readiness for the AI transformation through its Readiness Assessment Methodology (RAM) program, which helps policymakers identify their policy gaps and develop their national policies and strategies toward the development and deployment of these transformative technologies.\nAs of October 2025, over 75 countries from five continents have initiated or completed to RAM assessments, and policymakers worldwide are further able to draw on the Technology Policy Assistance Facility, developed in cooperation with the South African G20 Presidency.\nReadiness Assessment Methodology\nTechnology Policy Assistance Facility\n© SeventyFour / Shutterstock.com\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nThe Supreme Court of Chile and UNESCO strengthen dialogue on artificial intelligence\n30 October 2026\nNews\nUNESCO Santiago commemorated the 25th anniversary of the Information for All Programme (IFAP) with regional events on artificial intelligence and critical literacy\n29 October 2026\nNews\nTurning global interest into support for Indigenous-led AI\n21 October 2026\nNews\nFaculties of Education in Latin America address how to prepare future teachers for the age of artificial intelligence\n20 October 2026\nLoad more"
+   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nResources\nSince its founding at the dawn of the atomic age, UNESCO has helped societies navigate and manage the transformative power of technology – to the benefit of all.\nToday, in an era shaped by Artificial Intelligence (AI) and related breakthrough innovations, UNESCO continues the critical work of ensuring these emerging technologies are developed and deployed in service of equity, opportunity, and inclusivity.\nVideo series: 7 minutes to understand AI\n© shutterstock.com / 3rdtimeluckystudio\nOur impact\nHow UNESCO is shaping an ethical digital future.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nPolicy Development: Readiness Assessment Methodology (RAMs)\nUNESCO helps Member States evaluate their readiness for the AI transformation through its Readiness Assessment Methodology (RAM) program, which helps policymakers identify their policy gaps and develop their national policies and strategies toward the development and deployment of these transformative technologies.\nAs of October 2025, over 75 countries from five continents have initiated or completed to RAM assessments, and policymakers worldwide are further able to draw on the Technology Policy Assistance Facility, developed in cooperation with the South African G20 Presidency.\nReadiness Assessment Methodology\nTechnology Policy Assistance Facility\n© SeventyFour / Shutterstock.com\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nUNESCO and Google partner to empower Brazilian content creators\n2 November 2026\nNews\nGlobal Network on AI Supervision led by UNESCO pushes for practical cooperation\n2 November 2026\nNews\nUNESCO AI Ethics Action Cohorts advance practical AI governance\n2 November 2026\nNews\nThe Supreme Court of Chile and UNESCO strengthen dialogue on artificial intelligence\n30 October 2026\nLoad more"
   }
  },
  "threads": {
