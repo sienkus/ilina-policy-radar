@@ -517,6 +517,11 @@
    "id": "0a8d85e48539",
    "status": "skip"
   },
+  "0add1e02e1bd": {
+   "found": "2026-11-04",
+   "id": "0add1e02e1bd",
+   "status": "skip"
+  },
   "0aef849faaea": {
    "action": "Monitor for upcoming policy consultations or submission calls from Ghana's Ministry of Communications; prepare to engage with any stated initiatives.",
    "african_input": true,
@@ -567,6 +572,11 @@
   "0b91b51b9e12": {
    "found": "2026-11-02",
    "id": "0b91b51b9e12",
+   "status": "skip"
+  },
+  "0bc861ed3313": {
+   "found": "2026-11-04",
+   "id": "0bc861ed3313",
    "status": "skip"
   },
   "0bd9c28ccb5d": {
@@ -1408,6 +1418,11 @@
    "id": "1c2f07707516",
    "status": "skip"
   },
+  "1cdca444ca2d": {
+   "found": "2026-11-04",
+   "id": "1cdca444ca2d",
+   "status": "skip"
+  },
   "1d1fcdfbf73a": {
    "found": "2026-11-02",
    "id": "1d1fcdfbf73a",
@@ -1476,6 +1491,11 @@
   "1e81ac351f07": {
    "found": "2026-10-28",
    "id": "1e81ac351f07",
+   "status": "skip"
+  },
+  "1ec2fec05504": {
+   "found": "2026-11-04",
+   "id": "1ec2fec05504",
    "status": "skip"
   },
   "1ecbb27ca448": {
@@ -1809,6 +1829,11 @@
    "id": "2272b300dbe0",
    "status": "skip"
   },
+  "228e0b22913c": {
+   "found": "2026-11-04",
+   "id": "228e0b22913c",
+   "status": "skip"
+  },
   "22947a42a94a": {
    "found": "2026-11-03",
    "id": "22947a42a94a",
@@ -1966,6 +1991,11 @@
   "260d77b352af": {
    "found": "2026-10-29",
    "id": "260d77b352af",
+   "status": "skip"
+  },
+  "2652ed6e9e76": {
+   "found": "2026-11-04",
+   "id": "2652ed6e9e76",
    "status": "skip"
   },
   "26672e1274a3": {
@@ -2636,6 +2666,11 @@
    "id": "30376d7564e7",
    "status": "skip"
   },
+  "3058fb8ddc4a": {
+   "found": "2026-11-04",
+   "id": "3058fb8ddc4a",
+   "status": "skip"
+  },
   "3083826a6b53": {
    "found": "2026-11-02",
    "id": "3083826a6b53",
@@ -2884,6 +2919,11 @@
    "id": "361f42d226bd",
    "status": "skip"
   },
+  "362c4b76a89b": {
+   "found": "2026-11-04",
+   "id": "362c4b76a89b",
+   "status": "skip"
+  },
   "364ee8b2447e": {
    "found": "2026-10-28",
    "id": "364ee8b2447e",
@@ -2992,6 +3032,11 @@
   "3860a9955bfc": {
    "found": "2026-10-28",
    "id": "3860a9955bfc",
+   "status": "skip"
+  },
+  "389661a6cf5c": {
+   "found": "2026-11-04",
+   "id": "389661a6cf5c",
    "status": "skip"
   },
   "389c1504004a": {
@@ -3190,6 +3235,11 @@
    "id": "3b116a7f7d55",
    "status": "skip"
   },
+  "3b24ca9c7581": {
+   "found": "2026-11-04",
+   "id": "3b24ca9c7581",
+   "status": "skip"
+  },
   "3b3872f67469": {
    "found": "2026-10-28",
    "id": "3b3872f67469",
@@ -3260,6 +3310,11 @@
   "3c57e259561e": {
    "found": "2026-10-28",
    "id": "3c57e259561e",
+   "status": "skip"
+  },
+  "3cae65c1f522": {
+   "found": "2026-11-04",
+   "id": "3cae65c1f522",
    "status": "skip"
   },
   "3cc5c0dc31a2": {
@@ -3413,6 +3468,11 @@
   "3e5fe094bbdc": {
    "found": "2026-10-28",
    "id": "3e5fe094bbdc",
+   "status": "skip"
+  },
+  "3e6e02fc93ea": {
+   "found": "2026-11-04",
+   "id": "3e6e02fc93ea",
    "status": "skip"
   },
   "3f09fde96143": {
@@ -3710,6 +3770,11 @@
   "424c7e77097d": {
    "found": "2026-10-28",
    "id": "424c7e77097d",
+   "status": "skip"
+  },
+  "42764cdb8ea8": {
+   "found": "2026-11-04",
+   "id": "42764cdb8ea8",
    "status": "skip"
   },
   "42b18e0756b0": {
@@ -4048,6 +4113,11 @@
    "id": "4a07d9492d14",
    "status": "skip"
   },
+  "4aad0134643d": {
+   "found": "2026-11-04",
+   "id": "4aad0134643d",
+   "status": "skip"
+  },
   "4aad4643a616": {
    "action": "Monitor for official calls for input, position papers, or stakeholder consultations from Ghana's Ministry of Communications or the African Union; prepare to submit governance insights.",
    "african_input": true,
@@ -4240,6 +4310,44 @@
    "found": "2026-10-28",
    "id": "4df1762dd0ef",
    "status": "skip"
+  },
+  "4e8009f33185": {
+   "action": "Monitor summit programme and written submission calls; assess if ILINA can contribute to policy discussions or submit input.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Barbados"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Barbados and UN to host AI safety summit",
+   "id": "4e8009f33185",
+   "location": "Barbados",
+   "organizers": [
+    "Barbados Government",
+    "United Nations"
+   ],
+   "participation": "Open to stakeholders; watch for official summit agenda, side events, and calls for input or speakers.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "Digital Watch Observatory (via search)",
+   "status": "done",
+   "summary": "Barbados and the United Nations are co-hosting an AI safety summit, with Barbados providing the venue and the UN leading the initiative.",
+   "thread": null,
+   "title": "Barbados and United Nations to host AI safety summit",
+   "topics": [
+    "AI safety & security",
+    "AI summits",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZ09OSEc2am9CWVh6MENiWkxzZjRIUGVCaUtkYkRlUG5ubDJJdjNET0FaUGgxd1dZNjZncXItOFZGNGhEaVlQaHYxZXpVVHpoOGl0bE80OFdCN2dab0tabzFONmFiVnd6dXBuNVlJaV9IUUtX?oc=5",
+   "why": "Africa-focused AI governance organisation ILINA prioritises events that convene African decision-makers and multilateral bodies beyond the Global North; a summit hosted in Barbados represents a rare Caribbean/African-adjacent governance opportunity."
   },
   "4f2bf7f3b05e": {
    "found": "2026-10-28",
@@ -4493,6 +4601,11 @@
    "id": "5247261d33cd",
    "status": "skip"
   },
+  "52a49a6854cc": {
+   "found": "2026-11-04",
+   "id": "52a49a6854cc",
+   "status": "skip"
+  },
   "52ed7471b7ed": {
    "found": "2026-10-28",
    "id": "52ed7471b7ed",
@@ -4584,6 +4697,11 @@
   "5553d90f1da6": {
    "found": "2026-10-28",
    "id": "5553d90f1da6",
+   "status": "skip"
+  },
+  "555e4c1077d4": {
+   "found": "2026-11-04",
+   "id": "555e4c1077d4",
    "status": "skip"
   },
   "55795e2a040c": {
@@ -5122,6 +5240,44 @@
    "id": "5f55a015231c",
    "status": "skip"
   },
+  "5ff298303cc4": {
+   "action": "Monitor for opportunities to contribute African governance perspectives to FAJ's guidelines or participate in related consultations.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "FAJ urges African journalists to adopt responsible AI use in newsrooms",
+   "id": "5ff298303cc4",
+   "location": "Online / Ghana",
+   "organizers": [
+    "Fact-checkers Association of Ghana (FAJ)"
+   ],
+   "participation": "Journalists and media organisations can engage with FAJ's initiative; specific call for input not detailed in the item.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "Ghana News Agency (via search)",
+   "status": "done",
+   "summary": "The Fact-checkers Association of Ghana (FAJ) is urging African journalists to adopt responsible AI use in newsrooms, calling for ethical guidelines and verification practices to combat misinformation.",
+   "thread": null,
+   "title": "FAJ urges African journalists to adopt responsible AI use in newsrooms",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFJraVlkOTRZZW1SVDZJMy02Vm1BbE90YW56dUd1aUNSRk1aYXM2SnVreTRpQmt0ODVtemFNZ0lpeml3eTF1R3lwRDdTZ3cweW5PdzFXZ1BGaUFjN2s0WEJzNFRGYXlnUGVHdXM0OS1ud25zRXdtZWNkSy02aDhGRlR6LTFwN0RCcVVReG4xUFFVRzlDRmk0TVhZY2ZNbVU?oc=5",
+   "why": "This aligns with ILINA's interest in responsible AI integration in public services and context-dependent risk assessment, particularly around information integrity in African contexts."
+  },
   "603c71c04f87": {
    "found": "2026-10-28",
    "id": "603c71c04f87",
@@ -5246,6 +5402,11 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15SHp5YnZrX3JsdkRzbVZ4WWVuQm1zOF9HUERodHZwVjVXMHVzYjN5TTV2elZfc0VQM3ZCUWcxaENGZGoyaEhQVkJrVVV0dTlfR3I5aWJGMXV3cm9XbW9IbXdfam1HNk1MX2d1WmRHWmxtZHp4NHl1Zm13VmNTdw?oc=5",
    "why": "This is a direct public participation call from an African government, aligning with ILINA's top priority of contributing to AI policy formulation in Africa."
   },
+  "62ad2728e1b7": {
+   "found": "2026-11-04",
+   "id": "62ad2728e1b7",
+   "status": "skip"
+  },
   "62b757e0b26b": {
    "found": "2026-10-28",
    "id": "62b757e0b26b",
@@ -5264,6 +5425,11 @@
   "6321aee0e432": {
    "found": "2026-10-28",
    "id": "6321aee0e432",
+   "status": "skip"
+  },
+  "632980cd208f": {
+   "found": "2026-11-04",
+   "id": "632980cd208f",
    "status": "skip"
   },
   "6351d90eb0de": {
@@ -5353,6 +5519,11 @@
   "66a49b310aaa": {
    "found": "2026-10-28",
    "id": "66a49b310aaa",
+   "status": "skip"
+  },
+  "66e2afdd8bbe": {
+   "found": "2026-11-04",
+   "id": "66e2afdd8bbe",
    "status": "skip"
   },
   "66e77235251e": {
@@ -5451,6 +5622,11 @@
   "6ad8b25d9470": {
    "found": "2026-10-28",
    "id": "6ad8b25d9470",
+   "status": "skip"
+  },
+  "6b1e26a5b396": {
+   "found": "2026-11-04",
+   "id": "6b1e26a5b396",
    "status": "skip"
   },
   "6b2e14d321cd": {
@@ -5998,6 +6174,11 @@
    "url": "https://www.unesco.org/ethics-ai/en/ram",
    "why": "ILINA can engage African countries to participate in the RAM, helping them assess governance gaps and align AI deployment with ethical principles, especially in agriculture, healthcare, and education."
   },
+  "742fcbbc25d4": {
+   "found": "2026-11-04",
+   "id": "742fcbbc25d4",
+   "status": "skip"
+  },
   "749c9b9c3a6c": {
    "action": "Monitor for written submission calls or stakeholder consultation opportunities arising from the roundtable",
    "african_input": false,
@@ -6214,6 +6395,11 @@
    "type": "opportunity",
    "url": "https://www.itu.int/hub/2026/10/genie-ai-empowering-countries-to-shape-their-ai-future/",
    "why": "Aligns with ILINA's priority of responsible AI integration in public services and building domestic technical capacity in Africa; offers a model for context-dependent AI risk assessment and third-party evaluations."
+  },
+  "771bc5a36775": {
+   "found": "2026-11-04",
+   "id": "771bc5a36775",
+   "status": "skip"
   },
   "7725a5304ac9": {
    "found": "2026-10-28",
@@ -6549,6 +6735,42 @@
    "id": "7b1daf1a94f3",
    "status": "skip"
   },
+  "7b4864c6e1f2": {
+   "action": "Monitor for any policy implications or opportunities for African input in European AI governance discussions",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Europe"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "tracker",
+   "headline": "European CEOs warn against surrendering frontier AI to US and China",
+   "id": "7b4864c6e1f2",
+   "location": "Online / Europe",
+   "organizers": [
+    "European CEOs"
+   ],
+   "participation": "Monitor statements and position papers for potential contributions to African AI governance frameworks",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "POLITICO.eu (via search)",
+   "status": "done",
+   "summary": "A group of European CEOs has issued a warning about the risks of ceding control of frontier AI development to the US and China, calling for a coordinated European strategy to maintain strategic autonomy and ensure AI serves European interests.",
+   "thread": null,
+   "title": "European CEOs warn against surrendering frontier AI to US and China",
+   "topics": [
+    "AI safety & security",
+    "Global AI law"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXFqdkNNWHFLLTNFOXlPOU8xei11Q0ZENTNldXQ1cFNTcXZkYmUydlhqcV8xRXcwempVRlZyLWJBUEgtZFN0OWljX1RmNEsyNjZZakRObnRkZ0NCVGtnd3prT1dJYUw4Z0F6Z2Q5dlRDZmZsZThwb2txdXN1YU5LNnphU3AtLXZRazNUcUJJcVpiNkFNUGFvOVNCLTcza1dOZnc?oc=5",
+   "why": "This aligns with ILINA's interest in AI safety and governance, particularly regarding frontier AI risks and the need for context-dependent risk assessment in regions with fragile states."
+  },
   "7b5a32260ce7": {
    "found": "2026-11-01",
    "id": "7b5a32260ce7",
@@ -6636,9 +6858,52 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN25QZ0dwY0R0Zkg0S2R1cDN3TUwteEMxXzdJd1JHeE1nYzIzMG9XZlhBN18zenJraGRpc2UzSjlvMWlfMUFDQ0h2MUp3RVA5MXhxX0RWQ3B4QUdxYUsxNjRSNWxTQ1RkbmRPai1RRW41RS1kWk9PcDRUdEhIR1g5YTdjSE1YOHFEZTBmME9VSzNnQnBGNEczV1pTc0R5SE9GRGtBbTd1ZUJYdTc5UlZaTVFDY0o5aC1hZ2RZYWUxSDl5dw?oc=5",
    "why": "This highlights the urgent need for robust AI governance and evaluation mechanisms in African policy-making, directly relevant to ILINA's focus on context-dependent risk assessment and credible policy design."
   },
+  "7b999590b4ce": {
+   "action": "Monitor for written submission calls or position papers from the forum",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-05",
+   "event_start": "2026-11-02",
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "partner",
+   "headline": "CIPESA at 15th Africa IGF 2026",
+   "id": "7b999590b4ce",
+   "location": "Accra, Ghana / Online",
+   "organizers": [
+    "CIPESA"
+   ],
+   "participation": "Hybrid attendance; check CIPESA website for specific session details and input opportunities",
+   "published": "2026-11-01",
+   "snippet": "Update | As Africa advances its digital transformation agenda, CIPESA is pleased to participate in the 15th Annual Africa Internet Governance Forum (Africa IGF 2026), which brings together stakeholders to … Continue reading CIPESA at the 15th Annual Africa Internet Governance Forum (Africa IGF 2026) The post CIPESA at the 15th Annual Africa Internet Governance Forum (Africa IGF 2026) appeared first on Collaboration on International ICT Policy for East and Southern Africa (CIPESA) .",
+   "source": "CIPESA",
+   "status": "done",
+   "summary": "CIPESA participates in the 15th Annual Africa Internet Governance Forum in Accra, Ghana, focusing on digital innovation, inclusion, and trust across Africa.",
+   "thread": null,
+   "title": "CIPESA at the 15th Annual Africa Internet Governance Forum (Africa IGF 2026)",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "evaluations & monitoring"
+   ],
+   "type": "event",
+   "url": "https://cipesa.org/2026/11/cipesa-at-the-15th-annual-africa-internet-governance-forum-africa-igf-2026/",
+   "why": "Internet governance is a key entry point for African policy shaping; CIPESA's participation aligns with ILINA's focus on African governance representation."
+  },
   "7ba0793ad90a": {
    "found": "2026-10-28",
    "id": "7ba0793ad90a",
+   "status": "skip"
+  },
+  "7bf39b1247f2": {
+   "found": "2026-11-04",
+   "id": "7bf39b1247f2",
    "status": "skip"
   },
   "7c015c40ba57": {
@@ -6716,6 +6981,11 @@
   "7d3b785c1c5d": {
    "found": "2026-10-28",
    "id": "7d3b785c1c5d",
+   "status": "skip"
+  },
+  "7d4804349cf6": {
+   "found": "2026-11-04",
+   "id": "7d4804349cf6",
    "status": "skip"
   },
   "7d48f02e6fe2": {
@@ -6806,6 +7076,11 @@
    "type": "policy_change",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFk3dWc4WkpDTjU1LU9fc1d4Q2s5SXEtQUJCRVNEc3RyWXU4aTFnbDFaTGlDdGxzZ2U4MjRhMjVFN0xoaVNNeVI0elU5RUhXX2Jzal9vMG9Oc3ZKQmstc3ZYUUI3RmZMbUFlUk0zVGdTZkRaVUM3RTB5Q2N3d2pHenRac2cwTUd0QTFRMnFCV1VDMWw1eTc3R0FSOXVWWlN4Q2U2aDZvXy1GV0pHNDJ2MWprTjdGYmxFWXd0YkI3VWRNS19OYmExUUVtVG1ZeXc1SS1udUtvZzVhR3dZQ2toZnMxVXo?oc=5",
    "why": "This undermines the credibility of AI policy formulation in Africa and highlights risks in responsible AI integration, particularly for public services and governance where reference integrity is critical."
+  },
+  "7f9cf19a7e41": {
+   "found": "2026-11-04",
+   "id": "7f9cf19a7e41",
+   "status": "skip"
   },
   "8002cd58b172": {
    "action": "Monitor session recordings and written submissions for governance angles; note Kenya's participation as a key African voice.",
@@ -7115,6 +7390,11 @@
    "id": "839bc9b5c774",
    "status": "skip"
   },
+  "83c269bd6e72": {
+   "found": "2026-11-04",
+   "id": "83c269bd6e72",
+   "status": "skip"
+  },
   "83c454f14523": {
    "action": "Monitor for re-opened public participation calls or stakeholder consultation on the revised policy",
    "african_input": true,
@@ -7253,6 +7533,16 @@
    "id": "85a062df6697",
    "status": "skip"
   },
+  "85a4a9b320e4": {
+   "found": "2026-11-04",
+   "id": "85a4a9b320e4",
+   "status": "skip"
+  },
+  "85bfbe1934a1": {
+   "found": "2026-11-04",
+   "id": "85bfbe1934a1",
+   "status": "skip"
+  },
   "85c051bd314a": {
    "found": "2026-11-02",
    "id": "85c051bd314a",
@@ -7301,6 +7591,43 @@
    "type": "event",
    "url": "https://techcabal.com/2026/10/31/nigerias-ai-progress/",
    "why": "The session highlighted practical challenges for AI adoption in Nigeria—local data, skills, infrastructure, affordability, and policy—aligning with ILINA's focus on responsible AI integration in public services and context-dependent risk assessment."
+  },
+  "85f400bd2541": {
+   "action": "Monitor for policy consultation calls or stakeholder engagement opportunities arising from this infrastructure focus.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Africa's AI ambitions depend on stronger digital public infrastructure",
+   "id": "85f400bd2541",
+   "location": "Online / not specified",
+   "organizers": [
+    "Expert / Biometric Update"
+   ],
+   "participation": "No direct participation call in the text; monitor for related policy processes.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "Biometric Update (via search)",
+   "status": "done",
+   "summary": "An expert states that Africa's AI ambitions rely on stronger digital public infrastructure, highlighting the need for foundational systems to support AI deployment across the continent.",
+   "thread": null,
+   "title": "Africa’s AI ambitions depend on stronger digital public infrastructure, expert says",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODBUTkJIT2xDNjBKaklvNERFTXhiUkJ1d3U4U1BNbXFUX1NiaVZUb19qVFlOYkNHUzBtMkFrUWZyVTQ0aGRCT3JobXFEa2ZrbFFjOHViUkJXalRtUjNIeVlVRVNGdWs5Um9SSV9jekhtY3owSmJHajNDYm5VV0ZqUUNlNV9vZjh1YnlMbzBPQW9vay1CajR5dlo2ZE1lWEdqMTZuWVUzOU9UNFhPNzFrWnNuakhGWWZDWFplOA?oc=5",
+   "why": "This directly relates to ILINA's priority of AI improving outcomes in agriculture, healthcare and education on terms that protect African sovereignty and build domestic technical capacity."
   },
   "860012f8f3ca": {
    "action": "Monitor panel composition and public participation calls; consider submitting input on AI policy formulation.",
@@ -7538,6 +7865,42 @@
    "id": "8a2d9510a7e9",
    "status": "skip"
   },
+  "8a40fb4b41fa": {
+   "action": "Monitor for upcoming consultation calls or policy positions from Ghana's Ministry of Communications; prepare to engage with any public participation opportunities.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Samuel Nartey George urges Africa to take active role in Global Internet and AI Governance",
+   "id": "8a40fb4b41fa",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Samuel Nartey George (Minister of Communications, Ghana)"
+   ],
+   "participation": "Monitor Ministry of Communications channels for public consultation calls or policy submission opportunities; no immediate open call named in the article.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "Tech Review Africa (via search)",
+   "status": "done",
+   "summary": "The Ghanaian Minister of Communications, Samuel Nartey George, is urging African nations to take a more active role in shaping Global Internet and AI Governance frameworks, emphasizing the need for African participation in international policy spaces.",
+   "thread": null,
+   "title": "Samuel Nartey George urges Africa to take active role in Global Internet and AI Governance",
+   "topics": [
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVdtSXd6SzNIcXA4eDcydk9YMTc3QkYtbzdWRGwzcW5yeGpkS0tqTTBiU1ItMlJ2MktHSjdXdXdjMDFKLTBqR1RQUlloZnI0RHZlSmtwY3Izd29yMUlyVTViZE5iQ245T2NRcTNOWjk5MkdOYVRaLXVmYmVVdXgtdlg2c0JJM0JHVzZVOU53T0tIQmJvQ1NwcmNsVFhqVDMwbUFoM2dfODE3ZjJrWTJSVjhNN0V3eFVsYkVJTTFvVU5HWDJ5elNqMg?oc=5",
+   "why": "This signals a push for African government leadership in global AI governance, aligning with ILINA's priority of African countries shaping frontier AI development and deployment."
+  },
   "8a5e90b9f6a7": {
    "action": "Review the strategy document for governance implications and consider submission to EAC policy processes.",
    "african_input": false,
@@ -7617,6 +7980,11 @@
    "type": "opportunity",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWGs3QnExZmNrQ0ZnTDJCLU5idFJHb2hfdnJkQjZIMmN0QUgtaXpqUVdrYlcycFUtaEtraC1oMTZfMkoxbHRuMmctejYzcTVJZHNRenpaQUN3RXdHYThHUm5iRGFCQ2pRQkdCNFU2cFdYMUJVTVNJSFhuRTNGUjFNcldhcDI5cXNGNzUyTHdDMllaQ2tpczJ2STNxUVkydVExZU01ZDNTR2hMOHA5WjMxdWctM2p2M0tSTUhSb3BCUDhCS0tjODQ4ZEpRTjJwcFpqcFZfWVNCbEYyN00?oc=5",
    "why": "Advances AI for health in Africa, aligning with ILINA's priority of AI improving healthcare outcomes on terms protecting African sovereignty."
+  },
+  "8ae37dd9c1a8": {
+   "found": "2026-11-04",
+   "id": "8ae37dd9c1a8",
+   "status": "skip"
   },
   "8b83262876f8": {
    "found": "2026-10-28",
@@ -7886,6 +8254,11 @@
    "id": "901b21d2c8cb",
    "status": "skip"
   },
+  "905a10570aec": {
+   "found": "2026-11-04",
+   "id": "905a10570aec",
+   "status": "skip"
+  },
   "90a8e1df4856": {
    "found": "2026-10-28",
    "id": "90a8e1df4856",
@@ -8052,6 +8425,11 @@
    "id": "9448709cc6f6",
    "status": "skip"
   },
+  "94679e64ae41": {
+   "found": "2026-11-04",
+   "id": "94679e64ae41",
+   "status": "skip"
+  },
   "9487c00abcf2": {
    "found": "2026-10-28",
    "id": "9487c00abcf2",
@@ -8191,6 +8569,41 @@
    "id": "95e93067fb40",
    "status": "skip"
   },
+  "96523d308c98": {
+   "action": "Monitor for specific policy proposals or consultation calls from the Ghanaian Ministry",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Sam George calls for African unity to shape continent's digital future",
+   "id": "96523d308c98",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Samuel Nartey George (Minister of Communications and Digitalisation, Ghana)"
+   ],
+   "participation": "Public statements and potential future consultations; no open participation currently announced.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "3News (via search)",
+   "status": "done",
+   "summary": "The Minister of Communications and Digitalisation for Ghana, Samuel Nartey George, is calling for African unity to shape the continent's digital future, emphasizing the need for African countries to define their own digital agenda.",
+   "thread": null,
+   "title": "Sam George calls for African unity to shape continent's digital future",
+   "topics": [
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3EydGc0MFZGVldROUtjREcycHZfejZYTi0yQlBHRDJ2YTJiOEx4eDlzaDBmNXRxMmFNM1ltaUlYeWh3VFBoQVNfV3kwMnQ0OG5SUEJOMXNyRUk4R1FzZ051em9Hbjh1Z2N0MTB5UXRObjNrMElka2tsdEZvcDZKTDNaanUyZUVzWXNYNnNMdGd6MXJCeUhn?oc=5",
+   "why": "This signals a key African government voice entering the governance conversation, aligning with ILINA's priority of African countries shaping frontier AI development and deployment."
+  },
   "9722deee7a98": {
    "found": "2026-10-30",
    "id": "9722deee7a98",
@@ -8298,6 +8711,11 @@
   "98c069d5a971": {
    "found": "2026-10-31",
    "id": "98c069d5a971",
+   "status": "skip"
+  },
+  "98d6bcc77558": {
+   "found": "2026-11-04",
+   "id": "98d6bcc77558",
    "status": "skip"
   },
   "98f1e19188ca": {
@@ -8537,6 +8955,46 @@
    "id": "9cc7de698e4d",
    "status": "skip"
   },
+  "9d07a9c24ec5": {
+   "action": "Submit written input or position paper on infrastructure sharing terms and African governance representation",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Nigeria",
+    "Rwanda",
+    "Senegal",
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "people",
+   "headline": "FG proposes shared AI infrastructure with Rwanda, Senegal, Kenya",
+   "id": "9d07a9c24ec5",
+   "location": "Africa (regional)",
+   "organizers": [
+    "Federal Government (Nigeria)"
+   ],
+   "participation": "Monitor for official consultation calls, position papers, or stakeholder engagement invitations from the Federal Ministry of Communications, Innovation and Economy; no open call published yet.",
+   "published": "2026-10-22",
+   "snippet": "",
+   "source": "The Informant247 (via search)",
+   "status": "done",
+   "summary": "The Federal Government proposes shared AI infrastructure partnerships with Rwanda, Senegal, and Kenya, signalling a multilateral approach to compute and data sharing across West and East Africa.",
+   "thread": null,
+   "title": "FG proposes shared AI infrastructure with Rwanda, Senegal, Kenya",
+   "topics": [
+    "AI fund & capacity",
+    "public services",
+    "health / agriculture / education"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjc1VGU2cVMtQW11WkVhZ29RaHd2d3h6S3JrTThvS0JBdjFVMXpzdS1xNkk1RFM2LWlKemZtMlNVOWQ1NnB1aTdPdHA4V25qcTZYVDR2dDMxV2k4UXdyTkoydzdFWnRDLWtoN2ljc0M1d1ZBR2NleTIxVkxPdWN2N2x0NE1sVnhLWXR6WmxhVjdwNmkxRGc?oc=5",
+   "why": "Directly aligns with ILINA's position on the Design of the Global Fund for AI Capacity Development, particularly the cross-border funding stream for shared compute and regional datasets."
+  },
   "9d810661ef91": {
    "found": "2026-11-01",
    "id": "9d810661ef91",
@@ -8604,6 +9062,11 @@
    "id": "9eacafa71a21",
    "status": "skip"
   },
+  "9eb30ccdd8cd": {
+   "found": "2026-11-04",
+   "id": "9eb30ccdd8cd",
+   "status": "skip"
+  },
   "9ee376b41399": {
    "found": "2026-10-31",
    "id": "9ee376b41399",
@@ -8644,10 +9107,53 @@
    "id": "a062cc4e8e66",
    "status": "skip"
   },
+  "a06b9219e753": {
+   "found": "2026-11-04",
+   "id": "a06b9219e753",
+   "status": "skip"
+  },
   "a0c494248ef4": {
    "found": "2026-11-01",
    "id": "a0c494248ef4",
    "status": "skip"
+  },
+  "a0e52baf0be3": {
+   "action": "Submit written input or contribution to the continental study",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Africa"
+   ],
+   "deadline": "2027-01-03",
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "government",
+   "headline": "Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa",
+   "id": "a0e52baf0be3",
+   "location": "Online / Africa",
+   "organizers": [
+    "African Commission on Human and Peoples' Rights"
+   ],
+   "participation": "Stakeholders can submit inputs; eligibility and submission guidelines are detailed in the official call. Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOLW5heEtPRU5VODlzMjRYMlcxTndDSWRrVTRDWDdhclpxbFp0WDNJcnBETjM2dS1fZVAyX3NXVU9kQXp4VW9MVDFzcXZCdjMwUWFJOWxFVDVqOXZ0MExNNTJfT29IemhpbVpLTmhfZUlxUGs5QkphRzVFNWZJTVFOQ2QyeG0zZm53UU9ydzNYUnFOR2J2TEJudjlrODZPa1BqUjhEWHd6Q2Fjc3V5cE9YOFJTTUNOdnREY0xjb0NNR3F5TncxLVNVUXVn",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "African Commission on Human and Peoples' Rights (via search)",
+   "status": "done",
+   "summary": "The African Commission on Human and Peoples' Rights has issued a call for inputs to inform a draft continental study on digital violence against women in Africa, seeking contributions from stakeholders to shape the study's findings and recommendations.",
+   "thread": null,
+   "title": "Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "evaluations & monitoring"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLW5heEtPRU5VODlzMjRYMlcxTndDSWRrVTRDWDdhclpxbFp0WDNJcnBETjM2dS1fZVAyX3NXVU9kQXp4VW9MVDFzcXZCdjMwUWFJOWxFVDVqOXZ0MExNNTJfT29IemhpbVpLTmhfZUlxUGs5QkphRzVFNWZJTVFOQ2QyeG0zZm53UU9ydzNYUnFOR2J2TEJudjlrODZPa1BqUjhEWHd6Q2Fjc3V5cE9YOFJTTUNOdnREY0xjb0NNR3F5TncxLVNVUXVn?oc=5",
+   "why": "This is a direct African governance process open to stakeholder input, aligning with ILINA's priority of African participation in policy formulation and its position on context-dependent AI risk assessment and incident reporting in African contexts."
   },
   "a171b3436c11": {
    "action": "Submit written input or position paper to COMESA consultations",
@@ -8685,6 +9191,11 @@
    "type": "opportunity",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDl0T1p6bGRXVE9uSWlSbFk3ZVUwZ2tOUTJ0NmVNY1JuWC1iLVk2VkVIMVR0bWVGYXRGT1NGN05uZ29IU0NSWmItclg2b2lzN0d4TFFQdGxzRWRBejJ2cl9SalVkY2VQSUF6amhWWUtCa3NLWUZZZ01RVGdEMVh1b1JzenJlNFAxZ0FPTzAxWGxjQlk5RE5qY1lBU0g1NmhwWTJlYzdNOEgyU1lJdlVOTzVMdk5JNExtTFlkbkowWFc?oc=5",
    "why": "This is a high-priority opportunity for African government decision-makers and regional bodies to shape AI policy, directly aligning with ILINA's focus on AI policy formulation in Africa."
+  },
+  "a18a2660b2a3": {
+   "found": "2026-11-04",
+   "id": "a18a2660b2a3",
+   "status": "skip"
   },
   "a2e647ccc676": {
    "found": "2026-11-02",
@@ -8808,6 +9319,43 @@
    "type": "opportunity",
    "url": "https://www.linkedin.com/posts/global-center-on-ai-governance_call-for-expressions-of-interest-ai-beyond-activity-7522896631822749697-_jpe",
    "why": "Directly aligns with ILINA's priority on responsible AI integration in public services and African governance representation in policy shaping; offers a concrete participation channel for African civil society."
+  },
+  "a3545dc46bb0": {
+   "action": "Monitor for any follow-up policy consultations or calls for input from Ghana's government on digital strategy.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-03",
+   "event_start": "2026-11-03",
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Digital Sovereignty Means Capability, Not Isolation, Says Opoku-Agyemang",
+   "id": "a3545dc46bb0",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Ghana Digital Summit"
+   ],
+   "participation": "Speech delivered; no public participation call identified in the text.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "News Ghana (via search)",
+   "status": "done",
+   "summary": "The Vice President of Ghana, Prof. Jane Naana Opoku-Agyemang, delivered a speech on digital sovereignty at the 2026 Ghana Digital Summit, emphasizing that digital sovereignty means capability building rather than isolation and calling for a collective approach to Africa's digital future.",
+   "thread": null,
+   "title": "Digital Sovereignty Means Capability, Not Isolation, Says Opoku-Agyemang",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaV9DSXJ6Q0QxT1ZJR01Hd0RSMmlqZDhsdjdNZS1PV01HSUxOa1pIUm1mMFdmX2c5VzZLcGRLaVJEbXFxczlxcThtU1JuMUpoTWFoWnVYNXJxcUY2d0Z5NzRNSjZFRHFOd2w2ZFNzenlyd2pqMUJUS3RQOVZwQlQ5SWhHUjlUVDA1WmhCTENKekt5T1kzTzJnR1Z2Q3Q?oc=5",
+   "why": "The speech directly addresses digital sovereignty, a core theme aligned with ILINA's focus on African sovereignty and capacity building in AI governance and public services."
   },
   "a3879d1d3499": {
    "action": "Submit written input or position paper to the Kenyan legislative process",
@@ -8967,6 +9515,11 @@
   "a5bcccd7a15c": {
    "found": "2026-10-28",
    "id": "a5bcccd7a15c",
+   "status": "skip"
+  },
+  "a5bd7ba6d3ee": {
+   "found": "2026-11-04",
+   "id": "a5bd7ba6d3ee",
    "status": "skip"
   },
   "a613315ee6a5": {
@@ -9143,6 +9696,11 @@
   "a93f2c2321ae": {
    "found": "2026-10-28",
    "id": "a93f2c2321ae",
+   "status": "skip"
+  },
+  "a958e09a6eea": {
+   "found": "2026-11-04",
+   "id": "a958e09a6eea",
    "status": "skip"
   },
   "a98f074589f3": {
@@ -9570,6 +10128,44 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDdCVlRIMTZzVnRtVmlqUDEzU0RxMFRrcllFVUFxVk55LUFqeGNZZ1RvNGVWQlNaWUlYZ1ZyMnhVTU1nWml6ajRrd0xfOHdXa1V2YmFVUVgzcVFURjdZNXZGajlrcG0wWGt6NXBMSWp1endrM0xJNndGaklDeFdIbnMweHpwQ3Y5?oc=5",
    "why": "The consultation provides a concrete opportunity for ILINA to contribute governance expertise to an AI regulator design process, aligning with ILINA's priority of influencing AI policy formulation."
   },
+  "b00dc6bd1c04": {
+   "action": "Submit written input or comments to the Senate committee",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "United States"
+   ],
+   "deadline": "2026-11-25",
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "tracker",
+   "headline": "Senate Draft Bill Seeks Inputs on Healthcare AI Oversight",
+   "id": "b00dc6bd1c04",
+   "location": "Online / Senate jurisdiction",
+   "organizers": [
+    "Senate committee drafting the bill"
+   ],
+   "participation": "Open to public stakeholders; submit comments or inputs via the Senate's consultation portal (link typically provided in the bill notice). Eligible: civil society, industry, academia, and interested individuals.",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "ExecutiveGov (via search)",
+   "status": "done",
+   "summary": "A Senate draft bill on healthcare AI oversight is seeking public inputs and comments, opening a formal consultation process.",
+   "thread": null,
+   "title": "Senate Draft Bill Seeks Inputs on Healthcare AI Oversight",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VCd3NyV01jODBTMS1ET3FIRFk0TVk5cFl0XzE5TmpQQnhRVUZ0dW9GY1c2cG9LZXVPMl92WVhySTlDYVdXZ3hIcm1RQ0stYkpzSjd6LVNvVE9EaUh6Wll0amNnVzBlVTN3YXJobk9Odnk0ZDUyZE9nS21CY3dnOHhodU45LUNwUG5TSVpqc3h3Mllz?oc=5",
+   "why": "This is a concrete call for input on AI governance in a key sector (healthcare), directly aligning with ILINA's priority of responsible AI integration in public services and health."
+  },
   "b0abe1dcb554": {
    "found": "2026-10-30",
    "id": "b0abe1dcb554",
@@ -9778,6 +10374,43 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3poWlViZlpXZHJxRm5OLVM0OFhtZndsMnFrdjZ4ZnlZWXoyTG9idWM2R3lrYVBqZG1VN0lJSWlzSkJVMEQ5OHo1UmVrZkRWV1hkNVJMZ0dKUWRNSjVESWJTSjNWZVRGT2Q4ZVNBSzJDSXQxckthUVhwQ1lOenRsVThzT3hXcmxsYnZIUk5B?oc=5",
    "why": "This directly aligns with ILINA's position on designing the Global Fund for AI Capacity Development, particularly the call for a cross-border funding stream for shared compute and regional datasets."
   },
+  "b607b7b2ea47": {
+   "action": "Cite in policy memo on AI and cultural sovereignty",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Africa must build AI systems that preserve its languages, culture",
+   "id": "b607b7b2ea47",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Samuel George, Minister of Communications, Ghana"
+   ],
+   "participation": "N/A - Ministerial statement",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "CitiNewsroom.com (via search)",
+   "status": "done",
+   "summary": "Ghana's Minister of Communications, Samuel George, argues that African nations must develop AI systems that preserve local languages and culture, warning against the erosion of linguistic diversity by foreign AI models.",
+   "thread": null,
+   "title": "Africa must build AI systems that preserve its languages, culture – Sam George",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDlMMHZjWWRUZ1htSU9kRk1BOXI2UzRWREVkXzhOX1hCTUdEZzltX1JjclBLdy1mLU9BajlOcTlDdDhacm9UeUQzaVdKU1JnM0draENwSHViWFQ5QUVUWVgwaFZvRGRyUHFUZ1l5TF9veTlfU0w0N1pfM1FRY1ozTm5MV2xsZHRFR1pmUkIzZGFHaDl6S2Q5RFVNUXdyclpHQVBYRmRHSnVEaDlDMFNKRFFnUQ?oc=5",
+   "why": "This aligns with ILINA's position on AI improving outcomes in agriculture, healthcare and education on terms that protect African sovereignty and build domestic technical capacity."
+  },
   "b674f293adde": {
    "found": "2026-10-28",
    "id": "b674f293adde",
@@ -9868,6 +10501,11 @@
    "id": "b831f46f9415",
    "status": "skip"
   },
+  "b87cd7f08e4a": {
+   "found": "2026-11-04",
+   "id": "b87cd7f08e4a",
+   "status": "skip"
+  },
   "b8afd89523b8": {
    "found": "2026-11-02",
    "id": "b8afd89523b8",
@@ -9896,6 +10534,11 @@
   "b970a67578bd": {
    "found": "2026-11-02",
    "id": "b970a67578bd",
+   "status": "skip"
+  },
+  "b98362a13ff3": {
+   "found": "2026-11-04",
+   "id": "b98362a13ff3",
    "status": "skip"
   },
   "b9b1b09eceed": {
@@ -9952,6 +10595,11 @@
   "bb69341cb5ab": {
    "found": "2026-10-28",
    "id": "bb69341cb5ab",
+   "status": "skip"
+  },
+  "bc3c6d384fe7": {
+   "found": "2026-11-04",
+   "id": "bc3c6d384fe7",
    "status": "skip"
   },
   "bc3e384e20fc": {
@@ -10170,6 +10818,11 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmtGSVloOFYtT3M5cDFvVDU5dGxkM3psTmt0TUtUNUdKWHlMTFY4WFF0SV9oRkMxSmo0TVU5Xzg4OWJ0Tk1LVW03QWdPcEdMS0IyN09RdWFNZTV1YV9iUUxhNUEzMllELWJjdHpKaUhqcmxMOGt5eGZnakdmLTZnag?oc=5",
    "why": "Provides insight into Kenya's emerging AI regulatory framework, which is directly relevant to ILINA's work on African AI policy formulation and responsible integration in public services."
   },
+  "bd813c48390f": {
+   "found": "2026-11-04",
+   "id": "bd813c48390f",
+   "status": "skip"
+  },
   "bda0e6960d6d": {
    "found": "2026-11-02",
    "id": "bda0e6960d6d",
@@ -10245,6 +10898,11 @@
   "beee2c890843": {
    "found": "2026-10-31",
    "id": "beee2c890843",
+   "status": "skip"
+  },
+  "bef3361e648e": {
+   "found": "2026-11-04",
+   "id": "bef3361e648e",
    "status": "skip"
   },
   "bf1c1fc741a7": {
@@ -10584,6 +11242,44 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUE1ZDlFZlFFY0hXMkhORVNfNVQ4WEFzZWw4T1pRaVdYVGNYcm9VcjA4Y19zY1FmTTlkUXo4US1vaVNHckRVYmZCbmNWSHlROHBONkswQ0lBTzlqNzhIYUx2bnM4d2F3cEJPMldjNm55VV9TWWduMVJwUk8zTm8ybjVkUWNCRjUzSGtWVA?oc=5",
    "why": "This withdrawal removes a key opportunity for African stakeholder input into a national AI governance framework and may delay the policy process, affecting ILINA's engagement on AI policy formulation in the region."
   },
+  "c484f185a3d0": {
+   "action": "Monitor forum outcomes and position papers for policy relevance",
+   "african_input": true,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Ghana",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-05",
+   "event_start": "2026-11-03",
+   "fit": 3,
+   "found": "2026-11-04",
+   "group": "multilateral",
+   "headline": "Africa Internet Forum Opens With Call to Deliver Digital Plans",
+   "id": "c484f185a3d0",
+   "location": "Accra, Ghana",
+   "organizers": [
+    "Africa Internet Governance Forum"
+   ],
+   "participation": "Open to stakeholders; check forum agenda for registration details",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "News Ghana (via search)",
+   "status": "done",
+   "summary": "The Africa Internet Forum opened with a call for African nations to accelerate the delivery of digital plans, focusing on infrastructure, inclusion, and policy implementation across the continent.",
+   "thread": null,
+   "title": "Africa Internet Forum Opens With Call to Deliver Digital Plans",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmN0THphMWh1UG9aZHdJcUJZMkZDZDVZN1R1R0U2WEZjT2N3X3BvNVZOUDREeHVfVjNnd2NOVHl0eUh2WWhWeFhNVzY1ODBvWHpxVnRvLTZUeEZwWG1WeFpMa0U1LU51ckJVRjlHX0tWQ3hqcFQ0bFo5YTQ5d2V2djBDUWhvQXcxaEZsbzRHeGhBUQ?oc=5",
+   "why": "The forum convenes African decision-makers and stakeholders, offering a platform for governance discussions that align with ILINA's interest in events convening African government decision makers and multilateral bodies."
+  },
   "c48f8041d49e": {
    "found": "2026-10-28",
    "id": "c48f8041d49e",
@@ -10607,6 +11303,11 @@
   "c559fd5f9be8": {
    "found": "2026-10-28",
    "id": "c559fd5f9be8",
+   "status": "skip"
+  },
+  "c56e4d74064c": {
+   "found": "2026-11-04",
+   "id": "c56e4d74064c",
    "status": "skip"
   },
   "c593cb89ebed": {
@@ -10693,6 +11394,11 @@
    "type": "event",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjBvdHBIX2loTjJUanlIUV9MeVVyYjUwa3lOV01fQmZiX050Y3BUX1hwRFZHbmZISk1JdzJ3SmxRUW1iS24zZ04yS0NKc1lQd1hWV1ZzMmZPWXRWa1UxSHNmYVNvRjI5TW5hWFZXZWd5VEU0bTdLV1ZXaVhPUGJRN3RMeXFLSTZNVldSd3VYb0dJZlB0d3dqOG1fNA?oc=5",
    "why": "This signals African regional representation in a UN AI governance forum, relevant to ILINA's interest in African voice in global AI policy."
+  },
+  "c6dce57c55a4": {
+   "found": "2026-11-04",
+   "id": "c6dce57c55a4",
+   "status": "skip"
   },
   "c6e948a7bc91": {
    "found": "2026-10-30",
@@ -11178,6 +11884,11 @@
    "id": "cf2b009741ab",
    "status": "skip"
   },
+  "cf8845d54378": {
+   "found": "2026-11-04",
+   "id": "cf8845d54378",
+   "status": "skip"
+  },
   "cfd6f27a56ed": {
    "found": "2026-10-28",
    "id": "cfd6f27a56ed",
@@ -11515,6 +12226,16 @@
   "d6f2036fe944": {
    "found": "2026-10-28",
    "id": "d6f2036fe944",
+   "status": "skip"
+  },
+  "d6fc17503cc3": {
+   "found": "2026-11-04",
+   "id": "d6fc17503cc3",
+   "status": "skip"
+  },
+  "d702b4ce7a05": {
+   "found": "2026-11-04",
+   "id": "d702b4ce7a05",
    "status": "skip"
   },
   "d74e1c19f10d": {
@@ -12574,6 +13295,11 @@
    "id": "e7ab626617ec",
    "status": "skip"
   },
+  "e7bdd883d0a4": {
+   "found": "2026-11-04",
+   "id": "e7bdd883d0a4",
+   "status": "skip"
+  },
   "e7e346774fa4": {
    "found": "2026-11-02",
    "id": "e7e346774fa4",
@@ -12672,6 +13398,11 @@
    "type": "event",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeTNLVmtTQ2JZYlNBdW1ySWNCMVBKWS1IY2VVa3oyLVVLajJ1QXRUb3V0SWtZUHE4eTVVU2hfbGEwYmZOVWFIYXpKNEhkdkphSVdVbFJDcG5HQVpYTHlDQmpPbUlxdUdGV0dTZk9xbllDNkxsaE1iZG5FZ3FRS0U?oc=5",
    "why": "Relevant to ILINA's position on responsible AI integration in public services and context-dependent risk assessment in African contexts."
+  },
+  "e8dc8333b405": {
+   "found": "2026-11-04",
+   "id": "e8dc8333b405",
+   "status": "skip"
   },
   "e93793d057dc": {
    "found": "2026-10-28",
@@ -12974,6 +13705,11 @@
    "id": "ee09d22582a3",
    "status": "skip"
   },
+  "ee78191e39d7": {
+   "found": "2026-11-04",
+   "id": "ee78191e39d7",
+   "status": "skip"
+  },
   "ee8cadd90370": {
    "action": "Monitor for speaker calls, side-event proposals, and coalition-forming opportunities; prepare governance contributions.",
    "african_input": false,
@@ -13034,6 +13770,11 @@
   "efbebaf27744": {
    "found": "2026-10-28",
    "id": "efbebaf27744",
+   "status": "skip"
+  },
+  "efc8ef3472a7": {
+   "found": "2026-11-04",
+   "id": "efc8ef3472a7",
    "status": "skip"
   },
   "f0560800749e": {
@@ -13704,6 +14445,16 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTJHSHJZNUYwYjIzbW5LUHNZRExkeVIwUDFvNGkwbEd3cWhRRERSd0ZtM2VIY3JDWURfeTJhWm1Va3UxeW9aY3Z1eDA4WmdHZF9VVDlIUmNnaE1xSlBhaHBjTlk1U1c2eXFESjdjYkctbjdhZkwzZGwxLU1SWmJyUnZqbFBtUlptWFlrWWh3OGNNUzBvZ2MwX0FmbkQwS0FJR3hZVmt4SmE2cUI4VkVGbV83N2xWVEND?oc=5",
    "why": "ILINA's priority is African countries shaping frontier AI policy; this ministerial role directly influences AU ICT governance and could impact AI policy coordination across the continent."
   },
+  "fbc0bf780c38": {
+   "found": "2026-11-04",
+   "id": "fbc0bf780c38",
+   "status": "skip"
+  },
+  "fc21ec565453": {
+   "found": "2026-11-04",
+   "id": "fc21ec565453",
+   "status": "skip"
+  },
   "fc5dc484103f": {
    "found": "2026-10-28",
    "id": "fc5dc484103f",
@@ -13724,6 +14475,11 @@
    "id": "fcadaa446596",
    "status": "skip"
   },
+  "fcebeda57561": {
+   "found": "2026-11-04",
+   "id": "fcebeda57561",
+   "status": "skip"
+  },
   "fd305a3267db": {
    "found": "2026-10-28",
    "id": "fd305a3267db",
@@ -13737,6 +14493,11 @@
   "fdad395a5284": {
    "found": "2026-10-28",
    "id": "fdad395a5284",
+   "status": "skip"
+  },
+  "fe4f4831bbc2": {
+   "found": "2026-11-04",
+   "id": "fe4f4831bbc2",
    "status": "skip"
   },
   "fe51564d27ce": {
@@ -14106,25 +14867,25 @@
   },
   "https://www.techpolicy.press/": {
    "links": [
-    "https://www.techpolicy.press/brazil-shows-platform-illiberalism-is-big-techs-new-normal",
-    "https://www.techpolicy.press/electrocutions-intimidation-and-wage-theft-haunt-europes-data-center-workers",
+    "https://www.techpolicy.press/anthropic-needs-to-disclose-its-tokenomics-before-its-ipo",
+    "https://www.techpolicy.press/dont-let-misaligned-and-rogue-agents-obscure-corporate-accountability-in-openai-hugging-face-probes",
     "https://www.techpolicy.press/europe-and-canada-plot-a-digital-alliance-as-us-ties-fray",
+    "https://www.techpolicy.press/good-news-and-bad-news-about-agi-and-climate-change",
     "https://www.techpolicy.press/how-ai-companies-want-to-be-governed-and-what-that-means-for-ai-governance",
     "https://www.techpolicy.press/how-the-eu-ai-office-can-see-the-choices-behind-frontier-labs-safety-claims",
-    "https://www.techpolicy.press/mapping-the-political-influencer-industry-and-the-problems-it-causes-for-democracy",
     "https://www.techpolicy.press/meta-streamlines-state-censorship-in-india-with-automated-takedowns",
     "https://www.techpolicy.press/october-2026-us-tech-policy-roundup",
+    "https://www.techpolicy.press/protect-elections-by-punishing-deception-narrowly-not-by-banning-technology",
+    "https://www.techpolicy.press/starlink-reliance-and-the-public-battle-for-indias-orbit",
+    "https://www.techpolicy.press/the-incident-report-is-becoming-a-building-block-of-ai-governance",
     "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-    "https://www.techpolicy.press/the-solution-to-ais-alignment-problem-is-precise-guardrails-on-how-we-use-it",
     "https://www.techpolicy.press/there-is-no-universal-election-integrity-playbook-for-platforms",
-    "https://www.techpolicy.press/what-latino-voters-can-teach-washington-about-ai-governance",
-    "https://www.techpolicy.press/what-training-dataset-transparency-mandates-hide",
+    "https://www.techpolicy.press/what-teenagers-ai-use-reveals-about-the-eu-kids-act",
     "https://www.techpolicy.press/whats-really-behind-the-science-slowdown-the-white-house-wants-to-fix",
     "https://www.techpolicy.press/when-how-and-why-to-abandon-the-internet",
-    "https://www.techpolicy.press/why-parental-consent-policies-for-social-media-do-not-help-families",
-    "https://www.techpolicy.press/will-prediction-markets-affect-democracy-take-a-bet"
+    "https://www.techpolicy.press/why-parental-consent-policies-for-social-media-do-not-help-families"
    ],
-   "text": "Analysis\nHow AI Companies Want to Be Governed, and What That Means for AI Governance\nHow do leading AI companies envision public governance? The recent pronouncements of Anthropic, Google, Meta, Microsoft, and OpenAI may provide an answer.\nNovember 2, 2026\nFeatured\nPerspective\nThere is No Universal Election Integrity Playbook for Platforms\nNovember 2, 2026\nAnalysis\nMeta Streamlines State Censorship in India with Automated Takedowns\nNovember 2, 2026\nPerspective\nHow the EU AI Office Can See the Choices Behind Frontier Labs’ Safety Claims\nNovember 2, 2026\nFeatured\nPerspective\nThere is No Universal Election Integrity Playbook for Platforms\nNovember 2, 2026\nAnalysis\nMeta Streamlines State Censorship in India with Automated Takedowns\nNovember 2, 2026\nPerspective\nHow the EU AI Office Can See the Choices Behind Frontier Labs’ Safety Claims\nNovember 2, 2026\nLatest\nView more\nPerspective\nThe SEC Should Block Anthropic’s IPO to Protect the Public\nNovember 2, 2026\nAnalysis\nOctober 2026 US Tech Policy Roundup\nNovember 2, 2026\nAnalysis\nEurope and Canada Plot a Digital Alliance as US Ties Fray\nNovember 2, 2026\nPerspective\nWhat’s Really Behind the Science Slowdown the White House Wants to Fix?\nNovember 2, 2026\nPerspective\nWhy Parental Consent Policies for Social Media Do Not Help Families\nNovember 2, 2026\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nPodcast\nView more\nRecent\nView more\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nPerspective\nMapping the Political Influencer Industry and the Problems it Causes for Democracy\nOctober 30, 2026\nNews\nElectrocutions, Intimidation and Wage Theft Haunt Europe’s Data Center Workers\nOctober 30, 2026\nPerspective\nWhat Latino Voters Can Teach Washington About AI Governance\nOctober 29, 2026\nPerspective\nWhat Training Dataset Transparency Mandates Hide\nOctober 29, 2026\nPerspective\nBrazil Shows Platform Illiberalism is Big Tech’s New Normal\nOctober 28, 2026\nPerspective\nThe Solution to AI’s Alignment Problem is Precise Guardrails on How We Use It\nOctober 28, 2026\nPerspective\nWill Prediction Markets Affect Democracy? Take a Bet\nOctober 28, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Perspective\nStarlink, Reliance, and the Public Battle for India’s Orbit\nThe Musk-Ambani controversy captures a key question confronting technology governance in the Global South, writes Amber Sinha.\nNovember 3, 2026\nFeatured\nPerspective\nAnthropic Needs to Disclose Its Tokenomics Before Its IPO\nNovember 3, 2026\nPerspective\nDon’t Let ‘Misaligned’ and ‘Rogue’ Agents Obscure Corporate Accountability in OpenAI–Hugging Face Probes\nNovember 3, 2026\nPerspective\nProtect Elections by Punishing Deception Narrowly, Not by Banning Technology\nNovember 3, 2026\nFeatured\nPerspective\nAnthropic Needs to Disclose Its Tokenomics Before Its IPO\nNovember 3, 2026\nPerspective\nDon’t Let ‘Misaligned’ and ‘Rogue’ Agents Obscure Corporate Accountability in OpenAI–Hugging Face Probes\nNovember 3, 2026\nPerspective\nProtect Elections by Punishing Deception Narrowly, Not by Banning Technology\nNovember 3, 2026\nLatest\nView more\nAnalysis\nWhat Teenagers' AI Use Reveals About the EU Kids Act\nNovember 4, 2026\nPerspective\nGood News and Bad News About AGI and Climate Change\nNovember 4, 2026\nPerspective\nThe Incident Report Is Becoming a Building Block of AI Governance\nNovember 3, 2026\nPerspective\nThe SEC Should Block Anthropic’s IPO to Protect the Public\nNovember 2, 2026\nAnalysis\nOctober 2026 US Tech Policy Roundup\nNovember 2, 2026\nAnalysis\nHow AI Companies Want to Be Governed, and What That Means for AI Governance\nNovember 2, 2026\nPodcast\nView more\nRecent\nView more\nAnalysis\nHow AI Companies Want to Be Governed, and What That Means for AI Governance\nNovember 2, 2026\nAnalysis\nEurope and Canada Plot a Digital Alliance as US Ties Fray\nNovember 2, 2026\nPerspective\nWhat’s Really Behind the Science Slowdown the White House Wants to Fix?\nNovember 2, 2026\nPerspective\nWhy Parental Consent Policies for Social Media Do Not Help Families\nNovember 2, 2026\nAnalysis\nMeta Streamlines State Censorship in India with Automated Takedowns\nNovember 2, 2026\nPerspective\nThere is No Universal Election Integrity Playbook for Platforms\nNovember 2, 2026\nPerspective\nHow the EU AI Office Can See the Choices Behind Frontier Labs’ Safety Claims\nNovember 2, 2026\nPodcast\nWhen, How, and Why to Abandon the Internet\nNovember 1, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
@@ -14182,6 +14943,7 @@
     "https://www.unesco.org/en/ethics-neurotech",
     "https://www.unesco.org/en/ethics/expected-conduct-prevent-harassment",
     "https://www.unesco.org/en/green-digital-transformation",
+    "https://www.unesco.org/en/green-digital-transformation/cop31",
     "https://www.unesco.org/en/internet-universality-indicators",
     "https://www.unesco.org/en/ios/report-wrongdoing",
     "https://www.unesco.org/en/legal-affairs/cr-committee/104-procedure",
@@ -14192,7 +14954,7 @@
     "https://www.unesco.org/ethics-ai/en/ram",
     "https://www.unesco.org/ethics-ai/en/ram?hub=195885"
    ],
-   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nResources\nSince its founding at the dawn of the atomic age, UNESCO has helped societies navigate and manage the transformative power of technology – to the benefit of all.\nToday, in an era shaped by Artificial Intelligence (AI) and related breakthrough innovations, UNESCO continues the critical work of ensuring these emerging technologies are developed and deployed in service of equity, opportunity, and inclusivity.\nVideo series: 7 minutes to understand AI\n© shutterstock.com / 3rdtimeluckystudio\nOur impact\nHow UNESCO is shaping an ethical digital future.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nPolicy Development: Readiness Assessment Methodology (RAMs)\nUNESCO helps Member States evaluate their readiness for the AI transformation through its Readiness Assessment Methodology (RAM) program, which helps policymakers identify their policy gaps and develop their national policies and strategies toward the development and deployment of these transformative technologies.\nAs of October 2025, over 75 countries from five continents have initiated or completed to RAM assessments, and policymakers worldwide are further able to draw on the Technology Policy Assistance Facility, developed in cooperation with the South African G20 Presidency.\nReadiness Assessment Methodology\nTechnology Policy Assistance Facility\n© SeventyFour / Shutterstock.com\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nUNESCO and Google partner to empower Brazilian content creators\n2 November 2026\nNews\nGlobal Network on AI Supervision led by UNESCO pushes for practical cooperation\n2 November 2026\nNews\nUNESCO AI Ethics Action Cohorts advance practical AI governance\n2 November 2026\nNews\nThe Supreme Court of Chile and UNESCO strengthen dialogue on artificial intelligence\n30 October 2026\nLoad more"
+   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nSustainable AI and Climate Action at COP31\nResources\nSince its founding at the dawn of the atomic age, UNESCO has helped societies navigate and manage the transformative power of technology – to the benefit of all.\nToday, in an era shaped by Artificial Intelligence (AI) and related breakthrough innovations, UNESCO continues the critical work of ensuring these emerging technologies are developed and deployed in service of equity, opportunity, and inclusivity.\nVideo series: 7 minutes to understand AI\n© shutterstock.com / 3rdtimeluckystudio\nOur impact\nHow UNESCO is shaping an ethical digital future.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nPolicy Development: Readiness Assessment Methodology (RAMs)\nUNESCO helps Member States evaluate their readiness for the AI transformation through its Readiness Assessment Methodology (RAM) program, which helps policymakers identify their policy gaps and develop their national policies and strategies toward the development and deployment of these transformative technologies.\nAs of October 2025, over 75 countries from five continents have initiated or completed to RAM assessments, and policymakers worldwide are further able to draw on the Technology Policy Assistance Facility, developed in cooperation with the South African G20 Presidency.\nReadiness Assessment Methodology\nTechnology Policy Assistance Facility\n© SeventyFour / Shutterstock.com\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nUNESCO and Google partner to empower Brazilian content creators\n2 November 2026\nNews\nGlobal Network on AI Supervision led by UNESCO pushes for practical cooperation\n2 November 2026\nNews\nUNESCO AI Ethics Action Cohorts advance practical AI governance\n2 November 2026\nNews\nThe Supreme Court of Chile and UNESCO strengthen dialogue on artificial intelligence\n30 October 2026\nLoad more"
   }
  },
  "threads": {
