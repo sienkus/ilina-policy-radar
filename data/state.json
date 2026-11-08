@@ -890,6 +890,11 @@
    "id": "0ecc4be5af4b",
    "status": "skip"
   },
+  "0ee67a769e1d": {
+   "found": "2026-11-08",
+   "id": "0ee67a769e1d",
+   "status": "skip"
+  },
   "0ef046695ded": {
    "found": "2026-11-05",
    "id": "0ef046695ded",
@@ -1526,6 +1531,42 @@
    "id": "1b277c8d69ee",
    "status": "skip"
   },
+  "1b390f12dbe2": {
+   "action": "Cite in policy memo or social media post celebrating African AI leadership",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "people",
+   "headline": "Okolo named among TIME100 AI's most influential people",
+   "id": "1b390f12dbe2",
+   "location": "Online",
+   "organizers": [
+    "TIME"
+   ],
+   "participation": "View the TIME100 AI list",
+   "published": "2026-11-06",
+   "snippet": "",
+   "source": "TheNewsGuru (via search)",
+   "status": "done",
+   "summary": "Young female Nigerian computer scientist Okolo has been named among TIME100 AI's most influential people, highlighting her impact on the AI landscape.",
+   "thread": null,
+   "title": "Young female Nigerian computer scientist, Okolo named among TIME100 AI’s most influential people",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGQ2Ti1kTHV4bnNhSUg2T2szNERyNXRXd24wYWtlTHZkbkJocWxxdjFlS21QUmZzcWR2YlIxbG0tYUtBdW12R1JqN1JobGl3R0I3M25HT0dXc1c0UW4yQ09VV2RlWmFqVzYyLTZYY3pDcjdfVUxxUlFsVjVYYVhqTXVib3FCb0pqSVN6Uml3RWtiRHU2NDFTeWlVMVRocUYzVzdfcUJjaUxZcm45ZjdN?oc=5",
+   "why": "Her recognition signals growing visibility of African AI talent, which aligns with ILINA's goal of African countries shaping frontier AI development."
+  },
   "1b45b50955e3": {
    "found": "2026-10-28",
    "id": "1b45b50955e3",
@@ -1873,6 +1914,45 @@
    "id": "210b0d77b383",
    "status": "skip"
   },
+  "2123554a2a8b": {
+   "action": "Monitor the meeting outcomes and position papers for opportunities to contribute African perspectives on AI governance.",
+   "african_input": false,
+   "allies": [
+    "ITU"
+   ],
+   "contacts": [],
+   "countries": [
+    "Switzerland (host) and ITU member states"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-14",
+   "event_start": "2026-11-10",
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "multilateral",
+   "headline": "ITU meeting: quadrennial stress test on internet governance",
+   "id": "2123554a2a8b",
+   "location": "Geneva, Switzerland",
+   "organizers": [
+    "International Telecommunication Union (ITU)"
+   ],
+   "participation": "Open to ITU member states and accredited stakeholders; check ITU website for registration and submission details.",
+   "published": "2026-11-08",
+   "snippet": "",
+   "source": "The Register (via search)",
+   "status": "done",
+   "summary": "The International Telecommunication Union (ITU) is holding its quadrennial meeting to stress-test internet governance frameworks, bringing together member states and stakeholders to review global internet architecture and policies.",
+   "thread": null,
+   "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTg2dVBWVlB5Rk4tSjJpRkVzMUtxTm1RVV93dFdsZHc1ajB1dHNLOFlOdVpWYlREQzViUGtkSWw1cVVOR1R6SzRsbi1rSHp1Nm5BaXhaSnpxWHVnMlVCSVROZ056ZHF6N1RRRE9UQmQzTmFQcTFtWC1UNGltNTdteHAxbXBYWHlJdjdRWHg1ejhJX2h0MmNpV29PSG1lN3Fwc2FTNWZkRGs4a3N6Tm1wdHUxOVg0eDBqM0V4THJZeUp2XzFXbGNEWkVGcw?oc=5",
+   "why": "This ITU meeting is a key UN AI governance process that could shape Africa's position in global internet and AI governance, aligning with ILINA's interest in UN processes and African representation."
+  },
   "21a749f2ba1f": {
    "action": "Monitor for consultation calls, position papers or written submission opportunities arising from the partnership framework",
    "african_input": false,
@@ -2050,6 +2130,11 @@
   "23867b0cecf7": {
    "found": "2026-10-28",
    "id": "23867b0cecf7",
+   "status": "skip"
+  },
+  "23b7c8a21977": {
+   "found": "2026-11-08",
+   "id": "23b7c8a21977",
    "status": "skip"
   },
   "23e1466b743a": {
@@ -2275,6 +2360,11 @@
    "id": "27b9b286312b",
    "status": "skip"
   },
+  "2830ae997839": {
+   "found": "2026-11-08",
+   "id": "2830ae997839",
+   "status": "skip"
+  },
   "288bda54859b": {
    "found": "2026-11-07",
    "id": "288bda54859b",
@@ -2321,6 +2411,11 @@
   "28d8f90f333b": {
    "found": "2026-11-05",
    "id": "28d8f90f333b",
+   "status": "skip"
+  },
+  "28eaca9a8d88": {
+   "found": "2026-11-08",
+   "id": "28eaca9a8d88",
    "status": "skip"
   },
   "2910679427c2": {
@@ -2924,6 +3019,11 @@
    "id": "30b438753fe4",
    "status": "skip"
   },
+  "30bfc1e169f0": {
+   "found": "2026-11-08",
+   "id": "30bfc1e169f0",
+   "status": "skip"
+  },
   "31052a355edb": {
    "found": "2026-10-30",
    "id": "31052a355edb",
@@ -3003,6 +3103,11 @@
    "type": "news",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzE4Y0FKNFA0Z21BN1VQcGdxVE5HVzhFalZWamMyTi1JSTFXbUFJQmhnSkpFVkpKYkdKNHF3dnllU1NscGxtM29rZWJKU1E3R3g3YlpwQmNiSENabG9fMDVGbEg5UWU3RGsxMlM2cjlIOFNOM1dPNWxjdlZ0ZWFyWFdHN2dyMXRGZzJkZkVQeGNzMHFvN0VmYVg1dG9WeUMtZEVhUndob21EUVJGRW9fWGIzMTZQUXVXTGVSNWhZeVlXc0pCbDFjMQ?oc=5",
    "why": "This finding directly relates to ILINA's position on responsible AI integration in public services including land registries, ID systems, and administrative processing, highlighting the need for capacity building and policy support."
+  },
+  "33340a2004e8": {
+   "found": "2026-11-08",
+   "id": "33340a2004e8",
+   "status": "skip"
   },
   "3335296eda17": {
    "found": "2026-10-28",
@@ -5310,6 +5415,16 @@
    "id": "565b939221d7",
    "status": "skip"
   },
+  "5666fcb26ba8": {
+   "found": "2026-11-08",
+   "id": "5666fcb26ba8",
+   "status": "skip"
+  },
+  "5684d178c520": {
+   "found": "2026-11-08",
+   "id": "5684d178c520",
+   "status": "skip"
+  },
   "5696ec2c971c": {
    "found": "2026-10-31",
    "id": "5696ec2c971c",
@@ -6043,6 +6158,11 @@
    "id": "62ead1a91927",
    "status": "skip"
   },
+  "62f88580237d": {
+   "found": "2026-11-08",
+   "id": "62f88580237d",
+   "status": "skip"
+  },
   "6321aee0e432": {
    "found": "2026-10-28",
    "id": "6321aee0e432",
@@ -6602,6 +6722,11 @@
    "id": "6ee0672e4461",
    "status": "skip"
   },
+  "6efc7bf9814e": {
+   "found": "2026-11-08",
+   "id": "6efc7bf9814e",
+   "status": "skip"
+  },
   "6f3074c8e3b5": {
    "found": "2026-11-02",
    "id": "6f3074c8e3b5",
@@ -6729,6 +6854,43 @@
    "found": "2026-10-28",
    "id": "71502aeedba0",
    "status": "skip"
+  },
+  "71a389027023": {
+   "action": "Monitor for written submission calls or stakeholder consultation opportunities arising from this UNESCO process",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "news",
+   "headline": "UNESCO Global cooperation for ethical AI governance",
+   "id": "71a389027023",
+   "location": "Online",
+   "organizers": [
+    "UNESCO"
+   ],
+   "participation": "Open to stakeholders interested in ethical AI governance frameworks; check UNESCO website for consultation calls or submission opportunities",
+   "published": "2026-11-03",
+   "snippet": "",
+   "source": "UNESCO (via search)",
+   "status": "done",
+   "summary": "UNESCO convened a global cooperation event on ethical AI governance, reinforcing international frameworks and standards for responsible AI development and deployment.",
+   "thread": null,
+   "title": "Global cooperation for ethical AI governance reinforced at UNESCO’s",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHVwYnRUSlV5cmppMjRjSkJxREFzWkE3QjBwUmhOdlNwNWZXbVQ0Y3MxcHNjcFRzSnVseXpHMTVnX2hzMVlqWHI3RXlGa0hWaEVCT2JxLU9WOGlUeVR2VzJqUWtrX2RDNGtHRDlDR2I5bUMtSy1lWldOYmxoLTVTU3Nma2VkQ19CeFRPVjA4NF80c0xrS1I1V0x5el9vX2l0VGp1by1VNDNRWURveGdUTFZZUC1QcEVIQVhUZDhLVGRVbWM3WmJKTi00MldGZzg?oc=5",
+   "why": "Relevant to ILINA's interest in global AI governance processes and multilateral frameworks that shape AI policy, particularly those involving African representation and governance."
   },
   "71d704b4e29c": {
    "found": "2026-10-30",
@@ -7125,6 +7287,45 @@
    "found": "2026-10-28",
    "id": "7725a5304ac9",
    "status": "skip"
+  },
+  "77287d02bfb7": {
+   "action": "Cite in policy memo or submission",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Nigeria",
+    "Global South"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "people",
+   "headline": "Chinasa Okolo receives 2025 L'Oréal-UNESCO Award",
+   "id": "77287d02bfb7",
+   "location": "Online / unspecified",
+   "organizers": [
+    "L'Oréal-UNESCO",
+    "Academy of Scientific Research and Technology (Algeria)"
+   ],
+   "participation": "open recognition; no application needed",
+   "published": "2026-11-08",
+   "snippet": "",
+   "source": "QED.NG (via search)",
+   "status": "done",
+   "summary": "Nigerian-American computer scientist Chinasa Okolo has been named a recipient of the 2025 L'Oréal-UNESCO Award for Women in Science, recognising her research on AI governance and its impact on the Global South.",
+   "thread": null,
+   "title": "Nigerian-American computer scientist Chinasa Okolo",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWEpCTU9EM3psZkF4TXppeTdybmJQa2VPbmU5Wk9QV09aejc1TFZKckJhZjU3XzJLY1R2dTQzbjNYblJES19CSTV1WkszaDFTSkQyUS1hTk5Majg0THh5b2FZdUJlaWtobHpfazRaN2t3WkUxMkNPSDdTUndKUl9lU2NaeFNORkhYS29SVXNTRnpOY2RlR1IyZnBqeHEyZUFmOEh5REZlTEZfdmFDMGtlMjg4RjA1SVhDdHBrUzlmaDZ6akFOWmhhR0d6RnlSSS1yQUVKd2xOaUMwTmNMZGMzZlJSV3d4UHZxcEFsOHFDQ3doeXpB?oc=5",
+   "why": "ILINA prioritises African governance representation in global AI processes; Okolo's work directly engages AI safety and policy from an African perspective."
   },
   "7744e968549d": {
    "found": "2026-10-28",
@@ -7535,6 +7736,11 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1WnhERGtKMk9OOGpnSVk3LUlUcnBSWVhXZFl3bVp1dEYyRHp2M3ZjN1dCWTdhX3VveV9TQmN1anZDQ2lTNDJFMGlobW9fU0huQ05USjRYblJBcGJ6WE4zVXlqUll5VzBPcWJMUUdOaw?oc=5",
    "why": "This is a concrete policy development from an African government that ILINA can engage with to shape AI governance on the continent."
   },
+  "7b0c683c41f9": {
+   "found": "2026-11-08",
+   "id": "7b0c683c41f9",
+   "status": "skip"
+  },
   "7b1daf1a94f3": {
    "found": "2026-10-28",
    "id": "7b1daf1a94f3",
@@ -7704,6 +7910,11 @@
   "7ba0793ad90a": {
    "found": "2026-10-28",
    "id": "7ba0793ad90a",
+   "status": "skip"
+  },
+  "7bae2de38a14": {
+   "found": "2026-11-08",
+   "id": "7bae2de38a14",
    "status": "skip"
   },
   "7bf39b1247f2": {
@@ -8871,6 +9082,11 @@
    "id": "8b3446c577fa",
    "status": "skip"
   },
+  "8b69d97431d8": {
+   "found": "2026-11-08",
+   "id": "8b69d97431d8",
+   "status": "skip"
+  },
   "8b83262876f8": {
    "found": "2026-10-28",
    "id": "8b83262876f8",
@@ -8899,6 +9115,11 @@
   "8d2f6527e621": {
    "found": "2026-10-30",
    "id": "8d2f6527e621",
+   "status": "skip"
+  },
+  "8d35d95fc9bf": {
+   "found": "2026-11-08",
+   "id": "8d35d95fc9bf",
    "status": "skip"
   },
   "8de1d9ce7f98": {
@@ -9514,6 +9735,11 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3EydGc0MFZGVldROUtjREcycHZfejZYTi0yQlBHRDJ2YTJiOEx4eDlzaDBmNXRxMmFNM1ltaUlYeWh3VFBoQVNfV3kwMnQ0OG5SUEJOMXNyRUk4R1FzZ051em9Hbjh1Z2N0MTB5UXRObjNrMElka2tsdEZvcDZKTDNaanUyZUVzWXNYNnNMdGd6MXJCeUhn?oc=5",
    "why": "This signals a key African government voice entering the governance conversation, aligning with ILINA's priority of African countries shaping frontier AI development and deployment."
   },
+  "967aebb59cc6": {
+   "found": "2026-11-08",
+   "id": "967aebb59cc6",
+   "status": "skip"
+  },
   "96f0a5a31796": {
    "found": "2026-11-06",
    "id": "96f0a5a31796",
@@ -9818,6 +10044,11 @@
    "id": "9afe890c0848",
    "status": "skip"
   },
+  "9b312e256fcf": {
+   "found": "2026-11-08",
+   "id": "9b312e256fcf",
+   "status": "skip"
+  },
   "9b6756fc32a4": {
    "found": "2026-10-28",
    "id": "9b6756fc32a4",
@@ -9944,6 +10175,46 @@
    "found": "2026-10-28",
    "id": "9dbbacc5bbb7",
    "status": "skip"
+  },
+  "9dd0323eb403": {
+   "action": "Monitor for submission calls or stakeholder consultation windows",
+   "african_input": false,
+   "allies": [
+    "ITU"
+   ],
+   "contacts": [],
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "news",
+   "headline": "ITU, ISO and IEC explore AI safety standards",
+   "id": "9dd0323eb403",
+   "location": "Online",
+   "organizers": [
+    "ITU",
+    "ISO",
+    "IEC"
+   ],
+   "participation": "Open stakeholder consultation; check ITU/ISO/IEC websites for upcoming call for comments or participation forms",
+   "published": "2026-11-07",
+   "snippet": "",
+   "source": "Tech Review Africa (via search)",
+   "status": "done",
+   "summary": "ITU, ISO and IEC are hosting a series of workshops and consultations to develop international standards for AI safety and accountability, with a focus on governance frameworks and risk management.",
+   "thread": null,
+   "title": "ITU, ISO and IEC explore international standards for AI safety and accountability",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHJZWDRuZ1NGaTY4NzJNZWxfYUpEUE5aLUlEZDkzNDIycFFmX3k3MjlTN051STUwTUJXa0t3VmZfNG1wWHBzZGxIbmRCb1BMT2Z0MDlMZ0pfQXl5OXNnS0RTbnNGeTZXTHR4M2R3aThONDZscWF1RDJxYVZwamxyMV9YNWcyd2h1UXl3d3VlenZISWFKZFFwSzA2NWxBT0wwWnFUX0JFdHNOV2x5Nm1SUEZ4NVJCUGwyenZV?oc=5",
+   "why": "This is a key UN AI process (priority 3) that ILINA tracks for opportunities to shape global governance frameworks relevant to African contexts."
   },
   "9dd76db7dc3e": {
    "action": "Monitor the redrafting process and prepare submission points for the revised bill",
@@ -10821,6 +11092,11 @@
    "type": "policy_change",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNldWbnEzM0Nrb1FBdEl4bWZHb2FUa2pqeFA4TWhKdzZid3NkbW15ZklFUll6TEo4UUFvaXE0LTltQnZhTWVkZFdGc0NaRjBmeFVvZ0tsOHRYaHFzY3k3bjJEVDBZMXRDRXctZGdOaVE1S29zTzJSeUdXcU9vbW54QUQySEpWYk5rV0dtS2RKbExSckgyeVJScVpBVVViNkhOT0xIM1F6NThzZEdxeDFVTVJmTVQ4WTNlUnd2bFd3LTVjR3ZPcmdkM0RHZzQ1cjg1SWJoQm9R?oc=5",
    "why": "This is a concrete policy process in Africa where ILINA can contribute input on governance models that protect African sovereignty and build domestic capacity."
+  },
+  "ac90845034f5": {
+   "found": "2026-11-08",
+   "id": "ac90845034f5",
+   "status": "skip"
   },
   "aced5079367f": {
    "action": "Submit written input or proposals before the deadline",
@@ -12482,6 +12758,11 @@
    "id": "c56e4d74064c",
    "status": "skip"
   },
+  "c58325185fac": {
+   "found": "2026-11-08",
+   "id": "c58325185fac",
+   "status": "skip"
+  },
   "c593cb89ebed": {
    "action": "Monitor for public participation calls or stakeholder consultation opportunities on the final policy",
    "african_input": false,
@@ -12911,6 +13192,44 @@
    "id": "cb5e97db65d8",
    "status": "skip"
   },
+  "cbdf32694f84": {
+   "action": "Monitor for opportunities to contribute African perspectives to judicial AI guideline development; consider submitting input on context-dependent risk assessment.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Egypt",
+    "African continent"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "multilateral",
+   "headline": "African judges back Egyptian proposal for AI guidelines in courts",
+   "id": "cbdf32694f84",
+   "location": "Africa (regional)",
+   "organizers": [
+    "Egyptian proposal (country/organisation not specified in source)"
+   ],
+   "participation": "Endorsement by African judges; no explicit call for external input identified in source",
+   "published": "2026-11-08",
+   "snippet": "",
+   "source": "Ahram Online (via search)",
+   "status": "done",
+   "summary": "African judges have endorsed an Egyptian proposal to establish AI guidelines for judicial use in courts, signalling continental interest in AI governance frameworks.",
+   "thread": null,
+   "title": "African judges back Egyptian proposal for AI guidelines in courts - Politics - African Media Digest",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wVVZQSENwZFFVMjlKU2pCdHpyVGxndllhYmNxaE5UMUVnRjVMcmltTE11RF8zR0hGOFo4SnE4NUlfdTkxbGd1TjRjLTR5ZXR3Y3pPTXVpR2s?oc=5",
+   "why": "This event reflects growing African institutional engagement with AI governance, aligning with ILINA's focus on African participation in policy development and responsible AI integration in public services."
+  },
   "cc4064f8d4fd": {
    "action": "Submit written input on Ghana's National AI Strategy",
    "african_input": true,
@@ -12956,6 +13275,44 @@
    "found": "2026-11-03",
    "id": "cc4993a03695",
    "status": "skip"
+  },
+  "cc5270aa3062": {
+   "action": "Monitor for opportunities to contribute technical or governance input on language datasets and AI model access for lower-income governments.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Togo"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "people",
+   "headline": "Togo Launches AI Initiative to Digitise National Languages",
+   "id": "cc5270aa3062",
+   "location": "Lomé, Togo",
+   "organizers": [
+    "Togo government"
+   ],
+   "participation": "Open to public sector and civil society stakeholders; check Togo's Ministry of Communication or AI agency for consultation calls.",
+   "published": "2026-10-26",
+   "snippet": "",
+   "source": "TechAfrica News (via search)",
+   "status": "done",
+   "summary": "Togo has launched an AI initiative to digitise and preserve national languages, aiming to integrate local linguistic data into AI systems for broader digital inclusion.",
+   "thread": null,
+   "title": "Togo Launches AI Initiative to Digitise National Languages",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXFTd0VwaFJzSjNkNjJ3NlpoTVJuSGRlTHBGREluYW1GZFY0aHZsSzhDSURmZnJuaDE1WUlWelI1aE9BOXFjdEo0TmxDeWxDOXZOV1BRVnJoQU9NUDhQSHBTZnVLcnd4NDIwdENFc2Y0cjctcXBlODdWZWl2VFdtbndUaVdsY28zUGZCU0F1dTVXRFZUMXo2Und3?oc=5",
+   "why": "This initiative aligns with ILINA's priority of AI improving outcomes in agriculture, healthcare and education on terms that protect African sovereignty and build domestic technical capacity, particularly through language digitisation."
   },
   "ccc7dd573e31": {
    "action": "Submit written input or position paper to Kenya's AI strategy process",
@@ -15151,6 +15508,43 @@
    "id": "ec7e92f7877d",
    "status": "skip"
   },
+  "ec9b739e7240": {
+   "action": "Monitor for follow-up opportunities or submissions related to the Trust Summit themes.",
+   "african_input": false,
+   "allies": [],
+   "contacts": [],
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "people",
+   "headline": "Trust Summit panel with Philip Thigo",
+   "id": "ec9b739e7240",
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "Trust Summit organizers"
+   ],
+   "participation": "Monitor event outcomes and future calls for input.",
+   "published": "2026-10-30",
+   "snippet": "",
+   "source": "Soko Directory (via search)",
+   "status": "done",
+   "summary": "A panel discussion moderated by Philip Thigo took place at the Trust Summit, featuring tech experts. The event appears to be part of ongoing governance discussions around AI.",
+   "thread": null,
+   "title": "Tech experts take a photo after a panel discussion moderated by Philip Thigo at the Trust Summit",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc2NBNXdlcWFxNUN5ZG05YlE1VlZBaXFQUHREWWJUeGFLOVo0OExUdkduZ3JZVU1PenNSUnY1SllHZ2FBb3RlcEZDVVZKUW1ydm10LW9RdTk4N29VOWVheGh5ZUJHaDk3SzBIaFdVVk0zTko3a1pVZFNZMllUanZfQUtZdHpoYnI5eXQwYTl3bG13eDFrSS1SZHpfWWk4S2UtMWlITTNkYkVoaklzcWh4bjZleERHMFhPOF9wQWlfeHhzRV9Sc19xN3QzdDFJQnlScElnUGtDYW03cXpCb0x4WEROZ3RKRU0wbnNvS3VLMGo0R1M2UXdoWl9UMXFzU3JCRzFIRGdSVUFBN2FDdC1wMVM1U1NuWGpNT0xFQTV3MHZoQktoR0lZ?oc=5",
+   "why": "Philip Thigo is a key Kenyan AI governance figure; his participation signals African engagement in global AI governance forums."
+  },
   "ed286bcb3b76": {
    "found": "2026-10-31",
    "id": "ed286bcb3b76",
@@ -15684,6 +16078,11 @@
    "id": "f887c786a3f5",
    "status": "skip"
   },
+  "f92ad8b530f8": {
+   "found": "2026-11-08",
+   "id": "f92ad8b530f8",
+   "status": "skip"
+  },
   "f95f42048dd8": {
    "action": "Cite in policy memo on AI sovereignty",
    "african_input": false,
@@ -16065,6 +16464,47 @@
    "found": "2026-11-05",
    "id": "ff770f2dc722",
    "status": "skip"
+  },
+  "ff77f3be63f3": {
+   "action": "Monitor for follow-up AU policy processes or consultation calls related to AI security.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "contacts": [],
+   "countries": [
+    "Ethiopia",
+    "AU member states"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-06",
+   "event_start": "2026-11-05",
+   "fit": 3,
+   "found": "2026-11-08",
+   "group": "multilateral",
+   "headline": "AU-EU Security Talks: AI and terrorism in Addis Ababa",
+   "id": "ff77f3be63f3",
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "African Union",
+    "European Union"
+   ],
+   "participation": "Stakeholder input not explicitly advertised; monitor AU policy channels for related AI governance consultations.",
+   "published": "2026-11-06",
+   "snippet": "",
+   "source": "Capital FM Africa (via search)",
+   "status": "done",
+   "summary": "African Union and European Union security talks held in Addis Ababa, with AI and terrorism as top agenda items, reflecting growing policy focus on AI governance in Africa.",
+   "thread": null,
+   "title": "AI, terrorism top AU-EU security talks in Addis Ababa",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXVidDBneGhPU0s1ZzFEQklrMS0wTzQ1ZkZwTnJMakp2cEJfTV9veDlIX0gxdmRpa3lRTTVhclJhaUJTcU5OazdtLVdIcnJJVWI2eXhBLWlvelV5ek1IWGNHbVJxRks0SWJoYXRSYW1HQ2lfN0laTkstVlFnQ2ZvSnZPcW0?oc=5",
+   "why": "This event signals increased AU-level attention to AI governance, which could open consultation or policy-shaping opportunities for African stakeholders."
   },
   "ff83c8907a26": {
    "found": "2026-10-28",
