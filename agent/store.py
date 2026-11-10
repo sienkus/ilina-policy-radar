@@ -42,6 +42,7 @@ class Store:
         """Shrink rejected/old items to a stub so the file stays small but they are never re-fetched."""
         cutoff = (date.today() - timedelta(days=keep_days)).isoformat()
         for k, i in list(self.items.items()):
+            i.pop("contacts", None)  # this file is public; contact names stay in the CONTACTS secret
             dates = [i.get("found", ""), i.get("deadline") or "", i.get("event_end") or i.get("event_start") or ""]
             if i["status"] == "skip" and len(i) > 3:
                 self.items[k] = {"id": k, "status": "skip", "found": i.get("found")}

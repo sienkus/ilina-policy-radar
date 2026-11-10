@@ -1,5 +1,5 @@
 """Turn analysed items into the dashboard data, a calendar feed and a CSV."""
-import csv, json, os, shutil
+import csv, json, os, re, shutil
 from datetime import date, timedelta
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
@@ -47,7 +47,7 @@ def score(e, today):
     return min(100, s)
 
 
-def entries(store, today):
+def entries(store, today, contacts=()):
     """One entry per thread (all sources about the same process in one place) or per standalone item."""
     groups = {}
     for i in store.items.values():
@@ -78,7 +78,11 @@ def entries(store, today):
             "countries": sorted({_country(c) for i in items for c in (i.get("countries") or []) if c})[:6],
             "arena": _most([i.get("arena") for i in items], "Other"), "sector": _most([i.get("sector") for i in items]),
             "impact": max((i.get("impact") or 0) for i in items), "first": any(i.get("first") for i in items),
-            "contacts": union("contacts"), "allies": union("allies"),
+            # contact names live only in the CONTACTS secret and the private email, never in public files
+            "contacts": [n for n in contacts if any(re.search(r"\b" + re.escape(n) + r"\b", " ".join(
+                [i.get("title") or "", i.get("headline") or "", i.get("summary") or "", i.get("why") or "",
+                 i.get("snippet") or "", *(i.get("organizers") or [])]), re.I) for i in items)],
+            "allies": union("allies"),
             "african_input": any(i.get("african_input") for i in items),
             "fit": max((i.get("fit") or 1) for i in items),
             "found": min(i["found"] for i in items), "updated": newest,
@@ -114,9 +118,9 @@ def _ics(entries, today):
 
 
 COLUMNS = ["Priority", "New", "Deadline", "Days left", "Title", "Category", "Impact", "Country", "Institution", "Sector",
-           "Event date", "Location", "Next step", "Why it matters", "Organisers", "Warm contacts", "Score", "Sources",
+           "Event date", "Location", "Next step", "Why it matters", "Organisers", "Score", "Sources",
            "First seen"]
-WIDTHS = [9, 6, 12, 9, 50, 16, 9, 18, 18, 12, 12, 18, 45, 45, 30, 18, 7, 8, 12]
+WIDTHS = [9, 6, 12, 9, 50, 16, 9, 18, 18, 12, 12, 18, 45, 45, 30, 7, 8, 12]
 DATES = [i + 1 for i, c in enumerate(COLUMNS) if c in ("Deadline", "Event date", "First seen")]
 URGENT_DAYS = 21
 
@@ -139,7 +143,7 @@ def _row(e, today):
     impact = "Major" if e["impact"] >= 4 else "Notable" if e["impact"] == 3 else ""
     return [_priority(e, today), new, dl, (dl - today).days if dl else None, e["title"], cat, impact,
             "; ".join(e["countries"]), e["arena"], e["sector"], ev, e["location"], e["action"], e["why"],
-            "; ".join(e["organizers"]), "; ".join(e["contacts"]), e["score"], len(e["sources"]), _d(e["found"])]
+            "; ".join(e["organizers"]), e["score"], len(e["sources"]), _d(e["found"])]
 
 
 def _sheet_order(es, today):
@@ -211,13 +215,15 @@ def _sheets(es, today):
     wb.save(os.path.join(OUT, "radar.xlsx"))
 
 
-def build(store):
+def build(store, contacts=()):
+    """Writes the public files without contact names; returns full entries for the private email."""
     today = date.today()
-    es = entries(store, today)
+    es = entries(store, today, contacts)
+    public = [{k: v for k, v in e.items() if k != "contacts"} for e in es]
     os.makedirs(OUT, exist_ok=True)
     shutil.copy(os.path.join(os.path.dirname(__file__), "site", "index.html"), OUT)
     with open(os.path.join(OUT, "data.json"), "w") as f:
-        json.dump({"generated": today.isoformat(), "entries": es}, f, ensure_ascii=False)
+        json.dump({"generated": today.isoformat(), "entries": public}, f, ensure_ascii=False)
     with open(os.path.join(OUT, "deadlines.ics"), "w") as f:
         f.write(_ics(es, today))
     _sheets(es, today)

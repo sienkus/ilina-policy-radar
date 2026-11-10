@@ -19,7 +19,7 @@ def _since(store, key, max_age):
 
 
 def _run(actor, payload, token):
-    r = requests.post(API.format(actor=actor.replace("/", "~")), params={"token": token},
+    r = requests.post(API.format(actor=actor.replace("/", "~")), headers={"Authorization": f"Bearer {token}"},
                       json=payload, timeout=600)
     if not r.ok:  # Apify explains bad input in the body; show it instead of a bare status code
         raise requests.HTTPError(f"{r.status_code}: {r.text[:300]}")
@@ -60,7 +60,7 @@ def _x(cfg, since, token):
 
 def _used_usd(token):
     """Real Apify spend this billing cycle (covers runs from anywhere, not just this agent)."""
-    r = requests.get("https://api.apify.com/v2/users/me/limits", params={"token": token}, timeout=30)
+    r = requests.get("https://api.apify.com/v2/users/me/limits", headers={"Authorization": f"Bearer {token}"}, timeout=30)
     r.raise_for_status()
     return r.json()["data"]["current"]["monthlyUsageUsd"]
 

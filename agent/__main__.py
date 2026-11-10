@@ -41,7 +41,7 @@ def main():
         print("Publishing")
         store.prune()
         store.save()
-        entries = publish.build(store)
+        entries = publish.build(store, cfg["contacts"])
         try:
             notify.send(store, entries, cfg["digest_weekday"])
             store.save()

@@ -163,7 +163,6 @@ def extract(llm, store, profile, cfg, deadline_at):
             i["headline"] = out.get("title") or i["title"]
             i["thread"] = _thread_id(store, out.get("thread"), i.get("type"), f"{i['title']} {body[:3000]}")
             text = f"{i['title']} {body} {' '.join(i.get('organizers') or [])}"
-            i["contacts"] = _mentions(cfg["contacts"], text)
             i["allies"] = _mentions(cfg["allies"], text)
             i["status"] = "done"
         store.save()

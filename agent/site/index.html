@@ -94,7 +94,6 @@ h1{font:650 30px/1.1 Fraunces,Georgia,serif;margin:4px 0 2px;letter-spacing:-.01
 .pill{display:inline-flex;align-items:center;gap:5px;border-radius:6px;padding:2px 8px;font-weight:600;background:var(--sunk)}
 .pill.r{background:var(--red-soft);color:var(--red)}.pill.a{background:var(--amber-soft);color:var(--amber)}.pill.g{background:var(--green-soft);color:var(--accent)}
 .next{color:var(--accent);font-weight:500}
-.warm{background:var(--accent-soft);color:var(--accent);border-radius:6px;padding:2px 8px;font-weight:600}
 .prio{position:absolute;top:12px;right:12px;display:flex;gap:4px;align-items:center}
 .score{font:650 13px/1 Inter,sans-serif;font-variant-numeric:tabular-nums;border-radius:8px;padding:6px 7px;background:var(--sunk);color:var(--ink2);min-width:32px;text-align:center}
 .score.h{background:var(--red);color:#fff}.score.m{background:var(--amber);color:#fff}
@@ -189,7 +188,6 @@ h1{font:650 30px/1.1 Fraunces,Georgia,serif;margin:4px 0 2px;letter-spacing:-.01
     <span class="lens-label">View as</span>
     <div class="seg" id="lens"></div>
     <label class="toggle"><input type="checkbox" id="af"> Africa only</label>
-    <label class="toggle"><input type="checkbox" id="warm"> Warm contacts</label>
     <label class="toggle"><input type="checkbox" id="showgone"> Show dismissed</label>
   </div>
   <div class="row"><div class="chips" id="cats"></div></div>
@@ -211,6 +209,7 @@ const motion=!matchMedia('(prefers-reduced-motion: reduce)').matches;
 const AF=/africa|kenya|nigeria|rwanda|ghana|ethiopia|uganda|tanzania|senegal|togo|zambia|egypt|morocco|african union|nepad|uneca|smart africa|eswatini|lesotho|burundi|gabon|sudan|malawi|zimbabwe|namibia|botswana|cameroon|tunisia|benin|mauritius|ecowas|sadc|\beac\b/i;
 const days=d=>d?Math.round((new Date(d)-today)/864e5):null;
 const fmt=(d,o={day:'numeric',month:'short'})=>new Date(d).toLocaleDateString('en-GB',o);
+const safe=u=>/^https?:\/\//i.test(u)?u:'#'; // feed URLs are untrusted: no javascript: links
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ACT=['call_for_input','opportunity'];
 // colour = identity of the category; always shown with its text label
@@ -249,7 +248,6 @@ function card(e){
     <h3>${esc(e.title)}</h3>
     <p class="why">${esc(e.why||e.summary)}</p>
     <div class="foot">${dlPill(e)}${e.event_start?`<span class="pill">📍 ${fmt(e.event_start)}${e.location?' · '+esc(e.location):''}</span>`:''}
-      ${e.contacts.length?`<span class="warm">🤝 ${esc(e.contacts.join(', '))}</span>`:''}
       ${e.action?`<span class="next">→ ${esc(e.action)}</span>`:''}
       ${e.sources.length>1?`<span style="color:var(--mute)">${e.sources.length} sources</span>`:''}</div>
     <div class="prio"><span class="score ${prioCls(e)}" title="Priority for ILINA (0–100)">${e.score}</span>
@@ -310,16 +308,15 @@ function detail(e){
       ${fact('Institution',e.arena&&e.arena!=='Other'?esc(e.arena):'')}
       ${fact('Sector',esc(e.sector?e.sector[0].toUpperCase()+e.sector.slice(1):''))}
       ${fact('Organisers',esc(e.organizers.join(', ')))}
-      ${fact('Warm contacts',esc(e.contacts.join(', ')))}
       ${fact('Allies involved',esc(e.allies.join(', ')))}
       ${fact('Priority',`${e.score}/100 for ILINA${e.impact?` · impact ${e.impact}/5`:''}`)}
       ${fact('First seen',fmt(e.found,{day:'numeric',month:'long'}))}
     </dl>
-    <div class="row"><a class="btn primary" href="${esc(s[0].url)}" target="_blank" rel="noopener">Open source ↗</a>
+    <div class="row"><a class="btn primary" href="${esc(safe(s[0].url))}" target="_blank" rel="noopener">Open source ↗</a>
       <button class="btn ${m==='star'?'on':''}" data-m="star" data-id="${e.id}">${m==='star'?'★ Shortlisted':'☆ Shortlist'}</button>
       <button class="btn ${m==='gone'?'on':''}" data-m="gone" data-id="${e.id}">${m==='gone'?'Dismissed':'Not relevant'}</button></div>
     <h4>${s.length} source${s.length>1?'s':''}</h4>
-    <ul class="srcs">${s.map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}<span>${esc(x.source)} · ${fmt(x.date,{day:'numeric',month:'short',year:'numeric'})}</span></a></li>`).join('')}</ul>`;
+    <ul class="srcs">${s.map(x=>`<li><a href="${esc(safe(x.url))}" target="_blank" rel="noopener">${esc(x.title)}<span>${esc(x.source)} · ${fmt(x.date,{day:'numeric',month:'short',year:'numeric'})}</span></a></li>`).join('')}</ul>`;
 }
 let openId=null;
 function openDrawer(id){const e=data.find(x=>x.id===id);if(!e)return;openId=id;detail(e);
@@ -329,7 +326,7 @@ function closeDrawer(){openId=null;$('#drawer').classList.remove('on');$('#scrim
 function pass(e){
   const q=$('#q').value.toLowerCase().trim();
   return (!q||JSON.stringify([e.title,e.summary,e.organizers,e.countries,e.topics,e.arena,e.sector]).toLowerCase().includes(q))
-    &&(!$('#af').checked||AF.test(e.countries.join(' ')+' '+e.title+' '+e.summary))&&(!$('#warm').checked||e.contacts.length)
+    &&(!$('#af').checked||AF.test(e.countries.join(' ')+' '+e.title+' '+e.summary))
     &&($('#showgone').checked||st.view==='star'||marks[e.id]!=='gone');
 }
 const inCat=e=>!st.cats.size||st.cats.has(e.type)||(st.cats.has('first')&&e.first);
@@ -383,7 +380,7 @@ document.addEventListener('keydown',ev=>{
   else if(ev.key==='Enter'&&ev.target.matches('[data-open]'))openDrawer(ev.target.dataset.open);
 });
 let qt;$('#q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(()=>render(false),120)});
-['af','warm','showgone'].forEach(id=>$('#'+id).addEventListener('change',()=>render()));
+['af','showgone'].forEach(id=>$('#'+id).addEventListener('change',()=>render()));
 $('#cal').href='webcal://'+location.host+location.pathname.replace(/[^/]*$/,'')+'deadlines.ics';
 fetch('data.json').then(r=>r.json()).then(d=>{
   data=d.entries.map(e=>({countries:[],organizers:[],contacts:[],allies:[],topics:[],...e}));
