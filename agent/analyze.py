@@ -103,7 +103,7 @@ def _thread_id(store, value, kind, text=""):
 
 
 def triage(llm, store, profile, deadline_at):
-    todo = [i for i in store.pending("pending") if i.get("kind") != "page"]
+    todo = [i for i in store.pending("pending") if i.get("kind") != "page" and i.get("title")]
     for start in range(0, len(todo), 15):
         if time.monotonic() > deadline_at:
             return

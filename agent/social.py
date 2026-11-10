@@ -21,7 +21,8 @@ def _since(store, key, max_age):
 def _run(actor, payload, token):
     r = requests.post(API.format(actor=actor.replace("/", "~")), params={"token": token},
                       json=payload, timeout=600)
-    r.raise_for_status()
+    if not r.ok:  # Apify explains bad input in the body; show it instead of a bare status code
+        raise requests.HTTPError(f"{r.status_code}: {r.text[:300]}")
     return r.json()
 
 
@@ -43,7 +44,7 @@ def _x(cfg, since, token):
     ts = int(datetime.fromisoformat(since).replace(tzinfo=timezone.utc).timestamp())
     # X search accepts long OR queries; chunk to stay under its length limit
     queries = [" OR ".join(f"from:{h}" for h in handles[i:i + 12]) for i in range(0, len(handles), 12)]
-    rows = _run(cfg["actor"], {"searchTerms": queries, "since_time": ts, "queryType": "Latest",
+    rows = _run(cfg["actor"], {"searchTerms": queries, "since_time": str(ts), "queryType": "Latest",
                                "maxItems": cfg.get("max_items", 100)}, token)
     for t in rows:
         text, url = t.get("text") or "", t.get("url")
