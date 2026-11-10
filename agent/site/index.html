@@ -166,6 +166,103 @@ h1{font:600 34px/1.05 Newsreader,Georgia,serif;margin:4px 0 2px;letter-spacing:-
 .btn.on{border-color:var(--accent);color:var(--accent)}
 
 @media (max-width:600px){.card .kicker{padding-right:0}.card .prio{position:static;justify-content:flex-start;margin:0 0 6px;order:-1}.card{display:flex;flex-direction:column}.stat b{font-size:24px}.controls{position:static}.search kbd{display:none}html{scroll-padding-top:0}}
+/* Broadsheet: a printed intelligence brief. Rules, not boxes; serif headlines; red only for deadlines */:root{--serif:Newsreader,Georgia,serif;--sans:"Public Sans",system-ui,sans-serif;--hw:600;--bg:#fdfcf9;--surface:#fdfcf9;--sunk:#f1eee6;--ink:#111;--ink2:#3d3d3a;--mute:#76746c;--line:#d9d5ca;--rule:#111;
+  --accent:#111;--accent-ink:#fff;--accent-soft:#f1eee6;--red:#b0171f;--red-soft:transparent;--amber:#8a5a00;--amber-soft:transparent;--green-soft:transparent;--shadow:none}
+@media (prefers-color-scheme:dark){:root:where(:not([data-theme="light"])){--bg:#121211;--surface:#121211;--sunk:#1e1d1b;--ink:#efede7;--ink2:#c9c6bd;--mute:#8f8c84;--line:#33322e;--rule:#efede7;
+  --accent:#efede7;--accent-ink:#121211;--accent-soft:#1e1d1b;--red:#ff6b61;--amber:#e0a84a}}
+body{font:15px/1.55 var(--sans)}
+.wrap{max-width:1080px}
+
+/* masthead */
+.top{border-bottom:3px solid var(--rule);padding:30px 0 12px;margin-bottom:0;align-items:flex-end}
+.brand small{color:var(--ink);letter-spacing:.18em;font-size:11px}
+h1{font:var(--hw) 46px/1 var(--serif);letter-spacing:-.02em;margin:6px 0 4px}
+.updated{font-size:12.5px;letter-spacing:.02em}
+.links a{border:0;border-radius:0;background:none;padding:4px 0 4px 14px;font-weight:600;font-size:12.5px;letter-spacing:.04em;text-transform:uppercase}
+.links a:hover{color:var(--red)}
+
+/* stats: one ruled line of figures */
+.stats{gap:0;border-bottom:1px solid var(--rule);margin:0 0 0;padding:14px 0}
+.stat{background:none;border:0;border-left:1px solid var(--line);border-radius:0;box-shadow:none;padding:2px 18px;transform:none!important}
+.stat:first-child{border-left:0;padding-left:0}
+.stat b{font:var(--hw) 34px/1 var(--serif)}
+.stat span{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--mute);margin-top:4px}
+.stat:hover span{color:var(--ink)}
+
+/* controls: typographic, no pills */
+.controls{background:var(--bg);backdrop-filter:none;border-bottom:1px solid var(--rule);padding:10px 0}
+.seg{background:none;padding:0;gap:18px;border-radius:0}
+.seg button{padding:4px 0;border-radius:0;box-shadow:none!important;background:none!important;font-size:13px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--mute);border-bottom:2px solid transparent}
+.seg button.on{color:var(--ink);border-bottom-color:var(--ink)}
+.seg .n{font-weight:400}
+.search input{border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;padding-left:26px}
+.search input:focus{outline:0;border-bottom-color:var(--ink)}
+.search svg{left:2px}
+.lens-label{color:var(--ink)}
+#lens button{text-transform:none;letter-spacing:0;font-weight:500}
+.chips{gap:4px 16px}
+.chip{border:0;background:none!important;border-radius:0;padding:2px 0;font-size:13px;color:var(--mute)}
+.chip .dot{display:none}
+.chip.on{color:var(--ink);font-weight:600;text-decoration:underline;text-underline-offset:4px}
+
+/* items: hairline-ruled rows */
+.list{gap:0}
+.card{background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;box-shadow:none;padding:18px 0 16px}
+.card:hover{border-color:var(--line);background:none}
+.card:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.card::before{display:none}
+.kicker{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase}
+.kicker .cat{color:var(--ink);font-weight:700}
+.kicker .dot{display:none}
+.new{background:none;color:var(--red);padding:0;font-size:11px}
+.flag{border:0;padding:0;color:var(--ink2)}
+.card h3{font:var(--hw) 21px/1.25 var(--serif);margin:6px 0 6px;letter-spacing:-.005em}
+.card .why{font-size:14.5px;color:var(--ink2)}
+.foot{margin-top:8px;font-size:13px}
+.pill{background:none!important;padding:0;border-radius:0;font-weight:600}
+.pill.g,.pill:not(.r):not(.a){color:var(--ink2);font-weight:500}
+.next{color:var(--ink);font-weight:500}
+.next .ic{display:none}
+.score{background:none!important;color:var(--mute)!important;font:var(--hw) 15px/1 var(--serif);padding:8px 4px;min-width:0}
+.score.h{color:var(--red)!important}
+.icon{border-radius:0}
+
+/* board: newspaper columns */
+.board{gap:28px 32px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.group{background:none;border:0;border-top:3px solid var(--rule);border-radius:0;box-shadow:none}
+.group header{padding:10px 0 8px;border-bottom:1px solid var(--rule)}
+.group h2{font:var(--hw) 22px/1.1 var(--serif)}
+.mix{display:none}
+.mini{padding:10px 0;border-color:var(--line)}
+.mini:hover{background:none}
+.mini:hover b{text-decoration:underline;text-underline-offset:3px}
+.mini .dot{display:none}
+.mini{grid-template-columns:1fr auto}
+.mini b{font:500 15.5px/1.3 var(--serif)}
+.more{padding:10px 0;color:var(--ink);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+
+/* timeline */
+.week{border-top:1px solid var(--rule)}
+.week h2{font:var(--hw) 20px/1.2 var(--serif)}
+.when{background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;box-shadow:none;margin:0;padding:12px 0}
+.when:hover{border-color:var(--line)}
+.when:hover b.t{text-decoration:underline;text-underline-offset:3px}
+.cal{background:none!important;border-right:1px solid var(--line);border-radius:0}
+.cal b{font:var(--hw) 24px/1 var(--serif)}
+.when b.t{font:var(--hw) 17px/1.3 var(--serif)}
+
+/* drawer */
+.drawer{background:var(--bg);box-shadow:none;border-left:3px solid var(--rule)}
+.drawer h2{font:var(--hw) 30px/1.15 var(--serif)}
+.callout{background:none;border-top:1px solid var(--rule);border-bottom:1px solid var(--line);border-radius:0;padding:12px 0}
+.callout b{color:var(--ink)}
+.btn{border-radius:0;border-color:var(--ink)}
+.btn.primary{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.srcs a{border:0;border-bottom:1px solid var(--line);border-radius:0;padding:10px 0}
+.scrim{background:rgba(0,0,0,.25)}
+@media (max-width:760px){.stats{grid-template-columns:repeat(2,1fr);row-gap:12px}.stat:nth-child(3){border-left:0;padding-left:0}h1{font-size:38px}}
+
+.top .updated,.stat span,.seg button,.chip,.kicker,.card .why,.foot,body{font-family:var(--sans)}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 html.gsap .drawer,html.gsap .scrim{transition:none} /* GSAP drives these; CSS transitions would fight it */
