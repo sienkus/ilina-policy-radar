@@ -38,19 +38,21 @@ def send(store, entries, weekday=0):
     weekly = today.weekday() == weekday and store.meta.get("last_digest") != today.isoformat()
     if weekly:
         week = (today - timedelta(days=7)).isoformat()
+        fresh = lambda e: e["found"] >= week or e["updated"] >= week
         act = [e for e in entries if urgent(e, today)]
-        rest = [e for e in entries if not urgent(e, today) and e["score"] >= 50 and (e["found"] >= week or e["updated"] >= week)]
-        picks = act + rest[:20]
+        new = [e for e in entries if e not in act and e["score"] >= 50 and fresh(e)][:20]
+        big = [e for e in entries if e not in act and e not in new and e.get("impact", 0) >= 4 and fresh(e)][:8]
         subject = f"ILINA policy radar, week of {today:%d %b}" + (f": {len(act)} need action" if act else "")
     else:  # between digests, only interrupt for something urgent she hasn't been told about
-        picks = [e for e in entries if urgent(e, today) and e["id"] not in sent]
-        subject = f"ILINA policy radar: {len(picks)} urgent deadline(s)"
+        act, new, big = [e for e in entries if urgent(e, today) and e["id"] not in sent], [], []
+        subject = f"ILINA policy radar: {len(act)} urgent deadline(s)"
+    picks = act + new + big
     if not picks:
         return
     site = _site()
-    act = [e for e in picks if urgent(e, today)]
-    body = (("<h3>Needs action (deadline within 3 weeks)</h3>" + "".join(f"<p>{_line(e)}</p>" for e in act)) if act else "")
-    body += (("<h3>New this week</h3>" + "".join(f"<p>{_line(e)}</p>" for e in picks if e not in act)) if len(picks) > len(act) else "") + (f"<p><a href='{site}'>Open the full radar</a></p>" if site else "")
+    section = lambda title, es: f"<h3>{title}</h3>" + "".join(f"<p>{_line(e)}</p>" for e in es) if es else ""
+    body = (section("Needs action (deadline within 3 weeks)", act) + section("New this week", new)
+            + section("Big developments elsewhere", big) + (f"<p><a href='{site}'>Open the full radar</a></p>" if site else ""))
 
     if smtp:
         msg = MIMEMultipart()

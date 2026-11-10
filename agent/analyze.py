@@ -5,17 +5,23 @@ from datetime import date
 from .collect import fetch_text, uid
 from .llm import Unavailable
 
-TYPES = ["opportunity", "event", "policy_change", "publication", "news"]
+TYPES = ["call_for_input", "opportunity", "event", "policy_change", "appointment", "publication", "science",
+         "sector_impact", "news"]
+ARENAS = ["UN system", "African Union", "African regional bloc", "National government", "EU", "Other multilateral",
+          "Industry", "Research & civil society", "Other"]
+SCHEMA = 2  # bump when EXTRACT gains fields; older items get re-read
 TOPICS = ["AI safety & security", "Global Dialogue / UN", "AI summits", "Africa policy", "public services",
           "health / agriculture / education", "evaluations & monitoring", "AI fund & capacity", "global AI law"]
 
 TRIAGE = """You screen news for ILINA, an African AI safety and governance organisation.
 {profile}
 
-You get a numbered list of items. Keep an item only if it could plausibly matter to ILINA's priorities above:
-AI governance, AI policy or law (especially in Africa), AI safety/security, multilateral AI processes,
-events or opportunities to participate, or publications from AI safety / multilateral organisations.
-Drop generic tech/business news, product launches and items unrelated to AI governance.
+You get a numbered list of items. Keep an item if it could plausibly matter to ILINA's priorities above, OR if a policy researcher following AI
+governance would want to know it: AI policy or law anywhere (especially Africa), AI safety/security, UN and other
+multilateral AI work, events or calls to take part, publications, appointments to AI policy roles, firsts
+(first law, ruling, institution or deployment of its kind), scientific breakthroughs with policy implications,
+and significant AI impacts in a sector (health, agriculture, education, finance, labour, security, justice).
+Drop routine product launches, funding rounds, stock news and items unrelated to AI.
 Return JSON: {{"keep": [numbers]}}"""
 
 EXTRACT = """You analyse items for ILINA, an African AI safety and governance organisation.
@@ -23,12 +29,15 @@ EXTRACT = """You analyse items for ILINA, an African AI safety and governance or
 
 Today is {today}. Read the item and return JSON with exactly these keys:
 {{
- "relevant": true/false,          // false if it does not matter to ILINA
+ "relevant": true/false,          // false only if neither ILINA nor an AI policy researcher would care
  "type": one of {types},
-   // opportunity = ONLY if the text names a concrete way for an outside organisation to take part now: a call for
-   //   submissions, comments, input, applications, proposals, speakers or nominations, or open registration.
-   //   Speeches, statements, partnerships, investments, launches and reports are NOT opportunities.
+   // call_for_input = an open call for submissions, comments, consultation responses or evidence
+   // opportunity = another concrete way to take part now: applications, fellowships, funding calls, speakers,
+   //   nominations or open registration. Speeches, partnerships, investments, launches and reports are NOT.
    // event = a specific dated convening; policy_change = a new or amended law, policy, strategy or regulation
+   // appointment = someone appointed, elected or named to a role or expert body
+   // publication = a report, paper, guidance or index; science = a research or technical result with policy
+   //   implications; sector_impact = AI adoption or effects in a specific sector; news = anything else
  "title": "short clear title (max 12 words)",
  "summary": "what it is, max 2 plain sentences",
  "why": "why it matters to ILINA, 1 sentence",
@@ -39,7 +48,11 @@ Today is {today}. Read the item and return JSON with exactly these keys:
  "location": "city, country / Online / empty",
  "organizers": ["organisations or people convening or publishing it"],
  "participation": "how to take part (modes, eligibility, link text), or empty",
- "countries": ["countries or regions concerned"],
+ "countries": ["countries concerned, plain names e.g. 'Kenya'; use 'Africa' for continent-wide, 'Global' for worldwide"],
+ "arena": one of {arenas},   // who is driving it
+ "sector": "health / agriculture / education / finance / labour / security / justice / ... or empty",
+ "impact": 1-5,                   // how big a deal this is for AI governance in general, ignoring ILINA's priorities. 5 = landmark, 3 = notable, 1 = routine
+ "first": true/false,             // a first of its kind (first law, ruling, body, agreement or deployment of its kind somewhere)
  "topics": subset of {topics},
  "african_input": true/false,     // true ONLY if an African government, the AU or a regional body runs a process that is explicitly open to outside input (public participation, call for comments, stakeholder consultation, validation workshop). Policy news alone is false.
  "fit": 1-5,                      // 5 = squarely in ILINA's top priorities, 3 = useful context, 1 = marginal. Most news is 2-3.
@@ -82,7 +95,7 @@ def _thread_id(store, value, kind, text=""):
     for k, t in store.threads.items():
         if re.sub(r"\W+", " ", t["name"].lower()).strip() == norm:
             return k
-    if kind not in ("event", "opportunity", "policy_change") or not norm:
+    if kind not in ("event", "opportunity", "call_for_input", "policy_change") or not norm:
         return None  # news and publications join threads but never start one
     k = "T" + uid(norm)[:5]
     store.threads[k] = {"name": name, "updated": date.today().isoformat()}
@@ -118,20 +131,25 @@ def _mentions(names, text):
 
 
 def extract(llm, store, profile, cfg, deadline_at):
-    todo = sorted(store.pending("triaged"), key=lambda i: i.get("published") or "", reverse=True)
+    new = sorted(store.pending("triaged"), key=lambda i: i.get("published") or "", reverse=True)
+    old = sorted((i for i in store.pending("done") if i.get("v", 1) < SCHEMA), key=lambda i: i.get("published") or "", reverse=True)
+    todo = new + old  # old items stay on the dashboard until re-read
     for n, i in enumerate(todo, 1):
         if time.monotonic() > deadline_at:
             print(f"  time budget reached, {len(todo) - n + 1} left for next run")
             return
         body = i.get("body") or fetch_text(i["url"]) or i.get("snippet", "")
         user = f"Source: {i['source']}\nPublished: {i.get('published')}\nURL: {i['url']}\nTitle: {i['title']}\n\n{body[:7000]}"
-        system = EXTRACT.format(profile=profile, today=date.today(), types=TYPES, topics=TOPICS, threads=_threads_prompt(store))
+        system = EXTRACT.format(profile=profile, today=date.today(), types=TYPES, topics=TOPICS, arenas=ARENAS, threads=_threads_prompt(store))
         try:
             out = llm.json(system, user, 900)
         except ValueError:
             i["tries"] = i.get("tries", 0) + 1
             if i["tries"] >= 3:
-                i["status"] = "skip"
+                if i["status"] == "done":
+                    i["v"] = SCHEMA  # keep the old reading rather than lose the item
+                else:
+                    i["status"] = "skip"
             store.save()
             continue
         i.pop("body", None)
@@ -140,7 +158,8 @@ def extract(llm, store, profile, cfg, deadline_at):
         else:
             i.update({k: out.get(k) for k in ["type", "summary", "why", "action", "deadline", "event_start", "event_end",
                                               "location", "organizers", "participation", "countries", "topics",
-                                              "african_input", "fit"]})
+                                              "african_input", "fit", "arena", "sector", "impact", "first"]})
+            i["v"] = SCHEMA
             i["headline"] = out.get("title") or i["title"]
             i["thread"] = _thread_id(store, out.get("thread"), i.get("type"), f"{i['title']} {body[:3000]}")
             text = f"{i['title']} {body} {' '.join(i.get('organizers') or [])}"

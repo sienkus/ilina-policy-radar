@@ -8,15 +8,17 @@ It runs on GitHub for free. Nobody's laptop has to be on.
 
 The dashboard has a tab called Act now. That's the one to open first. It lists things ILINA can actually do something about, like a call for submissions, a panel application or a public consultation, with the closest deadline at the top. Anything due in under two weeks shows up in red.
 
-The other tabs are Events, Policy tracker (new or changed AI laws and strategies) and Reading (things worth citing in memos). If several sources talk about the same thing, say the Global Dialogue, they're grouped into one card so you get the LinkedIn post, the press release and the website update in one place.
+Big developments is the second tab. It's for things that matter to AI governance generally, even if they don't fit ILINA's priorities, like a UN decision or a country's first AI law. Events and Everything follow it.
+
+Under the tabs you can pick categories: calls for input, opportunities, events, policy changes, appointments, publications, science, sector impact, and firsts. You can also group whatever you're looking at by country, institution (UN, AU, a regional bloc, a national government and so on), category or sector. Grouping by country puts everything Kenya is doing on one screen. If several sources talk about the same thing, say the Global Dialogue, they're grouped into one card so you get the LinkedIn post, the press release and the website update in one place.
 
 Star what matters and dismiss what doesn't. Your browser remembers this, so it won't follow you to another device.
 
-There's also a calendar link at the top. Subscribe to it once and every deadline lands in your calendar, with a reminder two weeks before. If you'd rather work in a spreadsheet, the Spreadsheet link downloads an Excel file with the same list. For a Google Sheet that updates itself, put `=IMPORTDATA("https://<user>.github.io/<repo>/radar.csv")` in cell A1.
+There's also a calendar link at the top. Subscribe to it once and every deadline lands in your calendar, with a reminder two weeks before. If you'd rather work in a spreadsheet, the Spreadsheet link downloads an Excel file with the same list, plus a tab grouped by country and one grouped by institution. For a Google Sheet that updates itself, put `=IMPORTDATA("https://<user>.github.io/<repo>/radar.csv")` in cell A1. For the grouped views, add tabs that import `radar-by-country.csv` and `radar-by-institution.csv` the same way.
 
 ## How it decides what matters
 
-A language model reads each item against `config/profile.md`, which is ILINA's priorities written in plain English, and scores how well it fits. Then a few fixed rules add points. African policy consultations always get a big boost. So does anything involving someone we already know (the `CONTACTS` secret, kept out of the repo so the list isn't public), a partner organisation, or a deadline that's still at least two weeks out.
+A language model reads each item against `config/profile.md`, which is ILINA's priorities written in plain English, and scores how well it fits. It also rates impact separately: how big a deal the item is for AI governance in general. That rating drives the Big developments tab and the Impact column, and it doesn't affect the priority score. Then a few fixed rules add points. African policy consultations always get a big boost. So does anything involving someone we already know (the `CONTACTS` secret, kept out of the repo so the list isn't public), a partner organisation, or a deadline that's still at least two weeks out.
 
 If the scores feel off, change `profile.md`. Just write what you'd tell a new research assistant.
 

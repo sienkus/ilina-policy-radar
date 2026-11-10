@@ -45,6 +45,18 @@ details li span{color:var(--mute);font-size:12px}
 .tools button{border:1px solid var(--line);background:var(--card);border-radius:7px;width:32px;height:30px;cursor:pointer;color:var(--mute);font-size:15px}
 .tools button.on{color:var(--accent);border-color:var(--accent)}
 .empty{color:var(--mute);padding:30px 0;text-align:center}
+.cats{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 10px}
+.cats button{border:1px solid var(--line);background:var(--card);color:var(--mute);border-radius:999px;padding:3px 10px;font:inherit;font-size:13px;cursor:pointer}
+.cats button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.bar select{padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:13px}
+.jump{display:flex;gap:6px;flex-wrap:wrap;font-size:13px;margin:0 0 12px}
+.jump a{color:var(--accent);text-decoration:none;background:var(--chip);border-radius:5px;padding:1px 7px}
+.grp>summary{list-style:none;cursor:pointer;font-size:16px;font-weight:650;color:var(--ink);margin:18px 0 8px;display:flex;gap:8px;align-items:baseline}
+.grp>summary::-webkit-details-marker{display:none}
+.grp>summary::before{content:"▾";color:var(--mute);font-size:12px}
+.grp:not([open])>summary::before{content:"▸"}
+.grp>summary span{color:var(--mute);font-weight:400;font-size:13px}
+.c.big{background:var(--ink);color:var(--bg)}
 @media (max-width:560px){.e{grid-template-columns:1fr auto}.s{width:34px;height:34px;font-size:13px;grid-row:1;grid-column:2}.e>div:nth-child(2){grid-row:1/3;grid-column:1}.tools{flex-direction:row;grid-column:2}}
 </style>
 </head>
@@ -58,10 +70,12 @@ details li span{color:var(--mute);font-size:12px}
     <label><input type="checkbox" id="af"> Africa</label>
     <label><input type="checkbox" id="warm"> Warm contact</label>
     <label><input type="checkbox" id="showgone"> Show dismissed</label>
+    <select id="by" title="Group by"><option value="">No grouping</option><option value="country">Group by country</option><option value="arena">Group by institution</option><option value="type">Group by category</option><option value="sector">Group by sector</option></select>
   </div>
+  <div class="cats" id="cats"></div>
   <p class="hint" id="hint"></p>
 </header>
-<main id="list"></main>
+<main><div class="jump" id="jump"></div><div id="list"></div></main>
 <script>
 const $=s=>document.querySelector(s), today=new Date(new Date().toDateString());
 const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
@@ -70,18 +84,28 @@ const AF=/africa|kenya|nigeria|rwanda|ghana|ethiopia|uganda|tanzania|senegal|tog
 const days=d=>d?Math.round((new Date(d)-today)/864e5):null;
 const fmt=d=>new Date(d).toLocaleDateString(undefined,{day:'numeric',month:'short',year:'numeric'});
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const ACT=['call_for_input','opportunity'];
+const CATS={call_for_input:'Calls for input',opportunity:'Opportunities',event:'Events',policy_change:'Policy changes',appointment:'Appointments',
+  publication:'Publications',science:'Science',sector_impact:'Sector impact',news:'News',first:'Firsts'};
+const TYPE1={call_for_input:'call for input',opportunity:'opportunity',event:'event',policy_change:'policy change',appointment:'appointment',
+  publication:'publication',science:'science',sector_impact:'sector impact',news:'news'};
+const byDate=k=>(a,b)=>(a[k]||'9')<(b[k]||'9')?-1:(a[k]||'9')>(b[k]||'9')?1:b.score-a.score;
 const TABS={
   act:{name:'Act now',hint:'Things ILINA can submit to, apply for or join. Closest deadline first.',
-       f:e=>(e.type==='opportunity'||e.african_input)&&(!e.deadline||days(e.deadline)>=0)&&e.score>=40,
-       sort:(a,b)=>(a.deadline||'9')<(b.deadline||'9')?-1:(a.deadline||'9')>(b.deadline||'9')?1:b.score-a.score},
+       f:e=>(ACT.includes(e.type)||e.african_input)&&(!e.deadline||days(e.deadline)>=0)&&e.score>=40, sort:byDate('deadline')},
+  big:{name:'Big developments',hint:'The most significant moves in AI governance, whether or not they fit ILINA\'s priorities. Newest first.',
+       f:e=>e.impact>=4, sort:(a,b)=>b.updated<a.updated?-1:1},
   events:{name:'Events',hint:'Upcoming convenings, soonest first. Every source about the same event is grouped under it.',
-       f:e=>e.type==='event'&&e.event_start, sort:(a,b)=>a.event_start<b.event_start?-1:1},
-  tracker:{name:'Policy tracker',hint:'New or changed AI laws, policies and strategies.',f:e=>e.type==='policy_change',sort:(a,b)=>b.updated<a.updated?-1:1},
-  reading:{name:'Reading',hint:'Recent publications and analysis worth using in memos and training.',f:e=>e.type==='publication'||(e.type==='news'&&e.score>=50),sort:(a,b)=>b.updated<a.updated?-1:1},
-  all:{name:'All',hint:'Everything, highest priority first.',f:e=>true,sort:(a,b)=>b.score-a.score},
+       f:e=>e.type==='event'&&e.event_start, sort:byDate('event_start')},
+  all:{name:'Everything',hint:'Everything, highest priority for ILINA first. Use the categories and grouping to slice it.',f:e=>true,sort:(a,b)=>b.score-a.score},
   star:{name:'★ Shortlist',hint:'Your starred items (saved in this browser).',f:e=>marks[e.id]==='star',sort:(a,b)=>b.score-a.score},
 };
+const GROUP={country:e=>e.countries.length?e.countries:['Unspecified'],arena:e=>[e.arena||'Other'],
+  type:e=>[CATS[e.type]||'News'],sector:e=>[e.sector||'No specific sector']};
+const cats=new Set(store.get('cats',[]));
+const inCat=e=>!cats.size||cats.has(e.type)||(cats.has('first')&&e.first);
 let data=[], tab=location.hash.slice(1) in TABS?location.hash.slice(1):'act';
+$('#by').value=store.get('by','');
 
 function row(e){
   const dl=days(e.deadline), m=marks[e.id];
@@ -93,7 +117,7 @@ function row(e){
    <div class="s ${e.score>=70?'h':e.score>=50?'m':''}" title="Priority score">${e.score}</div>
    <div>
     <a class="t" href="${esc(s[0].url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
-    <div class="meta">${dlc}${ev}${warm}<span class="c">${e.type.replace('_',' ')}</span>${e.organizers.slice(0,3).map(o=>`<span>${esc(o)}</span>`).join(' · ')}</div>
+    <div class="meta">${dlc}${ev}${warm}${e.impact>=4?'<span class="c big">⚡ major</span>':''}${e.first?'<span class="c big">🥇 first</span>':''}<span class="c">${TYPE1[e.type]||'news'}</span>${e.countries.length?`<span class="c">${esc(e.countries.slice(0,3).join(', '))}</span>`:''}${e.arena&&e.arena!=='Other'?`<span class="c">${esc(e.arena)}</span>`:''}${e.organizers.slice(0,3).map(o=>`<span>${esc(o)}</span>`).join(' · ')}</div>
     <div class="why">${esc(e.why||e.summary)}</div>
     ${e.action?`<div class="act">→ ${esc(e.action)}</div>`:''}
     <details><summary>Details${s.length>1?` · ${s.length} sources`:''}</summary>
@@ -109,20 +133,33 @@ function row(e){
 }
 
 function render(){
-  const q=$('#q').value.toLowerCase(), af=$('#af').checked, warm=$('#warm').checked, gone=$('#showgone').checked;
-  const pass=e=>(!q||JSON.stringify([e.title,e.summary,e.organizers,e.countries,e.topics]).toLowerCase().includes(q))
+  const q=$('#q').value.toLowerCase(), af=$('#af').checked, warm=$('#warm').checked, gone=$('#showgone').checked, by=$('#by').value;
+  const pass=e=>(!q||JSON.stringify([e.title,e.summary,e.organizers,e.countries,e.topics,e.arena,e.sector]).toLowerCase().includes(q))
     &&(!af||AF.test(e.countries.join(' ')+e.title+e.summary))&&(!warm||e.contacts.length)&&(gone||tab==='star'||marks[e.id]!=='gone');
-  $('#tabs').innerHTML=Object.entries(TABS).map(([k,t])=>`<button data-t="${k}" class="${k===tab?'on':''}">${t.name}<span class="n">${data.filter(e=>t.f(e)&&pass(e)).length}</span></button>`).join('');
-  const T=TABS[tab], rows=data.filter(e=>T.f(e)&&pass(e)).sort(T.sort);
+  $('#tabs').innerHTML=Object.entries(TABS).map(([k,t])=>`<button data-t="${k}" class="${k===tab?'on':''}">${t.name}<span class="n">${data.filter(e=>t.f(e)&&pass(e)&&inCat(e)).length}</span></button>`).join('');
+  const T=TABS[tab], base=data.filter(e=>T.f(e)&&pass(e));
+  $('#cats').innerHTML=Object.entries(CATS).map(([k,n])=>{const c=base.filter(e=>k==='first'?e.first:e.type===k).length;
+    return c||cats.has(k)?`<button data-c="${k}" class="${cats.has(k)?'on':''}">${n} <span class="n">${c}</span></button>`:''}).join('');
+  const rows=base.filter(inCat).sort(T.sort);
   $('#hint').textContent=T.hint;
-  $('#list').innerHTML=rows.map(row).join('')||'<p class="empty">Nothing here right now.</p>';
+  if(!rows.length){$('#jump').innerHTML='';$('#list').innerHTML='<p class="empty">Nothing here right now.</p>';return}
+  if(!by){$('#jump').innerHTML='';$('#list').innerHTML=rows.map(row).join('');return}
+  const groups={};
+  rows.forEach(e=>GROUP[by](e).forEach(g=>(groups[g]=groups[g]||[]).push(e)));
+  const order=Object.keys(groups).sort((a,b)=>groups[b].length-groups[a].length||a.localeCompare(b));
+  const gid=g=>'g-'+g.replace(/\W+/g,'-');
+  $('#jump').innerHTML=order.map(g=>`<a href="#${gid(g)}" data-jump="${gid(g)}">${esc(g)} ${groups[g].length}</a>`).join('');
+  $('#list').innerHTML=order.map(g=>`<details class="grp" open id="${gid(g)}"><summary>${esc(g)} <span>${groups[g].length}</span></summary>${groups[g].map(row).join('')}</details>`).join('');
 }
 
 document.addEventListener('click',ev=>{
   const t=ev.target.closest('[data-t]'); if(t){tab=t.dataset.t;history.replaceState(null,'','#'+tab);render();return}
+  const j=ev.target.closest('[data-jump]'); if(j){ev.preventDefault();document.getElementById(j.dataset.jump).scrollIntoView({behavior:'smooth'});return}
+  const c=ev.target.closest('[data-c]'); if(c){cats.has(c.dataset.c)?cats.delete(c.dataset.c):cats.add(c.dataset.c);store.set('cats',[...cats]);render();return}
   const b=ev.target.closest('[data-m]'); if(b){const {id,m}=b.dataset;marks[id]=marks[id]===m?undefined:m;store.set('marks',marks);render()}
 });
 ['q','af','warm','showgone'].forEach(id=>$('#'+id).addEventListener('input',render));
+$('#by').addEventListener('change',()=>{store.set('by',$('#by').value);render()});
 $('#cal').href='webcal://'+location.host+location.pathname.replace(/[^/]*$/,'')+'deadlines.ics';
 fetch('data.json').then(r=>r.json()).then(d=>{
   data=d.entries; $('#gen').textContent='Updated '+fmt(d.generated)+' · '+data.length+' items'; render();
