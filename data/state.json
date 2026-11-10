@@ -3826,6 +3826,11 @@
    "id": "380d493fb5fb",
    "status": "skip"
   },
+  "381b113bfe83": {
+   "found": "2026-11-10",
+   "id": "381b113bfe83",
+   "status": "skip"
+  },
   "381eea8e6439": {
    "action": "Monitor for policy responses or funding announcements related to digital infrastructure and AI.",
    "african_input": false,
@@ -6585,6 +6590,11 @@
   "59f11eb5bc2c": {
    "found": "2026-11-10",
    "id": "59f11eb5bc2c",
+   "status": "skip"
+  },
+  "5a0d1bf6eb27": {
+   "found": "2026-11-10",
+   "id": "5a0d1bf6eb27",
    "status": "skip"
   },
   "5a51a092c554": {
@@ -16495,6 +16505,46 @@
    "v": 2,
    "why": "A governance scandal in Africa's most advanced economy raises questions about policy integrity and transparency, directly affecting ILINA's work on African AI policy formulation and sovereignty."
   },
+  "e4715edec8dd": {
+   "action": "Monitor for Nigeria's AI policy development and potential consultation calls; prepare analysis on AI security implications for crypto/fintech sectors.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-10",
+   "group": "tracker",
+   "headline": "Hackers now deploy AI against crypto firms: Why is Nigeria's AI law still missing?",
+   "id": "e4715edec8dd",
+   "impact": 3,
+   "location": "Nigeria",
+   "organizers": [
+    "Technext24"
+   ],
+   "participation": "N/A - news article; monitor for policy openings",
+   "published": "2026-11-06",
+   "sector": "security",
+   "snippet": "",
+   "source": "Technext24.com (via search)",
+   "status": "done",
+   "summary": "A report reveals that hackers are increasingly deploying AI to target crypto firms in Nigeria, while the country's AI regulatory framework remains absent, highlighting a gap between emerging threats and governance.",
+   "thread": null,
+   "title": "Hackers now deploy AI against crypto firms: Why is Nigeria’s AI law still missing?",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LZktTX0M3Yk8zQXlaUjMtYy1VVHJMN1c0a0RHelg5RzgzZDlvZnluaEtkd0FmZm8wVEVqaDVod05OamlrQlZSUlp5bkhiY2x3Wkc5ZnZXUHFGOUZ3YlR2cWlNLTVGZzU3UXJzMVdZeWhLQlllbE5iMU1mV3Q?oc=5",
+   "v": 2,
+   "why": "The article exposes Nigeria's lack of an AI law amid rising AI-enabled cyber threats, directly relevant to ILINA's focus on AI security in fragile states and the need for context-dependent risk assessment."
+  },
   "e48f5373d253": {
    "action": "Monitor implementation and identify opportunities for ILINA to contribute to policy development or consultation processes",
    "african_input": false,
@@ -18690,7 +18740,7 @@
     "https://www.techpolicy.press/us-midterms-results-present-real-moment-for-change",
     "https://www.techpolicy.press/voters-handed-congress-a-mandate-to-confront-corporate-power-and-technofascism"
    ],
-   "text": "Perspective\nA New Agenda for Tech Regulation Beyond AI\nExpanding regulatory capacity, passing comprehensive privacy legislation, and mandating data access for researchers should be priorities, writes Alice Marwick.\nNovember 9, 2026\nFeatured\nAnalysis\nCan the EU Make TikTok Take Responsibility for Its Rabbit Holes?\nNovember 9, 2026\nPerspective\nIn the AI Era, Language is Now an Attack Surface\nNovember 9, 2026\nPerspective\n10 Things States Should Do with the Meta Settlement Money\nNovember 9, 2026\nFeatured\nAnalysis\nCan the EU Make TikTok Take Responsibility for Its Rabbit Holes?\nNovember 9, 2026\nPerspective\nIn the AI Era, Language is Now an Attack Surface\nNovember 9, 2026\nPerspective\n10 Things States Should Do with the Meta Settlement Money\nNovember 9, 2026\nLatest\nView more\nNews\nCambodia’s Scam Crackdown Has Failed to Stop the Industry’s Global Spread\nNovember 10, 2026\nPerspective\nTech Bros Are White, Progressives Afraid, But Black Women Public Interest Tech Leaders Are Brave\nNovember 9, 2026\nNewsletter\nUS Midterms Results Present 'Real Moment for Change'\nNovember 8, 2026\nPodcast\nFreedom House Charts 'Seismic Shifts' on the Global Internet\nNovember 8, 2026\nAnalysis\nGlobal Digital Policy Roundup: October 2026\nNovember 6, 2026\nPodcast\nAssessing the Impact of the Midterm Elections on US Tech Policy\nNovember 6, 2026\nPodcast\nView more\nRecent\nView more\nPodcast\nAssessing the Impact of the Midterm Elections on US Tech Policy\nNovember 6, 2026\nPodcast\nEurope's AI Ambitions Meet the Data Center Backlash\nNovember 6, 2026\nNews\nThe Google Whistleblower Taking on Big Tech Over Its Role in Gaza\nNovember 6, 2026\nPerspective\nData Centers Were on the Ballot Across the US, and They Lost. What Comes Next?\nNovember 5, 2026\nPerspective\nPull the Plug on Technofascism Before It Reboots\nNovember 5, 2026\nAnalysis\nSocial Media Addiction Cases Are Settling Before Trial. What Does It Mean?\nNovember 5, 2026\nPerspective\nHate Speech Still Pays on YouTube. Regulators Should Follow the Money\nNovember 5, 2026\nPerspective\nVoters Handed Congress a Mandate to Confront Corporate Power and Technofascism\nNovember 4, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "News\nCambodia’s Scam Crackdown Has Failed to Stop the Industry’s Global Spread\nScam operators are relocating across borders, recruiting experienced workers through Telegram and rebuilding smaller operations, reports Lam Le.\nNovember 10, 2026\nFeatured\nPerspective\nA New Agenda for Tech Regulation Beyond AI\nNovember 9, 2026\nAnalysis\nCan the EU Make TikTok Take Responsibility for Its Rabbit Holes?\nNovember 9, 2026\nPerspective\nIn the AI Era, Language is Now an Attack Surface\nNovember 9, 2026\nFeatured\nPerspective\nA New Agenda for Tech Regulation Beyond AI\nNovember 9, 2026\nAnalysis\nCan the EU Make TikTok Take Responsibility for Its Rabbit Holes?\nNovember 9, 2026\nPerspective\nIn the AI Era, Language is Now an Attack Surface\nNovember 9, 2026\nLatest\nView more\nPerspective\nTech Bros Are White, Progressives Afraid, But Black Women Public Interest Tech Leaders Are Brave\nNovember 9, 2026\nPerspective\n10 Things States Should Do with the Meta Settlement Money\nNovember 9, 2026\nNewsletter\nUS Midterms Results Present 'Real Moment for Change'\nNovember 8, 2026\nPodcast\nFreedom House Charts 'Seismic Shifts' on the Global Internet\nNovember 8, 2026\nAnalysis\nGlobal Digital Policy Roundup: October 2026\nNovember 6, 2026\nPodcast\nAssessing the Impact of the Midterm Elections on US Tech Policy\nNovember 6, 2026\nPodcast\nView more\nRecent\nView more\nPodcast\nAssessing the Impact of the Midterm Elections on US Tech Policy\nNovember 6, 2026\nPodcast\nEurope's AI Ambitions Meet the Data Center Backlash\nNovember 6, 2026\nNews\nThe Google Whistleblower Taking on Big Tech Over Its Role in Gaza\nNovember 6, 2026\nPerspective\nData Centers Were on the Ballot Across the US, and They Lost. What Comes Next?\nNovember 5, 2026\nPerspective\nPull the Plug on Technofascism Before It Reboots\nNovember 5, 2026\nAnalysis\nSocial Media Addiction Cases Are Settling Before Trial. What Does It Mean?\nNovember 5, 2026\nPerspective\nHate Speech Still Pays on YouTube. Regulators Should Follow the Money\nNovember 5, 2026\nPerspective\nVoters Handed Congress a Mandate to Confront Corporate Power and Technofascism\nNovember 4, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
