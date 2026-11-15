@@ -1071,6 +1071,11 @@
    "id": "0ecc4be5af4b",
    "status": "skip"
   },
+  "0ede7fa2ca1d": {
+   "found": "2026-11-15",
+   "id": "0ede7fa2ca1d",
+   "status": "skip"
+  },
   "0ee67a769e1d": {
    "found": "2026-11-10",
    "id": "0ee67a769e1d",
@@ -1490,6 +1495,48 @@
    "found": "2026-11-10",
    "id": "15636af8e37a",
    "status": "skip"
+  },
+  "1585d1674e1a": {
+   "action": "Review report for policy implications and potential contribution to agriculture AI governance discussions",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-15",
+   "group": "people",
+   "headline": "Predicting the Rain Is Not Enough: How AI Can Help Africa’s Farmers and Governments Navigate Climate Uncertainty",
+   "id": "1585d1674e1a",
+   "impact": 3,
+   "location": "Online",
+   "organizers": [
+    "Capital FM Africa"
+   ],
+   "participation": "Read the analysis; contact organizers for input opportunities if available",
+   "published": "2026-11-12",
+   "sector": "agriculture",
+   "snippet": "",
+   "source": "Capital FM Africa (via search)",
+   "status": "done",
+   "summary": "A new report or analysis exploring how AI can support African farmers and governments in navigating climate uncertainty, beyond just rain prediction.",
+   "thread": null,
+   "title": "Predicting the Rain Is Not Enough: How AI Can Help Africa’s Farmers and Governments Navigate Climate Uncertainty",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services",
+    "health / agriculture / education"
+   ],
+   "type": "sector_impact",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlRuS0tkT1F0VjEwRmdFNXBldzVfZlo1TWJTLVVsWTQ2aDlrbVFVX0NyMzdOaFdfeE1STXAxUzVuTm5idV9hZnQ4eUxMMHJ5WENGMDJ2Mi1JYVVtaVctYzhmaWpnWkxRU0tmTE45NnRvMjBsQXNjN0FYc3RoMjRZWURxNC1IN2VTRThmUXRBTXRKS3o2MFUtWDR0bVJUYlVycEJ3Z2RFZ0VEQ1FaYnhTeUxwODVTSDVaUUxVbzFtYUVfY3lZazlFa0ZNQ3M4dDV5dkE?oc=5",
+   "v": 2,
+   "why": "Aligns with ILINA's priority of AI improving outcomes in agriculture and building domestic technical capacity on terms that protect African sovereignty."
   },
   "163a7d1df9be": {
    "action": "Monitor India's policy developments for comparative analysis opportunities",
@@ -1992,6 +2039,11 @@
   "1d5dd9a77e71": {
    "found": "2026-11-10",
    "id": "1d5dd9a77e71",
+   "status": "skip"
+  },
+  "1d872cc301ad": {
+   "found": "2026-11-15",
+   "id": "1d872cc301ad",
    "status": "skip"
   },
   "1dfd490fda34": {
@@ -3467,6 +3519,11 @@
    "id": "2cb206728cf9",
    "status": "skip"
   },
+  "2cc82655e480": {
+   "found": "2026-11-15",
+   "id": "2cc82655e480",
+   "status": "skip"
+  },
   "2cc9fc156157": {
    "found": "2026-11-10",
    "id": "2cc9fc156157",
@@ -3695,6 +3752,11 @@
   "328310066e1e": {
    "found": "2026-11-10",
    "id": "328310066e1e",
+   "status": "skip"
+  },
+  "32845b4b21e1": {
+   "found": "2026-11-15",
+   "id": "32845b4b21e1",
    "status": "skip"
   },
   "32dc59b4333e": {
@@ -5884,6 +5946,11 @@
    "v": 2,
    "why": "Raises AI security and critical infrastructure risks in fragile states, aligning with ILINA's position on AI security and context-dependent risk assessment."
   },
+  "4912a78fa101": {
+   "found": "2026-11-15",
+   "id": "4912a78fa101",
+   "status": "skip"
+  },
   "49272f4402f0": {
    "found": "2026-11-10",
    "id": "49272f4402f0",
@@ -7021,6 +7088,46 @@
    "found": "2026-11-10",
    "id": "569850f0b062",
    "status": "skip"
+  },
+  "56a3dd9e7531": {
+   "action": "Monitor for participation opportunities or written submission calls from the centre",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Eswatini"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": true,
+   "fit": 3,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "Eswatini and AICE Africa Launch AI Safety Standards Centre",
+   "id": "56a3dd9e7531",
+   "impact": 3,
+   "location": "Eswatini",
+   "organizers": [
+    "Eswatini",
+    "AICE Africa"
+   ],
+   "participation": "Open to stakeholders; check the centre's channels for calls for input or membership",
+   "published": "2026-11-02",
+   "sector": "",
+   "snippet": "",
+   "source": "https://streamlinefeed.co.ke/ (via search)",
+   "status": "done",
+   "summary": "Eswatini and AICE Africa have launched an AI Safety Standards Centre to develop and promote AI safety standards, marking the first such centre in the region.",
+   "thread": null,
+   "title": "Eswatini and AICE Africa Launch AI Safety Standards Centre",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3VxWEFVSUpLUVlZZVRyLUpsU0k3clRncEkxRV9BRnR1WnJUbjlLeDFwRW8tWDhYRUNGUDFnaU10bG5EeGV0QzlvT2t2T21mOGxPQV91cG80ckhzMWNET3Q1SEQtcEFYaVhxTkVnZ2hFcEFJdnRkSFY2bEk5dUllc2EwTnFnYzFX?oc=5",
+   "v": 2,
+   "why": "Establishes a new regional institution for AI safety standards, creating a platform for African governance input and capacity building on safety."
   },
   "56e7c80b6691": {
    "action": "Submit written input or position paper on digital safety and development governance",
@@ -8239,6 +8346,46 @@
    "v": 2,
    "why": "This event signals Rwanda's continued commitment to AI governance and capacity development, relevant to ILINA's interest in African governance representation and the Global Fund for AI Capacity Development."
   },
+  "66aff7ead273": {
+   "action": "Monitor for policy frameworks or investment terms that may affect African sovereignty and model access; prepare submissions if consultation opportunities arise.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "SA President courts Silicon Valley investment for AI ambitions",
+   "id": "66aff7ead273",
+   "impact": 3,
+   "location": "Silicon Valley, USA",
+   "organizers": [
+    "South African Presidency"
+   ],
+   "participation": "Observation of investment terms and policy developments; no direct public participation call identified in source.",
+   "published": "2026-11-15",
+   "sector": "finance",
+   "snippet": "",
+   "source": "Channel Africa (via search)",
+   "status": "done",
+   "summary": "South Africa's President is actively courting Silicon Valley investment to advance the country's AI ambitions, signalling a push for foreign direct investment in the sector.",
+   "thread": null,
+   "title": "SA President courts Silicon Valley investment for AI ambitions",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0did0c0dWc3a1Y0ZzAzak5LX3VlLUxsblFOS2w3YUFNS2RLT0hfOFpTQXRXV3piZXZTclBJeUZucXNhZi1saFp2TVZYRkdYUUdmc19kTURRY3lSelNlSnNabjcwaFRZUWJaQ0wtYlVyUXI5X3lWcDlzUEl1SDJuLWRONk1CcW9vVmVfd2xoTFgwZnpGY0dBTkdlb0RoaE9fMThDZzRkcm0tQzJocThQOFBjRWw?oc=5",
+   "v": 2,
+   "why": "This signals South Africa's strategic push to attract frontier AI investment, which aligns with ILINA's interest in responsible AI integration and building domestic technical capacity in Africa."
+  },
   "66de6d66006f": {
    "found": "2026-11-10",
    "id": "66de6d66006f",
@@ -8814,6 +8961,11 @@
    "v": 2,
    "why": "As a draft policy from a key African government, this is a direct opportunity for ILINA to shape AI governance on the continent."
   },
+  "6d798b7cbced": {
+   "found": "2026-11-15",
+   "id": "6d798b7cbced",
+   "status": "skip"
+  },
   "6e0720232556": {
    "found": "2026-11-10",
    "id": "6e0720232556",
@@ -8903,6 +9055,11 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDk3eGJfTjg4Z0QwdkVuRWpEcHNHWUFhRWNzT1VPTFJ3U2hJeDRYZUVDV2Vnb3A0ME1QRzU4MWZydFVlRHF0cHMwRGdQVk4xUU9fMC13MU5PV3g4M3JJZnNhRWJlMHhBMWdqNjNZOW1DeVhnRENVbmtVeUZ2YS1UNmUwWVE4azlNTXdidUFISXhoX2c?oc=5",
    "v": 2,
    "why": "Industry-led AI bill development is relevant to ILINA as it signals emerging regulatory trends that could shape future African policy consultations and governance frameworks."
+  },
+  "6f6d7a2700d1": {
+   "found": "2026-11-15",
+   "id": "6f6d7a2700d1",
+   "status": "skip"
   },
   "6fe3e9a12b6a": {
    "action": "Monitor committee agenda for AI policy openings and submission opportunities",
@@ -9223,6 +9380,11 @@
    "url": "https://x.com/ODET_UN/status/2118126511614214404",
    "v": 2,
    "why": "Mentions countries' capacity to benefit from AI, which aligns with ILINA's focus on African sovereignty and domestic technical capacity building."
+  },
+  "7347ab905234": {
+   "found": "2026-11-15",
+   "id": "7347ab905234",
+   "status": "skip"
   },
   "7414d37b5d5f": {
    "action": "Cite in policy memo or submission on AI governance capacity building",
@@ -11545,6 +11707,48 @@
    "id": "8c81e255f5eb",
    "status": "skip"
   },
+  "8cbad8d663c6": {
+   "action": "Monitor for outcomes, policy takeaways, or partnership announcements from the visit",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa",
+    "USA"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": "2026-11-15",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "President Ramaphosa arrives in California for high-level AI learning visit to Silicon Valley",
+   "id": "8cbad8d663c6",
+   "impact": 3,
+   "location": "Silicon Valley, California, USA",
+   "organizers": [
+    "The Presidency"
+   ],
+   "participation": "Open diplomatic visit; no public participation pathway",
+   "published": "2026-11-15",
+   "sector": "",
+   "snippet": "",
+   "source": "The Presidency (via search)",
+   "status": "done",
+   "summary": "President Cyril Ramaphosa has arrived in California for a high-level artificial intelligence learning visit to Silicon Valley, indicating a significant diplomatic and technical engagement between South Africa and the global AI hub.",
+   "thread": null,
+   "title": "President Ramaphosa arrives in California for high-level artificial intelligence learning visit to Silicon Valley",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdGo4THB6bnJmWWdUU0diMUc5WklRVjlaLXJyaXpMMFRLX09JT05JN040c202MjZVeHVsbTc0TWk2UjBWZmc2RktVODA2Y0NQQlVsLWR4NnFJd05CY3N0bXJTRFhTMnFkZkV5VHZUMHJwaGZTNldjbXNyRGM1Y1Y2S2dYV0xWMmN6M1laWlJ3clJsbVc0MGpzVWNTOWpKaTY5R3ZRZXlKZHRXVHUtZmtkOXBoR2ZZSW9ac0NuMnFwbXpzLU8zVVJjag?oc=5",
+   "v": 2,
+   "why": "This visit signals South Africa's active engagement with global AI governance and development trends, which aligns with ILINA's focus on African countries shaping frontier AI."
+  },
   "8d5f783ae04a": {
    "found": "2026-11-12",
    "id": "8d5f783ae04a",
@@ -12247,6 +12451,47 @@
    "v": 2,
    "why": "This represents a high-level government official advocating for African agency in AI, which aligns with ILINA's priority of African countries shaping frontier AI development and protecting sovereignty."
   },
+  "9603cd544703": {
+   "action": "Monitor for outcomes of the visit, potential policy takeaways, or partnership announcements",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": "2026-11-15",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "Ramaphosa Arrives in California for High-Level Silicon Valley AI Learning Visit",
+   "id": "9603cd544703",
+   "impact": 2,
+   "location": "California, USA",
+   "organizers": [
+    "South African Government"
+   ],
+   "participation": "Presidential visit; no public participation details available",
+   "published": "2026-11-15",
+   "sector": "AI safety & security",
+   "snippet": "",
+   "source": "Central News South Africa (via search)",
+   "status": "done",
+   "summary": "President Cyril Ramaphosa has arrived in California for a high-level AI learning visit to Silicon Valley, indicating South Africa's engagement with frontier AI development hubs.",
+   "thread": null,
+   "title": "Ramaphosa Arrives in California for High-Level Silicon Valley AI Learning Visit",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1lObWcxd1Qxd2REV0dCd0U4VVk4d1JkTXhTd1RqalhiYUtNQ2RvV2U3cld3MDR2R1ljdmZjaEdrWUs0ZDNjX01xR3RHSkxOUDZmOEdiX25XeWlMU2w1SVpRZzdRNWhEcHlrM01NR01lMmZkYjBPZGNRUHdObXhRam9IXzZRUE5yRWgzZkJEUUVYUDUyWUJQWWNEMzBXQzlyX0xUZGo3Wmd0QQ?oc=5",
+   "v": 2,
+   "why": "This visit signals South Africa's interest in engaging with AI development ecosystems and could lead to policy insights or partnerships relevant to African governance."
+  },
   "96523d308c98": {
    "action": "Monitor for concrete policy proposals or consultation openings from the Ghanaian Ministry; prepare to engage with any resulting frameworks.",
    "african_input": null,
@@ -12749,6 +12994,44 @@
    "found": "2026-11-10",
    "id": "9a564987bc3f",
    "status": "skip"
+  },
+  "9aa0ce2b4d3a": {
+   "action": "Monitor for any AI policy outcomes or statements from the visit.",
+   "african_input": null,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa",
+    "United States"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": "2026-11-15",
+   "first": false,
+   "fit": null,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "President Ramaphosa's California Working Visit",
+   "id": "9aa0ce2b4d3a",
+   "impact": 2,
+   "location": "California, United States",
+   "organizers": [
+    "South African Government"
+   ],
+   "participation": "Open press/press pool; no public participation call.",
+   "published": "2026-11-15",
+   "sector": "",
+   "snippet": "",
+   "source": "South African Government News Agency (via search)",
+   "status": "done",
+   "summary": "President Cyril Ramaphosa of South Africa arrived in California for a working visit, likely engaging with tech leaders and policymakers in the US state.",
+   "thread": null,
+   "title": "Working Visit: President Ramaphosa arrives in California",
+   "topics": null,
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXNtQ0xyVFNZS1RBbVlIMzQzVEwtODJlUUlFQnVzVHdMUFZpYnJ3bVdXWWo0eElpTWR4aFNBc21oZ19FX0hQYVpVb1RFQkIyNjZJMnRCQkpFcWs2OFYtZmliVmhSdko5bjctOGZmT0E2bHFLR2kyUzdsOFJtQlNONFFQczhzUkNOLW9NcUNnRW5UemVrR0E?oc=5",
+   "v": 2,
+   "why": "This visit may involve discussions on AI governance, policy, or investment relevant to South Africa's AI agenda."
   },
   "9afe890c0848": {
    "found": "2026-11-10",
@@ -13719,6 +14002,43 @@
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHo3Vy1yVVJKWi1VMFprajNjalNYNnV2SEpEVzB1endfcUNKNEpudHhURk1BLUJCTS1hMTZDcUltYnJ5NTlQUHV2cHE3TjRFRVBlUXlhZEstLXJvbXZid0RrNXFaRUxQV2lCMzNwQ216OWlmNTNvZVZVd3VaNUdCb0xMTHJYRXB0cXpiU3BPamY3aG9QZnFSQmNELXFMdFp6cXNRMFdWdndhYU9zbkMxeXNMOGF1a0phdlc1M2lSY19zV0lyVTFkYmwyYTJVMHB2T1dUQnV6bVdyUnJLRVE?oc=5",
    "v": 2,
    "why": "This event directly relates to ILINA's priority of convening African government decision-makers and multilateral bodies with a governance track, and raises questions about AI safety and security in fragile states during election periods."
+  },
+  "a5433d3d25df": {
+   "action": "Monitor for policy details and participation opportunities",
+   "african_input": null,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": null,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "Ramaphosa Turns to Global Technology Hub to Strengthen South Africa’s AI Capabilities",
+   "id": "a5433d3d25df",
+   "impact": 3,
+   "location": "South Africa",
+   "organizers": [
+    "Office of the President of South Africa"
+   ],
+   "participation": "Monitor announcements for consultation calls or partnership details",
+   "published": "2026-11-15",
+   "sector": "public services",
+   "snippet": "",
+   "source": "Central News South Africa (via search)",
+   "status": "done",
+   "summary": "President Cyril Ramaphosa is engaging with a Global Technology Hub to strengthen South Africa's AI capabilities, signalling a push for technical capacity building and international cooperation on AI.",
+   "thread": null,
+   "title": "Ramaphosa Turns to Global Technology Hub to Strengthen South Africa’s AI Capabilities",
+   "topics": null,
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnRyRTRpVWxsajZkRFBnS3F5aHFqYTk1WERXeGRhdi1OMkFHX0pWNktaN3FnV3Vocm80RE9EVjdPVUhlYWJsRTkxV0lOTk0zNFFnYnpwak1JcENvMnJqejZZZUpjeWpkc2plRHVjeHZYYlN1dGJPc0h2b2pBUFdnanVMRmN3cE1GLThQQTNLdFJlbTRjbGdfQkh4NFB0MjlGX01rU19OZDNBSjF0aVZkYQ?oc=5",
+   "v": 2,
+   "why": "This signals government commitment to AI capacity development in South Africa, aligning with ILINA's priority of building domestic technical capacity and responsible AI integration in public services."
   },
   "a59b0e288fdd": {
    "found": "2026-11-10",
@@ -15075,6 +15395,11 @@
    "id": "b4aea2ddecb2",
    "status": "skip"
   },
+  "b4c00a53782b": {
+   "found": "2026-11-15",
+   "id": "b4c00a53782b",
+   "status": "skip"
+  },
   "b51eb736c69d": {
    "found": "2026-11-10",
    "id": "b51eb736c69d",
@@ -15953,6 +16278,11 @@
    "id": "c159d4dd98b8",
    "status": "skip"
   },
+  "c1b784a78cb4": {
+   "found": "2026-11-15",
+   "id": "c1b784a78cb4",
+   "status": "skip"
+  },
   "c1be37f60e44": {
    "found": "2026-11-10",
    "id": "c1be37f60e44",
@@ -16142,6 +16472,47 @@
    "found": "2026-11-10",
    "id": "c5241d622a95",
    "status": "skip"
+  },
+  "c581e307d055": {
+   "action": "Monitor for readouts, bilateral AI deals, or policy announcements from the visit; consider if a submission or position paper is warranted.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa",
+    "USA"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": "2026-11-15",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-15",
+   "group": "news",
+   "headline": "Ramaphosa Arrives in California for Silicon Valley Working Visit",
+   "id": "c581e307d055",
+   "impact": 3,
+   "location": "California, USA",
+   "organizers": [
+    "Office of the President of South Africa"
+   ],
+   "participation": "Observation of readouts, statements, or bilateral outcomes from the visit",
+   "published": "2026-11-15",
+   "sector": "",
+   "snippet": "",
+   "source": "Central News South Africa (via search)",
+   "status": "done",
+   "summary": "President Cyril Ramaphosa has arrived in California for a working visit to Silicon Valley, likely engaging with tech leaders and AI stakeholders during his trip.",
+   "thread": null,
+   "title": "Ramaphosa Arrives in California for Silicon Valley Working Visit",
+   "topics": [
+    "AI summits",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTEJyNkZaTTRQVC1VWkRiVXVVNk50ZGdvM2JLU3A5ak9hcEQxem50UVVNOWhNSi1STW9GdEk3eHJCLUhucHVMVWNuRTQ3dkRuVjVNaXB2SU44UXd0THRWcFpPV01NZmN4cUhTNjJzcm5qNHdVbEhsX2cxS2JxOVYtWWN0Q1Y0Z3I3c3Vwam5oTFpka1JKRGc?oc=5",
+   "v": 2,
+   "why": "This visit signals high-level South African government engagement with the US tech sector, potentially opening avenues for AI policy dialogue and partnerships relevant to ILINA's interests in African governance representation and responsible AI integration."
   },
   "c58325185fac": {
    "action": "",
@@ -20275,6 +20646,11 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamlBQ1VmU3VWRjd4ZFRBcTVpVTZRdU5zc1FhVVhKR3JxaW13dkdvaTJ4V1VMeC1BSEI5WnFnbFpCdzlsclUwRG5jeWM4bTRKSmo1aHJ6UnpiNmUxc3BSRlNHQ2ZGdTVpRGdjcGhIaFRpQW50dFN5MWtWS3pOek5scjNJd2l4QQ?oc=5",
    "v": 2,
    "why": "Directly relates to African AI policy formulation, a top priority for ILINA as it concerns a national government's AI strategy."
+  },
+  "f83d7ad36c3b": {
+   "found": "2026-11-15",
+   "id": "f83d7ad36c3b",
+   "status": "skip"
   },
   "f86850c52842": {
    "action": "Monitor the revised policy process and prepare to contribute if a new consultation opens.",
