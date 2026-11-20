@@ -836,6 +836,11 @@
    "v": 2,
    "why": "This is a concrete policy development from an African government that ILINA can engage with, potentially contributing to strategy refinement or implementation guidance."
   },
+  "0749d05de9d7": {
+   "found": "2026-11-20",
+   "id": "0749d05de9d7",
+   "status": "skip"
+  },
   "0750d8bb7937": {
    "found": "2026-11-10",
    "id": "0750d8bb7937",
@@ -1277,6 +1282,11 @@
    "id": "0c8f2c57c13e",
    "status": "skip"
   },
+  "0d3c0fab9305": {
+   "found": "2026-11-20",
+   "id": "0d3c0fab9305",
+   "status": "skip"
+  },
   "0d80f24ae8a9": {
    "found": "2026-11-10",
    "id": "0d80f24ae8a9",
@@ -1405,6 +1415,11 @@
   "0e34b5f7818d": {
    "found": "2026-11-10",
    "id": "0e34b5f7818d",
+   "status": "skip"
+  },
+  "0e72da7227dd": {
+   "found": "2026-11-20",
+   "id": "0e72da7227dd",
    "status": "skip"
   },
   "0ec5c6d8a08a": {
@@ -1695,6 +1710,11 @@
    "v": 2,
    "why": "The rejection clears space for the National AI and Emerging Technologies Policy, which ILINA has advocated for as a better governance pathway, and reflects stakeholder concerns ILINA has highlighted about premature, top-down regulation."
   },
+  "10f4b2e6d413": {
+   "found": "2026-11-20",
+   "id": "10f4b2e6d413",
+   "status": "skip"
+  },
   "1112c01a76f2": {
    "found": "2026-11-17",
    "id": "1112c01a76f2",
@@ -1750,6 +1770,11 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaMm9mUHlSWTR5N3RhcmxrMkVQZER0RlhPd0pPTGN1Zl9nNm9heDE3SHNoY2ZsOW9FeHVsQm5xYk8tay1uRnNua2xmQlRVakRNVFJrZElONEtabXRBNmdNcEFNa2xoX0U1WXRYajFlc29sS0dtVDNEcGUtV3M?oc=5",
    "v": 2,
    "why": "The delay creates a policy vacuum and opens a window for stakeholder input, which ILINA can use to shape the final policy direction."
+  },
+  "11d73b366059": {
+   "found": "2026-11-20",
+   "id": "11d73b366059",
+   "status": "skip"
   },
   "12554b4e303d": {
    "found": "2026-11-13",
@@ -2127,6 +2152,11 @@
    "v": 2,
    "why": "This represents a high-level diplomatic engagement that could shape South Africa's AI policy direction and investment climate, directly relevant to ILINA's focus on African governance and sovereignty."
   },
+  "171d7c55bf47": {
+   "found": "2026-11-20",
+   "id": "171d7c55bf47",
+   "status": "skip"
+  },
   "1720468d70a8": {
    "found": "2026-11-10",
    "id": "1720468d70a8",
@@ -2226,6 +2256,11 @@
   "17c0c419dc69": {
    "found": "2026-11-10",
    "id": "17c0c419dc69",
+   "status": "skip"
+  },
+  "17d4ff900aaa": {
+   "found": "2026-11-20",
+   "id": "17d4ff900aaa",
    "status": "skip"
   },
   "17e42201b6e0": {
@@ -2389,6 +2424,11 @@
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUVzZmS04zUWUyMFZlSGhEaHVJODNQZHVSRlBBQmtKdk1uTDVMMXZmYkgxUUIwQmNzTUdRbEFWVGlUaXk2ejdaNGk2dWtEUGlTMWdEUFZUeGZkZUwyZGJDN0V2bDdqZXBQTXdHU0Jwb194V0lEUTdKT0RMRQ?oc=5",
    "v": 2,
    "why": "ITU council membership directly shapes Africa's influence in international telecom and AI governance standards, aligning with ILINA's priority on African representation in multilateral processes."
+  },
+  "19cf58ae5ffc": {
+   "found": "2026-11-20",
+   "id": "19cf58ae5ffc",
+   "status": "skip"
   },
   "1a615a589920": {
    "found": "2026-11-17",
@@ -2886,6 +2926,11 @@
    "v": 2,
    "why": "This bilateral engagement signals African government interest in AI cooperation, which could open avenues for ILINA to contribute governance perspectives."
   },
+  "1f7ccc4c4953": {
+   "found": "2026-11-20",
+   "id": "1f7ccc4c4953",
+   "status": "skip"
+  },
   "1f90060d43cd": {
    "found": "2026-11-17",
    "id": "1f90060d43cd",
@@ -3154,6 +3199,11 @@
   "21ad677b35c4": {
    "found": "2026-11-16",
    "id": "21ad677b35c4",
+   "status": "skip"
+  },
+  "21cad18be835": {
+   "found": "2026-11-20",
+   "id": "21cad18be835",
    "status": "skip"
   },
   "22181928f576": {
@@ -3518,6 +3568,11 @@
    "v": 2,
    "why": "This is a UN system standards initiative that could shape the technical foundation for future AI governance frameworks, including those discussed in the UN Global Dialogue on AI Governance and AI Safety Summits."
   },
+  "24d6c45d9669": {
+   "found": "2026-11-20",
+   "id": "24d6c45d9669",
+   "status": "skip"
+  },
   "25179f131569": {
    "action": "Monitor for written submission calls or position papers from this event; note for future ILINA engagement on AI security governance.",
    "african_input": false,
@@ -3604,6 +3659,16 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOXFPLTZ4aWdfMlZ2djNVMVIycm5rcktZaUkydDlWbHEyZlFHSFR2bDdTUEZsYm80REVxMTJYU24tdHVmQTVaS2hWNkw1UmZjVTFTNm93YW9SeGcwMHdxYmRBcXpkd0Fxc09vN2FtVnRHVDhOY0E?oc=5",
    "v": 2,
    "why": "This is a concrete opportunity for individuals to gain experience in AI governance, which could indirectly support African capacity building if selected participants apply skills to African contexts."
+  },
+  "253f29779c6a": {
+   "found": "2026-11-20",
+   "id": "253f29779c6a",
+   "status": "skip"
+  },
+  "25478ceff31f": {
+   "found": "2026-11-20",
+   "id": "25478ceff31f",
+   "status": "skip"
   },
   "2572a0c1c191": {
    "action": "Monitor for Egypt's position papers or submission calls arising from this vision; consider ILINA contributing analysis on African perspectives.",
@@ -4613,6 +4678,11 @@
    "v": 2,
    "why": "This is a regional policy process open to stakeholder input, directly relevant to ILINA's priority of African regional policy formulation."
   },
+  "2e27fa2e7bea": {
+   "found": "2026-11-20",
+   "id": "2e27fa2e7bea",
+   "status": "skip"
+  },
   "2e73458c54f6": {
    "found": "2026-11-17",
    "id": "2e73458c54f6",
@@ -4667,6 +4737,11 @@
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVm04SjhwbEZmRzRTYUxhZkNlN0wyTXpYYkJDVVFHQ1dGdGtQVXFjOE5sN014cVZzMDhpQjZoSXo5Vnpyc2ZXbHBKbnY1aWF1ckVpVlJSY2lSVjkyZE81MTNISEV6VklMNDlWQ2k5Y0x3TTQ3akVpM1hYdGFJbTJSRkdMdGpJNFpwVnZvaUF4MVo3ZENTbnhYbVB2TVQ2MndkS3pTQW50TkZfUkI4dExYWUs3VXdRaFFCdHplbldpYWpKT1htb0JfMUItZjNXS1owd3Q3ZTlXTHlJcDJaaW5HSUd1MFNFaXNrblE?oc=5",
    "v": 2,
    "why": "Provides context on South Africa's approach to AI governance, which is relevant to ILINA's interest in African policy formulation and responsible AI integration."
+  },
+  "2f7cfb95138d": {
+   "found": "2026-11-20",
+   "id": "2f7cfb95138d",
+   "status": "skip"
   },
   "2f94cf319105": {
    "found": "2026-11-16",
@@ -4830,6 +4905,11 @@
   "314432c09d26": {
    "found": "2026-11-16",
    "id": "314432c09d26",
+   "status": "skip"
+  },
+  "318a25edaf56": {
+   "found": "2026-11-20",
+   "id": "318a25edaf56",
    "status": "skip"
   },
   "319ec05136e5": {
@@ -5402,6 +5482,11 @@
    "v": 2,
    "why": "This is the UN's leading AI platform and a key moment to look ahead; ILINA can position African voices in policy discussions and potentially shape agenda-setting."
   },
+  "3567f35d97f7": {
+   "found": "2026-11-20",
+   "id": "3567f35d97f7",
+   "status": "skip"
+  },
   "359af1bae758": {
    "found": "2026-11-10",
    "id": "359af1bae758",
@@ -5454,6 +5539,11 @@
   "35e624d03867": {
    "found": "2026-11-13",
    "id": "35e624d03867",
+   "status": "skip"
+  },
+  "35f6031b56c5": {
+   "found": "2026-11-20",
+   "id": "35f6031b56c5",
    "status": "skip"
   },
   "361f42d226bd": {
@@ -5656,6 +5746,11 @@
   "385e254b501f": {
    "found": "2026-11-10",
    "id": "385e254b501f",
+   "status": "skip"
+  },
+  "388a53d0d1aa": {
+   "found": "2026-11-20",
+   "id": "388a53d0d1aa",
    "status": "skip"
   },
   "389661a6cf5c": {
@@ -5965,6 +6060,11 @@
   "3c160770a718": {
    "found": "2026-11-10",
    "id": "3c160770a718",
+   "status": "skip"
+  },
+  "3c17d23b662f": {
+   "found": "2026-11-20",
+   "id": "3c17d23b662f",
    "status": "skip"
   },
   "3c17dc9fffba": {
@@ -6852,6 +6952,11 @@
    "v": 2,
    "why": "Directly aligns with ILINA's priority for African governance representation and AI safety in fragile states, and offers a concrete way to contribute to AU policy."
   },
+  "41ec51fefb0b": {
+   "found": "2026-11-20",
+   "id": "41ec51fefb0b",
+   "status": "skip"
+  },
   "4221d1cd7af8": {
    "found": "2026-11-10",
    "id": "4221d1cd7af8",
@@ -7628,6 +7733,11 @@
    "id": "4b2972b6ca3d",
    "status": "skip"
   },
+  "4b533d555281": {
+   "found": "2026-11-20",
+   "id": "4b533d555281",
+   "status": "skip"
+  },
   "4b817af2f790": {
    "found": "2026-11-10",
    "id": "4b817af2f790",
@@ -7839,6 +7949,52 @@
    "id": "4e355fa927bf",
    "status": "skip"
   },
+  "4e40e297ffcd": {
+   "found": "2026-11-20",
+   "id": "4e40e297ffcd",
+   "status": "skip"
+  },
+  "4e44221ee159": {
+   "action": "Monitor for written submission calls or participation opportunities arising from this convening",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-22",
+   "event_start": "2026-11-20",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "Between Ancestral Wisdom and Digital Futures: Reimagining Africa’s sustainable development",
+   "id": "4e44221ee159",
+   "impact": 3,
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "Tribune Online"
+   ],
+   "participation": "Open to public registration; check Tribune Online for details",
+   "published": "2026-11-08",
+   "sector": "public services",
+   "snippet": "",
+   "source": "Tribune Online (via search)",
+   "status": "done",
+   "summary": "A convening event exploring the intersection of traditional African knowledge systems and emerging digital technologies, focusing on sustainable development pathways for the continent.",
+   "thread": null,
+   "title": "Between Ancestral Wisdom and Digital Futures: Reimagining Africa’s sustainable development",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWE1Uk9nNkJhcm9vY0pmWG9BbFZvS1hvNzJ6MTVZTExRUzRsVHZDSEo0LVdvZElFeTlPTjAwaldVdWNZLXRHUVdscDRnazYwM0Z0bVNNUU8ya2taeDk5czI2VUdST2RlaV9KejM4VEwxdkxBUXRIZnJxdHNlRHZaU09DZnJGZDVOeEs3SXFNT0dtckdHNElqbE1qS1FTX2x1ajZEd202R3FhaDNPc3c0UU82QWt5dEEw?oc=5",
+   "v": 2,
+   "why": "This event directly engages with African perspectives on technology and development, aligning with ILINA's interest in how AI can improve outcomes in agriculture, healthcare and education on terms that protect African sovereignty."
+  },
   "4e8009f33185": {
    "action": "Monitor for side events, written submission calls, or panels with African representation; consider ILINA co-signing or contributing to a submission.",
    "african_input": false,
@@ -7974,6 +8130,11 @@
    "url": "https://www.linkedin.com/posts/ai-safety-connect_governing-ai-for-humanityfrom-ambition-to-activity-7526621532865900545-lZgo",
    "v": 2,
    "why": "Reviews implementation of UN AI governance recommendations and notes information gaps in state oversight of frontier labs, relevant to ILINA's interest in global AI governance processes."
+  },
+  "4ebbdcf70a59": {
+   "found": "2026-11-20",
+   "id": "4ebbdcf70a59",
+   "status": "skip"
   },
   "4eef95815a09": {
    "found": "2026-11-19",
@@ -9075,6 +9236,51 @@
    "id": "57a5ccfa6c06",
    "status": "skip"
   },
+  "57c9f650f9db": {
+   "found": "2026-11-20",
+   "id": "57c9f650f9db",
+   "status": "skip"
+  },
+  "58395e75dff6": {
+   "action": "Monitor the bill's progress and prepare analysis of implications for African AI governance and financing frameworks",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "United States"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "tracker",
+   "headline": "Senators Propose AUDIT AI Act on AI Financing",
+   "id": "58395e75dff6",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "US Senators"
+   ],
+   "participation": "Monitor legislative developments and prepare submission opportunities when bill details are available",
+   "published": "2026-11-20",
+   "sector": "",
+   "snippet": "",
+   "source": "Wisevoter (via search)",
+   "status": "done",
+   "summary": "A proposed AI Financing Act in the US Senate aims to create a framework for auditing and financing AI systems, potentially establishing new oversight mechanisms and funding streams for AI development and evaluation.",
+   "thread": null,
+   "title": "Senators Propose AUDIT AI Act on AI Financing",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEg3dnhSZkZ1VmhQYjd2UHc4ejBFQlFpS241Mkt0bkJTaXM0LThQaXZRYW1WVGp1SmoyeXhMalZHRXJ6V3ZKbnNVS0lFRGJ3QzVfQ0R1T09SdGxtSXp4NEZrMlpqemtnVXlFSUdnOTZZWlo2WkRQUml6cWFSaC1RU2pGZnk?oc=5",
+   "v": 2,
+   "why": "This US legislative development could shape global AI financing standards and oversight frameworks that African countries will need to engage with or respond to."
+  },
   "5863602333ba": {
    "action": "Submit written input or position statement on AI-climate information integrity to UN processes",
    "african_input": false,
@@ -9274,6 +9480,11 @@
    "id": "5925042d6cd8",
    "status": "skip"
   },
+  "59417b2c19b5": {
+   "found": "2026-11-20",
+   "id": "59417b2c19b5",
+   "status": "skip"
+  },
   "5941e4f3a84b": {
    "found": "2026-11-10",
    "id": "5941e4f3a84b",
@@ -9282,6 +9493,11 @@
   "596be0cc77b9": {
    "found": "2026-11-10",
    "id": "596be0cc77b9",
+   "status": "skip"
+  },
+  "597d46581ee5": {
+   "found": "2026-11-20",
+   "id": "597d46581ee5",
    "status": "skip"
   },
   "5982a8cb0443": {
@@ -9326,6 +9542,49 @@
    "v": 2,
    "why": "This signals Kenya's engagement with frontier AI providers at the multilateral level, which could open pathways for African policy input, data sovereignty discussions, and funding mechanisms aligned with ILINA's priorities."
   },
+  "59b6ec13c20f": {
+   "action": "Monitor ITU PP-26 outcomes and submissions; explore opportunities for ILINA to contribute African perspectives to digital policy negotiations",
+   "african_input": false,
+   "allies": [
+    "ITU"
+   ],
+   "arena": "Other multilateral",
+   "countries": [
+    "Qatar",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-20",
+   "event_start": "2026-11-10",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "ITU PP-26 Doha: Ethel Cofie calls for stronger African influence in ITU digital policy negotiations",
+   "id": "59b6ec13c20f",
+   "impact": 3,
+   "location": "Doha, Qatar",
+   "organizers": [
+    "ITU (International Telecommunication Union)"
+   ],
+   "participation": "Attend or follow ITU PP-26 sessions; submit contributions on African digital policy interests; engage with ITU member state delegations",
+   "published": "2026-11-10",
+   "sector": "digital policy",
+   "snippet": "",
+   "source": "Tech Review Africa (via search)",
+   "status": "done",
+   "summary": "At ITU Plenipotentiary Conference PP-26 in Doha, Ghanaian digital policy advocate Ethel Cofie called for stronger African influence in ITU digital policy negotiations, highlighting Africa's current marginalisation in shaping global digital standards.",
+   "thread": null,
+   "title": "ITU PP-26 Doha: Ethel Cofie calls for stronger African influence in ITU digital policy negotiations at PP-26",
+   "topics": [
+    "AI summits",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON2ItWlo3LUlnX1BIaTFqUUU3bWd5aU5mYW5xNFJpNUxPamJ1WGxHTk95ZFRDUThXQ3kwUmdoV2ZGT291ZlkxRGVXNzFuRG82dVFBczBGZ2tCUDh2VEZLSG5wc1FUdDBISEUyZVF5Wkl1YWFpRFZ1YW5QX0ZCVjRuTHQ5WkpES2REbWZPMGFHMjZzOVVIZ014dktjdTQ0c0pCSDZVMGIxZ1JhNFdhSXpkckt6SmxCd0tBWmdhenhsUkJoTXNZYXBuaEhvZmwwanhXTTNFQVdoS2xtSlVQeUdn?oc=5",
+   "v": 2,
+   "why": "This event directly relates to ILINA's priority of African countries shaping how frontier AI is developed and deployed, as ITU negotiations set digital policy frameworks that affect AI governance."
+  },
   "59f11eb5bc2c": {
    "found": "2026-11-10",
    "id": "59f11eb5bc2c",
@@ -9356,6 +9615,11 @@
    "id": "5ac9eaa8a370",
    "status": "skip"
   },
+  "5ae6ecf1b68a": {
+   "found": "2026-11-20",
+   "id": "5ae6ecf1b68a",
+   "status": "skip"
+  },
   "5aee162a78f2": {
    "found": "2026-11-10",
    "id": "5aee162a78f2",
@@ -9364,6 +9628,11 @@
   "5b05ed9e0553": {
    "found": "2026-11-17",
    "id": "5b05ed9e0553",
+   "status": "skip"
+  },
+  "5b0c6b879b6d": {
+   "found": "2026-11-20",
+   "id": "5b0c6b879b6d",
    "status": "skip"
   },
   "5b2435586c3d": {
@@ -10209,6 +10478,11 @@
    "v": 2,
    "why": "This signals a governance initiative on responsible AI use in African media, relevant to ILINA's interest in responsible AI integration in public services and context-dependent risk assessment."
   },
+  "601e580395d2": {
+   "found": "2026-11-20",
+   "id": "601e580395d2",
+   "status": "skip"
+  },
   "604b61061aeb": {
    "found": "2026-11-10",
    "id": "604b61061aeb",
@@ -10521,6 +10795,11 @@
   "65d0740b50f4": {
    "found": "2026-11-16",
    "id": "65d0740b50f4",
+   "status": "skip"
+  },
+  "65daca45cc5b": {
+   "found": "2026-11-20",
+   "id": "65daca45cc5b",
    "status": "skip"
   },
   "66826a76e409": {
@@ -11415,6 +11694,11 @@
    "id": "6ee1a7a813d9",
    "status": "skip"
   },
+  "6f18b7b8c860": {
+   "found": "2026-11-20",
+   "id": "6f18b7b8c860",
+   "status": "skip"
+  },
   "6f3b006cc51a": {
    "found": "2026-11-17",
    "id": "6f3b006cc51a",
@@ -11676,6 +11960,11 @@
   "7204ddb620e2": {
    "found": "2026-11-17",
    "id": "7204ddb620e2",
+   "status": "skip"
+  },
+  "720830225733": {
+   "found": "2026-11-20",
+   "id": "720830225733",
    "status": "skip"
   },
   "723cb0920cf8": {
@@ -11987,6 +12276,87 @@
    "v": 2,
    "why": "The event explicitly centres African voices in AI governance and convenes African policymakers and experts, aligning with ILINA's priority of African participation in shaping frontier AI."
   },
+  "74a93a493cdc": {
+   "action": "Monitor Egypt's position and any follow-up consultations on national AI governance frameworks",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Egypt"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "FM highlights Egypt's efforts to establish national AI governance framework at G7 meeting",
+   "id": "74a93a493cdc",
+   "impact": 3,
+   "location": "G7 meeting venue",
+   "organizers": [
+    "G7"
+   ],
+   "participation": "Monitor for Egypt's official positions and potential consultation opportunities",
+   "published": "2026-11-09",
+   "sector": "security",
+   "snippet": "",
+   "source": "الهيئة العامة للاستعلامات (via search)",
+   "status": "done",
+   "summary": "Egypt's Foreign Minister highlighted the country's efforts to establish a national AI governance framework at a G7 meeting, indicating Egypt's engagement in shaping AI policy at an influential multilateral forum.",
+   "thread": null,
+   "title": "FM highlights Egypt's efforts to establish national AI governance framework at G7 meeting",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNm5HdVhHalZ5aFYzbWF2Zl9PdUVZNXlmZ1ppQ3NwVm1tWlRsVFpzNXlLWUoxeXlNZ1FIY0hONGp1U0h2WThRdnFVWG9aLWllRlFXU0NJbnhPVzBXN3prMDZTMjJPdWp6a1RNRHVTbG5MNS1ORGY3TWJwcERyZTZ2Z1ltMVhNbWVfWW4zOTFkM3I1bFRNaWtIY1pJcmJyXzNlSGFwU1pzdzdSNURwMVREYm9vZ1IzZ09zNlk3SXpjblVZc2xOYmJLaQ?oc=5",
+   "v": 2,
+   "why": "This signals African country engagement in shaping AI governance at a high-level multilateral forum, relevant to ILINA's priority of African countries shaping frontier AI development."
+  },
+  "74c7a0731c09": {
+   "action": "Submit written input or position paper to South Africa's AI policy process",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "Why South Africa needs a constitutional approach to AI regulation",
+   "id": "74c7a0731c09",
+   "impact": 3,
+   "location": "South Africa",
+   "organizers": [
+    "Mail & Guardian"
+   ],
+   "participation": "Read the article and submit comments to South Africa's AI regulation consultation (if open) or engage in public participation processes",
+   "published": "2026-11-19",
+   "sector": "public services",
+   "snippet": "",
+   "source": "Mail & Guardian (via search)",
+   "status": "done",
+   "summary": "An opinion piece argues that South Africa should embed AI governance within its constitution to ensure fundamental rights protections and sovereign control over AI deployment.",
+   "thread": null,
+   "title": "Why South Africa needs a constitutional approach to AI regulation",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUJWRUFjeWFsWXI4LWpxVl8yS2twUGxQTy1GeHYza1Z6VmxsclU2b2hQQUk5UjdlUm9GVVhZajR5dldjOXAxU0JBX1ZyYWZTNml4ay1ZeFNTUldfa3kxWTBzUWplZ1BsTDJXMXNmT1ZkQVV6MkVuZjBMUkVQdjlud1F0bDd2RUF0?oc=5",
+   "v": 2,
+   "why": "Directly addresses AI policy formulation at the national government level in Africa, aligning with ILINA's top priority of contributing to AI policy in Africa."
+  },
   "74e378af2aa3": {
    "found": "2026-11-10",
    "id": "74e378af2aa3",
@@ -12076,6 +12446,46 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1ZQUmhDc01YZk5lWDlmeG55ZFFzdmszWEdyQzVLUEt2NUNtY0h1NVJ5R2dab1JvQ25MZ2NwMTZ5T2tOZ1lVTFdma3A1LVlzSEVKZWNTb05Zd1o2VEVVLTNidjgzcF9oQk9tWFQyZmN0TXBILUIyUnpuUnNubWhOeTN5RTBpWTAweThwbVU0RHZRUUg0VUFuUl9fOUY?oc=5",
    "v": 2,
    "why": "This is a continent-wide AU process with explicit open input for stakeholders, directly shaping AI governance policy in Africa."
+  },
+  "755315288c23": {
+   "action": "Submit written input or position paper on Nigeria's AI trust framework",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "NITDA Links Nigeria's AI Trust Agenda to Indigenous Technology Investment",
+   "id": "755315288c23",
+   "impact": 3,
+   "location": "Abuja, Nigeria",
+   "organizers": [
+    "NITDA (National Information Technology Development Agency)"
+   ],
+   "participation": "Monitor for open calls for comments or submissions on the AI trust framework; no current deadline stated",
+   "published": "2026-11-20",
+   "sector": "public services",
+   "snippet": "",
+   "source": "Techeconomy (via search)",
+   "status": "done",
+   "summary": "NITDA connects Nigeria's AI trust framework to investment in local technology, signalling a policy push for domestic AI capabilities.",
+   "thread": null,
+   "title": "NITDA Links Nigeria's AI Trust Agenda to Indigenous Technology Investment",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2tFei1rb0lranRDQXAwTHdYTGYyX19UQnM0dlp6aGJmNGhRd293enZQOVVtZkdpUUk5WnUwMUtRV0F4eDhXVnFZOWRSaEpHZVB4aDhRbXhaOEJ0c3lzQ1NzNXpEZmlydkdaQ3RLOEVnd19Vbll4UzdGN0xPSlpwbGdWdGNFUDByQ0xaR252N3BOVEZkc1NYeUR0cw?oc=5",
+   "v": 2,
+   "why": "Directly relates to African government AI policy formulation and indigenous technology investment, a key ILINA priority."
   },
   "7553f4b92047": {
    "found": "2026-11-18",
@@ -12222,6 +12632,11 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmVWNFprbGpNUUpFTjlNUVRXS01ENXZSSEZFdVl3bGdWT1lRS2Fsb25uSDFVQWhHbFN3bmw0ZlZMN1NNN1lMVzg5OFV2OWItMHhlRWVYX091djRoMmhybFoya0hRTGpsM2pVZ3IwX2NzT2ZrU3ZSNzBfVWc4djhyNWlidTdQQkhUQmoxVFZpaE4?oc=5",
    "v": 2,
    "why": "A new national AI strategy from an African government is a concrete policy development that ILINA can engage with to shape AI governance on the continent."
+  },
+  "76807b124c98": {
+   "found": "2026-11-20",
+   "id": "76807b124c98",
+   "status": "skip"
   },
   "76cdc767d92d": {
    "found": "2026-11-10",
@@ -12725,6 +13140,11 @@
    "id": "7a4d329c72ac",
    "status": "skip"
   },
+  "7a944de50324": {
+   "found": "2026-11-20",
+   "id": "7a944de50324",
+   "status": "skip"
+  },
   "7ab270d52998": {
    "action": "Monitor for details on fund structure, governance representation, and application procedures; consider submitting ILINA input on African governance representation.",
    "african_input": null,
@@ -12891,6 +13311,11 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnh0ckF5bmdlRDFMV3BmNFpRRDQtWDRfVnktbkRWSVN6OTNYQjBzWVhvREd3YU1rX2pBZGdpY2hVZDM1Q1ZPeEdBSHdUNjVtOUxwNW5keUtjazRQNnFyMUl1bkVrNEgzQnYzRzFTTDZLVlRVYl9MUjFuSjJ4WElkbHNLTGZhS3J2Slk0UkltQ0lIc2tvV1dsQW16R1RiaEtRczJqdGM4TnRDZw?oc=5",
    "v": 2,
    "why": "This regional event includes AI governance sessions that could provide a platform for African perspectives or coalition-building on AI policy."
+  },
+  "7b7471d92b91": {
+   "found": "2026-11-20",
+   "id": "7b7471d92b91",
+   "status": "skip"
   },
   "7b8339461c87": {
    "action": "Submit written input to South African policy processes calling for mandatory third-party evaluations and incident reporting frameworks for AI-generated policy content",
@@ -13122,6 +13547,11 @@
    "id": "7d6bbda35217",
    "status": "skip"
   },
+  "7d770da6cb3b": {
+   "found": "2026-11-20",
+   "id": "7d770da6cb3b",
+   "status": "skip"
+  },
   "7dbe35e9b704": {
    "found": "2026-11-10",
    "id": "7dbe35e9b704",
@@ -13220,6 +13650,47 @@
    "found": "2026-11-10",
    "id": "7f11c537ef28",
    "status": "skip"
+  },
+  "7f42a3b4a828": {
+   "action": "Monitor for opportunities to contribute African perspectives to the declaration's implementation or sign-on process",
+   "african_input": false,
+   "allies": [],
+   "arena": "Other multilateral",
+   "countries": [
+    "India",
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "Three countries join New Delhi Declaration on AI Impact",
+   "id": "7f42a3b4a828",
+   "impact": 3,
+   "location": "Online / Global",
+   "organizers": [
+    "Government of India"
+   ],
+   "participation": "Signatory status open; check if African countries can join or contribute expertise",
+   "published": "2026-11-19",
+   "sector": "",
+   "snippet": "",
+   "source": "DD News (via search)",
+   "status": "done",
+   "summary": "Three additional countries have signed the New Delhi Declaration on AI Impact, bringing the total number of signatories to 91. The declaration aims to address the impact of AI through international cooperation.",
+   "thread": null,
+   "title": "Three more countries join New Delhi Declaration on AI Impact; signatories rise to 91",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1pZaTA4X190emphM1BicGVXR3RCTE56OEFlVXk5eGc3YkRPanQzSHFhNlpBa2tfLU1yeEMxZ3ctTEpVUUxpM05sWlZNaDdTaV9uamVhdGRJWXJ3LUV6Qk1JWkVIWGRPbnp0MTlwUF9LQVJyb0VBRktIdE1fX19ibnhvaWVHMno2d1lhbGlrVW1Xd2RpXzZpMkp2Z2lkNTd2TXg4VHFOYkRoNm56MXc?oc=5",
+   "v": 2,
+   "why": "The New Delhi Declaration is a significant multilateral initiative on AI governance with growing signatory participation, relevant to ILINA's interest in Africa shaping global AI governance frameworks."
   },
   "7f856ef40301": {
    "action": "Monitor the situation and assess need for position statement or submission on policy integrity",
@@ -13654,6 +14125,11 @@
   "833c404e9faf": {
    "found": "2026-11-10",
    "id": "833c404e9faf",
+   "status": "skip"
+  },
+  "836cc50f5785": {
+   "found": "2026-11-20",
+   "id": "836cc50f5785",
    "status": "skip"
   },
   "83c454f14523": {
@@ -14144,6 +14620,11 @@
    "v": 2,
    "why": "This appointment signals South Africa's active role in developing national AI policy, directly relevant to ILINA's priority of African countries shaping frontier AI development."
   },
+  "8621b27367e9": {
+   "found": "2026-11-20",
+   "id": "8621b27367e9",
+   "status": "skip"
+  },
   "86466a0150f2": {
    "action": "Monitor for upcoming consultation calls or policy frameworks from the AU",
    "african_input": false,
@@ -14277,6 +14758,11 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUxVSVlkRkZiSXp5VkR6c2ZiTkx3bTVrRXJON09iMG5WRU4yTExwNS03UDFGUGxtaC1oMWpYNzRUcWZoQzFSZ2liaXFlc2hycWx0S2VPWlhXLWNqN2pabVBRNk4wNUNoN242Y2JJUzJYSC1WUTc4OHhTa1Bzc2ZmNlMycmZKbmxEeGFQbWVsbmJqLWY2S1dpckRIMkFpbTlJU0JzSENWYklEcGkzUWgwMUhlMA?oc=5",
    "v": 2,
    "why": "The collapse of South Africa's AI policy process is a significant setback for African AI governance and highlights the need for transparent, sovereign policy development - a key concern for ILINA's work on responsible AI integration and capacity development."
+  },
+  "8815bb78b3da": {
+   "found": "2026-11-20",
+   "id": "8815bb78b3da",
+   "status": "skip"
   },
   "88488818759c": {
    "found": "2026-11-10",
@@ -14669,6 +15155,46 @@
    "id": "8c13bc9cd910",
    "status": "skip"
   },
+  "8c15b0ddbb3c": {
+   "action": "Monitor for any open consultation or submission process on the draft Bill",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Indonesia"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "tracker",
+   "headline": "AI Bill and the Challenge of Keeping Humanity in Control",
+   "id": "8c15b0ddbb3c",
+   "impact": 2,
+   "location": "Jakarta, Indonesia / Online",
+   "organizers": [
+    "Kompas.com"
+   ],
+   "participation": "Read the commentary; watch for official government calls for input on the draft Bill",
+   "published": "2026-11-19",
+   "sector": "public services",
+   "snippet": "",
+   "source": "Kompas.com (via search)",
+   "status": "done",
+   "summary": "A commentary on Indonesia's draft AI Bill, discussing the tension between rapid AI adoption and maintaining human oversight, with reflections on regulatory approaches.",
+   "thread": null,
+   "title": "AI Bill and the Challenge of Keeping Humanity in Control",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlNVdHhZaTRRTmpEUTdHMkRjLWNCdkV4MV9obnV2bHhwOHNBTzJ4WmdGcEdONXFkRTEwX3JGN0dnTmg1d2g5RlFUSURhSTczcjZIQnFmNjRQVTFqd1h5NHZQbVhmVlRFNTJhdkM5eUZvSmxsaWlOSTFZNFB0T0V4bGp4dHM0MU1GZzJrSG5aSzV5TnBtdllIMFlFSjhpcHB2VG42VzE5Zw?oc=5",
+   "v": 2,
+   "why": "The article examines AI governance policy development in an African-adjacent context (Indonesia), which aligns with ILINA's interest in policy formulation and regulatory design for lower-income governments."
+  },
   "8c81e255f5eb": {
    "found": "2026-11-10",
    "id": "8c81e255f5eb",
@@ -15021,6 +15547,11 @@
    "id": "905cfd98b1b7",
    "status": "skip"
   },
+  "909ed4c5f38b": {
+   "found": "2026-11-20",
+   "id": "909ed4c5f38b",
+   "status": "skip"
+  },
   "9111db39e915": {
    "action": "Monitor for Uganda's position statements or submissions emerging from the session; consider ILINA contributing analysis on AI safety or capacity development.",
    "african_input": false,
@@ -15156,10 +15687,131 @@
    "id": "9200701f1fd3",
    "status": "skip"
   },
+  "920e19989816": {
+   "action": "Monitor for written submission calls or position papers arising from the discussion",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-19",
+   "event_start": "2026-11-19",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "ISS Live: Who owns Africa’s AI future?",
+   "id": "920e19989816",
+   "impact": 3,
+   "location": "Online",
+   "organizers": [
+    "ISS Africa"
+   ],
+   "participation": "Watch the live session and submit written input if a call for comments is issued",
+   "published": "2026-11-19",
+   "sector": "",
+   "snippet": "",
+   "source": "ISS Africa (via search)",
+   "status": "done",
+   "summary": "ISS Africa hosted a live discussion on the ownership and governance of Africa's AI future, bringing together stakeholders to debate policy direction and sovereignty.",
+   "thread": null,
+   "title": "ISS Live: Who owns Africa’s AI future?",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybmg3aE55MFBLLVY0MmRGeEhsRHpFQXFiQURBaThkbkVmRlFwRHJ0YXF5SmEyVEsxMlpQbnpxWmhFQlRxM0VMQmhlUnAyTkVmckkzTnpQU3ZHRFYtRThMU2s2RWZLTmN1ZjV1dUxOWlRKUVhhdi10RFpB?oc=5",
+   "v": 2,
+   "why": "This event directly engages with African governance of AI, aligning with ILINA's priority of African countries shaping frontier AI development and deployment."
+  },
+  "9211578d7393": {
+   "action": "Monitor for consultation calls or input opportunities arising from the 90-day plan",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "news",
+   "headline": "South Africa's AI Strategy: 90-Day Action Plan",
+   "id": "9211578d7393",
+   "impact": 3,
+   "location": "South Africa",
+   "organizers": [
+    "South African Government - Department of Higher Education, Science and Innovation"
+   ],
+   "participation": "Monitor government channels for the 90-day implementation plan and any public participation calls",
+   "published": "2026-11-20",
+   "sector": "",
+   "snippet": "",
+   "source": "Central News South Africa (via search)",
+   "status": "done",
+   "summary": "Higher Education Minister Blade Nzimande has given the government 90 days to turn South Africa's AI ambitions into tangible projects, signalling a push to operationalise the country's AI strategy.",
+   "thread": null,
+   "title": "Nzimande Gives Government 90 Days to Turn South Africa’s AI Ambitions into Tangible Projects",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFJVVDBSVmFEMXJEQlhiZkxxTHI4XzR5Yk9hMVZVa2RZNXpZTUkyd1hTdGpIWXJFamMzbGtIRjdMU3RzRWQ2eXBkS1hCY1FrMkQ3Y3p6Snh6VGJMYk03U1VQeTNJOFV3QkkxTTdfaFA3bmxsM2xfR1J3dnE1QThLR2hRbmlqdV9FRHFaQkVtWS1leHBMVW05dkY1OUo4Wk1ySHJjaEtqaEZGdkVvVFZuRmU4ZmlXeExmMEE?oc=5",
+   "v": 2,
+   "why": "This is a national government initiative to operationalise AI strategy, directly relevant to ILINA's focus on AI policy formulation in Africa."
+  },
   "9213f62e1077": {
    "found": "2026-11-12",
    "id": "9213f62e1077",
    "status": "skip"
+  },
+  "92431a598e76": {
+   "action": "Monitor for any provisions relevant to African sovereignty, data governance, or capacity development; consider submitting a joint African perspective if consultations open.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "United States"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 2,
+   "found": "2026-11-20",
+   "group": "tracker",
+   "headline": "AI Legislation in the New Congress: Data Centers, Frontier AI, Cybersecurity & More",
+   "id": "92431a598e76",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "Crowell & Moring LLP"
+   ],
+   "participation": "Monitor legislative developments; no immediate public participation call identified in the source.",
+   "published": "2026-11-17",
+   "sector": "",
+   "snippet": "",
+   "source": "Crowell & Moring LLP (via search)",
+   "status": "done",
+   "summary": "A new session of the U.S. Congress has begun, bringing proposed legislation on data center regulation, frontier AI oversight, and cybersecurity requirements that could shape federal AI policy.",
+   "thread": null,
+   "title": "AI Legislation in the New Congress: Data Centers, Frontier AI, Cybersecurity & More",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGJpWmp4VFUwV3J3eWRkU0JUUFNIbkJFTmF4eFpXbzFvSURkYWJuc0Rjd2hrc1RGS2dBdGVfcXJJNm9IdldyUGxxTzU2Um1TSmttZWdWS0s0eW14aFFYVEZtRVk1NERRN3pNdE1mMGcyUlFKMzUtRjNnZXJESGpqR2U4R1AzNi1qLWp0NVdtdUhwTEt5NDlGQk9lU3dZRUlPVXpFOXBRMHR5Wks5WnZvNVU3bw?oc=5",
+   "v": 2,
+   "why": "This U.S. legislative session may set precedents or frameworks that influence global AI governance discussions and indirectly affect African policy positions."
   },
   "9258ccded06b": {
    "found": "2026-11-19",
@@ -15367,6 +16019,11 @@
   "9487c00abcf2": {
    "found": "2026-11-10",
    "id": "9487c00abcf2",
+   "status": "skip"
+  },
+  "94c2a21da3bc": {
+   "found": "2026-11-20",
+   "id": "94c2a21da3bc",
    "status": "skip"
   },
   "94d2df6c44f3": {
@@ -15962,6 +16619,11 @@
    "v": 2,
    "why": "This is a direct opportunity for African governance input into national AI policy, aligning with ILINA's top priority of contributing to AI policy formulation in Africa."
   },
+  "993eca38d8d7": {
+   "found": "2026-11-20",
+   "id": "993eca38d8d7",
+   "status": "skip"
+  },
   "99493cf439ac": {
    "action": "Monitor Nvidia's new leadership stance on African equity partnerships and chip access; assess implications for Cassava's multi-country rollout and African AI infrastructure development.",
    "african_input": false,
@@ -16029,6 +16691,11 @@
   "99aa88971aa4": {
    "found": "2026-11-17",
    "id": "99aa88971aa4",
+   "status": "skip"
+  },
+  "99b7865e6a61": {
+   "found": "2026-11-20",
+   "id": "99b7865e6a61",
    "status": "skip"
   },
   "99ba3de9f946": {
@@ -16259,6 +16926,46 @@
    "id": "9c310ba0187a",
    "status": "skip"
   },
+  "9c7bd2fd22de": {
+   "action": "Submit written input or position paper on autonomous weapons regulation to relevant African or UN forums",
+   "african_input": true,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 5,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "Africa cannot afford to delay regulating autonomous weapons",
+   "id": "9c7bd2fd22de",
+   "impact": 4,
+   "location": "Online / Africa",
+   "organizers": [
+    "ISS Africa"
+   ],
+   "participation": "Read the article and submit contributions to African Union or national defence/foreign affairs ministries on autonomous weapons policy",
+   "published": "2026-11-20",
+   "sector": "security",
+   "snippet": "",
+   "source": "ISS Africa (via search)",
+   "status": "done",
+   "summary": "ISS Africa reports that African states must urgently regulate autonomous weapons systems, warning that delays increase risks of AI-enabled conflict and civilian harm across the continent.",
+   "thread": null,
+   "title": "Africa cannot afford to delay regulating autonomous weapons",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHhhVnFJbXJFc3BPZEdrd2pRTVg0YlR4Vm1UVmdoM0FpLVhTVk5YMEt5LXlJWklwOHFJbk90S0JLelNkVDgtdVdjWHRKRUttSFBDUFAxRFY1dnUxdmJKUlBaaUdxZklSTFRmX3JnSzZDOXFzaHVNNWdvaFVRVEpYb0R5dHlDaHJIWXpfZDhXcnNVQTRwY2c?oc=5",
+   "v": 2,
+   "why": "Directly addresses AI safety and security in fragile states, a core ILINA priority, and calls for regulatory action from African governments."
+  },
   "9cd1dd9926de": {
    "found": "2026-11-10",
    "id": "9cd1dd9926de",
@@ -16352,6 +17059,11 @@
   "9d678c97f661": {
    "found": "2026-11-10",
    "id": "9d678c97f661",
+   "status": "skip"
+  },
+  "9d9f6b0becee": {
+   "found": "2026-11-20",
+   "id": "9d9f6b0becee",
    "status": "skip"
   },
   "9dbba90ce361": {
@@ -16498,6 +17210,11 @@
    "id": "9eb30ccdd8cd",
    "status": "skip"
   },
+  "9f4c87dd6ae3": {
+   "found": "2026-11-20",
+   "id": "9f4c87dd6ae3",
+   "status": "skip"
+  },
   "9f5c3ed13b07": {
    "found": "2026-11-19",
    "id": "9f5c3ed13b07",
@@ -16506,6 +17223,11 @@
   "9f7d21593b83": {
    "found": "2026-11-10",
    "id": "9f7d21593b83",
+   "status": "skip"
+  },
+  "9f94e10e881a": {
+   "found": "2026-11-20",
+   "id": "9f94e10e881a",
    "status": "skip"
   },
   "9fa3137a9650": {
@@ -16779,6 +17501,50 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLW5heEtPRU5VODlzMjRYMlcxTndDSWRrVTRDWDdhclpxbFp0WDNJcnBETjM2dS1fZVAyX3NXVU9kQXp4VW9MVDFzcXZCdjMwUWFJOWxFVDVqOXZ0MExNNTJfT29IemhpbVpLTmhfZUlxUGs5QkphRzVFNWZJTVFOQ2QyeG0zZm53UU9ydzNYUnFOR2J2TEJudjlrODZPa1BqUjhEWHd6Q2Fjc3V5cE9YOFJTTUNOdnREY0xjb0NNR3F5TncxLVNVUXVn?oc=5",
    "v": 2,
    "why": "This is a direct African governance process open to stakeholder input, aligning with ILINA's focus on African participation in policy formulation and its positions on context-dependent risk assessment and third-party evaluations."
+  },
+  "a0ede539c245": {
+   "found": "2026-11-20",
+   "id": "a0ede539c245",
+   "status": "skip"
+  },
+  "a1661fbce901": {
+   "action": "Monitor for upcoming consultation calls or policy guidance from NITDA; consider submitting contextual input on AI risk assessment in African contexts.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "NITDA DG warns against algorithm management and AI hallucinations",
+   "id": "a1661fbce901",
+   "impact": 2,
+   "location": "Abuja, Nigeria",
+   "organizers": [
+    "National Information Technology Development Agency (NITDA)"
+   ],
+   "participation": "Public statements and regulatory guidance from NITDA; no open participation call identified in source.",
+   "published": "2026-11-20",
+   "sector": "security",
+   "snippet": "",
+   "source": "Nigerian NewsDirect (via search)",
+   "status": "done",
+   "summary": "The Director General of Nigeria's National Information Technology Development Agency (NITDA) has issued a warning about the risks of algorithm management and AI hallucinations, signalling regulatory concern over AI deployment in the country.",
+   "thread": null,
+   "title": "NITDA DG has warned against algorithm management, AI hallucinations",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSV9jWkU3d3JZYW1uNlBjLS1yekdvM2lvc0VOXzJWOHE2NU9TSGNSQno5NnQ2cVJHbGg1a2VLLWZWMWNxVDliakNHU3J2UUlVU1JyOXR1RXFSWmI2N3p0SHlNV0pFNEc1U1MwTVhNWDdMNld5TExydTJ5MUFtbEQ4VmlHdERZOUpOTU5yYlRzb3dzQ3VOUk0xRDhLNm1uNzg?oc=5",
+   "v": 2,
+   "why": "Signals regulatory attention from a key African government agency on AI deployment risks, relevant to ILINA's focus on responsible AI integration and context-dependent risk assessment."
   },
   "a171b3436c11": {
    "action": "Submit written input or position paper on AI strategy for Kenya and Zambia",
@@ -17420,6 +18186,47 @@
    "v": 2,
    "why": "The summit's focus on AI agent risks and new safeguards aligns with ILINA's interest in AI safety and security, particularly given fragile states contexts."
   },
+  "a702240f50dd": {
+   "action": "Monitor for submission calls, side events, or participation opportunities linked to the summit; consider preparing a written submission or panel contribution.",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "AI Summit 2027: A Conversation Before Geneva",
+   "id": "a702240f50dd",
+   "impact": 3,
+   "location": "Online / Geneva",
+   "organizers": [
+    "Superpower Daily"
+   ],
+   "participation": "Check the source link or associated Geneva AI Summit 2027 channels for registration details, side-event proposals, or written submission calls.",
+   "published": "2026-11-20",
+   "sector": "",
+   "snippet": "",
+   "source": "Superpower Daily (via search)",
+   "status": "done",
+   "summary": "Ahead of the Geneva AI Summit 2027, this event appears to be a preparatory conversation or dialogue focusing on AI governance themes.",
+   "thread": null,
+   "title": "AI Summit 2027: A Conversation Before Geneva",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGE1TDJsa0ZNTGhqSXg1eFF0NVYwTW13WkliWkVkcGk0TGxyZzFuMGZ0WjA0bm5TQzRmRnBUSTd0OTgxX0h0eDBXN01iR3ZlY01IUExmcGhMVml5eHh5SDBKWlBjeGhGalVndnpGSG9nWWFQekFNelQ2RVBvc08tX0ZGRFJkZnFSdTlNelRRY05lT3JPQ1VwbjN5MEdYTkZaY0E4NTBaMmFvbjdtbWpjaFN6cEhvUQ?oc=5",
+   "v": 2,
+   "why": "Events preceding the Geneva AI Summit 2027 are directly relevant to ILINA's second priority on UN Global Dialogue on AI Governance and summit-related engagement."
+  },
   "a71bb2e5b3cd": {
    "found": "2026-11-16",
    "id": "a71bb2e5b3cd",
@@ -17429,6 +18236,45 @@
    "found": "2026-11-16",
    "id": "a747028ea143",
    "status": "skip"
+  },
+  "a7c3c4df0aac": {
+   "action": "Review newsletter for call for input or participation opportunities",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "government",
+   "headline": "AI Africa Intelligence (Nov 12-18, 2026) Vol. 30",
+   "id": "a7c3c4df0aac",
+   "impact": 2,
+   "location": "Online",
+   "organizers": [
+    "Innovation Village"
+   ],
+   "participation": "Subscribe to the newsletter; scan each weekly edition for ILINA-relevant calls or events",
+   "published": "2026-11-19",
+   "sector": "",
+   "snippet": "",
+   "source": "Innovation Village (via search)",
+   "status": "done",
+   "summary": "A weekly AI policy and governance newsletter covering AI developments across Africa, including policy updates, research, and sectoral impacts.",
+   "thread": null,
+   "title": "AI Africa Intelligence (November 12–18, 2026) VOL. 30",
+   "topics": [
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS01IMXZlWWlvVzVyNHAwbW51cHFTWW05ellVWHQ3NXhsb2ZYMDFiTDRsN3lRdXAyVjVXbkplSUxVMjQzb3NFNElTWDJGNXp0SEdfZ3lUTllEckI2TWRFaUFiZkNMdXVLZmdpWlQ0eUl4RGtUdDRiWE1oakRmYnVZRGRDZmcxQzJq?oc=5",
+   "v": 2,
+   "why": "Aggregates AI governance developments across the continent, providing a snapshot of policy trends and opportunities relevant to ILINA's focus on African governance."
   },
   "a7e753885a28": {
    "found": "2026-11-10",
@@ -17577,6 +18423,11 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUhJelhLQmJmVDJMWm45RHFmNHJTTjhucmw1RFBWeENvd1lkQVRsYmZQNnJxNEpabXd0NnVzV2JydkRqRmJBdHdwajQ1UXhYdlJERDBHTmV2MWtoV0Vwdi1hbUdJZFhVX1JqMWdWbnRZOWVJS1kwZ3FJOXdJcDhZcXMzNE9ELUJCQ1ByLTA1SFlsWXZaVmUtZXJ5M0hScHNoQmRTczgxUHhyX2ZTTGRuT09Nd0JpU0U1?oc=5",
    "v": 2,
    "why": "The summit brought together leaders to discuss AI's role in the workforce, which aligns with ILINA's interest in responsible AI integration in public services and governance, though the article's focus is general workforce impact rather than African policy."
+  },
+  "a8a88faffecd": {
+   "found": "2026-11-20",
+   "id": "a8a88faffecd",
+   "status": "skip"
   },
   "a8b2b4c1652b": {
    "found": "2026-11-11",
@@ -17862,6 +18713,11 @@
   "ac56360f4a66": {
    "found": "2026-11-10",
    "id": "ac56360f4a66",
+   "status": "skip"
+  },
+  "ac76834d70ee": {
+   "found": "2026-11-20",
+   "id": "ac76834d70ee",
    "status": "skip"
   },
   "ac943b54dec4": {
@@ -18381,6 +19237,11 @@
    "id": "b10194052a86",
    "status": "skip"
   },
+  "b140196ae229": {
+   "found": "2026-11-20",
+   "id": "b140196ae229",
+   "status": "skip"
+  },
   "b1a07e9234dd": {
    "action": "Monitor for emerging policy proposals or consultation calls from the South African government or industry body",
    "african_input": false,
@@ -18511,6 +19372,11 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ051S3NGeGlvaVNubnBvUDV3U3VWQWFieUVxckFSUG1TLVZGT3JlWWNNNVRKQm9TX3RtOExWeTRocS1TVFhGeWJZMk1qTHVTaXFfVzl4OU12LVdkaFpnZl91NXA2ZTJ6VnphUlFIeXZyUTZNM3huZEN1QWNKSF9fLVoySVVPdm1KakNmZA?oc=5",
    "v": 2,
    "why": "This summit of 50 leaders could shape global AI governance priorities and may include African representation or side events relevant to ILINA's work on African governance."
+  },
+  "b25221d714fa": {
+   "found": "2026-11-20",
+   "id": "b25221d714fa",
+   "status": "skip"
   },
   "b29c74d54541": {
    "action": "Review the post for details on the African response initiative; consider if ILINA should engage, co-sign, or reference in policy work.",
@@ -18755,6 +19621,52 @@
    "id": "b55b72d61b15",
    "status": "skip"
   },
+  "b581d0eb00e5": {
+   "action": "Review the EAC AI strategy document for governance gaps and opportunities to contribute regional input; flag to ILINA policy team",
+   "african_input": false,
+   "allies": [],
+   "arena": "African regional bloc",
+   "countries": [
+    "Kenya",
+    "Uganda",
+    "Tanzania",
+    "Rwanda",
+    "Burundi",
+    "South Sudan",
+    "DRC"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "government",
+   "headline": "EAC Backs Regional AI Strategy and University AI Module",
+   "id": "b581d0eb00e5",
+   "impact": 3,
+   "location": "Online / EAC region",
+   "organizers": [
+    "East African Community Council of Ministers"
+   ],
+   "participation": "Stakeholder consultation on the regional strategy; contact EAC secretariat for input opportunities",
+   "published": "2026-11-18",
+   "sector": "education",
+   "snippet": "",
+   "source": "Tech Labari (via search)",
+   "status": "done",
+   "summary": "The East African Community Council of Ministers has endorsed a regional AI strategy and a university-level AI module to standardise AI education and governance across partner states.",
+   "thread": null,
+   "title": "East African Community (EAC) Backs Regional AI Strategy and University AI Module: What It Means for Kenya",
+   "topics": [
+    "Africa policy",
+    "public services"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU5EREVFcDJpQzF2cmdRNTU0ZDU5MUp3dWIyU2t0OFFWU3VsOC1iblRaLWQxbXlnamZ2dU9aREJ2Z3NUR2xOcGFFMDR2cjdtUXhEaENhTi0zX25IV1JBbTJjeTk1d0UzV0JVNW11QnU5MGVHMGF3amt2bUxPdzhPaWZvM2R5THBZS2hBVHJ4TkQ4dHpRbjZQV1V4U3FMQ2NJQUJlbko4Z0duSDRsbW1hTzdvTV9tV1ZkN19zSXVUNWV5c1BO?oc=5",
+   "v": 2,
+   "why": "This is a concrete policy development from an African regional bloc that creates a framework for AI governance and education across the EAC, directly enabling African countries to shape frontier AI deployment on regional terms."
+  },
   "b594566eb543": {
    "action": "Submit written input or position paper on the compute pooling proposal",
    "african_input": true,
@@ -18844,6 +19756,11 @@
   "b7581be4d829": {
    "found": "2026-11-17",
    "id": "b7581be4d829",
+   "status": "skip"
+  },
+  "b76361a90bd7": {
+   "found": "2026-11-20",
+   "id": "b76361a90bd7",
    "status": "skip"
   },
   "b7741d718b7c": {
@@ -19029,6 +19946,11 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTAtYjU5anZMT3NxcmFSaFRtMWVTOXgzTmNNcmJuOTBXSndCX2VXRm1lM2JPMDVqZ29VYVdLQ09Dby1LQXVROXhaLTAzYlNfVHRBSWN1RDNHZk9HN0U2NUZGRlFFMmpPb2NsTkJiTDlPVnp3VUtIal9qRlV4aGFzQ3BkZXBPWmMtQzA0bWxmLTdYQXhtd0dyS0RHc18xNjItdjBsd0ZBMA?oc=5",
    "v": 2,
    "why": "This represents African government engagement in AI policy formulation, directly aligning with ILINA's top priority of contributing to AI policy formulation in Africa."
+  },
+  "ba05c229574f": {
+   "found": "2026-11-20",
+   "id": "ba05c229574f",
+   "status": "skip"
   },
   "ba1a7f87be28": {
    "found": "2026-11-10",
@@ -19992,6 +20914,47 @@
    "id": "c2ea4d617909",
    "status": "skip"
   },
+  "c2f9c5c657d4": {
+   "action": "Monitor for policy follow-up or consultation opportunities",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "Mashatile Calls on Africa to Stop Consuming Foreign Tech",
+   "id": "c2f9c5c657d4",
+   "impact": 3,
+   "location": "South Africa",
+   "organizers": [
+    "South African Government"
+   ],
+   "participation": "Public statements and policy engagement; no direct participation mechanism identified",
+   "published": "2026-11-20",
+   "sector": "security",
+   "snippet": "",
+   "source": "Central News South Africa (via search)",
+   "status": "done",
+   "summary": "Deputy President Mashatile urges African nations to cease reliance on foreign AI technology and invest in building local AI solutions, emphasizing sovereignty and self-sufficiency.",
+   "thread": null,
+   "title": "Mashatile Calls on Africa to Stop Consuming Foreign Technology and Start Building Its Own AI Solutions",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS3ZUS1RDbEhtb0VlUFRzQnltR0RjcklvRnBCN0lFMUQxU3FFTFZEZjRVWmFwdy1CVEtPby15Nk82QnQwOENacGxYS1hGamduVEoxTjd5aThVb1lPampkWWF3dGNjLW1oQk55UE92NFd5YVhLUXE1cHNVdzFsMWUxbk4ycnJ1UlEzX3A4SUx0RThBTWZvZjY0bkFROVFhUkJ6ZmtWZGxyTFV1TUhZVzBwS3ZmUmJGU0laRWhPTUd2RWl4M1RNSlZMLQ?oc=5",
+   "v": 2,
+   "why": "Directly aligns with ILINA's priority of African countries shaping frontier AI development and protecting sovereignty through domestic technical capacity building."
+  },
   "c30b66257545": {
    "found": "2026-11-17",
    "id": "c30b66257545",
@@ -20471,6 +21434,11 @@
    "url": "https://techcabal.com/2026/11/17/benin-wants-to-be-africas-ai-testbed/",
    "v": 2,
    "why": "Directly relates to ILINA's priority of AI integration in public services and data sovereignty; Benin's approach to securing government systems before scaling AI aligns with their focus on responsible public service integration and local capacity building."
+  },
+  "c8164d843796": {
+   "found": "2026-11-20",
+   "id": "c8164d843796",
+   "status": "skip"
   },
   "c8567ed37379": {
    "action": "Monitor summit outcomes and consider participation in the September 2026 New York edition; cite Africa AI Governance Index in policy memos.",
@@ -21408,6 +22376,11 @@
    "id": "cd89de81042b",
    "status": "skip"
   },
+  "ce042d536ffe": {
+   "found": "2026-11-20",
+   "id": "ce042d536ffe",
+   "status": "skip"
+  },
   "ce0da3c5a3ab": {
    "found": "2026-11-17",
    "id": "ce0da3c5a3ab",
@@ -21540,6 +22513,52 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZGNacV9NTkhzcm5YQ1EwOVZZMGJraUJCblZYM1NwcHhoaGpseGpSRTdOZXlMRlI0aHpOSmJNWm1GTjhPc1Y0Q3JCVjBBS0JoNnQxLUU4SGJpX0RaQV9tTG13?oc=5",
    "v": 2,
    "why": "This event convenes Armenian policymakers and stakeholders on AI governance, offering a concrete participation opportunity for ILINA to engage with a national government's AI policy process."
+  },
+  "cf3cacd40078": {
+   "action": "Monitor for UNGA follow-up processes or submission calls related to the AI Child Safety Pledge and child protection standards.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-20",
+   "group": "multilateral",
+   "headline": "AI hands predators new ways to target children",
+   "id": "cf3cacd40078",
+   "impact": 5,
+   "location": "New York, USA",
+   "organizers": [
+    "UN General Assembly",
+    "UN Special Representative of the Secretary-General on Violence against Children"
+   ],
+   "participation": "UN Member States and civil society can engage in upcoming UNGA sessions and the AI Child Safety Pledge implementation; no immediate deadline stated.",
+   "published": "2026-11-19",
+   "sector": "security",
+   "snippet": "Artificial intelligence (AI) is handing predators and criminal groups new ways to groom, extort and exploit children, while efforts to protect them are failing to keep pace, senior UN officials warned on Thursday.",
+   "source": "UN News",
+   "status": "done",
+   "summary": "UN officials warned that AI is enabling predators to groom, extort and exploit children at scale, with at least 1.2 million children in 11 countries having images manipulated into deepfakes in the past year, and reports of AI-linked child sexual abuse material rising 1,325% between 2023-2024.",
+   "thread": null,
+   "title": "‘Losing the battle’: AI hands predators new ways to target children",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "news",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
+   "v": 2,
+   "why": "Highlights AI-enabled child exploitation as a governance failure where safety mechanisms are lagging behind deployment, reinforcing ILINA's position on AI safety in fragile contexts and the need for mandatory safeguards."
+  },
+  "cf5e17b902ec": {
+   "found": "2026-11-20",
+   "id": "cf5e17b902ec",
+   "status": "skip"
   },
   "d009bcb750cc": {
    "found": "2026-11-10",
@@ -22168,6 +23187,11 @@
    "id": "d75ec1307268",
    "status": "skip"
   },
+  "d75ee3e0eb04": {
+   "found": "2026-11-20",
+   "id": "d75ee3e0eb04",
+   "status": "skip"
+  },
   "d769987de8f9": {
    "found": "2026-11-13",
    "id": "d769987de8f9",
@@ -22275,6 +23299,11 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVZIN1JmcGdGNlpMMkZ0SWRoSGJLa1ZQamcycXFCVTMyNGZHNkttdl93eVZWYm9OWndDYmZWTVI0ZW1FV2FDUXYwcWotOFltdEd1RDJwXzJwSnhOV29TM0s3NU5pZld4X3F5akZQUkVVYzRtbzVMUkhzSXJyc0h3UnJYOGY2ZHJjb3R3WmM0cEg0c0dXSUlHaEtaVGhlR3NUN05pclF2TGJJcldPWTQxeHB3Q1phUFlIRG9LOGl5NmU4R1E2Rm84RTlObjRtM2lCYTc5QmdTanJIUQ?oc=5",
    "v": 2,
    "why": "Singapore is a key partner for African AI governance initiatives and often aligns with like-minded nations on frontier AI safety; this meeting may shape future coordination that affects African participation."
+  },
+  "d85f51abcf12": {
+   "found": "2026-11-20",
+   "id": "d85f51abcf12",
+   "status": "skip"
   },
   "d8697c2b46cc": {
    "action": "Monitor legislative developments and assess for potential African policy relevance",
@@ -22775,6 +23804,11 @@
    "v": 2,
    "why": "This AU-level convening directly aligns with ILINA's priority to shape AI policy formulation across Africa and convene African government decision-makers."
   },
+  "dcdf94845c26": {
+   "found": "2026-11-20",
+   "id": "dcdf94845c26",
+   "status": "skip"
+  },
   "dd1d16d28fb4": {
    "found": "2026-11-10",
    "id": "dd1d16d28fb4",
@@ -22920,6 +23954,11 @@
   "dea8eaced9af": {
    "found": "2026-11-17",
    "id": "dea8eaced9af",
+   "status": "skip"
+  },
+  "deb59cc06839": {
+   "found": "2026-11-20",
+   "id": "deb59cc06839",
    "status": "skip"
   },
   "debf3ab0a77b": {
@@ -23367,6 +24406,11 @@
   "e3cea6b7ffae": {
    "found": "2026-11-10",
    "id": "e3cea6b7ffae",
+   "status": "skip"
+  },
+  "e3cfef013c5b": {
+   "found": "2026-11-20",
+   "id": "e3cfef013c5b",
    "status": "skip"
   },
   "e3d1ba82a77f": {
@@ -24509,6 +25553,11 @@
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc2NBNXdlcWFxNUN5ZG05YlE1VlZBaXFQUHREWWJUeGFLOVo0OExUdkduZ3JZVU1PenNSUnY1SllHZ2FBb3RlcEZDVVZKUW1ydm10LW9RdTk4N29VOWVheGh5ZUJHaDk3SzBIaFdVVk0zTko3a1pVZFNZMllUanZfQUtZdHpoYnI5eXQwYTl3bG13eDFrSS1SZHpfWWk4S2UtMWlITTNkYkVoaklzcWh4bjZleERHMFhPOF9wQWlfeHhzRV9Sc19xN3QzdDFJQnlScElnUGtDYW03cXpCb0x4WEROZ3RKRU0wbnNvS3VLMGo0R1M2UXdoWl9UMXFzU3JCRzFIRGdSVUFBN2FDdC1wMVM1U1NuWGpNT0xFQTV3MHZoQktoR0lZ?oc=5",
    "v": 2,
    "why": "Philip Thigo is a key Kenyan AI governance figure; his participation in a governance summit is relevant to ILINA's focus on African participation in AI policy."
+  },
+  "ed47dfb95707": {
+   "found": "2026-11-20",
+   "id": "ed47dfb95707",
+   "status": "skip"
   },
   "ed7c7fc33d1a": {
    "found": "2026-11-10",
@@ -26247,6 +27296,11 @@
    "id": "ffc5663ac3e9",
    "status": "skip"
   },
+  "ffca374dd7e2": {
+   "found": "2026-11-20",
+   "id": "ffca374dd7e2",
+   "status": "skip"
+  },
   "ffe2a83e026f": {
    "found": "2026-11-17",
    "id": "ffe2a83e026f",
@@ -26423,9 +27477,9 @@
     "https://www.giz.de/en/newsroom/news/best-practice-turkiye-recycling-plastic-creating-opportunities",
     "https://www.giz.de/en/newsroom/news/breaking-down-barriers-opening-opportunities",
     "https://www.giz.de/en/newsroom/news/colombian-coastline-armenian-fields-local-ideas-bolstering-climate-action-worldwide",
+    "https://www.giz.de/en/newsroom/news/german-african-business-summit",
     "https://www.giz.de/en/newsroom/news/germanys-security-also-determined-factors-beyond-our-borders",
     "https://www.giz.de/en/newsroom/news/intelligent-cement-catalyst-climate-action-construction-sector",
-    "https://www.giz.de/en/newsroom/news/young-african-talents-boost-german-business-africa",
     "https://www.giz.de/en/newsroom/newsletter",
     "https://www.giz.de/en/newsroom/press",
     "https://www.giz.de/en/newsroom/stories",
@@ -26435,7 +27489,7 @@
     "https://www.giz.de/en/partner/contractor/services-construction-work",
     "https://www.giz.de/en/regions/latin-america-caribbean"
    ],
-   "text": "Newsroom\nInterview\n‘Climate pledges must now be turned into action’\nIn this interview, Ingrid-Gabriela Hoven talks about what she anticipates from the COP31 climate change conference in Antalya. The Managing Director at GIZ underlines why GIZ’s work in this area serves German interests, too.\nFind out more\n‘Climate pledges must now be turned into action’\nBackground\nAn opportunity for climate action\nCarbon markets mobilise funds for climate action projects. As the head of several such projects at GIZ, Sven Egbers explains how this works.\nFind out more\nAn opportunity for climate action\nBackground\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nThis year’s UN Climate Change Conference will be meeting in Türkiye. Here we answer key questions about it.\nFind out more\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n17.11.2026\nEcuador: We open up public procurement for women in the agricultural sector.\nIn Ecuador, we are working with international partners to overcome obstacles so that more women-led enterprises can benefit from public contracts. GIZ is now supporting the same concept in Africa and Asia.\nMore\nEcuador: We open up public procurement for women in the agricultural sector.\nTopic\n11.11.2026\nIntelligent cement: a catalyst for climate action in the construction sector\nIn Mexico, a leading concrete manufacturer and a Berlin-based start-up are exploring ways to use artificial intelligence to reduce CO₂ emissions – without compromising on quality.\nMore\nIntelligent cement: a catalyst for climate action in the construction sector\nTopic\n05.11.2026\n‘Germany’s security is also determined by factors beyond our borders’\nInternational cooperation helps to promote greater security around the world and here in Germany. GIZ security expert Anne-Katrin Niemeier explains how this work.\nMore\n‘Germany’s security is also determined by factors beyond our borders’\nTopic\n30.10.2026\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nIm Interview spricht Eyyup Sezer darüber, wie das Unternehmen Sönmez Global die Kreislaufwirtschaft fördert und gleichzeitig die Lebensgrundlage von Geflüchteten unterstützt. Eine Win-win-Situation für alle.\nMore\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nTopic\n26.10.2026\nYoung African talents boost German business in Africa\nWho understands African markets better than Africa´s emerging leaders? GIZ puts them in touch with companies directly as part of a fellowship programme.\nMore\nYoung African talents boost German business in Africa\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
+   "text": "Newsroom\nInterview\n‘Climate pledges must now be turned into action’\nIn this interview, Ingrid-Gabriela Hoven talks about what she anticipates from the COP31 climate change conference in Antalya. The Managing Director at GIZ underlines why GIZ’s work in this area serves German interests, too.\nFind out more\n‘Climate pledges must now be turned into action’\nBackground\nAn opportunity for climate action\nCarbon markets mobilise funds for climate action projects. As the head of several such projects at GIZ, Sven Egbers explains how this works.\nFind out more\nAn opportunity for climate action\nBackground\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nThis year’s UN Climate Change Conference will be meeting in Türkiye. Here we answer key questions about it.\nFind out more\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n20.11.2026\nGerman-African Business Summit\nAfrica offers huge potential for German companies. International cooperation helps strengthen economic relations.\nMore\nGerman-African Business Summit\nTopic\n17.11.2026\nEcuador: We open up public procurement for women in the agricultural sector.\nIn Ecuador, we are working with international partners to overcome obstacles so that more women-led enterprises can benefit from public contracts. GIZ is now supporting the same concept in Africa and Asia.\nMore\nEcuador: We open up public procurement for women in the agricultural sector.\nTopic\n11.11.2026\nIntelligent cement: a catalyst for climate action in the construction sector\nIn Mexico, a leading concrete manufacturer and a Berlin-based start-up are exploring ways to use artificial intelligence to reduce CO₂ emissions – without compromising on quality.\nMore\nIntelligent cement: a catalyst for climate action in the construction sector\nTopic\n05.11.2026\n‘Germany’s security is also determined by factors beyond our borders’\nInternational cooperation helps to promote greater security around the world and here in Germany. GIZ security expert Anne-Katrin Niemeier explains how this work.\nMore\n‘Germany’s security is also determined by factors beyond our borders’\nTopic\n30.10.2026\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nIm Interview spricht Eyyup Sezer darüber, wie das Unternehmen Sönmez Global die Kreislaufwirtschaft fördert und gleichzeitig die Lebensgrundlage von Geflüchteten unterstützt. Eine Win-win-Situation für alle.\nMore\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
   },
   "https://www.globalcenter.ai/news": {
    "links": [
@@ -26583,25 +27637,25 @@
   },
   "https://www.techpolicy.press/": {
    "links": [
+    "https://www.techpolicy.press/as-anthropic-goes-public-who-has-the-power-to-stop-an-ai-company",
     "https://www.techpolicy.press/britains-ai-assurance-approach-needs-a-second-act",
     "https://www.techpolicy.press/bugmageddon-patchpocalypse-naming-the-ai-vulnerability-flood",
-    "https://www.techpolicy.press/can-eu-action-against-tiktok-rabbit-holes-lead-to-real-social-media-design-change",
     "https://www.techpolicy.press/confronting-the-limits-of-recursive-self-improvement",
-    "https://www.techpolicy.press/could-new-york-city-set-a-standard-for-influencer-disclosure-in-public-messaging",
     "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents",
     "https://www.techpolicy.press/digital-competition-and-data-security-are-critical-complements-not-rivals",
-    "https://www.techpolicy.press/does-the-trump-administrations-campaign-to-rebrand-ai-as-super-intelligence-matter",
     "https://www.techpolicy.press/eu-border-agency-frontex-tests-the-limits-of-europes-trusted-flagger-rules",
-    "https://www.techpolicy.press/how-to-think-about-making-ai-and-social-media-pro-human",
-    "https://www.techpolicy.press/jensen-huang-is-out-the-scandal-is-just-beginning",
+    "https://www.techpolicy.press/for-youth-losing-access-to-social-media-means-losing-access-to-power",
+    "https://www.techpolicy.press/microsoft-outage-raises-questions-over-uk-control-of-critical-digital-infrastructure",
+    "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say",
     "https://www.techpolicy.press/synthetic-suspicion-and-the-perils-of-aiprompted-police-actions",
-    "https://www.techpolicy.press/the-ai-arms-race-is-unhinged-both-us-and-chinese-tech-enthusiasts-know-it",
     "https://www.techpolicy.press/the-coming-data-center-slowdown-might-be-good-for-ai-developers",
+    "https://www.techpolicy.press/the-dangerous-politics-of-ai-consciousness",
     "https://www.techpolicy.press/the-metaverse-is-dead-long-live-the-hype",
-    "https://www.techpolicy.press/trumps-philippines-visit-sparks-protests-over-usled-pax-silica-project",
+    "https://www.techpolicy.press/the-next-big-tech-monopoly-could-be-your-personal-ai-agent",
+    "https://www.techpolicy.press/what-we-now-know-about-ai-and-elections",
     "https://www.techpolicy.press/will-brazil-approve-digital-markets-bill-before-new-congress-takes-office"
    ],
-   "text": "Analysis\nBugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood\nAI systems are finding bugs. Now the patches are breaking things. We counted at least 25 names coined for the flood, from Vulnpocalypse to Patchmageddon.\nNovember 18, 2026\nFeatured\nPerspective\n'Synthetic Suspicion' and the Perils of AI-Prompted Police Actions\nNovember 18, 2026\nPerspective\nThe Metaverse is Dead. Long Live the Hype.\nNovember 18, 2026\nNews\nEU Border Agency Frontex Tests the Limits of Europe's Trusted Flagger Rules\nNovember 18, 2026\nFeatured\nPerspective\n'Synthetic Suspicion' and the Perils of AI-Prompted Police Actions\nNovember 18, 2026\nPerspective\nThe Metaverse is Dead. Long Live the Hype.\nNovember 18, 2026\nNews\nEU Border Agency Frontex Tests the Limits of Europe's Trusted Flagger Rules\nNovember 18, 2026\nLatest\nView more\nPerspective\nData Minimization is Imperative for the Age of AI Agents\nNovember 18, 2026\nAnalysis\nWill Brazil Approve Digital Markets Bill Before New Congress Takes Office?\nNovember 17, 2026\nPerspective\nConfronting the Limits of Recursive Self-Improvement\nNovember 17, 2026\nPerspective\nBritain’s AI Assurance Approach Needs a Second Act\nNovember 17, 2026\nPerspective\nDigital Competition and Data Security Are Critical Complements, Not Rivals\nNovember 16, 2026\nPerspective\nThe Coming Data Center Slowdown Might be Good for AI Developers\nNovember 16, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nThe Coming Data Center Slowdown Might be Good for AI Developers\nNovember 16, 2026\nPerspective\nThe ‘AI Arms Race’ is Unhinged—Both US and Chinese Tech Enthusiasts Know It\nNovember 16, 2026\nPerspective\nCan EU Action Against TikTok Rabbit Holes Lead to Real Social Media Design Change?\nNovember 16, 2026\nNews\nTrump’s Philippines Visit Sparks Protests Over US-led Pax Silica Project\nNovember 16, 2026\nNewsletter\nJensen Huang is Out. The Scandal is Just Beginning.\nNovember 15, 2026\nPodcast\nCould New York City Set a Standard for Influencer Disclosure in Public Messaging?\nNovember 15, 2026\nPerspective\nDoes the Trump Administration’s Campaign to Rebrand AI as ‘Super Intelligence’ Matter?\nNovember 13, 2026\nPerspective\nHow to Think About Making AI and Social Media Pro-Human\nNovember 13, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "News\nNo Bailout for the AI Bubble, Anthropic IPO Protesters Say\nDemonstrators gathered outside the Nasdaq in New York City as Anthropic CEO Dario Amodei and company executives rang the opening bell.\nNovember 19, 2026\nFeatured\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nAnalysis\nMicrosoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nFeatured\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nAnalysis\nMicrosoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nLatest\nView more\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nPerspective\nWhat We Now Know About AI and Elections\nNovember 19, 2026\nNews\nAs Anthropic Goes Public, Who Has the Power to Stop an AI Company?\nNovember 19, 2026\nAnalysis\nBugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood\nNovember 18, 2026\nPerspective\n'Synthetic Suspicion' and the Perils of AI-Prompted Police Actions\nNovember 18, 2026\nPerspective\nThe Metaverse is Dead. Long Live the Hype.\nNovember 18, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nThe Metaverse is Dead. Long Live the Hype.\nNovember 18, 2026\nPerspective\nData Minimization is Imperative for the Age of AI Agents\nNovember 18, 2026\nNews\nEU Border Agency Frontex Tests the Limits of Europe's Trusted Flagger Rules\nNovember 18, 2026\nAnalysis\nWill Brazil Approve Digital Markets Bill Before New Congress Takes Office?\nNovember 17, 2026\nPerspective\nConfronting the Limits of Recursive Self-Improvement\nNovember 17, 2026\nPerspective\nBritain’s AI Assurance Approach Needs a Second Act\nNovember 17, 2026\nPerspective\nDigital Competition and Data Security Are Critical Complements, Not Rivals\nNovember 16, 2026\nPerspective\nThe Coming Data Center Slowdown Might be Good for AI Developers\nNovember 16, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
