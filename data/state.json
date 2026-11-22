@@ -1,5 +1,45 @@
 {
  "items": {
+  "001ac0f5deee": {
+   "action": "Monitor for African government submissions or positions; prepare ILINA input on copyright exceptions if consultations open",
+   "african_input": false,
+   "allies": [],
+   "arena": "Other multilateral",
+   "countries": [
+    "Egypt"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "multilateral",
+   "headline": "WIPO Copyright Conference in Cairo Ends With 5 Recommendations on AI",
+   "id": "001ac0f5deee",
+   "impact": 3,
+   "location": "Cairo, Egypt",
+   "organizers": [
+    "WIPO"
+   ],
+   "participation": "Monitor WIPO proceedings for upcoming consultation calls; no immediate public participation open",
+   "published": "2026-11-20",
+   "sector": "education",
+   "snippet": "",
+   "source": "Sada Elbalad English (via search)",
+   "status": "done",
+   "summary": "The WIPO Copyright Conference in Cairo concluded with five recommendations on AI and copyright, focusing on text and data mining exceptions and transparency obligations for AI developers.",
+   "thread": null,
+   "title": "WIPO Copyright Conference in Cairo Ends With 5 Recommendations on AI",
+   "topics": [
+    "AI safety & security",
+    "global AI law"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1JGNV9kaDByczN6TjhNajQxMzZCSldnU1hsVFhPdTFQbGNqcnJfb1VUajJpQWE3NDdycl92YXBfdEhDU3h0TGsta0RVY2dSbWlqTERTYnlpdmZ1RDR2eFpaRklqTGJOaVVFa2pTRFVQaWpvRTZ5VUNqYWFDY3F0amt6enlZaDZtUGFKUGZ3?oc=5",
+   "v": 2,
+   "why": "The conference produced concrete recommendations on AI copyright that could shape future African policy positions on AI sovereignty and rights management."
+  },
   "002857764aec": {
    "found": "2026-11-17",
    "id": "002857764aec",
@@ -1212,6 +1252,52 @@
    "id": "0b0b799e1234",
    "status": "skip"
   },
+  "0b2df1385bad": {
+   "action": "Monitor summit outcomes and calls to action; consider ILINA submission or coordination with African delegates",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Barbados",
+    "Norway",
+    "Finland",
+    "United States",
+    "China"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-20",
+   "event_start": "2026-11-20",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "multilateral",
+   "headline": "Bridgetown Special Summit on AI Safety",
+   "id": "0b2df1385bad",
+   "impact": 3,
+   "location": "Barbados (hybrid meeting)",
+   "organizers": [
+    "UN Secretary-General António Guterres",
+    "Barbadian Prime Minister Mia Mottley"
+   ],
+   "participation": "Hybrid meeting; ministers from Norway and Finland, AI industry leaders, heads of AI safety institutes, UN Independent International Scientific Panel on AI members; US senior diplomat and Chinese experts expected. Open to invited participants.",
+   "published": "2026-11-20",
+   "sector": "",
+   "snippet": "UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.",
+   "source": "UN News",
+   "status": "done",
+   "summary": "UN Secretary-General Guterres co-hosts a special AI safety summit in Barbados on 20 November 2026, aimed at closing the gap between accelerating AI risks and countries' capacity to respond, with a focus on multilateral risk management frameworks and access for developing countries.",
+   "thread": null,
+   "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168854",
+   "v": 2,
+   "why": "This summit directly advances the UN Global Dialogue on AI Governance and provides a platform for discussing multilateral AI risk management frameworks, which aligns with ILINA's interest in African governance representation and capacity building."
+  },
   "0b6f221cd012": {
    "found": "2026-11-19",
    "id": "0b6f221cd012",
@@ -1225,6 +1311,11 @@
   "0bb88896704a": {
    "found": "2026-11-18",
    "id": "0bb88896704a",
+   "status": "skip"
+  },
+  "0bc861ed3313": {
+   "found": "2026-11-22",
+   "id": "0bc861ed3313",
    "status": "skip"
   },
   "0bd9c28ccb5d": {
@@ -4007,6 +4098,11 @@
    "v": 2,
    "why": "This is a direct African government consultation open to public input, aligning with ILINA's top priority of contributing to AI policy formulation in Africa."
   },
+  "26b760cf5597": {
+   "found": "2026-11-22",
+   "id": "26b760cf5597",
+   "status": "skip"
+  },
   "26e528bbf1bf": {
    "found": "2026-11-17",
    "id": "26e528bbf1bf",
@@ -6326,6 +6422,11 @@
    "v": 2,
    "why": "Shows African governments and professional bodies actively shaping AI governance in a key sector (justice), providing concrete models for sovereignty, oversight, and capacity building that ILINA tracks."
   },
+  "3b628526e867": {
+   "found": "2026-11-22",
+   "id": "3b628526e867",
+   "status": "skip"
+  },
   "3b99de3030fe": {
    "found": "2026-11-17",
    "id": "3b99de3030fe",
@@ -7396,6 +7497,46 @@
    "id": "431106c42b1c",
    "status": "skip"
   },
+  "4340abf7f373": {
+   "action": "Monitor for consultation calls or policy drafts from NITDA",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "multilateral",
+   "headline": "NITDA: Nigeria must build its own tech to trust AI future",
+   "id": "4340abf7f373",
+   "impact": 2,
+   "location": "Abuja, Nigeria",
+   "organizers": [
+    "National Information Technology Development Agency (NITDA)"
+   ],
+   "participation": "Monitor NITDA announcements for public participation calls or policy drafts",
+   "published": "2026-11-21",
+   "sector": "finance",
+   "snippet": "",
+   "source": "Daily Champion Newspaper (via search)",
+   "status": "done",
+   "summary": "The National Information Technology Development Agency (NITDA) urges Nigeria to develop its own technology infrastructure to build trust in the AI future, emphasizing local content and self-reliance.",
+   "thread": null,
+   "title": "NITDA: Nigeria must build its own tech to trust AI future",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHJvYVFXQnluVVZKckxaUTZERWU2UFd4Q2NSV3N4ZDZQMUZuOG1pQlkxNEdvWkY2R28xSzdxQ0hzMlFfLTJmQVEtX1RKYUlqSElQLS1pZ3k5dnY1TEF6Q29uQlVRd08wTGhkWjgyMVdLZ2tjUkVTV1otbnp6MFNlNVdacjdvMFdYamNjaHhR?oc=5",
+   "v": 2,
+   "why": "Directly relates to NITDA, Nigeria's government AI policy body, and touches on themes of local tech development and sovereignty relevant to African governance."
+  },
   "436d817e66e1": {
    "found": "2026-11-18",
    "id": "436d817e66e1",
@@ -7760,6 +7901,11 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZF9Ndzl6bXZsbFFNa1JDX1c1aVNuY1hzdzhrenYwTG5xa1Y1UUpRd0NjTHFuS3lsS2w0SVdEdjBMYm9WNVVKYVhsa1FQaVJsMUtaV2tCMUlhMnFtUXdLUWNHRXlMS3BSaUJzQ2ZMRGpDd2VVVkNxcnV6ZDNhamV2OGlaWDRSZjZHZ1NlQjgwOWhhX1EwWWRCQjJNdVJRcnJzdjhXblA0THlXWThlME1vQkp3ZWY2LUVpWUFrQk9jMkdYRUgtSzUteFJn?oc=5",
    "v": 2,
    "why": "The article directly relates to ILINA's priority of responsible AI integration in public services and protecting African sovereignty, specifically examining a national AI policy in the region."
+  },
+  "478609b9e0a9": {
+   "found": "2026-11-22",
+   "id": "478609b9e0a9",
+   "status": "skip"
   },
   "47d90357a419": {
    "action": "Monitor for written submission calls or panel participation opportunities linked to UNIDIR or UN processes",
@@ -8804,6 +8950,11 @@
    "id": "51ff5e0a8144",
    "status": "skip"
   },
+  "521f2a87b6bf": {
+   "found": "2026-11-22",
+   "id": "521f2a87b6bf",
+   "status": "skip"
+  },
   "52214ebe8807": {
    "found": "2026-11-16",
    "id": "52214ebe8807",
@@ -9102,6 +9253,11 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGQ2Ti1kTHV4bnNhSUg2T2szNERyNXRXd24wYWtlTHZkbkJocWxxdjFlS21QUmZzcWR2YlIxbG0tYUtBdW12R1JqN1JobGl3R0I3M25HT0dXc1c0UW4yQ09VV2RlWmFqVzYyLTZYY3pDcjdfVUxxUlFsVjVYYVhqTXVib3FCb0pqSVN6Uml3RWtiRHU2NDFTeWlVMVRocUYzVzdfcUJjaUxZcm45ZjdN?oc=5",
    "v": 2,
    "why": "Signals growing global recognition of African voices in AI governance, relevant to ILINA's goal of African countries shaping frontier AI development."
+  },
+  "54f1c674148d": {
+   "found": "2026-11-22",
+   "id": "54f1c674148d",
+   "status": "skip"
   },
   "5508866403e3": {
    "action": "Monitor for consultation calls or policy details; reach out to Kenya's ICT authority if AI governance angles emerge.",
@@ -10430,6 +10586,48 @@
    "id": "5d6b813f17aa",
    "status": "skip"
   },
+  "5d7361612b83": {
+   "action": "Monitor the summit for opportunities to contribute African perspectives, potentially through written submissions or panel participation.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Barbados",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": "2026-12-03",
+   "event_start": "2026-12-02",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "multilateral",
+   "headline": "UN Summit to Weigh AI Safety Framework in Barbados",
+   "id": "5d7361612b83",
+   "impact": 3,
+   "location": "Barbados",
+   "organizers": [
+    "United Nations"
+   ],
+   "participation": "Open to stakeholders; check the summit programme for registration details and ways to engage.",
+   "published": "2026-11-21",
+   "sector": "",
+   "snippet": "",
+   "source": "Wisevoter (via search)",
+   "status": "done",
+   "summary": "A UN summit in Barbados will discuss and weigh an AI safety framework, bringing together international stakeholders to deliberate on standards and governance approaches.",
+   "thread": null,
+   "title": "UN Summit to Weigh AI Safety Framework in Barbados",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGFIdWZXVkM3dk9tc0ZLNUpoQl9yei14dk1rZ0xrWXhpMTFmLUdGSjVwQVV1b2ppUmpWUEJKcmJUU0lCMy0wWWd2UTlsOUlwR2FFeFd6dlB1UFNLbGc2S1QtUUNzNEpuTXRiWkFHRmozSDlmUnFpS1liT01nTEd6aE9pRzE4Zw?oc=5",
+   "v": 2,
+   "why": "This event falls under the UN Global Dialogue on AI Governance and AI Safety Summits, which are top priorities for ILINA as they shape global AI governance frameworks."
+  },
   "5d96ac9a0c2b": {
    "action": "Review for potential inclusion in policy analysis on AI sovereignty and emergency controls",
    "african_input": false,
@@ -11410,6 +11608,47 @@
    "id": "66f6bb48b880",
    "status": "skip"
   },
+  "6711e68d0c5f": {
+   "action": "Submit written input or position paper to Nigerian AI policy process",
+   "african_input": true,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 5,
+   "found": "2026-11-22",
+   "group": "government",
+   "headline": "GOVERNING INTELLIGENCE: How Nigeria Can Balance AI Regulation And Innovation",
+   "id": "6711e68d0c5f",
+   "impact": 3,
+   "location": "Online / Nigeria",
+   "organizers": [
+    "Google News / Legal 500"
+   ],
+   "participation": "Review the article and submit comments or input to Nigerian AI regulatory consultations; check for official government calls for input",
+   "published": "2026-09-24",
+   "sector": "public services",
+   "snippet": "",
+   "source": "Legal 500 (via search)",
+   "status": "done",
+   "summary": "A Google News article summarises a piece on Nigeria's approach to balancing AI regulation with innovation, likely reflecting ongoing policy development.",
+   "thread": null,
+   "title": "GOVERNING INTELLIGENCE: How Nigeria Can Balance AI Regulation And Innovation.",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWXBUVzdDRURKUnRXeXhCNTY3R3EtTGdCZTdQNDVOOTF1eUVsWUJtLXVyNURwdm03Z2NXdEw1dWV3dnJxUnJWZEh0RFlvWENVaVdCdmUyYnZaS052c29QWVNMUi1aNWozYUxJX1pfMUFBVmhSakJPa3pZM1NQQWd5TFFfRW5ZVm9ha3hlbWY4VE5nUlRCVTNfMGdHUWp0elRLNkFIRm0wTERVZlhCYWplV2Iwd2N4M0RwY18zSkU3eWxzSnBvMU4yUGxB?oc=5",
+   "v": 2,
+   "why": "Directly relates to African government AI policy formulation, a top ILINA priority."
+  },
   "672ea3d373d5": {
    "found": "2026-11-10",
    "id": "672ea3d373d5",
@@ -11756,6 +11995,49 @@
    "id": "69f2ebc42c26",
    "status": "skip"
   },
+  "69fce2e74525": {
+   "action": "Monitor for written submission calls or stakeholder consultation opportunities linked to the AU disarmament architecture.",
+   "african_input": false,
+   "allies": [
+    "African Union"
+   ],
+   "arena": "African Union",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "multilateral",
+   "headline": "The African Union Disarmament Architecture: Balancing Autonomy and Proliferation Risks",
+   "id": "69fce2e74525",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "African Union"
+   ],
+   "participation": "",
+   "published": "2026-11-09",
+   "sector": "security",
+   "snippet": "",
+   "source": "Global Security Review (via search)",
+   "status": "done",
+   "summary": "A conference or briefing examining the African Union's institutional framework for managing autonomy and proliferation risks in defence and security contexts.",
+   "thread": null,
+   "title": "The African Union Disarmament Architecture: Balancing Autonomy and Proliferation Risks",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlViM1lMLThaZmpyb3hlWDZ2UWI4b281WWpCOGJiTGlsd09sUnNUOEthRy16OC1MTFJPVlg1LUkweTVEcmhGUTdzbHh2R2xZY3JnTWZiX1pQMFhOalJ4ZE1GT1V3S2RjOVhtY2htREpKU3RRcHlkTks5dlBpaEo1UGFrbXRwSUNsYi1CQm1QOGgwOEY2eDIwN0JVRnNzaGJPYzZTUnZoVGdqRDdoVUZMQ3VZQXo5bldqME9r?oc=5",
+   "v": 2,
+   "why": "Engages with AI safety and security concerns in fragile states and aligns with ILINA's focus on context-dependent risk assessment and AI-enabled cyber threats in African governance."
+  },
   "6a007db6e3cd": {
    "found": "2026-11-12",
    "id": "6a007db6e3cd",
@@ -11769,6 +12051,11 @@
   "6a8f36bc8475": {
    "found": "2026-11-10",
    "id": "6a8f36bc8475",
+   "status": "skip"
+  },
+  "6ab6212b3fc7": {
+   "found": "2026-11-22",
+   "id": "6ab6212b3fc7",
    "status": "skip"
   },
   "6ac03163aba1": {
@@ -14047,6 +14334,11 @@
    "id": "7ee4a8fceacf",
    "status": "skip"
   },
+  "7eeac0ee169a": {
+   "found": "2026-11-22",
+   "id": "7eeac0ee169a",
+   "status": "skip"
+  },
   "7eeec0cf6888": {
    "action": "Monitor for written submission calls or side events with African governance focus",
    "african_input": false,
@@ -14546,6 +14838,11 @@
   "82ad5d35de5d": {
    "found": "2026-11-10",
    "id": "82ad5d35de5d",
+   "status": "skip"
+  },
+  "82b9a7410b04": {
+   "found": "2026-11-22",
+   "id": "82b9a7410b04",
    "status": "skip"
   },
   "82ba2d6551bf": {
@@ -16128,6 +16425,47 @@
    "id": "917a427c52ee",
    "status": "skip"
   },
+  "919d4bd049d5": {
+   "action": "Review the article's analysis of Nigeria's regulatory approach for insights on African AI governance models",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria",
+    "EU"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "government",
+   "headline": "AI Regulation In The EU And Nigeria: AI Watermarking",
+   "id": "919d4bd049d5",
+   "impact": 2,
+   "location": "Online / Comparative analysis",
+   "organizers": [
+    "Legal 500"
+   ],
+   "participation": "Read the comparative analysis article",
+   "published": "2026-09-20",
+   "sector": "security",
+   "snippet": "",
+   "source": "Legal 500 (via search)",
+   "status": "done",
+   "summary": "A Legal 500 article published on 2026-09-20 comparing AI watermarking regulations in the EU and Nigeria, examining how each jurisdiction is approaching the technical and policy requirements for marking synthetic content.",
+   "thread": null,
+   "title": "AI Regulation In The EU And Nigeria: AI Watermarking",
+   "topics": [
+    "AI safety & security",
+    "global AI law"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMk44WFRBYjM2MlloTFF3cjJsYkFJZzNzekwxQUswSjFoenNqbUFoTGhITHU4UzRrRm9RSGV1MDE0T0FXcUtKRzYyNmNvWnc5WkxlSnc4YnFWTnozSGR6a1puTGc5OEF2M2hMTzVlMFI2LUVZVUNXNjVXbW1mZHFRdHlLdXBhNVpDSFE4YThubUNldFRTSVE5elphM3pWWE44RU1TVGl2QjNYMnM?oc=5",
+   "v": 2,
+   "why": "The article directly compares AI governance approaches between the EU and Nigeria, offering insight into how African jurisdictions are implementing AI safety measures and could inform ILINA's work on context-dependent risk assessment and model access terms."
+  },
   "91a12a66c0e7": {
    "found": "2026-11-10",
    "id": "91a12a66c0e7",
@@ -16274,6 +16612,11 @@
    "v": 2,
    "why": "This U.S. legislative session may set precedents or frameworks that influence global AI governance discussions and indirectly affect African policy positions."
   },
+  "924e03d7f39a": {
+   "found": "2026-11-22",
+   "id": "924e03d7f39a",
+   "status": "skip"
+  },
   "9258ccded06b": {
    "found": "2026-11-19",
    "id": "9258ccded06b",
@@ -16333,6 +16676,11 @@
   "9341c3ef8708": {
    "found": "2026-11-17",
    "id": "9341c3ef8708",
+   "status": "skip"
+  },
+  "9342ffc44503": {
+   "found": "2026-11-22",
+   "id": "9342ffc44503",
    "status": "skip"
   },
   "9348522d8065": {
@@ -19097,6 +19445,11 @@
    "id": "aa53bc3308ce",
    "status": "skip"
   },
+  "aa669d1ec318": {
+   "found": "2026-11-22",
+   "id": "aa669d1ec318",
+   "status": "skip"
+  },
   "aa78ce7e88b9": {
    "found": "2026-11-16",
    "id": "aa78ce7e88b9",
@@ -21593,6 +21946,11 @@
    "id": "c30b66257545",
    "status": "skip"
   },
+  "c31565f7ea5a": {
+   "found": "2026-11-22",
+   "id": "c31565f7ea5a",
+   "status": "skip"
+  },
   "c3c8208893e4": {
    "found": "2026-11-14",
    "id": "c3c8208893e4",
@@ -22373,6 +22731,11 @@
    "id": "c9995ccf4c6f",
    "status": "skip"
   },
+  "c9a317da6545": {
+   "found": "2026-11-22",
+   "id": "c9a317da6545",
+   "status": "skip"
+  },
   "c9aeb28c024e": {
    "found": "2026-11-18",
    "id": "c9aeb28c024e",
@@ -22554,6 +22917,11 @@
   "caf94cfbc1d4": {
    "found": "2026-11-21",
    "id": "caf94cfbc1d4",
+   "status": "skip"
+  },
+  "cb91bd80662f": {
+   "found": "2026-11-22",
+   "id": "cb91bd80662f",
    "status": "skip"
   },
   "cbd9b412ba71": {
@@ -24697,6 +25065,45 @@
    "v": 2,
    "why": "This is a high-priority AU governance initiative directly addressing AI safety and gender-based risks in an African context."
   },
+  "de6358b94516": {
+   "action": "Monitor for participation opportunities or submission calls",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Barbados"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-22",
+   "event_start": "2026-11-22",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "multilateral",
+   "headline": "AI Safety Summit in Barbados",
+   "id": "de6358b94516",
+   "impact": 3,
+   "location": "Barbados",
+   "organizers": [
+    "Myanmar International TV"
+   ],
+   "participation": "Open to stakeholders interested in AI safety; check summit programme for registration details",
+   "published": "2026-11-22",
+   "sector": "",
+   "snippet": "",
+   "source": "Myanmar International TV (via search)",
+   "status": "done",
+   "summary": "The AI Safety Summit is taking place in Barbados, bringing together stakeholders to discuss AI safety and governance issues.",
+   "thread": null,
+   "title": "AI Safety Summit in Barbados",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ReDFkamN4WFMtbkdqcXp3aFNZWm5WYWZlcTd5RExTcG5WdFdybDRnVF9DS2RFZ2Q1bU1Nemc3X0xEOE1ic3F1Rl96c2pOWU1CQnVSZVlXOTQ2SDZaWVhLaUROTE1wZVIxaFRn?oc=5",
+   "v": 2,
+   "why": "This event aligns with ILINA's interest in AI safety governance and provides a venue for African participation in global AI safety discussions."
+  },
   "de6bd1a00690": {
    "found": "2026-11-10",
    "id": "de6bd1a00690",
@@ -25199,6 +25606,46 @@
    "id": "e3dd825b8851",
    "status": "skip"
   },
+  "e3f464ad09e8": {
+   "action": "Cite in policy memo or submission on African AI governance",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Nigeria"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "government",
+   "headline": "AI Regulation In Nigeria: Key Considerations, Recommendations, Legal Framework, And Policy Development",
+   "id": "e3f464ad09e8",
+   "impact": 3,
+   "location": "Nigeria",
+   "organizers": [
+    "Legal 500"
+   ],
+   "participation": "N/A - published article",
+   "published": "2023-10-05",
+   "sector": "general",
+   "snippet": "",
+   "source": "Legal 500 (via search)",
+   "status": "done",
+   "summary": "A Legal 500 article published on 2023-10-05 providing an overview of the AI regulatory landscape in Nigeria, covering the legal framework, key considerations, and policy development for artificial intelligence in the country.",
+   "thread": null,
+   "title": "Artificial Intelligence (AI) Regulation In Nigeria: Key Considerations, Recommendations, Legal Framework, And Policy Development For Artificial Intelligence (AI) In Nigeria",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "publication",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVXIwQk1IRDJVckdobmhFemlvZ0hjTmJiZDhqeVpIUm5YSE5aWFVDSVVLbmZTZ0VoX2ctb1NnUWliajNoZThUZ3FleHlvRGExTkI2RW5BUVoxSzdNSDd0ekptVWJNQVp1a2F2ZWlGR3NaTGxQR3dEX2RwU2UwXzFudG9NU2JrZ1JOSnZjRzZKT2VMYWhuUWhCTXByUXY4aUFUUHVIN2pTa3N1aHkxSG1hdDRLczF3dXNmRk9NS3VMaV9GSjZpaTJjQm1pNTRNanFuX3pzOEplOFdHNk4yQ0doUkRURXFMWS0wMWlyS01ZbDRWRDJOWDhRd29ieUxodlVWX2M5RFdzZ2cwZzlvaGtDYS1qRGJrbDNpaENHR2dISHJrMWRxamN5THpRN0JTY0N3Ymh3RC1qX3pjN3Nadml2eVlfVQ?oc=5",
+   "v": 2,
+   "why": "Relevant as a substantive policy development from a key African government, offering insights into Nigeria's approach to AI governance which ILINA can reference or build upon."
+  },
   "e4053b54c3d8": {
    "action": "Submit written input or position paper on the bill's provisions, particularly around registration requirements and licensing frameworks",
    "african_input": true,
@@ -25284,6 +25731,11 @@
   "e42e50243c77": {
    "found": "2026-11-17",
    "id": "e42e50243c77",
+   "status": "skip"
+  },
+  "e454b3593e09": {
+   "found": "2026-11-22",
+   "id": "e454b3593e09",
    "status": "skip"
   },
   "e46707595698": {
@@ -27348,6 +27800,51 @@
    "id": "f983f57e216c",
    "status": "skip"
   },
+  "f9d052b2a623": {
+   "action": "Monitor for policy implications or participation opportunities in the initiative",
+   "african_input": false,
+   "allies": [
+    "ITU"
+   ],
+   "arena": "Other multilateral",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-22",
+   "group": "government",
+   "headline": "SES, ITU to connect 30 schools in four African countries via satellite",
+   "id": "f9d052b2a623",
+   "impact": 2,
+   "location": "Online / four African countries",
+   "organizers": [
+    "SES",
+    "ITU"
+   ],
+   "participation": "Open to affected schools and governments; check ITU/SES channels for stakeholder engagement",
+   "published": "2026-11-16",
+   "sector": "education",
+   "snippet": "",
+   "source": "TechTrendsKE (via search)",
+   "status": "done",
+   "summary": "SES and the ITU are partnering to connect 30 schools across four African countries using satellite technology, aiming to improve internet access for education.",
+   "thread": null,
+   "title": "SES, ITU to connect 30 schools in four African countries via satellite",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDZrbEdCUVpzem5VRFhjeWxSQ3Rmb2ZVOUVTWVZfY0JPRzJFc1ZHaS1KUEttdG9DTnRhUXY3MWJhbmhvVlczTVRQTHhORWxJN0RIRWJVZjhsQk9aUm4zSzExMGVMQmNMR0hPeXVHdWNzSUR6VXF5VzBUdUdUTXdmRW1QTFY1dWM5c2YzSGN5YWItZlg5VDlsaXdTa0xJUXJTRnh2MGxpNFJ4M0Jy?oc=5",
+   "v": 2,
+   "why": "Expanding school connectivity in Africa aligns with ILINA's priority of AI improving outcomes in agriculture, healthcare and education on terms that protect sovereignty and build domestic capacity."
+  },
   "f9d159cda038": {
    "found": "2026-11-17",
    "id": "f9d159cda038",
@@ -27765,6 +28262,11 @@
   "fcb57762912a": {
    "found": "2026-11-21",
    "id": "fcb57762912a",
+   "status": "skip"
+  },
+  "fce0634541c9": {
+   "found": "2026-11-22",
+   "id": "fce0634541c9",
    "status": "skip"
   },
   "fcef00d7128b": {
