@@ -394,6 +394,47 @@
    "id": "03cfb1a5cf75",
    "status": "skip"
   },
+  "03e4e5a2eef2": {
+   "action": "Monitor for concrete process details, submission windows, or side events at upcoming AI safety summits.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-23",
+   "group": "multilateral",
+   "headline": "Guterres calls for global AI safety talks on testing, transparency and oversight",
+   "headline_only": true,
+   "id": "03e4e5a2eef2",
+   "impact": 5,
+   "location": null,
+   "organizers": [
+    "United Nations / Office of the Secretary-General"
+   ],
+   "participation": null,
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "",
+   "source": "Superpower Daily (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General António Guterres has called for global AI safety talks focusing on testing, transparency, and oversight mechanisms.",
+   "thread": null,
+   "title": "Guterres calls for global AI safety talks on testing, transparency and oversight",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0ZMcTAzcGFkdHJ3SXNxTGhiQndTNnJJY1NpamtZYmVnUk02NlRsSUtsMkxleTVVa1h6VTZocVM5bXpvSE5tMTFBWUhOZFdGMFY3U2ZkdnV5cVZKbmI3WTZLZG0zNmJDYUsxWTBTcHFmTlV1MENkRFZFdVl4OGFLZkdKaER0Rm10Y1U4OGNRUk14YzZab25aX2ZYbEVPNjJLSlFEVHI0dHpiRWNMWnlTWnF2OA?oc=5",
+   "v": 3,
+   "why": "This signals a major UN-level push for AI governance that could shape future international processes and funding streams relevant to ILINA's work."
+  },
   "03eaa0fffc1c": {
    "action": "Monitor for ILINA positioning or submission opportunities",
    "african_input": false,
@@ -5966,7 +6007,7 @@
     "AI summits",
     "security"
    ],
-   "tries": 1,
+   "tries": 2,
    "type": "news",
    "url": "https://newsletter.safe.ai/p/aisn-84-ai-driven-cybersecurity-issues",
    "v": 2,
@@ -14588,6 +14629,11 @@
    "v": 3,
    "why": "Kenya is a key African market for AI adoption and governance; policy outcomes directly affect regional sovereignty and public service integration."
   },
+  "8fcb5baffa6c": {
+   "found": "2026-11-23",
+   "id": "8fcb5baffa6c",
+   "status": "skip"
+  },
   "8fdd6a5d2137": {
    "found": "2026-11-23",
    "id": "8fdd6a5d2137",
@@ -15834,6 +15880,11 @@
   "9dd76db7dc3e": {
    "found": "2026-10-28",
    "id": "9dd76db7dc3e",
+   "status": "skip"
+  },
+  "9dddeb89e408": {
+   "found": "2026-11-23",
+   "id": "9dddeb89e408",
    "status": "skip"
   },
   "9deb78bf2226": {
@@ -18075,6 +18126,11 @@
    "id": "b2865be612b5",
    "status": "skip"
   },
+  "b29916deed55": {
+   "found": "2026-11-23",
+   "id": "b29916deed55",
+   "status": "skip"
+  },
   "b29c74d54541": {
    "action": "Review the shared article or author's profile for policy angles; consider if a written submission or commentary opportunity arises.",
    "african_input": false,
@@ -18450,6 +18506,50 @@
    "found": "2026-11-17",
    "id": "b6f57da6cf91",
    "status": "skip"
+  },
+  "b6f8417c285e": {
+   "action": "Monitor for written submission calls or panel participation opportunities arising from the proposed Framework discussions; note the Global Fund proposal for ILINA advocacy.",
+   "african_input": true,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Barbados",
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-21",
+   "event_start": "2026-11-17",
+   "first": false,
+   "fit": 4,
+   "found": "2026-11-23",
+   "group": "multilateral",
+   "headline": "UN Chief urges talks on global AI safety framework at Bridgetown Special Summit",
+   "headline_only": false,
+   "id": "b6f8417c285e",
+   "impact": 5,
+   "location": "Bridgetown, Barbados",
+   "organizers": [
+    "UN",
+    "Barbados"
+   ],
+   "participation": "Open attendance; ILINA can monitor for submission calls on the Framework or Capacity-Building Fund, or applications to join future workstreams.",
+   "published": "2026-11-23",
+   "sector": "security",
+   "snippet": "UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.",
+   "source": "UN News",
+   "status": "done",
+   "summary": "UN Secretary-General Guterres called at the Bridgetown Special Summit on AI Safety in Barbados for Member States to begin discussions on a multilateral AI Risk Management Framework, emphasizing the need for shared safety measures, testing approaches, and safeguards as AI power shifts to a few companies.",
+   "thread": "Td92b1",
+   "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
+   "v": 3,
+   "why": "This UN summit convened African-adjacent voices (Barbados PM, French President) and raised the Global Fund for AI Capacity-Building, directly touching ILINA's priorities on African governance representation, context-dependent risk assessment, and capacity development."
   },
   "b7581be4d829": {
    "found": "2026-11-17",
@@ -19567,6 +19667,11 @@
   "c394599fa2df": {
    "found": "2026-11-23",
    "id": "c394599fa2df",
+   "status": "skip"
+  },
+  "c3b76a4880d4": {
+   "found": "2026-11-23",
+   "id": "c3b76a4880d4",
    "status": "skip"
   },
   "c3c8208893e4": {
@@ -21067,6 +21172,48 @@
    "id": "cf3cacd40078",
    "status": "skip"
   },
+  "cf4ad251cea5": {
+   "action": "Monitor for policy consultation calls or submission opportunities from Ethiopian government or AU",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Ethiopia"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-23",
+   "group": "multilateral",
+   "headline": "PM Abiy Calls for African Ownership of AI and Digital Health",
+   "headline_only": true,
+   "id": "cf4ad251cea5",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "Office of the Prime Minister of Ethiopia"
+   ],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "health",
+   "snippet": "",
+   "source": "Fana Media Corporation S.C (via search)",
+   "status": "done",
+   "summary": "Prime Minister Abiy Ahmed called for African ownership of AI and digital health to transform healthcare across the continent.",
+   "thread": null,
+   "title": "PM Abiy Calls for African Ownership of AI and Digital Health to Transform the Continent’s Healthcare Future",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "health / agriculture / education"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOGxpeFNfdC0yUXUycjJUREhSRlMwM1NFQkdESGtPdGpSSnNoNFdXMExDd0N1T0Q4VTRRSVkxTUZPZW9hRW40XzloanBEcmRFcVc5WWpLWFUyUlpPTHh1TFNsbkZKZlRZTXlqQTAwMW9TOVF0OEw5enJDSmxOMEhOU2JVMXJtTFdtdFVkeG1wbTNJMkphWWJDTHRUNU9BSWYzeWtpcmFPY3ItWHdLMFFkSDM2ZVUxVGtXckx1MjZzWTIydUNpY1B2RWl0OER5dTNCRzZqSg?oc=5",
+   "v": 3,
+   "why": "Aligns with ILINA's priority of AI improving healthcare outcomes on terms that protect African sovereignty and build domestic capacity."
+  },
   "cf5e17b902ec": {
    "found": "2026-11-20",
    "id": "cf5e17b902ec",
@@ -22243,6 +22390,11 @@
    "v": 3,
    "why": "This aligns with ILINA's priority of AI improving outcomes in agriculture, healthcare and education while protecting African sovereignty and building domestic technical capacity."
   },
+  "da769e1fa754": {
+   "found": "2026-11-23",
+   "id": "da769e1fa754",
+   "status": "skip"
+  },
   "daa6233f37a5": {
    "found": "2026-11-21",
    "id": "daa6233f37a5",
@@ -22928,6 +23080,11 @@
   "e29ac258c013": {
    "found": "2026-11-23",
    "id": "e29ac258c013",
+   "status": "skip"
+  },
+  "e2a6ec0f5592": {
+   "found": "2026-11-23",
+   "id": "e2a6ec0f5592",
    "status": "skip"
   },
   "e2cc1c6b6457": {
@@ -25416,6 +25573,11 @@
    "id": "fcef00d7128b",
    "status": "skip"
   },
+  "fcf55173f7a1": {
+   "found": "2026-11-23",
+   "id": "fcf55173f7a1",
+   "status": "skip"
+  },
   "fd46736313cb": {
    "found": "2026-11-10",
    "id": "fd46736313cb",
@@ -25589,6 +25751,11 @@
    "id": "ff2452c1e716",
    "status": "skip"
   },
+  "ff2721008e63": {
+   "found": "2026-11-23",
+   "id": "ff2721008e63",
+   "status": "skip"
+  },
   "ff3d70fa0248": {
    "found": "2026-11-10",
    "id": "ff3d70fa0248",
@@ -25739,10 +25906,17 @@
   }
  },
  "meta": {
+  "last_digest": "2026-11-23",
+  "notified": [
+   "2910679427c2",
+   "ca23076a172a",
+   "d59c7be15818"
+  ],
   "social_since": {
    "linkedin": "2026-11-23",
    "x": "2026-11-17"
-  }
+  },
+  "watch_seen": []
  },
  "pages": {
   "https://difaconsultancy.com/": {
@@ -26074,7 +26248,7 @@
     "https://www.techpolicy.press/trump-left-manila-without-a-pax-silica-deal-what-can-the-philippines-demand",
     "https://www.techpolicy.press/what-we-now-know-about-ai-and-elections"
    ],
-   "text": "Perspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nRepresentatives must reclaim the public oversight and agency that Americans are clamoring for, writes Data & Society executive director Janet Haven.\nNovember 23, 2026\nFeatured\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nFeatured\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nLatest\nView more\nPerspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nNovember 23, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nNews\nNo Bailout for the AI Bubble, Anthropic IPO Protesters Say\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nPerspective\nWhat We Now Know About AI and Elections\nNovember 19, 2026\nNews\nAs Anthropic Goes Public, Who Has the Power to Stop an AI Company?\nNovember 19, 2026\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nAnalysis\nMicrosoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure\nNovember 19, 2026\nAnalysis\nBugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood\nNovember 18, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Perspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nThe suggestion Europe can thrive by letting its factory floors integrate frontier LLMs is as dangerous as it is deliberate, writes Cristina Caffarra.\nNovember 23, 2026\nFeatured\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nFeatured\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nLatest\nView more\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nNews\nNo Bailout for the AI Bubble, Anthropic IPO Protesters Say\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nPerspective\nWhat We Now Know About AI and Elections\nNovember 19, 2026\nNews\nAs Anthropic Goes Public, Who Has the Power to Stop an AI Company?\nNovember 19, 2026\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nAnalysis\nMicrosoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure\nNovember 19, 2026\nAnalysis\nBugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood\nNovember 18, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
