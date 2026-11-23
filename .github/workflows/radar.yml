@@ -35,6 +35,8 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          WATCH_URL: ${{ secrets.WATCH_URL }}
+          WATCH_KEY: ${{ secrets.WATCH_KEY }}
       - name: Rebuild site if the run failed midway
         if: failure()
         run: python -m agent publish

@@ -263,6 +263,30 @@ h1{font:var(--hw) 46px/1 var(--serif);letter-spacing:-.02em;margin:6px 0 4px}
 @media (max-width:760px){.stats{grid-template-columns:repeat(2,1fr);row-gap:12px}.stat:nth-child(3){border-left:0;padding-left:0}h1{font-size:38px}}
 
 .top .updated,.stat span,.seg button,.chip,.kicker,.card .why,.foot,body{font-family:var(--sans)}
+/* calendar menu, shortlist folders, watch, source excerpts */
+.calmenu{position:relative}
+.calmenu summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;padding:4px 0 4px 14px;font-weight:600;font-size:12.5px;letter-spacing:.04em;text-transform:uppercase}
+.calmenu summary::-webkit-details-marker{display:none}
+.calmenu summary:hover{color:var(--red)}
+.calmenu .menu{position:absolute;right:0;top:calc(100% + 6px);z-index:30;background:var(--bg);border:1px solid var(--rule);padding:12px 14px;width:240px;display:grid;gap:2px}
+.calmenu .menu p{margin:0 0 6px;font-size:12.5px;color:var(--mute)}
+.calmenu .menu a{padding:5px 0;font-size:14px;text-decoration:none;border-top:1px solid var(--line)}
+.calmenu .menu a:hover{text-decoration:underline;text-underline-offset:3px}
+.addcal{white-space:nowrap;color:var(--mute)}.addcal a{color:var(--ink)}
+.folder{margin-top:26px}
+.folder h2{font:var(--hw) 22px/1.1 var(--serif);border-top:3px solid var(--rule);padding:10px 0 8px;margin:0;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between;align-items:baseline}
+.folder h2 span{font:500 13px var(--sans);color:var(--mute)}
+.syncnote{font-size:12.5px;color:var(--mute);margin:14px 0 0}
+.dotnew{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--red);margin-left:5px;vertical-align:2px}
+.savebox{display:grid;gap:4px;margin:14px 0 0;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.savebox label{display:flex;gap:10px;align-items:center;font-size:13px;font-weight:600}
+.savebox input{flex:1;font:inherit;font-weight:400;border:0;border-bottom:1px solid var(--line);background:none;color:var(--ink);padding:4px 0}
+.savebox input:focus{outline:0;border-bottom-color:var(--ink)}
+.savebox small{color:var(--mute);font-size:12px}
+.drawer .row{gap:8px;flex-wrap:wrap}
+.srcs q{display:block;margin-top:6px;font-size:13px;color:var(--ink2);quotes:"\201C" "\201D"}
+.srcs a.sub{border:0;padding:2px 0 8px;font-size:12.5px;color:var(--ink2);display:inline-flex;gap:5px;align-items:center}
+.note{font-size:13px;color:var(--amber);margin:0 0 8px}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 html.gsap .drawer,html.gsap .scrim{transition:none} /* GSAP drives these; CSS transitions would fight it */
@@ -274,7 +298,9 @@ html.gsap .drawer,html.gsap .scrim{transition:none} /* GSAP drives these; CSS tr
   <div class="top">
     <div class="brand"><small>ILINA</small><h1>Policy Radar</h1><div class="updated" id="gen"></div></div>
     <div class="links">
-      <a id="cal" href="deadlines.ics"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendar</a>
+      <details class="calmenu"><summary><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendar</summary>
+        <div class="menu"><p>Add every deadline to your calendar. It stays up to date.</p>
+          <a id="calG" target="_blank" rel="noopener">Google Calendar</a><a id="calA">Apple or Outlook</a><a href="deadlines.ics" download>Download file</a></div></details>
       <a href="radar.xlsx"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0l-5-5m5 5l5-5M4 21h16"/></svg>Spreadsheet</a>
     </div>
   </div>
@@ -305,7 +331,46 @@ html.gsap .drawer,html.gsap .scrim{transition:none} /* GSAP drives these; CSS tr
 <script>
 const $=s=>document.querySelector(s), today=new Date(new Date().toDateString());
 const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
-const marks=store.get('marks',{}), lastVisit=store.get('lastVisit','');
+const lastVisit=store.get('lastVisit','');
+// Shortlist, folders and watch list. Saved in this browser, and synced to the Watchlist tab of the Google Sheet
+// once this browser has opened the setup link (#sync=...), so the agent can email her about watched items.
+const marks=Object.fromEntries(Object.entries(store.get('marks',{})).map(([k,v])=>[k,typeof v==='string'?{mark:v}:v]).filter(([,v])=>v&&(v.mark||v.watch)));
+const dirty=new Set(store.get('dirty',[]));  // changed here and not yet saved to the sheet
+let sync=store.get('sync',null), syncState='';
+{const m=location.hash.match(/sync=([\w=-]+)/);
+  if(m){try{const [url,key]=atob(m[1].replace(/-/g,'+').replace(/_/g,'/')).split('|');
+    if(/^https:\/\/script\.google\.com\//.test(url)&&key){sync={url,key};store.set('sync',sync);Object.keys(marks).forEach(id=>dirty.add(id))}}catch{}
+  history.replaceState(null,'',location.pathname+location.search)}}
+const M=id=>marks[id]||{}, starred=id=>M(id).mark==='star'||!!M(id).watch, gone=id=>M(id).mark==='gone';
+const updated=e=>{const m=M(e.id);return m.watch&&m.since&&e.sources.some(s=>(s.found||s.date)>m.since)};
+const folders=()=>[...new Set(Object.values(marks).map(m=>m.folder).filter(Boolean))].sort();
+function saveMarks(){store.set('marks',marks);store.set('dirty',[...dirty])}
+function setMark(id,patch){
+  const m={...M(id),...patch};
+  if(m.watch&&!m.since)m.since=new Date().toISOString().slice(0,10);
+  if(!m.watch)delete m.since;
+  if(m.mark||m.watch)marks[id]=m;else delete marks[id];
+  dirty.add(id);saveMarks();push(id);
+}
+const call=b=>fetch(sync.url,{method:'POST',body:JSON.stringify({key:sync.key,...b})}).then(r=>r.json()).then(j=>{if(j.error)throw j.error;return j});
+function setSync(s){syncState=s;const n=$('#syncnote');if(n)n.textContent=syncNote()}
+const syncNote=()=>!sync?'Saved in this browser only.':syncState==='err'?'Could not reach the Google Sheet. Changes are kept here and will sync next time.':'Synced with the Watchlist tab of the Google Sheet. Add keywords there to widen an alert.';
+async function push(id){
+  if(!sync)return;const m=M(id),e=data.find(x=>x.id===id);
+  try{await call({id,title:e?e.title:m.title||'',link:location.origin+location.pathname+'?item='+id,
+      mark:starred(id)?'star':'',folder:starred(id)?m.folder||'':'',watch:!!m.watch});dirty.delete(id);saveMarks();setSync('ok')}
+  catch{setSync('err')}
+}
+async function pull(){
+  if(!sync)return;
+  try{const {rows}=await call({action:'list'}),server={};rows.forEach(r=>server[r.id]=r);
+    // the sheet wins for anything not changed in this browser since the last successful save
+    Object.keys(marks).forEach(id=>{if(!dirty.has(id)&&!server[id]&&!gone(id))delete marks[id]});
+    rows.forEach(r=>{if(dirty.has(r.id))return;const w=['true','yes','1'].includes(String(r.watch).toLowerCase());
+      marks[r.id]={mark:'star',folder:String(r.folder||''),watch:w,since:w?String(r.watch_since||r.added||'').slice(0,10):undefined,title:r.title}});
+    saveMarks();setSync('ok');[...dirty].forEach(push);render('none');stats();
+  }catch{setSync('err')}
+}
 const AF=/africa|kenya|nigeria|rwanda|ghana|ethiopia|uganda|tanzania|senegal|togo|zambia|egypt|morocco|african union|nepad|uneca|smart africa|eswatini|lesotho|burundi|gabon|sudan|malawi|zimbabwe|namibia|botswana|cameroon|tunisia|benin|mauritius|ecowas|sadc|\beac\b/i;
 const days=d=>d?Math.round((new Date(d)-today)/864e5):null;
 const fmt=(d,o={day:'numeric',month:'short'})=>new Date(d).toLocaleDateString('en-GB',o);
@@ -314,12 +379,13 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const ICONS={clock:'<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',pin:'<path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/>',
   star:'<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/>',x:'<path d="M6 6l12 12M18 6L6 18"/>',
   bolt:'<path d="M13 2L4 14h7l-1 8 9-12h-7z"/>',flag:'<path d="M5 21V4h12l-2.5 4L17 12H5"/>',arrow:'<path d="M5 12h14M13 6l6 6-6 6"/>',
-  ext:'<path d="M14 4h6v6M20 4l-9 9M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>'};
+  ext:'<path d="M14 4h6v6M20 4l-9 9M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>',
+  bell:'<path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/>',cal:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>'};
 const ic=(n,sz=14,fill)=>`<svg class="ic" width="${sz}" height="${sz}" viewBox="0 0 24 24" fill="${fill?'currentColor':'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[n]}</svg>`;
 const ACT=['call_for_input','opportunity'];
 // colour = identity of the category; always shown with its text label
 const CATS={call_for_input:['Call for input','--c8'],opportunity:['Opportunity','--c2'],event:['Event','--c1'],policy_change:['Policy change','--c3'],
-  appointment:['Appointment','--c7'],publication:['Publication','--c4'],science:['Science','--c5'],sector_impact:['Sector impact','--c6'],news:['News','--c9']};
+  appointment:['Appointment','--c7'],publication:['Publication','--c4'],science:['Science','--c5'],field:['State of the field','--c1'],sector_impact:['Sector impact','--c6'],news:['News','--c9']};
 const cat=e=>CATS[e.type]||CATS.news, kv=e=>`--k:var(${cat(e)[1]})`;
 const week7=new Date(today-7*864e5).toISOString().slice(0,10);
 const isNew=e=>e.found>=week7;
@@ -332,7 +398,7 @@ const VIEWS={
   big:{name:'Big developments',hint:'The most significant moves in AI governance, whether or not they fit ILINA\'s priorities. Newest first.',
     f:e=>e.impact>=4,sort:(a,b)=>b.updated<a.updated?-1:1},
   all:{name:'Everything',hint:'Everything the radar is tracking, highest priority for ILINA first.',f:()=>true,sort:(a,b)=>b.score-a.score},
-  star:{name:'Shortlist',hint:'Items you starred. Saved in this browser.',f:e=>marks[e.id]==='star',sort:(a,b)=>b.score-a.score},
+  star:{name:'Shortlist',hint:'Items you saved, in folders. Watched items alert you when there is news.',f:e=>starred(e.id),sort:(a,b)=>updated(b)-updated(a)||b.score-a.score},
 };
 const LENS={list:['None',null],country:['Country',e=>e.countries.length?e.countries:['Unspecified']],arena:['Institution',e=>[e.arena||'Other']],
   type:['Category',e=>[cat(e)[0]]],sector:['Sector',e=>[e.sector?e.sector[0].toUpperCase()+e.sector.slice(1):'No specific sector']]};
@@ -345,18 +411,19 @@ const dlPill=e=>{if(!e.deadline)return'';const n=days(e.deadline);
 const prioCls=e=>e.score>=70?'h':e.score>=50?'m':'';
 
 function card(e){
-  const m=marks[e.id];
-  return `<article tabindex="0" class="card ${m==='gone'?'gone':''}" style="${kv(e)}" data-open="${e.id}" data-flip-id="${e.id}">
+  const m=M(e.id),on=starred(e.id);
+  return `<article tabindex="0" class="card ${gone(e.id)?'gone':''}" style="${kv(e)}" data-open="${e.id}" data-flip-id="${e.id}">
     <div class="kicker"><span class="cat"><span class="dot"></span>${cat(e)[0]}</span>
-      ${isNew(e)?'<span class="new">New</span>':''}${e.impact>=4?`<span class="flag">${ic('bolt',12)} Major</span>`:''}${e.first?`<span class="flag">${ic('flag',12)} First</span>`:''}
+      ${isNew(e)?'<span class="new">New</span>':''}${e.impact>=4?`<span class="flag">${ic('bolt',12)} Major</span>`:''}${e.first?`<span class="flag">${ic('flag',12)} First</span>`:''}${updated(e)?`<span class="new">${ic("bell",12)} Update</span>`:''}
       ${e.countries.length?`<span>${esc(e.countries.slice(0,2).join(', '))}</span>`:''}</div>
     <h3>${esc(e.title)}</h3>
     <p class="why">${esc(e.why||e.summary)}</p>
     <div class="foot">${dlPill(e)}${e.event_start?`<span class="pill">${ic('pin',13)} ${fmt(e.event_start)}${e.location?' · '+esc(e.location.split(',')[0]):''}</span>`:''}
       ${e.action?`<span class="next">${ic('arrow',13)} ${esc(e.action)}</span>`:''}</div>
     <div class="prio"><span class="score ${prioCls(e)}" title="Priority for ILINA (0–100)">${e.score}</span>
-      <button class="icon ${m==='star'?'on':''}" data-m="star" data-id="${e.id}" title="Shortlist" aria-label="Shortlist">${ic('star',16,m==='star')}</button>
-      <button class="icon ${m==='gone'?'on':''}" data-m="gone" data-id="${e.id}" title="Not relevant" aria-label="Not relevant">${ic('x',16)}</button></div>
+      <button class="icon ${on?'on':''}" data-m="star" data-id="${e.id}" title="Shortlist" aria-label="Shortlist">${ic('star',16,on)}</button>
+      <button class="icon ${m.watch?'on':''}" data-m="watch" data-id="${e.id}" title="${m.watch?'Watching: you get an email when there is news':'Watch: email me when there is news'}" aria-label="Watch">${ic('bell',16,m.watch)}</button>
+      <button class="icon ${gone(e.id)?'on':''}" data-m="gone" data-id="${e.id}" title="Not relevant" aria-label="Not relevant">${ic('x',16)}</button></div>
   </article>`;
 }
 
@@ -375,6 +442,24 @@ function mini(e,hidden,g){
   const n=days(e.deadline);
   const d=e.deadline&&n>=0?`<span class="d ${n<14?'r':n<30?'a':''}">${fmt(e.deadline)}</span>`:e.event_start&&days(e.event_start)>=0?`<span class="d">${fmt(e.event_start)}</span>`:'';
   return `<div tabindex="0" class="mini" style="${kv(e)}${hidden?';display:none':''}" data-open="${e.id}" data-flip-id="${esc(g)}|${e.id}"><span class="dot"></span><div><b>${esc(e.title)}</b><small>${cat(e)[0]}${e.impact>=4?' · Major':''}${isNew(e)?' · New':''}</small></div>${d}</div>`;
+}
+
+function shelf(rows){
+  const g={};rows.forEach(e=>{const f=M(e.id).folder||'Unsorted';(g[f]=g[f]||[]).push(e)});
+  const order=Object.keys(g).sort((a,b)=>(a==='Unsorted')-(b==='Unsorted')||a.localeCompare(b));
+  return `<p class="syncnote" id="syncnote">${syncNote()}</p>`+order.map(f=>`<section class="folder" data-flip-id="f:${esc(f)}">
+    <h2>${esc(f)}<span>${g[f].length}</span></h2><div class="list">${g[f].map(card).join('')}</div></section>`).join('');
+}
+const ymd=d=>d.replace(/-/g,''), nextDay=d=>{const x=new Date(d+'T00:00:00Z');x.setUTCDate(x.getUTCDate()+1);return x.toISOString().slice(0,10)};
+function addCal(e,d,what){
+  const title=(what==='Deadline'?'Deadline: ':'')+e.title, details=[e.summary,e.action,e.sources[0].url].filter(Boolean).join('\n\n');
+  const g='https://calendar.google.com/calendar/render?action=TEMPLATE&text='+encodeURIComponent(title)+'&dates='+ymd(d)+'/'+ymd(nextDay(d))
+    +'&details='+encodeURIComponent(details)+(e.location&&what!=='Deadline'?'&location='+encodeURIComponent(e.location):'');
+  const icsEsc=s=>String(s).replace(/[\\,;]/g,c=>'\\'+c).replace(/\n/g,'\\n');
+  const ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//ILINA policy radar//EN','BEGIN:VEVENT','UID:'+e.id+'-'+ymd(d)+'@ilina-radar',
+    'DTSTAMP:'+ymd(new Date().toISOString().slice(0,10))+'T000000Z','DTSTART;VALUE=DATE:'+ymd(d),'DTEND;VALUE=DATE:'+ymd(nextDay(d)),
+    'SUMMARY:'+icsEsc(title),'DESCRIPTION:'+icsEsc(details),'END:VEVENT','END:VCALENDAR'].join('\r\n');
+  return ` · <span class="addcal">${ic('cal',12)} Add to <a href="${g}" target="_blank" rel="noopener">Google</a> or <a href="data:text/calendar;charset=utf-8,${encodeURIComponent(ics)}" download="${esc(e.title.slice(0,60))}.ics">Apple/Outlook</a></span>`;
 }
 
 function timeline(rows){
@@ -397,7 +482,8 @@ function timeline(rows){
 }
 
 function detail(e){
-  const m=marks[e.id], s=e.sources;
+  const m=M(e.id), on=starred(e.id), s=e.sources;
+  const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch{return''}};
   const fact=(k,v)=>v?`<dt>${k}</dt><dd>${v}</dd>`:'';
   $('#detail').innerHTML=`<div class="bar"><span class="kicker" style="${kv(e)}"><span class="cat"><span class="dot"></span>${cat(e)[0]}</span>${e.impact>=4?`<span class="flag">${ic('bolt',12)} Major</span>`:''}${e.first?`<span class="flag">${ic('flag',12)} First</span>`:''}<span class="score ${prioCls(e)}" title="Priority for ILINA">${e.score}</span></span>
     <button class="icon" id="close" aria-label="Close">${ic('x',18)}</button></div>
@@ -405,18 +491,24 @@ function detail(e){
     <p class="lead">${esc(e.summary)}</p>
     ${e.why||e.action?`<div class="callout">${e.why?`<b>Why it matters</b>${esc(e.why)}`:''}${e.action?`<div style="margin-top:${e.why?8:0}px"><b>Next step</b>${esc(e.action)}</div>`:''}</div>`:''}
     <dl class="facts">
-      ${fact('Deadline',e.deadline?`${fmt(e.deadline,{day:'numeric',month:'long',year:'numeric'})} · ${days(e.deadline)} days`:'')}
-      ${fact('Event',e.event_start?fmt(e.event_start,{day:'numeric',month:'long',year:'numeric'})+(e.location?' · '+esc(e.location):''):e.location?esc(e.location):'')}
+      ${fact('Deadline',e.deadline?`${fmt(e.deadline,{day:'numeric',month:'long',year:'numeric'})} · ${days(e.deadline)} days${addCal(e,e.deadline,'Deadline')}`:'')}
+      ${fact('Event',e.event_start?fmt(e.event_start,{day:'numeric',month:'long',year:'numeric'})+(e.location?' · '+esc(e.location):'')+addCal(e,e.event_start,'Event'):e.location?esc(e.location):'')}
       ${fact('How to take part',esc(e.participation))}
       ${fact('Countries',esc(e.countries.join(', ')))}
       ${fact('Institution',e.arena&&e.arena!=='Other'?esc(e.arena):'')}
       ${fact('Organisers',esc(e.organizers.join(', ')))}
     </dl>
     <div class="row"><a class="btn primary" href="${esc(safe(s[0].url))}" target="_blank" rel="noopener">Open source ${ic('ext',14)}</a>
-      <button class="btn ${m==='star'?'on':''}" data-m="star" data-id="${e.id}">${ic('star',14,m==='star')} ${m==='star'?'Shortlisted':'Shortlist'}</button>
-      <button class="btn ${m==='gone'?'on':''}" data-m="gone" data-id="${e.id}">${m==='gone'?'Dismissed':'Not relevant'}</button></div>
+      <button class="btn ${on?'on':''}" data-m="star" data-id="${e.id}">${ic('star',14,on)} ${on?'Shortlisted':'Shortlist'}</button>
+      <button class="btn ${m.watch?'on':''}" data-m="watch" data-id="${e.id}">${ic('bell',14,m.watch)} ${m.watch?'Watching':'Watch for news'}</button>
+      <button class="btn ${gone(e.id)?'on':''}" data-m="gone" data-id="${e.id}">${gone(e.id)?'Dismissed':'Not relevant'}</button></div>
+    ${on?`<div class="savebox"><label>Folder <input id="folder" list="folderlist" value="${esc(m.folder||'')}" placeholder="Unsorted" autocomplete="off"></label>
+      <datalist id="folderlist">${folders().map(f=>`<option value="${esc(f)}">`).join('')}</datalist>
+      <small>${m.watch?(sync?'You will get an email when new items about this appear.':'Alerts start once this browser is connected to the Google Sheet.'):'Type a new name to make a folder.'}</small></div>`:''}
     <h4>Sources</h4>
-    <ul class="srcs">${s.map(x=>`<li><a href="${esc(safe(x.url))}" target="_blank" rel="noopener">${esc(x.title)}<span>${esc(x.source)} · ${fmt(x.date,{day:'numeric',month:'short',year:'numeric'})}</span></a></li>`).join('')}</ul>`;
+    ${s.every(x=>x.headline_only)?'<p class="note">The radar could only read the headline here. Check the source for dates and details.</p>':''}
+    <ul class="srcs">${s.map(x=>`<li><a href="${esc(safe(x.url))}" target="_blank" rel="noopener">${esc(x.title)}<span>${esc(x.source)} · ${fmt(x.date,{day:'numeric',month:'short',year:'numeric'})}</span>${x.said?`<q>${esc(x.said)}</q>`:''}</a>
+      ${x.link?`<a class="sub" href="${esc(safe(x.link))}" target="_blank" rel="noopener">${ic('ext',12)} Linked page: ${esc(host(x.link))}</a>`:''}</li>`).join('')}</ul>`;
 }
 let openId=null;
 let drawerTl;
@@ -444,7 +536,7 @@ function initMotion(){
   if(!window.gsap)return;  // CDN blocked: the page still works, just without motion
   if(window.Flip)gsap.registerPlugin(Flip);
   document.documentElement.classList.add('gsap');
-  gsap.defaults({duration:.4,ease:'power2.out'});
+  gsap.defaults({duration:.4,ease:'power2.out'});gsap.config({nullTargetWarn:false});
   gsap.matchMedia().add('(prefers-reduced-motion: no-preference)',()=>{anim=true;return()=>{anim=false}});
 }
 const FLIPPABLE='#out [data-flip-id]';
@@ -468,12 +560,12 @@ function pass(e){
   const q=$('#q').value.toLowerCase().trim();
   return (!q||JSON.stringify([e.title,e.summary,e.organizers,e.countries,e.topics,e.arena,e.sector]).toLowerCase().includes(q))
     &&(!$('#af').checked||AF.test(e.countries.join(' ')+' '+e.title+' '+e.summary))
-    &&($('#showgone').checked||st.view==='star'||marks[e.id]!=='gone');
+    &&($('#showgone').checked||st.view==='star'||!gone(e.id));
 }
 const inCat=e=>!st.cats.size||st.cats.has(e.type)||(st.cats.has('first')&&e.first);
 
 function stats(){
-  const live=data.filter(e=>marks[e.id]!=='gone');
+  const live=data.filter(e=>!gone(e.id));
   const tiles=[
     {v:live.filter(e=>VIEWS.act.f(e)&&e.deadline&&days(e.deadline)<=21).length,l:'Due in 3 weeks',go:'act',alert:true},
     {v:live.filter(isNew).length,l:'New this week',go:'all'},
@@ -486,7 +578,7 @@ function stats(){
 function render(mode='enter'){
   if(mode==='flip')return flip(()=>render('none'));
   const V=VIEWS[st.view];
-  $('#views').innerHTML=Object.entries(VIEWS).map(([k,v])=>`<button role="tab" data-v="${k}" class="${k===st.view?'on':''}">${v.name}<span class="n">${data.filter(e=>v.f(e)&&pass(e)&&inCat(e)).length}</span></button>`).join('');
+  $('#views').innerHTML=Object.entries(VIEWS).map(([k,v])=>`<button role="tab" data-v="${k}" class="${k===st.view?'on':''}">${v.name}<span class="n">${data.filter(e=>v.f(e)&&pass(e)&&inCat(e)).length}</span>${k==='star'&&data.some(updated)?`<span class="dotnew" title="News on something you watch"></span>`:''}</button>`).join('');
   $('#lens').innerHTML=Object.entries(LENS).map(([k,[n]])=>`<button data-l="${k}" class="${k===st.lens?'on':''}">${n}</button>`).join('');
   const base=data.filter(e=>V.f(e)&&pass(e));
   $('#cats').innerHTML=[...Object.entries(CATS),['first',['First','--c9']]].map(([k,[n,c]])=>{
@@ -495,8 +587,9 @@ function render(mode='enter'){
     +(st.cats.size?'<button class="clear" data-clear>Clear</button>':'');
   const rows=base.filter(inCat).sort(V.sort);
   const out=$('#out');
-  if(!rows.length)out.innerHTML='<p class="empty">Nothing here with these filters.</p>';
+  if(!rows.length)out.innerHTML=st.view==='star'&&!st.cats.size?'<p class="empty">Nothing saved yet. Use the star to shortlist an item, or the bell to get an email when there is news about it.</p>':'<p class="empty">Nothing here with these filters.</p>';
   else if(st.lens!=='list')out.innerHTML=board(rows,LENS[st.lens][1]);
+  else if(st.view==='star')out.innerHTML=shelf(rows);
   else if(st.view==='upcoming')out.innerHTML=timeline(rows);
   else out.innerHTML=`<div class="list">${rows.map(card).join('')}</div>`;
   history.replaceState(null,'','#'+st.view+(st.lens!=='list'?'/'+st.lens:''));
@@ -509,7 +602,10 @@ document.addEventListener('click',ev=>{
   const l=t.closest('[data-l]');if(l){st.lens=l.dataset.l;store.set('lens',st.lens);render();return}
   const c=t.closest('[data-c]');if(c){const k=c.dataset.c;st.cats.has(k)?st.cats.delete(k):st.cats.add(k);store.set('cats',[...st.cats]);render('flip');return}
   if(t.closest('[data-clear]')){st.cats.clear();store.set('cats',[]);render('flip');return}
-  const mk=t.closest('[data-m]');if(mk){ev.stopPropagation();const {id,m}=mk.dataset;marks[id]=marks[id]===m?undefined:m;store.set('marks',marks);
+  const mk=t.closest('[data-m]');if(mk){ev.stopPropagation();const {id,m}=mk.dataset,c=M(id);
+    if(m==='star')setMark(id,starred(id)?{mark:undefined,watch:false,folder:''}:{mark:'star'});
+    else if(m==='watch')setMark(id,c.watch?{watch:false}:{watch:true,mark:'star'});
+    else setMark(id,gone(id)?{mark:undefined}:{mark:'gone',watch:false,folder:''});
     render('flip');stats();if(openId)detail(data.find(x=>x.id===openId));return}
   const mo=t.closest('[data-more]');if(mo){const g=mo.closest('.group');flip(()=>{g.querySelectorAll('.mini').forEach(x=>x.style.display='');mo.remove()});return}
   if(t.closest('#close')||t.id==='scrim'){closeDrawer();return}
@@ -522,11 +618,14 @@ document.addEventListener('keydown',ev=>{
 });
 let qt;$('#q').addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(()=>render('flip'),150)});
 ['af','showgone'].forEach(id=>$('#'+id).addEventListener('change',()=>render('flip')));
-$('#cal').href='webcal://'+location.host+location.pathname.replace(/[^/]*$/,'')+'deadlines.ics';
+document.addEventListener('change',ev=>{if(ev.target.id==='folder'&&openId){setMark(openId,{folder:ev.target.value.trim()});render('flip')}});
+document.addEventListener('click',ev=>{const d=$('.calmenu');if(d&&d.open&&!ev.target.closest('.calmenu'))d.open=false});
+{const feed=location.host+location.pathname.replace(/[^/]*$/,'')+'deadlines.ics';
+  $('#calA').href='webcal://'+feed;$('#calG').href='https://calendar.google.com/calendar/render?cid='+encodeURIComponent('webcal://'+feed)}
 addEventListener('DOMContentLoaded',()=>{initMotion();fetch('data.json').then(r=>r.json()).then(d=>{
   data=d.entries.map(e=>({countries:[],organizers:[],contacts:[],allies:[],topics:[],...e}));
   $('#gen').textContent=`Updated ${fmt(d.generated,{day:'numeric',month:'long'})}`;
-  stats();render();store.set('lastVisit',d.generated);
+  stats();render();store.set('lastVisit',d.generated);pull();
   const it=new URLSearchParams(location.search).get('item');if(it)openDrawer(it);
 }).catch(()=>{$('#out').innerHTML='<p class="empty">Could not load the data. Try refreshing.</p>'})});
 </script>

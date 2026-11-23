@@ -1,15 +1,17 @@
 """Two LLM passes: cheap batched triage on titles, then full extraction on what survives."""
-import re, time
+import re, time, unicodedata
 from datetime import date
+
+import requests
 
 from .collect import fetch_text, uid
 from .llm import Unavailable
 
 TYPES = ["call_for_input", "opportunity", "event", "policy_change", "appointment", "publication", "science",
-         "sector_impact", "news"]
+         "field", "sector_impact", "news"]
 ARENAS = ["UN system", "African Union", "African regional bloc", "National government", "EU", "Other multilateral",
           "Industry", "Research & civil society", "Other"]
-SCHEMA = 2  # bump when EXTRACT gains fields; older items get re-read
+SCHEMA = 3  # bump when EXTRACT gains fields; older items get re-read
 TOPICS = ["AI safety & security", "Global Dialogue / UN", "AI summits", "Africa policy", "public services",
           "health / agriculture / education", "evaluations & monitoring", "AI fund & capacity", "global AI law"]
 
@@ -20,24 +22,36 @@ You get a numbered list of items. Keep an item if it could plausibly matter to I
 governance would want to know it: AI policy or law anywhere (especially Africa), AI safety/security, UN and other
 multilateral AI work, events or calls to take part, publications, appointments to AI policy roles, firsts
 (first law, ruling, institution or deployment of its kind), scientific breakthroughs with policy implications,
-and significant AI impacts in a sector (health, agriculture, education, finance, labour, security, justice).
-Drop routine product launches, funding rounds, stock news and items unrelated to AI.
+significant AI impacts in a sector (health, agriculture, education, finance, labour, security, justice), and the
+state of the field: debates on AI governance, safety or technical questions, frontier lab announcements (model
+releases, system cards, safety frameworks), benchmarks and capability evaluations, incident reports and
+investigative reporting.
+Drop consumer product launches, funding rounds, stock news and items unrelated to AI.
 Return JSON: {{"keep": [numbers]}}"""
 
 EXTRACT = """You analyse items for ILINA, an African AI safety and governance organisation.
 {profile}
 
-Today is {today}. Read the item and return JSON with exactly these keys:
+Today is {today}. Read the item and return JSON with exactly these keys. Every fact must come from the item's own
+text. If the text is too short or vague to tell what it is about, return "relevant": false.
 {{
  "relevant": true/false,          // false only if neither ILINA nor an AI policy researcher would care
  "type": one of {types},
    // call_for_input = an open call for submissions, comments, consultation responses or evidence
    // opportunity = another concrete way to take part now: applications, fellowships, funding calls, speakers,
    //   nominations or open registration. Speeches, partnerships, investments, launches and reports are NOT.
-   // event = a specific dated convening; policy_change = a new or amended law, policy, strategy or regulation
+   //   call_for_input needs a named process that is open now; news about a bill or strategy is NOT a call.
+   // event = a specific convening whose date is given in the text
+   // policy_change = a government or intergovernmental body adopted, enacted, published, amended, withdrew or
+   //   formally proposed a specific law, policy, strategy or regulation. Commentary, analysis or calls to act
+   //   on a policy are NOT policy_change (use field).
    // appointment = someone appointed, elected or named to a role or expert body
-   // publication = a report, paper, guidance or index; science = a research or technical result with policy
-   //   implications; sector_impact = AI adoption or effects in a specific sector; news = anything else
+   // publication = a report, paper, guidance or index from an institution
+   // science = a new research finding or technical breakthrough with policy implications
+   // field = state of the field: debates, commentary, op-eds and calls to action on AI governance or safety;
+   //   frontier lab announcements (model releases, system cards, safety frameworks); benchmark and capability
+   //   evaluation results; incident reports; investigative reporting
+   // sector_impact = AI adoption or effects in a specific sector; news = anything else
  "title": "short clear title (max 12 words)",
  "summary": "what it is, max 2 plain sentences",
  "why": "why it matters to ILINA, 1 sentence",
@@ -60,7 +74,7 @@ Today is {today}. Read the item and return JSON with exactly these keys:
 }}
 Only use dates stated or clearly implied in the text; never guess. Resolve relative dates using the publication date.
 
-Ongoing threads:
+Ongoing threads (only for the "thread" key; never take facts from this list):
 {threads}"""
 
 
@@ -126,6 +140,57 @@ def triage(llm, store, profile, deadline_at):
             i["status"] = "triaged"
 
 
+SOCIAL = re.compile(r"^https?://(www\.)?(x\.com|twitter\.com|linkedin\.com)/", re.I)
+STOP = {"with", "from", "that", "this", "will", "into", "over", "about", "their", "launch", "launches", "new"}
+
+
+def _resolve(url):
+    """Where a short link (t.co, lnkd.in, bit.ly) really points."""
+    try:
+        # plain client: t.co answers browsers with a page instead of a redirect
+        return requests.head(url, headers={"User-Agent": "policy-radar"}, allow_redirects=True, timeout=15).url
+    except requests.RequestException:
+        return url
+
+
+def _linked(i, body):
+    """Social posts are often just a comment and a link: read the linked page too, and remember where it went."""
+    if i.get("group") != "social":
+        return body
+    for short in re.findall(r"https?://\S+", body)[:2]:
+        url = _resolve(short.rstrip(".,)"))
+        if SOCIAL.match(url):
+            continue  # a link to another post, nothing more to read
+        i["link"] = url
+        page = fetch_text(url, 4000)
+        return body.replace(short, url) + (f"\n\nLinked page ({url}):\n{page}" if page else "")
+    return body
+
+
+def _words(text):
+    text = unicodedata.normalize("NFKC", text)  # 𝐁𝐨𝐥𝐝 LinkedIn letters -> plain letters
+    return re.findall(r"[a-z\u00c0-\u024f]{3,}", re.sub(r"https?://\S+", " ", text.lower()))
+
+
+def _date_in(d, text):
+    """Is this date actually written in the text (e.g. '12 March', 'March 12', '2026-03-12')?"""
+    try:
+        d = date.fromisoformat(str(d)[:10])
+    except ValueError:
+        return False
+    t = unicodedata.normalize("NFKC", text).lower()
+    month = rf"(?:{d:%B}|{d:%b})".lower()
+    return bool(d.isoformat() in t or re.search(rf"\b{d.day}(?:st|nd|rd|th)?\s+{month}|{month}\.?\s+{d.day}\b", t))
+
+
+def _grounded(headline, text):
+    """Code-side check that the model described this item and didn't borrow a story from elsewhere."""
+    key = {w for w in _words(headline) if len(w) >= 4 and w not in GENERIC and w not in STOP}
+    have = set(_words(text))
+    hits = sum(w in have or w[:-1] in have or w + "s" in have for w in key)
+    return len(key) < 2 or hits >= max(1, len(key) // 3)
+
+
 def _mentions(names, text):
     return [n for n in names if re.search(r"\b" + re.escape(n) + r"\b", text, re.I)]
 
@@ -139,7 +204,17 @@ def extract(llm, store, profile, cfg, deadline_at):
             print(f"  time budget reached, {len(todo) - n + 1} left for next run")
             return
         body = i.get("body") or fetch_text(i["url"]) or i.get("snippet", "")
-        user = f"Source: {i['source']}\nPublished: {i.get('published')}\nURL: {i['url']}\nTitle: {i['title']}\n\n{body[:7000]}"
+        body = _linked(i, body)
+        if i.get("group") == "social" and len(_words(body)) < 12:  # e.g. a tweet that is only a link we couldn't open
+            i["status"], i["why_skipped"] = "skip", "too little text to read"
+            i.pop("body", None)
+            store.save()
+            continue
+        # Google News links can't be opened server-side, so those items are often just a headline
+        i["headline_only"] = len(_words(body)) - len(_words(i["title"])) < 25
+        note = ("\n\n(Only the headline is available. Leave dates, location and participation empty unless the "
+                "headline states them.)" if i["headline_only"] else "")
+        user = f"Source: {i['source']}\nPublished: {i.get('published')}\nURL: {i['url']}\nTitle: {i['title']}\n\n{body[:7000]}{note}"
         system = EXTRACT.format(profile=profile, today=date.today(), types=TYPES, topics=TOPICS, arenas=ARENAS, threads=_threads_prompt(store))
         try:
             out = llm.json(system, user, 900)
@@ -155,10 +230,17 @@ def extract(llm, store, profile, cfg, deadline_at):
         i.pop("body", None)
         if not out.get("relevant"):
             i["status"] = "skip"
+        elif not _grounded(out.get("title") or "", f"{i['title']} {body}"):
+            i["status"], i["why_skipped"] = "skip", f"headline not found in source: {out.get('title')}"
         else:
             i.update({k: out.get(k) for k in ["type", "summary", "why", "action", "deadline", "event_start", "event_end",
                                               "location", "organizers", "participation", "countries", "topics",
                                               "african_input", "fit", "arena", "sector", "impact", "first"]})
+            if i["headline_only"]:  # the model can't know dates it wasn't shown; drop any it filled in
+                seen = f"{i['title']} {body}"
+                for k in ("deadline", "event_start", "event_end"):
+                    if i.get(k) and not _date_in(i[k], seen):
+                        i[k] = None
             i["v"] = SCHEMA
             i["headline"] = out.get("title") or i["title"]
             i["thread"] = _thread_id(store, out.get("thread"), i.get("type"), f"{i['title']} {body[:3000]}")

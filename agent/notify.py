@@ -1,4 +1,4 @@
-"""Optional digest by email and/or Slack. Daily: only new high-priority items. Weekly: the full roundup."""
+"""Optional digest by email and/or Slack. Daily: urgent items and news on what she watches. Weekly: the full roundup."""
 import html, json, os, smtplib
 from datetime import date, timedelta
 from email.mime.application import MIMEApplication
@@ -7,6 +7,7 @@ from email.mime.text import MIMEText
 
 import requests
 
+from . import watch
 from .publish import urgent
 
 
@@ -29,12 +30,27 @@ def _line(e):
     return " · ".join(bits) + f"<br><small>{html.escape(e['action'] or e['why'])}</small>"
 
 
+def _watched(hits):
+    """One line per new source about something she watches."""
+    rows = []
+    for title, e, s in hits:
+        link = html.escape(s.get("link") or s["url"])
+        rows.append(f"<p><b>{html.escape(title or e['title'])}</b><br><a href='{link}'>{html.escape(s['title'])}</a>"
+                    f" <small>({html.escape(s['source'])}, {s['date']})</small></p>")
+    return "".join(rows)
+
+
 def send(store, entries, weekday=0):
     smtp, slack = os.environ.get("SMTP_USER"), os.environ.get("SLACK_WEBHOOK_URL")
-    if not (smtp or slack):
+    if not (smtp or slack or watch.enabled()):
         return
     today = date.today()
     sent = set(store.meta.get("notified", []))
+    try:
+        hits = watch.updates(entries, store)
+    except Exception as e:  # the sheet being unreachable must not stop the digest
+        print(f"  ! watch list: {e}")
+        hits = []
     weekly = today.weekday() == weekday and store.meta.get("last_digest") != today.isoformat()
     if weekly:
         week = (today - timedelta(days=7)).isoformat()
@@ -43,33 +59,40 @@ def send(store, entries, weekday=0):
         new = [e for e in entries if e not in act and e["score"] >= 50 and fresh(e)][:20]
         big = [e for e in entries if e not in act and e not in new and e.get("impact", 0) >= 4 and fresh(e)][:8]
         subject = f"ILINA policy radar, week of {today:%d %b}" + (f": {len(act)} need action" if act else "")
-    else:  # between digests, only interrupt for something urgent she hasn't been told about
+    else:  # between digests, only interrupt for something urgent or news on something she watches
         act, new, big = [e for e in entries if urgent(e, today) and e["id"] not in sent], [], []
-        subject = f"ILINA policy radar: {len(act)} urgent deadline(s)"
+        subject = ("ILINA policy radar: " + " and ".join(x for x in [
+            f"{len(act)} urgent deadline(s)" if act else "", "news on what you're watching" if hits else ""] if x))
     picks = act + new + big
-    if not picks:
+    if not (picks or hits):
         return
     site = _site()
     section = lambda title, es: f"<h3>{title}</h3>" + "".join(f"<p>{_line(e)}</p>" for e in es) if es else ""
-    body = (section("Needs action (deadline within 3 weeks)", act) + section("New this week", new)
+    body = ((f"<h3>News on what you're watching</h3>{_watched(hits)}" if hits else "")
+            + section("Needs action (deadline within 3 weeks)", act) + section("New this week", new)
             + section("Big developments elsewhere", big) + (f"<p><a href='{site}'>Open the full radar</a></p>" if site else ""))
+    page = f"<div style='font-family:sans-serif;font-size:14px;max-width:640px'>{body}</div>"
+    sheet = os.path.join(os.path.dirname(__file__), "..", "public", "radar.xlsx")
+    attach = (f"ILINA policy radar {today:%d %b %Y}.xlsx", sheet) if weekly and os.path.exists(sheet) else None
 
     if smtp:
         msg = MIMEMultipart()
-        msg.attach(MIMEText(f"<div style='font-family:sans-serif;font-size:14px;max-width:640px'>{body}</div>", "html"))
-        sheet = os.path.join(os.path.dirname(__file__), "..", "public", "radar.xlsx")
-        if os.path.exists(sheet):  # the full list as a spreadsheet; opens in Excel, Numbers or Google Sheets
-            part = MIMEApplication(open(sheet, "rb").read(), Name=f"ILINA policy radar {today:%d %b %Y}.xlsx")
-            part["Content-Disposition"] = f'attachment; filename="ILINA policy radar {today:%d %b %Y}.xlsx"'
+        msg.attach(MIMEText(page, "html"))
+        if attach:  # the full list as a spreadsheet; opens in Excel, Numbers or Google Sheets
+            part = MIMEApplication(open(attach[1], "rb").read(), Name=attach[0])
+            part["Content-Disposition"] = f'attachment; filename="{attach[0]}"'
             msg.attach(part)
         msg["Subject"], msg["From"], msg["To"] = subject, smtp, os.environ.get("DIGEST_TO", smtp)
         with smtplib.SMTP_SSL(os.environ.get("SMTP_HOST", "smtp.gmail.com"), 465) as s:
             s.login(smtp, os.environ["SMTP_PASS"])
             s.sendmail(smtp, [a.strip() for a in msg["To"].split(",")], msg.as_string())
+    elif watch.enabled():  # no SMTP password needed: the sheet's script mails from its owner's Gmail
+        watch.mail(subject, page, attach)
     if slack:
         text = f"*{subject}*\n" + "\n".join(
-            f"• *{e['score']}* <{e['sources'][0]['url']}|{e['title']}>" + (f" ⏰ {e['deadline']}" if e["deadline"] else "")
-            for e in picks) + (f"\n<{site}|Open the full radar>" if site else "")
+            [f"• Watching: <{s.get('link') or s['url']}|{s['title']}>" for _, _, s in hits]
+            + [f"• *{e['score']}* <{e['sources'][0]['url']}|{e['title']}>" + (f" ⏰ {e['deadline']}" if e["deadline"] else "")
+               for e in picks]) + (f"\n<{site}|Open the full radar>" if site else "")
         requests.post(slack, data=json.dumps({"text": text}), timeout=20)
 
     store.meta["notified"] = sorted(sent | {e["id"] for e in entries if urgent(e, today)})

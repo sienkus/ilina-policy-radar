@@ -65,6 +65,17 @@ feeds:
   - {name: TechCabal, url: "https://techcabal.com/feed/", group: news, filter: true}
   - {name: Opportunities for Africans, url: "https://www.opportunitiesforafricans.com/feed/", group: opportunities, filter: true}
   - {name: Opportunity Desk, url: "https://opportunitydesk.org/feed/", group: opportunities, filter: true}
+  # State of the field: lab announcements, evaluations, incidents and the debates around them
+  - {name: OpenAI, url: "https://openai.com/news/rss.xml", group: field}
+  - {name: Google DeepMind, url: "https://deepmind.google/blog/rss.xml", group: field}
+  - {name: METR, url: "https://metr.org/feed.xml", group: field}
+  - {name: Epoch AI, url: "https://epoch.ai/atom.xml", group: field}
+  - {name: AI Incident Database, url: "https://incidentdatabase.ai/rss.xml", group: field}
+  - {name: Import AI (Jack Clark), url: "https://importai.substack.com/feed", group: field}
+  - {name: Rising Tide (Helen Toner), url: "https://helentoner.substack.com/feed", group: field}
+  - {name: AI as Normal Technology, url: "https://www.aisnakeoil.com/feed", group: field}
+  - {name: Understanding AI, url: "https://www.understandingai.org/feed", group: field}
+  - {name: Rest of World, url: "https://restofworld.org/feed/latest/", group: field, filter: true}
 
 # Sites without feeds. The agent spots new links and reads the page itself
 # when its text changes (dates and deadlines often change silently).
@@ -84,6 +95,7 @@ pages:
   - {name: Rwanda MINICT, url: "https://www.minict.gov.rw/news", group: government}
   - {name: Togo Ministry of Digital Economy, url: "https://numerique.gouv.tg/", group: government}
   - {name: Tech Policy Press, url: "https://www.techpolicy.press/", group: news, filter: true}
+  - {name: Anthropic news, url: "https://www.anthropic.com/news", group: field}
 
 # Google News searches (last 14 days). Covers people, LinkedIn-only orgs and press coverage.
 searches:

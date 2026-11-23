@@ -6,7 +6,7 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 OUT = os.path.join(ROOT, "public")
 TYPES = {"call_for_input": "Call for input", "opportunity": "Opportunity", "event": "Event",
          "policy_change": "Policy change", "appointment": "Appointment", "publication": "Publication",
-         "science": "Science & research", "sector_impact": "Sector impact", "news": "News"}
+         "science": "Science & research", "field": "State of the field", "sector_impact": "Sector impact", "news": "News"}
 RANK = {t: n for n, t in enumerate(TYPES)}
 ACTIONABLE = ("call_for_input", "opportunity")
 REGION = {"africa continental", "africa regional", "au member states", "african union", "pan-african", "pan african",
@@ -45,6 +45,21 @@ def score(e, today):
     if e["type"] in ACTIONABLE:
         s += 5
     return min(100, s)
+
+
+def _source(i, n):
+    """What the dashboard shows per source: the post/article, where a post's link really went, and a short
+    excerpt of the source's own words so a mismatch is visible at a glance."""
+    s = {"title": i.get("headline") or i["title"], "url": i["url"], "source": i["source"],
+         "date": i.get("published") or i["found"], "found": i["found"]}
+    if i.get("link"):
+        s["link"] = i["link"]
+    if i.get("headline_only"):
+        s["headline_only"] = True
+    said = re.sub(r"\s+", " ", re.sub(r"https?://\S+", "", i.get("snippet") or "")).strip()
+    if n < 4 and said and said.lower() != (i["title"] or "").lower():
+        s["said"] = said[:240] + ("…" if len(said) > 240 else "")
+    return s
 
 
 def entries(store, today, contacts=()):
@@ -86,9 +101,7 @@ def entries(store, today, contacts=()):
             "african_input": any(i.get("african_input") for i in items),
             "fit": max((i.get("fit") or 1) for i in items),
             "found": min(i["found"] for i in items), "updated": newest,
-            "sources": [{"title": i.get("headline") or i["title"], "url": i["url"], "source": i["source"],
-                         "date": i.get("published") or i["found"]}
-                        for i in sorted(items, key=lambda i: i.get("published") or "", reverse=True)][:12],
+            "sources": [_source(i, n) for n, i in enumerate(sorted(items, key=lambda i: i.get("published") or "", reverse=True)[:12])],
         }
         e["score"] = score(e, today)
         out.append(e)
