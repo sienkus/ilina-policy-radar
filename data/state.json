@@ -15,6 +15,11 @@
    "id": "002ff2eca125",
    "status": "skip"
   },
+  "0047abe3ae25": {
+   "found": "2026-11-24",
+   "id": "0047abe3ae25",
+   "status": "skip"
+  },
   "0049e23ad9b5": {
    "found": "2026-11-10",
    "id": "0049e23ad9b5",
@@ -317,6 +322,11 @@
    "id": "02a9b07dd9ee",
    "status": "skip"
   },
+  "02e3f312ad2b": {
+   "found": "2026-11-24",
+   "id": "02e3f312ad2b",
+   "status": "skip"
+  },
   "030d4a87931c": {
    "found": "2026-11-19",
    "id": "030d4a87931c",
@@ -596,10 +606,91 @@
    "id": "050fbbf6e4bd",
    "status": "skip"
   },
+  "05260ac94dcc": {
+   "action": "Monitor for Anthropic's promised safeguards; advise partners to scan AI coding assistant configuration files and rotate exposed credentials",
+   "african_input": false,
+   "allies": [],
+   "arena": "Industry",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "field",
+   "headline": "Claude Code secrets-spilling vulnerability exposes API keys and credentials",
+   "headline_only": false,
+   "id": "05260ac94dcc",
+   "impact": 3,
+   "location": "Online / GitHub / Docker Hub",
+   "organizers": [
+    "GitGuardian"
+   ],
+   "participation": "Security teams and developers should scan .claude/settings.local.json and Docker images for exposed secrets; rotate compromised credentials",
+   "published": "2026-11-23",
+   "sector": "security",
+   "snippet": "A configuration file meant to store local command permissions on Anthropic’s Claude Code is exposing thousands of API keys, database credentials and other secrets, according to findings by GitGuardian.\n\nThe code security firm identified 31, ... (https://incidentdatabase.ai/cite/1846#8386)",
+   "source": "AI Incident Database",
+   "status": "done",
+   "summary": "Claude Code's 'don't ask again' button saves command approvals including embedded credentials into .claude/settings.local.json, exposing 31,088 distinct secrets across 23,276 public GitHub repositories and 613 secrets in Docker Hub images, with 5343 and 99 respectively still valid.",
+   "thread": null,
+   "title": "Claude Code’s ‘don’t ask again’ button has a secrets-spilling problem",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "field",
+   "url": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
+   "v": 3,
+   "why": "This AI security vulnerability directly relates to ILINA's position on AI safety and AI security given fragile states, and raises concerns about context-dependent risk assessment and third-party evaluations of AI tools."
+  },
   "054ebe8f9a68": {
    "found": "2026-11-21",
    "id": "054ebe8f9a68",
    "status": "skip"
+  },
+  "0582721e21a0": {
+   "action": "Monitor for written submission calls, panel participation opportunities, or side events at this meeting.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "social",
+   "headline": "UN Independent International Scientific Panel on AI meeting in Barbados",
+   "headline_only": true,
+   "id": "0582721e21a0",
+   "impact": 3,
+   "location": "Barbados",
+   "organizers": [
+    "UN Independent International Scientific Panel on AI"
+   ],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "We are in Barbados this week to work on our next report as the UN Independent International Scientific Panel on AI. Thank you SG for your support as we carry out our task.",
+   "source": "X · Vukosi Marivate 🇿🇦🚀📊",
+   "status": "done",
+   "summary": "Members of the UN Independent International Scientific Panel on AI are in Barbados this week to work on their next report, supported by the Secretary-General.",
+   "thread": null,
+   "title": "We are in Barbados this week to work on our next report as the UN Independent International Scientific Panel on AI. Thank you SG for your su",
+   "topics": [
+    "Global Dialogue / UN",
+    "AI safety & security"
+   ],
+   "type": "event",
+   "url": "https://x.com/vukosi/status/2124882429408362779",
+   "v": 3,
+   "why": "This is a UN AI governance process that ILINA tracks under its top priority of UN Global Dialogue on AI Governance and annual AI Safety Summits."
   },
   "058e9f57f540": {
    "found": "2026-11-23",
@@ -913,6 +1004,11 @@
    "v": 3,
    "why": "As a governance-focused AI policy development for Kenya, it directly relates to ILINA's priority of African countries shaping frontier AI regulation."
   },
+  "07e957411792": {
+   "found": "2026-11-24",
+   "id": "07e957411792",
+   "status": "skip"
+  },
   "0824175fcff0": {
    "found": "2026-11-10",
    "id": "0824175fcff0",
@@ -1162,6 +1258,47 @@
    "id": "0a85db592234",
    "status": "skip"
   },
+  "0aa40e56acf0": {
+   "action": "Monitor for upcoming consultation calls or submission opportunities related to the global AI safety framework.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "multilateral",
+   "headline": "UN chief urges talks on global AI safety framework",
+   "headline_only": true,
+   "id": "0aa40e56acf0",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "United Nations / UN Secretary-General"
+   ],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "",
+   "source": "UN News (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General urges negotiations on a global AI safety framework, warning of a historic shift in power dynamics related to AI development.",
+   "thread": null,
+   "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLOUE0WFFXblpadU5iSEdheDJ5MlF1V1JNa2k0YzRVSVFXZ2o4S0FSNmt6LTh6d1dPTmhTTzNOZGMtQWpSNjZudldCLW5tN2dIX0lGYnNQcw?oc=5",
+   "v": 3,
+   "why": "This signals upcoming diplomatic processes and potential consultation calls relevant to ILINA's engagement with UN AI governance processes."
+  },
   "0ab75e561a78": {
    "found": "2026-11-17",
    "id": "0ab75e561a78",
@@ -1274,6 +1411,11 @@
    "id": "0b2e1c02de47",
    "status": "skip"
   },
+  "0b3144e32511": {
+   "found": "2026-11-24",
+   "id": "0b3144e32511",
+   "status": "skip"
+  },
   "0b6f221cd012": {
    "found": "2026-11-19",
    "id": "0b6f221cd012",
@@ -1312,6 +1454,11 @@
   "0c22fbb1db26": {
    "found": "2026-11-17",
    "id": "0c22fbb1db26",
+   "status": "skip"
+  },
+  "0c2be396f034": {
+   "found": "2026-11-24",
+   "id": "0c2be396f034",
    "status": "skip"
   },
   "0c346f580949": {
@@ -1510,6 +1657,11 @@
   "0e34b5f7818d": {
    "found": "2026-11-10",
    "id": "0e34b5f7818d",
+   "status": "skip"
+  },
+  "0e3cbb005aca": {
+   "found": "2026-11-24",
+   "id": "0e3cbb005aca",
    "status": "skip"
   },
   "0e4a30b31949": {
@@ -2011,6 +2163,11 @@
    "id": "1425ac47bcb5",
    "status": "skip"
   },
+  "1440ea4412b9": {
+   "found": "2026-11-24",
+   "id": "1440ea4412b9",
+   "status": "skip"
+  },
   "1441efeaaeb4": {
    "action": "Cite in memo on AI security and privacy in healthcare",
    "african_input": false,
@@ -2258,6 +2415,47 @@
    "v": 3,
    "why": "This represents a national government initiative on AI governance that could involve policy formulation or consultation relevant to African AI governance."
   },
+  "163a1e8ea99b": {
+   "action": "Monitor IGF 2026 agenda and participation opportunities for ILINA input",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": "2026-12-18",
+   "event_start": "2026-12-14",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "social",
+   "headline": "Kenya IGF 2026 Preparations Meeting",
+   "headline_only": false,
+   "id": "163a1e8ea99b",
+   "impact": 3,
+   "location": "Nairobi, Kenya",
+   "organizers": [
+    "Ministry of Information, Communications & The Digital Economy KE",
+    "IGF2026ke"
+   ],
+   "participation": "Stakeholder engagement and coordination meetings ahead of IGF 2026; check IGF website for registration and side-event proposals",
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "Principal Secretary for Broadcasting and Telecommunications, @SteveIsaboke EBS, today co-chaired a meeting at the Ministry Headquarters alongside Principal Secretary for Foreign Affairs, Dr @SingoeiAKorir, to review preparations for the @igf2026ke. The meeting assessed progress across key areas and underscored the need for close coordination among Government agencies, institutions and stakeholders as Kenya prepares to host the global forum in Nairobi from 14th to 18th December 2026. @intgovforum",
+   "source": "X · Ministry of Info, Comms & The Digital Economy KE",
+   "status": "done",
+   "summary": "The Principal Secretary for Broadcasting and Telecommunications and the Principal Secretary for Foreign Affairs co-chaired a meeting to review preparations for IGF 2026, the global internet governance forum to be held in Nairobi from 14th to 18th December 2026.",
+   "thread": null,
+   "title": "Principal Secretary for Broadcasting and Telecommunications, @SteveIsaboke EBS, today co-chaired a meeting at the Ministry Headquarters alon",
+   "topics": [
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://x.com/MoICTKenya/status/2124864641951993885",
+   "v": 3,
+   "why": "ILINA tracks IGF events as key convenings of African government decision-makers and multilateral bodies, especially when hosted by Kenya."
+  },
   "163a7d1df9be": {
    "found": "2026-11-10",
    "id": "163a7d1df9be",
@@ -2482,6 +2680,11 @@
   "1886ae9fc8a6": {
    "found": "2026-11-16",
    "id": "1886ae9fc8a6",
+   "status": "skip"
+  },
+  "188917a569f4": {
+   "found": "2026-11-24",
+   "id": "188917a569f4",
    "status": "skip"
   },
   "1895c30e014f": {
@@ -2948,6 +3151,11 @@
    "id": "1ced7ac5394a",
    "status": "skip"
   },
+  "1d0c151fefed": {
+   "found": "2026-11-24",
+   "id": "1d0c151fefed",
+   "status": "skip"
+  },
   "1d1f8ae11214": {
    "found": "2026-11-17",
    "id": "1d1f8ae11214",
@@ -3085,6 +3293,11 @@
    "id": "1e860245d200",
    "status": "skip"
   },
+  "1f03186d2e3d": {
+   "found": "2026-11-24",
+   "id": "1f03186d2e3d",
+   "status": "skip"
+  },
   "1f0c29e86473": {
    "found": "2026-11-10",
    "id": "1f0c29e86473",
@@ -3100,6 +3313,48 @@
    "id": "1f2c85897900",
    "status": "skip"
   },
+  "1f56db5ab6f1": {
+   "action": "Monitor for African institutions using Claude Code; advise on secure handling of API keys and environment variables; consider adding to AI security risk briefings",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "field",
+   "headline": "Claude Code secrets exposure on GitHub and Docker Hub",
+   "headline_only": false,
+   "id": "1f56db5ab6f1",
+   "impact": 4,
+   "location": "Online / Global",
+   "organizers": [
+    "GitGuardian",
+    "Apiiro"
+   ],
+   "participation": "Organisations using Claude Code should rotate exposed credentials and review secret management practices; no application required",
+   "published": "2026-11-23",
+   "sector": "security",
+   "snippet": "TL;DR\n\n31,088 secrets, 5,343 valid: GitGuardian found 31,088 distinct secrets in Claude Code’s .claude/settings.local.json on public GitHub, across 23,276 repositories, and 5,343 of them worked when we detected them.\n\n“Yes, and don’t ask ag ... (https://incidentdatabase.ai/cite/1846#8384)",
+   "source": "AI Incident Database",
+   "status": "done",
+   "summary": "GitGuardian found 31,088 distinct secrets in Claude Code's .claude/settings.local.json across 23,276 public GitHub repositories, with 5,343 valid credentials exposed, including database connections and API keys. A separate analysis found 559 Docker Hub image tags containing leaked secrets from the same file. Leaks peaked in April 2026 and fell to 959 monthly occurrences by October 2026.",
+   "thread": null,
+   "title": "Claude Code settings.local.json Secrets: 17 months of exposure on GitHub, & Docker Hub",
+   "topics": [
+    "AI safety & security",
+    "evaluations & monitoring"
+   ],
+   "type": "field",
+   "url": "https://blog.gitguardian.com/claude-code-settings-local-json-secrets-docker-hub/",
+   "v": 3,
+   "why": "This documents a large-scale, ongoing leakage of AI-generated secrets (API keys, database credentials) from Claude Code configuration files into public code repositories and Docker images, directly impacting African sovereignty and building domestic technical capacity concerns."
+  },
   "1f78ad1dc0b7": {
    "found": "2026-10-29",
    "id": "1f78ad1dc0b7",
@@ -3113,6 +3368,11 @@
   "1f90060d43cd": {
    "found": "2026-11-17",
    "id": "1f90060d43cd",
+   "status": "skip"
+  },
+  "1f93bc39588b": {
+   "found": "2026-11-24",
+   "id": "1f93bc39588b",
    "status": "skip"
   },
   "1f9981de5700": {
@@ -3418,9 +3678,24 @@
    "id": "21cad18be835",
    "status": "skip"
   },
+  "21ffa6c98503": {
+   "found": "2026-11-24",
+   "id": "21ffa6c98503",
+   "status": "skip"
+  },
+  "2207c8f526bb": {
+   "found": "2026-11-24",
+   "id": "2207c8f526bb",
+   "status": "skip"
+  },
   "22181928f576": {
    "found": "2026-11-17",
    "id": "22181928f576",
+   "status": "skip"
+  },
+  "22328ec7afb1": {
+   "found": "2026-11-24",
+   "id": "22328ec7afb1",
    "status": "skip"
   },
   "224a852d0418": {
@@ -3627,6 +3902,11 @@
    "url": "https://x.com/ODET_UN/status/2119932084605063489",
    "v": 3,
    "why": "Momentum-building for international AI safety cooperation relevant to ILINA's governance focus."
+  },
+  "23df9a0bf101": {
+   "found": "2026-11-24",
+   "id": "23df9a0bf101",
+   "status": "skip"
   },
   "23e36679a9a8": {
    "found": "2026-11-18",
@@ -4331,6 +4611,11 @@
    "id": "2aa13e185e40",
    "status": "skip"
   },
+  "2addfde8632d": {
+   "found": "2026-11-24",
+   "id": "2addfde8632d",
+   "status": "skip"
+  },
   "2b2634f45ccb": {
    "found": "2026-11-17",
    "id": "2b2634f45ccb",
@@ -4571,6 +4856,45 @@
    "found": "2026-11-10",
    "id": "2cc9fc156157",
    "status": "skip"
+  },
+  "2ce5ca7cb67c": {
+   "action": "Monitor the draft for opportunities to submit input or co-sign during public participation phases.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Kenya"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "government",
+   "headline": "Kenya: Draft AI and Emerging Technologies Policy, 2026",
+   "headline_only": true,
+   "id": "2ce5ca7cb67c",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-07-31",
+   "sector": "",
+   "snippet": "",
+   "source": "Bowmans (via search)",
+   "status": "done",
+   "summary": "Kenya is developing a Draft Artificial Intelligence and Emerging Technologies Policy for 2026, indicating the continued evolution of its AI governance framework.",
+   "thread": null,
+   "title": "Kenya: AI governance framework continues to take shape – Draft Artificial Intelligence and Emerging Technologies Policy, 2026",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUmNvaS01eVp4MU04c2d1blhQU0UwamZQYnlYX01uVk1jbEZKSEVYdExyRE9VTjZ0TlF0T3hxQ2RxcXVaN0Fxd1FpSkxsQ2xWc1h2T0w5VVBVc091QUw3SDZtb0kyVkxyWTB0NE01S1F6NkZFUWROXzVDMndtZDJRN0h0ZDFjRC1Xay1Wc3dvNy1DRWtRX1dJcWRIWDBxVGFEVDYxUzNDeVc3ZzdUaHdzUUo1QzE4ZmRRem14WTU5WnNwbEFzRkpVd2RNRUljQUxZODFseno0U0lpUjIxVXhfRjJ6b2tQTElrRmc?oc=5",
+   "v": 3,
+   "why": "Kenya is a key African market for AI adoption; this draft policy could shape responsible AI integration in public services and sectoral oversight."
   },
   "2d0baca8d731": {
    "found": "2026-11-17",
@@ -4871,6 +5195,11 @@
    "id": "303f25da3f11",
    "status": "skip"
   },
+  "3059a52be572": {
+   "found": "2026-11-24",
+   "id": "3059a52be572",
+   "status": "skip"
+  },
   "30ba68b47d4b": {
    "found": "2026-11-17",
    "id": "30ba68b47d4b",
@@ -4970,6 +5299,11 @@
   "31e1e052e7a1": {
    "found": "2026-11-10",
    "id": "31e1e052e7a1",
+   "status": "skip"
+  },
+  "31f47e5822ac": {
+   "found": "2026-11-24",
+   "id": "31f47e5822ac",
    "status": "skip"
   },
   "322006434d63": {
@@ -5239,6 +5573,47 @@
    "url": "https://www.linkedin.com/posts/barbara-glover_opportunity-aiinafrica-opportunities-activity-7525799869127680001-br1i",
    "v": 3,
    "why": "This is a concrete opportunity for AI professionals to apply AI to development challenges in Africa, aligning with ILINA's interest in responsible AI integration and building domestic technical capacity."
+  },
+  "33dbc12e0f0b": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "multilateral",
+   "headline": "UN chief calls for global AI risk framework",
+   "headline_only": true,
+   "id": "33dbc12e0f0b",
+   "impact": 5,
+   "location": "",
+   "organizers": [
+    "UN Secretary-General António Guterres"
+   ],
+   "participation": "",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "Cryptonews.net (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General Guterres has called for a global AI risk framework to be established within one year.",
+   "thread": null,
+   "title": "UN chief Guterres calls for a global AI risk framework within a year",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jSXBtcFNiSm1GR2g3X1E1M3JubERlcmVNbVlUeTdqVkxiY05YS1h4RmtqUVJlV2c2ckpaNXZRSDZ6OTltc1EzcWtGbTZtSGhkajZyN1hB?oc=5",
+   "v": 3,
+   "why": "This is a high-level UN governance initiative that could shape future AI safety policy and multilateral processes relevant to ILINA's interests."
   },
   "33ddeab4875f": {
    "action": "Monitor for written submission calls or side events related to open-source AI governance at future AI for Good Summits",
@@ -5632,6 +6007,11 @@
    "id": "3831582a59c4",
    "status": "skip"
   },
+  "384ecab07de4": {
+   "found": "2026-11-24",
+   "id": "384ecab07de4",
+   "status": "skip"
+  },
   "385e254b501f": {
    "found": "2026-11-10",
    "id": "385e254b501f",
@@ -5817,6 +6197,48 @@
    "found": "2026-11-10",
    "id": "3a2d57a16b9f",
    "status": "skip"
+  },
+  "3a4a1bab574e": {
+   "action": "Monitor for upcoming consultation calls, panel invitations, or submission opportunities under this initiative.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "multilateral",
+   "headline": "UN Secretary-General calls for global AI safety rules discussion",
+   "headline_only": true,
+   "id": "3a4a1bab574e",
+   "impact": 5,
+   "location": "",
+   "organizers": [
+    "UN Secretary-General",
+    "UN News"
+   ],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "",
+   "source": "UA.NEWS (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General Guterres has called for discussing global AI safety rules, as reported by UN News.",
+   "thread": null,
+   "title": "UN Secretary-General Guterres calls for discussing global AI safety rules — UN News",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkNkd2NLRV93TDI3U3NIVVU2alJlRnAyODMyQlBxLWpqc0xfeXlFOU5mOEJpU2NvQTBUMUZZSElnWlAxc3piSVN6Q0VHZFQwcXRPOVJJQkpfanVhdFFXMUxFdWxQZnVFTkdaZFVNeWlqa3oxWGFGVWNrTEdvQTRaV0I3SE9ObGsyVmYwX2xYMUI1VDVhTDFCNy02RXFQQXVjbXA1NGZqNGdjb1kwQnNV?oc=5",
+   "v": 3,
+   "why": "This signals a major UN process on AI safety governance, which aligns with ILINA's interest in UN AI processes and global governance frameworks."
   },
   "3a66afd45e5b": {
    "found": "2026-11-19",
@@ -6007,10 +6429,10 @@
     "AI summits",
     "security"
    ],
-   "tries": 2,
+   "tries": 3,
    "type": "news",
    "url": "https://newsletter.safe.ai/p/aisn-84-ai-driven-cybersecurity-issues",
-   "v": 2,
+   "v": 3,
    "why": "AI-driven cyber risks directly threaten fragile states and public services infrastructure that ILINA monitors, and the article documents how AI lowers the skills barrier for hackers enabling larger-scale parallel attacks."
   },
   "3c11ed2b4f76": {
@@ -6036,6 +6458,11 @@
   "3c1fabcbd051": {
    "found": "2026-10-28",
    "id": "3c1fabcbd051",
+   "status": "skip"
+  },
+  "3c2fb9a68a97": {
+   "found": "2026-11-24",
+   "id": "3c2fb9a68a97",
    "status": "skip"
   },
   "3c3367d0d4ee": {
@@ -6196,6 +6623,11 @@
   "3d509e27bae2": {
    "found": "2026-11-23",
    "id": "3d509e27bae2",
+   "status": "skip"
+  },
+  "3d87a9fff741": {
+   "found": "2026-11-24",
+   "id": "3d87a9fff741",
    "status": "skip"
   },
   "3dad228e5292": {
@@ -7470,6 +7902,48 @@
    "id": "48431d792b4e",
    "status": "skip"
   },
+  "48802c09405e": {
+   "action": "Cite in memo or policy analysis",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "social",
+   "headline": "Advancing Global Inclusion in International AI Cooperation",
+   "headline_only": false,
+   "id": "48802c09405e",
+   "impact": 3,
+   "link": "https://www.wits.ac.za/tayarisha/activities/research/publications/working-paper-series/",
+   "location": "Online / Johannesburg, South Africa",
+   "organizers": [
+    "Wits University (Tayarisha Digital Governance Working Paper Series)"
+   ],
+   "participation": "Academic seminar presentation; no public submission call",
+   "published": "2026-11-24",
+   "sector": "public services",
+   "snippet": "I enjoyed speaking at the Tayarisha @WitsUniversity seminar on Digital Realities in Africa: Equity, Rights, and State Capacity in the AI Era! I shared insights from my latest working paper, “Advancing Global Inclusion in International AI Cooperation” https://www.wits.ac.za/tayarisha/activities/research/publications/working-paper-series/ https://t.co/y3MFs4yq3A",
+   "source": "X · Dr. Chinasa T. Okolo",
+   "status": "done",
+   "summary": "Dr. Chinasa Okolo presented her working paper on global inclusion in international AI cooperation at a Tayarisha Digital Governance seminar at Wits University, discussing AI governance from a Global South perspective.",
+   "thread": null,
+   "title": "I enjoyed speaking at the Tayarisha @WitsUniversity seminar on Digital Realities in Africa: Equity, Rights, and State Capacity in the AI Era",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "publication",
+   "url": "https://x.com/ChinasaTOkolo/status/2125226832127750195",
+   "v": 3,
+   "why": "The paper addresses AI governance from an African perspective, touching on inclusion, sovereignty, and Global South perspectives that align with ILINA's focus on African governance and capacity development."
+  },
   "48b577cbc321": {
    "found": "2026-11-10",
    "id": "48b577cbc321",
@@ -7830,6 +8304,11 @@
    "id": "4d771acc15b9",
    "status": "skip"
   },
+  "4da241eeb751": {
+   "found": "2026-11-24",
+   "id": "4da241eeb751",
+   "status": "skip"
+  },
   "4da7312c1309": {
    "found": "2026-11-10",
    "id": "4da7312c1309",
@@ -7863,6 +8342,11 @@
   "4e44221ee159": {
    "found": "2026-11-20",
    "id": "4e44221ee159",
+   "status": "skip"
+  },
+  "4e447eba434e": {
+   "found": "2026-11-24",
+   "id": "4e447eba434e",
    "status": "skip"
   },
   "4e8009f33185": {
@@ -8108,6 +8592,11 @@
    "v": 3,
    "why": "This report documents rapid AI-driven R&D acceleration at a leading frontier lab, which directly informs ILINA's priority on AI safety and AI security given fragile states, and the need for context-dependent risk assessment and evaluations."
   },
+  "506d9af0a983": {
+   "found": "2026-11-24",
+   "id": "506d9af0a983",
+   "status": "skip"
+  },
   "50a7efb21d17": {
    "action": "Monitor for details on the proposed body's mandate and opportunities for African input.",
    "african_input": false,
@@ -8182,6 +8671,11 @@
   "5184f05a9891": {
    "found": "2026-11-17",
    "id": "5184f05a9891",
+   "status": "skip"
+  },
+  "5186d80b7eef": {
+   "found": "2026-11-24",
+   "id": "5186d80b7eef",
    "status": "skip"
   },
   "51976c4b62d0": {
@@ -9287,6 +9781,11 @@
    "id": "5a89c05e64dc",
    "status": "skip"
   },
+  "5aa89a3f913c": {
+   "found": "2026-11-24",
+   "id": "5aa89a3f913c",
+   "status": "skip"
+  },
   "5ac9eaa8a370": {
    "found": "2026-11-17",
    "id": "5ac9eaa8a370",
@@ -9823,6 +10322,11 @@
    "id": "5e58684975e4",
    "status": "skip"
   },
+  "5e6f74946bec": {
+   "found": "2026-11-24",
+   "id": "5e6f74946bec",
+   "status": "skip"
+  },
   "5ec0dadc65f0": {
    "action": "Monitor for participation opportunities or written submission calls from the new Center.",
    "african_input": false,
@@ -9970,6 +10474,11 @@
   "604b61061aeb": {
    "found": "2026-11-10",
    "id": "604b61061aeb",
+   "status": "skip"
+  },
+  "6051d369b432": {
+   "found": "2026-11-24",
+   "id": "6051d369b432",
    "status": "skip"
   },
   "608a08529dcf": {
@@ -10260,6 +10769,11 @@
    "id": "652c2309223e",
    "status": "skip"
   },
+  "6571a61776d1": {
+   "found": "2026-11-24",
+   "id": "6571a61776d1",
+   "status": "skip"
+  },
   "65ab9b5c9486": {
    "action": "Monitor for policy development opportunities and potential public participation calls.",
    "african_input": false,
@@ -10519,6 +11033,11 @@
   "67cfadea649a": {
    "found": "2026-11-10",
    "id": "67cfadea649a",
+   "status": "skip"
+  },
+  "680b35173b97": {
+   "found": "2026-11-24",
+   "id": "680b35173b97",
    "status": "skip"
   },
   "682056e8e128": {
@@ -10798,6 +11317,11 @@
   "6acf50a1a8b1": {
    "found": "2026-11-10",
    "id": "6acf50a1a8b1",
+   "status": "skip"
+  },
+  "6ad8b25d9470": {
+   "found": "2026-11-24",
+   "id": "6ad8b25d9470",
    "status": "skip"
   },
   "6b4bd982414f": {
@@ -11152,6 +11676,45 @@
    "id": "6ee1a7a813d9",
    "status": "skip"
   },
+  "6f0d0d988ee6": {
+   "action": "Cite in policy memo or track for context on African regulatory approaches",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "government",
+   "headline": "AI regulation in Africa: why copying the European model won't work",
+   "headline_only": true,
+   "id": "6f0d0d988ee6",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-06-10",
+   "sector": "",
+   "snippet": "",
+   "source": "The Conversation (via search)",
+   "status": "done",
+   "summary": "An opinion piece arguing that African countries should not simply adopt the European AI regulatory model, as it may not fit local contexts.",
+   "thread": null,
+   "title": "AI regulation in Africa: why copying the European model won’t work",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "field",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWVMVExkRmxHNTdaZUVVNGtNVnRHTDc1TDRHTV9BS3lZV0ZZUnc2OFRNV1JCekExVTZhMlg4azRFX2JNY1Q1U1BKMUtmQUlra1JCUDJXVGwxRk1BM3F6d0EwSU5GcVdmUmo0S2xpYU9sbloyVHY1RHp0NDdQLXJsaWZVOTJjX3RWV21KQWFsSnJfWmRpLUZlb2txUWE3V1gt?oc=5",
+   "v": 3,
+   "why": "The article directly engages with AI governance in Africa and questions the suitability of imported regulatory frameworks, which aligns with ILINA's focus on context-dependent policy and African sovereignty."
+  },
   "6f18b7b8c860": {
    "found": "2026-11-20",
    "id": "6f18b7b8c860",
@@ -11294,6 +11857,45 @@
    "id": "707b461c0ac2",
    "status": "skip"
   },
+  "709301e636e7": {
+   "action": "Monitor the Panel's work programme and explore opportunities for ILINA to engage with or contribute to its outputs.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "people",
+   "headline": "Prof Vukosi Marivate elected Co-Chair of International AI Scientific Panel",
+   "headline_only": true,
+   "id": "709301e636e7",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "TechFinancials (via search)",
+   "status": "done",
+   "summary": "Prof Vukosi Marivate from the University of Pretoria has been elected Co-Chair of the International AI Scientific Panel, a global body advising on AI governance.",
+   "thread": null,
+   "title": "UP's Prof Vukosi Marivate Elected Co-Chair Of International AI Scientific Panel",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "appointment",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDZWREM1NnY2WFVxR1lrQ29XU1ZoU0N3ejlGbTd5d2R6QVJPOGVObVNEYXlIQ3lFQWM0bzV1YzlJNXpvcDZuLW9SVlN3UXFfc0k5V1F4NGFxZTZIZERUMnZJZi11dV81a0pMLVhub3BFQjFJZ2dnQkFCQ2dQQm5NUW1PZDNwY1VIdzhSajl6LTVtREp1NWhmcmtyQWxzb2x0UTB1OEVUa0oxaDlCUVdhbmZMUDdPVHBUaDNR0gHDAUFVX3lxTFA2cGgzV1hweDRqUGwxR1BZWlptS0diWXFpYmFvOS1weURscTVXczNtSHFraEkwNDIyTnM3TXNjYjNLRDhJREhWNjZmZkNMT2ozaEFnRXBNWVhSWjRaTWttMnZXTlRJSzJoaW83RUJfZkdpQTVNMXE2RlFmVUxya1dvZXItLWNaVzk4cThhM2JDQl81cnZPR2FndXFLQVJVbXpIZF9HVkZLQ1V3NTZPY05MQjRSWDM5THR3eWx0azF1aDNWTQ?oc=5",
+   "v": 3,
+   "why": "This appointment matters for ILINA as it positions an African scholar in a key global AI governance role, potentially influencing how African priorities are represented in international AI safety and governance processes."
+  },
   "711e85425c9b": {
    "found": "2026-11-23",
    "id": "711e85425c9b",
@@ -11369,6 +11971,11 @@
   "720830225733": {
    "found": "2026-11-20",
    "id": "720830225733",
+   "status": "skip"
+  },
+  "720a2183b9fd": {
+   "found": "2026-11-24",
+   "id": "720a2183b9fd",
    "status": "skip"
   },
   "723cb0920cf8": {
@@ -11594,6 +12201,11 @@
    "url": "https://www.unesco.org/ethics-ai/en/ram",
    "v": 3,
    "why": "This is a major global governance framework that African countries can use to assess and strengthen their AI readiness, directly supporting ILINA's priority of building domestic technical capacity and responsible AI integration in public services."
+  },
+  "74190eec4d34": {
+   "found": "2026-11-24",
+   "id": "74190eec4d34",
+   "status": "skip"
   },
   "748f9afb81e5": {
    "found": "2026-11-23",
@@ -12637,6 +13249,11 @@
    "id": "7bf0065ceb16",
    "status": "skip"
   },
+  "7c2a03935334": {
+   "found": "2026-11-24",
+   "id": "7c2a03935334",
+   "status": "skip"
+  },
   "7c353ac9d938": {
    "action": "Monitor for participation opportunities or written submission calls from the center.",
    "african_input": false,
@@ -12732,6 +13349,44 @@
    "found": "2026-11-10",
    "id": "7dbe35e9b704",
    "status": "skip"
+  },
+  "7dd47c686d02": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "Industry",
+   "countries": [
+    "United States"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "tracker",
+   "headline": "The US helped the world rein in nuclear weapons. Could it do the same for AI?",
+   "headline_only": true,
+   "id": "7dd47c686d02",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-18",
+   "sector": "",
+   "snippet": "",
+   "source": "Vox (via search)",
+   "status": "done",
+   "summary": "A news article exploring whether the United States can apply the same diplomatic and regulatory frameworks it used to rein in nuclear weapons to the governance of artificial intelligence.",
+   "thread": null,
+   "title": "The US helped the world rein in nuclear weapons. Could it do the same for AI?",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHgyMFRld29hX3pOTDhtcjRYMmtKMk8yNWF6NFdYR0wxRW8xdWNFYnFMY1JoSTFFQ0hWNlRQdnN1WnVMT0I5dlV2eWhic3k0WTVyWFE2RjNWdzVxSVdkRlpSY0RIcDUxdUtRSmE2c2lLZTBadnM2YlZYQ0ZQRm5IRlNjVTNWWDhja2lXUkV6aGxoc3N5b2xvVkhnSQ?oc=5",
+   "v": 3,
+   "why": "The article touches on AI governance and the role of major powers like the US in shaping global AI regulation, which aligns with ILINA's interest in global AI policy processes and the involvement of key actors in AI safety."
   },
   "7e9c5b23649e": {
    "found": "2026-11-10",
@@ -13069,6 +13724,11 @@
    "id": "812764db7ab4",
    "status": "skip"
   },
+  "8128f91b4e50": {
+   "found": "2026-11-24",
+   "id": "8128f91b4e50",
+   "status": "skip"
+  },
   "812b0ded04a7": {
    "found": "2026-11-10",
    "id": "812b0ded04a7",
@@ -13118,6 +13778,45 @@
    "found": "2026-11-13",
    "id": "81cdec1484c5",
    "status": "skip"
+  },
+  "81f2c12c9929": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "multilateral",
+   "headline": "UN chief urges global AI risk management framework within a year",
+   "headline_only": true,
+   "id": "81f2c12c9929",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "",
+   "source": "Howl.Link (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General urges the establishment of a global AI risk management framework within one year.",
+   "thread": null,
+   "title": "TRT Afrika - UN chief urges global AI risk management framework within a year",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE01Nm1qWFIxd0MyU2YyT3VVSkJZZHBmdGNlRTFlNGpoZ0RjZk0xVWFfSE84Vld1RlFCbS1N?oc=5",
+   "v": 3,
+   "why": "Mentions a global AI risk management framework, which aligns with ILINA's interest in AI safety and governance."
   },
   "8210be3bba9d": {
    "found": "2026-11-17",
@@ -13205,6 +13904,11 @@
   "82d079f84b87": {
    "found": "2026-11-16",
    "id": "82d079f84b87",
+   "status": "skip"
+  },
+  "8310f6c4bc64": {
+   "found": "2026-11-24",
+   "id": "8310f6c4bc64",
    "status": "skip"
   },
   "833b876486a7": {
@@ -14264,6 +14968,11 @@
    "id": "8b6ac2940fdc",
    "status": "skip"
   },
+  "8b89fa023866": {
+   "found": "2026-11-24",
+   "id": "8b89fa023866",
+   "status": "skip"
+  },
   "8b8ccffae092": {
    "found": "2026-11-21",
    "id": "8b8ccffae092",
@@ -14332,6 +15041,11 @@
   "8c999d6885d2": {
    "found": "2026-11-23",
    "id": "8c999d6885d2",
+   "status": "skip"
+  },
+  "8ca5c2073f7c": {
+   "found": "2026-11-24",
+   "id": "8ca5c2073f7c",
    "status": "skip"
   },
   "8cb333260a17": {
@@ -15150,6 +15864,11 @@
    "id": "95309734b5d9",
    "status": "skip"
   },
+  "9547a3608e23": {
+   "found": "2026-11-24",
+   "id": "9547a3608e23",
+   "status": "skip"
+  },
   "958bef4751bf": {
    "found": "2026-11-23",
    "id": "958bef4751bf",
@@ -15291,6 +16010,11 @@
   "97a946225c0a": {
    "found": "2026-11-03",
    "id": "97a946225c0a",
+   "status": "skip"
+  },
+  "97b876a0977a": {
+   "found": "2026-11-24",
+   "id": "97b876a0977a",
    "status": "skip"
   },
   "9819f286eaf2": {
@@ -16710,6 +17434,11 @@
    "id": "a473ef28db56",
    "status": "skip"
   },
+  "a47d9b912d0c": {
+   "found": "2026-11-24",
+   "id": "a47d9b912d0c",
+   "status": "skip"
+  },
   "a48977cd0984": {
    "found": "2026-11-17",
    "id": "a48977cd0984",
@@ -17350,6 +18079,45 @@
    "id": "aba900425c5f",
    "status": "skip"
   },
+  "aba94754fb70": {
+   "action": "Monitor for opportunities to contribute to policy formulation or provide input as the strategy develops.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Ethiopia"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": true,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "government",
+   "headline": "Ethiopia Unveils First National AI Strategy",
+   "headline_only": true,
+   "id": "aba94754fb70",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2024-06-27",
+   "sector": "",
+   "snippet": "",
+   "source": "Birr Metrics (via search)",
+   "status": "done",
+   "summary": "Ethiopia has launched its first national AI strategy, marking the country's initial foray into formal AI governance.",
+   "thread": null,
+   "title": "Ethiopia Unveils First National AI Strategy",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ydkptM25GTUdmaFZveFgwUXpZemw0d0JGbWtHT2tKOTFpbmkzXy1XVVQwMXBYYWk5azdoa09BYUJKMHpUMnBfeFpTRnNWcDFvb05FQ2pjTUZfNVhraXFveVRRZ0l1Szc3Z29tUDl4ZHAtVFN2a0hz?oc=5",
+   "v": 3,
+   "why": "This is a significant policy development in Africa, indicating Ethiopia's commitment to structured AI governance and potentially setting a precedent for other African nations."
+  },
   "abb1fe73df02": {
    "action": "",
    "african_input": false,
@@ -17493,6 +18261,11 @@
    "url": "https://x.com/MoICTKenya/status/2117514967758901515",
    "v": 3,
    "why": "Direct public participation in Kenya's ICT law reform, a national policy process open to stakeholder input."
+  },
+  "aca4ad6d8b15": {
+   "found": "2026-11-24",
+   "id": "aca4ad6d8b15",
+   "status": "skip"
   },
   "aced5079367f": {
    "action": "Submit written input",
@@ -17893,6 +18666,16 @@
    "id": "af67250713cb",
    "status": "skip"
   },
+  "afab5a20eae0": {
+   "found": "2026-11-24",
+   "id": "afab5a20eae0",
+   "status": "skip"
+  },
+  "afaf5581cf3f": {
+   "found": "2026-11-24",
+   "id": "afaf5581cf3f",
+   "status": "skip"
+  },
   "afba86527f58": {
    "found": "2026-11-10",
    "id": "afba86527f58",
@@ -18224,6 +19007,11 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNV8ydGpZdE9vb0pOYVlhekZieFd1N2VTVGN4Y1hSZTFFUDVIMzJNYlMyY3NlNkZwaUtSVzdiMl9iZkl1UmdXbnVPYjd3bFoxRGJXZGhDMUwzM0xtQnd4aWpIOXladDk5cmgwSVdpcjJaTGxOUHB1WDZVOVFMMDdLa2ZXc1VXNjQ5N0V2VmZFQk0zc1N0Q0c1M0pOSkJwN3hRYTFEZWRPWFBxTmRWZDFF?oc=5",
    "v": 3,
    "why": "This represents a significant step for AI governance infrastructure in Africa, potentially creating a regional hub for AI safety and standards development."
+  },
+  "b336981a8f0b": {
+   "found": "2026-11-24",
+   "id": "b336981a8f0b",
+   "status": "skip"
   },
   "b344a00a31bd": {
    "found": "2026-11-10",
@@ -18782,6 +19570,11 @@
    "id": "bac348f572af",
    "status": "skip"
   },
+  "baceeec5bf6b": {
+   "found": "2026-11-24",
+   "id": "baceeec5bf6b",
+   "status": "skip"
+  },
   "bad7b6dd1b10": {
    "found": "2026-11-17",
    "id": "bad7b6dd1b10",
@@ -19154,6 +19947,11 @@
    "v": 3,
    "why": "It addresses the design of the Global Fund for AI Capacity Development, a key ILINA priority for African governance representation and cross-border funding streams."
   },
+  "bdbb7f6a3222": {
+   "found": "2026-11-24",
+   "id": "bdbb7f6a3222",
+   "status": "skip"
+  },
   "be0456af6b23": {
    "found": "2026-11-13",
    "id": "be0456af6b23",
@@ -19226,6 +20024,11 @@
   "bf25be8f8779": {
    "found": "2026-11-23",
    "id": "bf25be8f8779",
+   "status": "skip"
+  },
+  "bf46e2d5aeea": {
+   "found": "2026-11-24",
+   "id": "bf46e2d5aeea",
    "status": "skip"
   },
   "bf4735ac9ae2": {
@@ -19383,6 +20186,47 @@
    "found": "2026-11-10",
    "id": "bf99ec9338e8",
    "status": "skip"
+  },
+  "bfadf9861c70": {
+   "action": "Monitor for UN consultation calls or summit details; prepare position on global safeguards.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "multilateral",
+   "headline": "UN chief warns AI risks are growing, calls for stronger global safeguards",
+   "headline_only": true,
+   "id": "bfadf9861c70",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "United Nations"
+   ],
+   "participation": "",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "SKNVibes (via search)",
+   "status": "done",
+   "summary": "The UN Secretary-General warns that AI risks are growing and calls for stronger global safeguards.",
+   "thread": null,
+   "title": "UN chief warns AI risks are growing, calls for stronger global safeguards",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1M3pJdnVPMVJpblMxMWRkNmtfLVdKVS05aVN5WThyXzlYRlN6SldVclNUUFJrTFh2Tko3TTI4V2Z0ZlZBbVBRVEswdUNnMXNTMldXbVlkbk45eU5sbjdUWmhR?oc=5",
+   "v": 3,
+   "why": "This signals upcoming global governance processes and potential calls for input relevant to ILINA's engagement with UN AI processes."
   },
   "bfb97f452cff": {
    "found": "2026-11-16",
@@ -19662,6 +20506,11 @@
   "c31565f7ea5a": {
    "found": "2026-11-22",
    "id": "c31565f7ea5a",
+   "status": "skip"
+  },
+  "c36c87c7b968": {
+   "found": "2026-11-24",
+   "id": "c36c87c7b968",
    "status": "skip"
   },
   "c394599fa2df": {
@@ -20072,6 +20921,11 @@
    "id": "c6c361c53bc4",
    "status": "skip"
   },
+  "c6c3a2a1bb6e": {
+   "found": "2026-11-24",
+   "id": "c6c3a2a1bb6e",
+   "status": "skip"
+  },
   "c6e948a7bc91": {
    "found": "2026-11-18",
    "id": "c6e948a7bc91",
@@ -20424,6 +21278,11 @@
   "c9bce14df4e8": {
    "found": "2026-11-10",
    "id": "c9bce14df4e8",
+   "status": "skip"
+  },
+  "c9bdf2f4dc69": {
+   "found": "2026-11-24",
+   "id": "c9bdf2f4dc69",
    "status": "skip"
   },
   "c9c36c1c99f9": {
@@ -21315,6 +22174,48 @@
    "id": "d0bea838b56e",
    "status": "skip"
   },
+  "d0f6202e19f3": {
+   "action": "Monitor the panel's work programme and submission calls for African policy input.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "multilateral",
+   "headline": "UN AI Panel Elects Marivate as Co-Chair",
+   "headline_only": true,
+   "id": "d0f6202e19f3",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "UN AI Panel"
+   ],
+   "participation": "",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "Wisevoter (via search)",
+   "status": "done",
+   "summary": "The UN AI Panel has elected Marivate as Co-Chair.",
+   "thread": null,
+   "title": "UN AI Panel Elects Marivate as Co-Chair",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "Africa policy"
+   ],
+   "type": "appointment",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHl4QWYtOUFIUk1LallJMXF1TEUwSktiYjcybnJ6YURFeVdQRWZaQ2p2YWExNkE0a3lMbDRQNjlQUTUxLVpYZnQzaGx1alJBX3lPZXB2VVRjYmJ2c2J2SzlHbTFuSGY2LWEzWTVRbWpPX05tS2thV1kwMEV2V185NF9QdW90akVRSnFn?oc=5",
+   "v": 3,
+   "why": "Marivate is a prominent African AI researcher; his co-chair role elevates African governance representation in a key UN AI body."
+  },
   "d105c9022218": {
    "found": "2026-11-17",
    "id": "d105c9022218",
@@ -21933,6 +22834,11 @@
    "id": "d6fc17503cc3",
    "status": "skip"
   },
+  "d70d027b7a35": {
+   "found": "2026-11-24",
+   "id": "d70d027b7a35",
+   "status": "skip"
+  },
   "d74e1c19f10d": {
    "found": "2026-10-28",
    "id": "d74e1c19f10d",
@@ -22140,6 +23046,11 @@
   "d89a695077cb": {
    "found": "2026-11-23",
    "id": "d89a695077cb",
+   "status": "skip"
+  },
+  "d8b2070be746": {
+   "found": "2026-11-24",
+   "id": "d8b2070be746",
    "status": "skip"
   },
   "d8bc7e23df5d": {
@@ -22403,6 +23314,11 @@
   "daab7a62fb65": {
    "found": "2026-11-23",
    "id": "daab7a62fb65",
+   "status": "skip"
+  },
+  "dab2d6d829a2": {
+   "found": "2026-11-24",
+   "id": "dab2d6d829a2",
    "status": "skip"
   },
   "db2bc812d9ae": {
@@ -23134,6 +24050,11 @@
    "id": "e2da40fe60f8",
    "status": "skip"
   },
+  "e33c2d581b37": {
+   "found": "2026-11-24",
+   "id": "e33c2d581b37",
+   "status": "skip"
+  },
   "e34b659bf19d": {
    "found": "2026-11-10",
    "id": "e34b659bf19d",
@@ -23316,6 +24237,11 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LZktTX0M3Yk8zQXlaUjMtYy1VVHJMN1c0a0RHelg5RzgzZDlvZnluaEtkd0FmZm8wVEVqaDVod05OamlrQlZSUlp5bkhiY2x3Wkc5ZnZXUHFGOUZ3YlR2cWlNLTVGZzU3UXJzMVdZeWhLQlllbE5iMU1mV3Q?oc=5",
    "v": 3,
    "why": "Highlights the policy gap in Nigeria regarding AI governance, which is directly relevant to ILINA's focus on AI security in fragile states and responsible public service integration."
+  },
+  "e476c8fad27a": {
+   "found": "2026-11-24",
+   "id": "e476c8fad27a",
+   "status": "skip"
   },
   "e48dc03edbf7": {
    "found": "2026-11-17",
@@ -23550,6 +24476,11 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbk9iNGlKWlVqZXctMUlPUDJxOVhGd3FVdEc4dTQwaVIzeGNwSGlCbnEtaXZIcG4wdHZnc1RwMkd6cWl0OGhyN0tPenFPMGtGR3FFQzFGS1ZOWFEwZkRVUUI5MUJ3RmJvWnRHR1NvVHpVWm03dU5uVkNyakpST24yMHRkVGVXSHhhdTRQMFZHbVVRa3c?oc=5",
    "v": 3,
    "why": "This signals a major new financial commitment for AI on the continent, directly relevant to ILINA's priority of designing the Global Fund for AI Capacity Development and African governance representation."
+  },
+  "e68126689ba4": {
+   "found": "2026-11-24",
+   "id": "e68126689ba4",
+   "status": "skip"
   },
   "e683d40fba10": {
    "found": "2026-11-23",
@@ -24516,6 +25447,11 @@
    "v": 3,
    "why": "This is a concrete policy change from a national government that ILINA tracks for African AI governance developments."
   },
+  "f1581fcdf8c0": {
+   "found": "2026-11-24",
+   "id": "f1581fcdf8c0",
+   "status": "skip"
+  },
   "f16aefe89a6e": {
    "found": "2026-11-23",
    "id": "f16aefe89a6e",
@@ -24742,6 +25678,11 @@
    "v": 3,
    "why": "This is a direct policy development from an African government that ILINA can engage with during the formulation stage."
   },
+  "f404abc44587": {
+   "found": "2026-11-24",
+   "id": "f404abc44587",
+   "status": "skip"
+  },
   "f431b8189a95": {
    "found": "2026-11-21",
    "id": "f431b8189a95",
@@ -24904,6 +25845,16 @@
    "v": 3,
    "why": "Highlights a key African AI governance figure's UN panel appointment and insights on government advisory roles, relevant to ILINA's focus on African representation in global AI processes."
   },
+  "f5c6c72aa210": {
+   "found": "2026-11-24",
+   "id": "f5c6c72aa210",
+   "status": "skip"
+  },
+  "f5dc2ee65be2": {
+   "found": "2026-11-24",
+   "id": "f5dc2ee65be2",
+   "status": "skip"
+  },
   "f5e85b6c1b9b": {
    "found": "2026-11-10",
    "id": "f5e85b6c1b9b",
@@ -24964,6 +25915,11 @@
    "id": "f6db18acf4af",
    "status": "skip"
   },
+  "f6db2c867c01": {
+   "found": "2026-11-24",
+   "id": "f6db2c867c01",
+   "status": "skip"
+  },
   "f6f988371eba": {
    "found": "2026-11-21",
    "id": "f6f988371eba",
@@ -25017,9 +25973,56 @@
    "id": "f7d0f7defa94",
    "status": "skip"
   },
+  "f7f980096b53": {
+   "action": "Monitor the appointment and assess opportunities for ILINA to engage with the Panel's workstreams or submit input.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "people",
+   "headline": "UN Panel on AI elects University of Pretoria Professor as co-chair",
+   "headline_only": true,
+   "id": "f7f980096b53",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "UN Panel on AI"
+   ],
+   "participation": "",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "Engineering News (via search)",
+   "status": "done",
+   "summary": "A University of Pretoria professor has been elected co-chair of the UN Panel on AI, marking a significant appointment for the global AI governance body.",
+   "thread": null,
+   "title": "UN Panel on AI has elected a University of Pretoria Professor as its co-chair",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "appointment",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUVNQjhJRXpRemRlcHl0OVZ1S181bEJ5RlE1dHVlVHRPOUxNS1RRTDcxTkF6YWtNeXV5QTFVb2R2VjhmdklORVJkRU9RRUM5Y3pNTTU4WjVBbG9fclRrNzVWZy12TnVIU1JyVXJwY3huZFQ1M0xkUXc4cm5YYTRLX3NQeTZjTFdmTm5FN3RhVjY5bnMteE50N0ppYzdnVFhMMWZ1OGthV1RqNDQ5MHJKamJGSzdvMFhNaU84dkNXY2lsX1AzejdSVnZn?oc=5",
+   "v": 3,
+   "why": "This appointment strengthens African representation in a key UN AI governance body, aligning with ILINA's priority of African governance representation in global AI processes."
+  },
   "f80f018e2bcb": {
    "found": "2026-11-16",
    "id": "f80f018e2bcb",
+   "status": "skip"
+  },
+  "f810421d24f6": {
+   "found": "2026-11-24",
+   "id": "f810421d24f6",
    "status": "skip"
   },
   "f83d7ad36c3b": {
@@ -25035,6 +26038,11 @@
   "f891bd93f3d2": {
    "found": "2026-11-23",
    "id": "f891bd93f3d2",
+   "status": "skip"
+  },
+  "f8a4e02f4212": {
+   "found": "2026-11-24",
+   "id": "f8a4e02f4212",
    "status": "skip"
   },
   "f8f941383521": {
@@ -25588,6 +26596,11 @@
    "id": "fdad395a5284",
    "status": "skip"
   },
+  "fdc25f31af2a": {
+   "found": "2026-11-24",
+   "id": "fdc25f31af2a",
+   "status": "skip"
+  },
   "fe2572a4ddbe": {
    "found": "2026-11-10",
    "id": "fe2572a4ddbe",
@@ -25839,6 +26852,44 @@
    "id": "ff9d3a988b7d",
    "status": "skip"
   },
+  "ffa2bc98ac03": {
+   "action": "Submit written input during policy formulation",
+   "african_input": true,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Uganda"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-24",
+   "group": "government",
+   "headline": "Uganda to Have AI Policy in 6 Months",
+   "headline_only": true,
+   "id": "ffa2bc98ac03",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2025-06-05",
+   "sector": "",
+   "snippet": "",
+   "source": "ChimpReports (via search)",
+   "status": "done",
+   "summary": "Uganda plans to finalize its AI policy within six months, indicating imminent regulatory development.",
+   "thread": null,
+   "title": "AI Regulation: Uganda to Have Policy in 6 Months",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvcWxveEJHNmxIcF9tRmhkQXg0VVV0c2NCclpURGRka0VETnRMb2M5Mk9VdDNlTVoxbXBpcEx3eE1FNmREdU1XcTRZWlhWSldLQlBqRXhnRmZnb0pvZmptUl81TnZHTjZ0RWdMNWhocnpfZUxxT0x4cXMxUUgzQQ?oc=5",
+   "v": 3,
+   "why": "Signals imminent AI policy formulation in Uganda, a key African market, creating opportunity for ILINA input."
+  },
   "ffafc02876ad": {
    "found": "2026-11-13",
    "id": "ffafc02876ad",
@@ -25909,12 +26960,13 @@
   "last_digest": "2026-11-23",
   "notified": [
    "2910679427c2",
+   "2ed0b6956314",
    "ca23076a172a",
    "d59c7be15818"
   ],
   "social_since": {
    "linkedin": "2026-11-23",
-   "x": "2026-11-17"
+   "x": "2026-11-24"
   },
   "watch_seen": []
  },
@@ -26049,7 +27101,7 @@
     "https://www.anthropic.com/news/singapore-office-opening",
     "https://www.anthropic.com/research/early-progress-drug-development"
    ],
-   "text": "News\nLatest news\nNovember 23, 2026\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nEarly progress on accelerating drug development with Claude\nWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nFeatures\nThe Situation Report\nA rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\nRead more\nScenarios for our economic future\nAnthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\nRead more\nThe making of Claude Code\nThe inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\nRead more\nProject Deal: our Claude-run marketplace experiment\nWe created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\nRead more\nThe first AI-planned drive on Mars\nThe first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\nRead more\n286\nARTICLES\nFilter\nMost recent\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnnouncements\nNov 20, 2026\nNov 20, 2026\nAnnouncements\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnnouncements\nNov 18, 2026\nNov 18, 2026\nAnnouncements\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nAnnouncements\nNov 10, 2026\nNov 10, 2026\nAnnouncements\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAnnouncements\nNov 9, 2026\nNov 9, 2026\nAnnouncements\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nAnnouncements\nOct 28, 2026\nOct 28, 2026\nAnnouncements\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nPartnerships\nOct 27, 2026\nOct 27, 2026\nPartnerships\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnnouncements\nOct 26, 2026\nOct 26, 2026\nAnnouncements\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nProduct\nOct 22, 2026\nOct 22, 2026\nProduct\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nAnnouncements\nOct 22, 2026\nOct 22, 2026\nAnnouncements\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nAnnouncements\nOct 21, 2026\nOct 21, 2026\nAnnouncements\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnnouncements\nOct 18, 2026\nOct 18, 2026\nAnnouncements\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPolicy\nOct 15, 2026\nOct 15, 2026\nPolicy\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nSafeguards\nOct 14, 2026\nOct 14, 2026\nSafeguards\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nAnnouncements\nOct 14, 2026\nOct 14, 2026\nAnnouncements\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nSafeguards\nOct 12, 2026\nOct 12, 2026\nSafeguards\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\nSecurity\nOct 8, 2026\nOct 8, 2026\nSecurity\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nPolicy\nOct 8, 2026\nOct 8, 2026\nPolicy\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nPartnerships\nOct 8, 2026\nOct 8, 2026\nPartnerships\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nAnnouncements\nOct 7, 2026\nOct 7, 2026\nAnnouncements\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnnouncements\nOct 6, 2026\nOct 6, 2026\nAnnouncements\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nAnnouncements\nOct 2, 2026\nOct 2, 2026\nAnnouncements\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nAnnouncements\nOct 1, 2026\nOct 1, 2026\nAnnouncements\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nAnnouncements\nSep 28, 2026\nSep 28, 2026\nAnnouncements\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nAnnouncements\nSep 22, 2026\nSep 22, 2026\nAnnouncements\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nSee more\nContact us or download our press kit\nPress\npress@anthropic.com\nSupport\nHow to get support\nMedia assets\nDownload press kit"
+   "text": "News\nLatest news\nNovember 24, 2026\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nEarly progress on accelerating drug development with Claude\nWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nFeatures\nThe Situation Report\nA rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\nRead more\nScenarios for our economic future\nAnthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\nRead more\nThe making of Claude Code\nThe inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\nRead more\nProject Deal: our Claude-run marketplace experiment\nWe created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\nRead more\nThe first AI-planned drive on Mars\nThe first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\nRead more\n286\nARTICLES\nFilter\nMost recent\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnnouncements\nNov 20, 2026\nNov 20, 2026\nAnnouncements\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnnouncements\nNov 18, 2026\nNov 18, 2026\nAnnouncements\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nAnnouncements\nNov 10, 2026\nNov 10, 2026\nAnnouncements\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAnnouncements\nNov 9, 2026\nNov 9, 2026\nAnnouncements\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nAnnouncements\nOct 28, 2026\nOct 28, 2026\nAnnouncements\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nPartnerships\nOct 27, 2026\nOct 27, 2026\nPartnerships\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnnouncements\nOct 26, 2026\nOct 26, 2026\nAnnouncements\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nProduct\nOct 22, 2026\nOct 22, 2026\nProduct\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nAnnouncements\nOct 22, 2026\nOct 22, 2026\nAnnouncements\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nAnnouncements\nOct 21, 2026\nOct 21, 2026\nAnnouncements\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnnouncements\nOct 18, 2026\nOct 18, 2026\nAnnouncements\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPolicy\nOct 15, 2026\nOct 15, 2026\nPolicy\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nSafeguards\nOct 14, 2026\nOct 14, 2026\nSafeguards\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nAnnouncements\nOct 14, 2026\nOct 14, 2026\nAnnouncements\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nSafeguards\nOct 12, 2026\nOct 12, 2026\nSafeguards\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\nSecurity\nOct 8, 2026\nOct 8, 2026\nSecurity\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nPolicy\nOct 8, 2026\nOct 8, 2026\nPolicy\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nPartnerships\nOct 8, 2026\nOct 8, 2026\nPartnerships\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nAnnouncements\nOct 7, 2026\nOct 7, 2026\nAnnouncements\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnnouncements\nOct 6, 2026\nOct 6, 2026\nAnnouncements\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nAnnouncements\nOct 2, 2026\nOct 2, 2026\nAnnouncements\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nAnnouncements\nOct 1, 2026\nOct 1, 2026\nAnnouncements\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nAnnouncements\nSep 28, 2026\nSep 28, 2026\nAnnouncements\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nAnnouncements\nSep 22, 2026\nSep 22, 2026\nAnnouncements\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nSee more\nContact us or download our press kit\nPress\npress@anthropic.com\nSupport\nHow to get support\nMedia assets\nDownload press kit"
   },
   "https://www.giz.de/en/newsroom": {
    "links": [
@@ -26232,23 +27284,23 @@
    "links": [
     "https://www.techpolicy.press/as-anthropic-goes-public-who-has-the-power-to-stop-an-ai-company",
     "https://www.techpolicy.press/asias-gig-workers-unite-across-borders-to-fight-for-rights",
-    "https://www.techpolicy.press/bugmageddon-patchpocalypse-naming-the-ai-vulnerability-flood",
+    "https://www.techpolicy.press/characterai-december-bankruptcy-sale-is-too-soon-to-protect-kids-data",
     "https://www.techpolicy.press/congressional-staffing-is-the-biggest-tech-policy-problem-no-one-talks-about",
     "https://www.techpolicy.press/democrats-have-a-mandate-they-cant-repeat-congresss-tech-governance-failures",
     "https://www.techpolicy.press/for-youth-losing-access-to-social-media-means-losing-access-to-power",
     "https://www.techpolicy.press/from-manhattan-to-manila-protesters-push-back-on-big-techs-grip",
     "https://www.techpolicy.press/julin-posada-on-the-people-powering-ai-and-the-platforms-exploiting-them",
-    "https://www.techpolicy.press/microsoft-outage-raises-questions-over-uk-control-of-critical-digital-infrastructure",
     "https://www.techpolicy.press/middle-power-leverage-is-a-trap-for-europes-industrial-ai",
     "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say",
     "https://www.techpolicy.press/no-cure-without-evidence-ai-overviews-cut-clicks-40-and-give-users-nothing",
+    "https://www.techpolicy.press/openais-model-card-is-a-great-step-forward-for-child-safety-and-transparency",
     "https://www.techpolicy.press/robotics-is-coming-for-workers-data-its-time-for-a-national-response",
     "https://www.techpolicy.press/the-dangerous-politics-of-ai-consciousness",
     "https://www.techpolicy.press/the-next-big-tech-monopoly-could-be-your-personal-ai-agent",
     "https://www.techpolicy.press/trump-left-manila-without-a-pax-silica-deal-what-can-the-philippines-demand",
     "https://www.techpolicy.press/what-we-now-know-about-ai-and-elections"
    ],
-   "text": "Perspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nThe suggestion Europe can thrive by letting its factory floors integrate frontier LLMs is as dangerous as it is deliberate, writes Cristina Caffarra.\nNovember 23, 2026\nFeatured\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nFeatured\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nLatest\nView more\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nNews\nNo Bailout for the AI Bubble, Anthropic IPO Protesters Say\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nPerspective\nWhat We Now Know About AI and Elections\nNovember 19, 2026\nNews\nAs Anthropic Goes Public, Who Has the Power to Stop an AI Company?\nNovember 19, 2026\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nAnalysis\nMicrosoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure\nNovember 19, 2026\nAnalysis\nBugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood\nNovember 18, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Perspective\nCharacter.AI’s December Bankruptcy Sale is Too Soon to Protect Kids’ Data\nThe outcome of this case matters far beyond the disposition of Character.AI’s assets, writes Bryan Jones.\nNovember 24, 2026\nFeatured\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nFeatured\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nLatest\nView more\nPerspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nNews\nNo Bailout for the AI Bubble, Anthropic IPO Protesters Say\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nPerspective\nWhat We Now Know About AI and Elections\nNovember 19, 2026\nNews\nAs Anthropic Goes Public, Who Has the Power to Stop an AI Company?\nNovember 19, 2026\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
@@ -26293,8 +27345,8 @@
   },
   "https://www.unesco.org/en/artificial-intelligence": {
    "links": [
-    "https://www.unesco.org/en/articles/ai-answers-you-decide-unesco-launches-new-media-and-information-literacy-curriculum",
     "https://www.unesco.org/en/articles/how-youth-bridging-digital-knowledge-divide-course-ai-and-human-rights",
+    "https://www.unesco.org/en/articles/preparing-thailands-future-judicial-leaders-age-ai",
     "https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=195885",
     "https://www.unesco.org/en/articles/small-ai-models-widen-access-learning-low-resource-settings",
     "https://www.unesco.org/en/articles/unesco-joins-eu-funded-culturai-project-advance-responsible-ai-cultural-and-creative-sectors",
@@ -26321,7 +27373,7 @@
     "https://www.unesco.org/ethics-ai/en",
     "https://www.unesco.org/ethics-ai/en/ram?hub=195885"
    ],
-   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nSustainable AI and Climate Action at COP31\nResources\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nOur impact\nHow UNESCO is shaping an ethical digital future.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nSmall AI models widen access to learning in low-resource settings\n17 November 2026\nNews\nUNESCO promotes stronger data governance in Latin America and the Caribbean\n16 November 2026\nNews\nUNESCO joins EU-funded CULTURAI project to advance responsible AI in the cultural and creative sectors\n10 November 2026\nNews\nAI Answers. You Decide: UNESCO launches a new Media and Information Literacy curriculum\n10 November 2026\nLoad more"
+   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nSustainable AI and Climate Action at COP31\nResources\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nOur impact\nHow UNESCO is shaping an ethical digital future.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nStory\nPreparing Thailand's future judicial leaders for the age of AI\n24 November 2026\nNews\nSmall AI models widen access to learning in low-resource settings\n17 November 2026\nNews\nUNESCO promotes stronger data governance in Latin America and the Caribbean\n16 November 2026\nNews\nUNESCO joins EU-funded CULTURAI project to advance responsible AI in the cultural and creative sectors\n10 November 2026\nLoad more"
   }
  },
  "threads": {
