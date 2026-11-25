@@ -601,6 +601,44 @@
    "id": "04c682704acd",
    "status": "skip"
   },
+  "04faff4baea0": {
+   "action": "Monitor for upcoming policy consultations or submission calls on AI companion regulation in Africa; engage with child safety advocates.",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "field",
+   "headline": "AI companion apps reshaping youth intimacy in Africa",
+   "headline_only": false,
+   "id": "04faff4baea0",
+   "impact": 3,
+   "location": "Nairobi, Kenya (referenced); Africa-wide issue",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-25",
+   "sector": "health",
+   "snippet": "With no local safeguards in place, addictive chatbots are testing communal values and hooking children on synthetic love.",
+   "source": "Rest of World",
+   "status": "done",
+   "summary": "AI companion app downloads jumped nearly 60% in South Africa and Nigeria last year, with children as young as 10 using them; experts warn of emotional manipulation, social taboo exploitation, and risks to real-world relationships, as African nations lack specific regulations for the sector.",
+   "thread": null,
+   "title": "How foreign AI romance apps are reshaping youth intimacy in Africa",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "field",
+   "url": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "v": 3,
+   "why": "Raises urgent AI safety and child protection concerns in Africa; aligns with ILINA's position on context-dependent AI risk assessment and third-party evaluations in African contexts."
+  },
   "050fbbf6e4bd": {
    "found": "2026-11-17",
    "id": "050fbbf6e4bd",
@@ -645,6 +683,11 @@
    "url": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
    "v": 3,
    "why": "This AI security vulnerability directly relates to ILINA's position on AI safety and AI security given fragile states, and raises concerns about context-dependent risk assessment and third-party evaluations of AI tools."
+  },
+  "054d200bc30c": {
+   "found": "2026-11-25",
+   "id": "054d200bc30c",
+   "status": "skip"
   },
   "054ebe8f9a68": {
    "found": "2026-11-21",
@@ -867,6 +910,11 @@
    "url": "https://www.linkedin.com/posts/research-ict-africa_justai-dpi-datagovernance-activity-7523647980621426688-cqqH",
    "v": 3,
    "why": "RIA delegation engaged with UN Economic Commission for Africa, Global Network Initiative MAP-AI project, and government ministers, discussing JustAI framework and regional priorities for the UN Global AI Dialogue 2027."
+  },
+  "06b34494a44d": {
+   "found": "2026-11-25",
+   "id": "06b34494a44d",
+   "status": "skip"
   },
   "07131e46c137": {
    "action": "Monitor for written submission calls or position papers from the Panel following this event",
@@ -1173,6 +1221,11 @@
   "0990939c7d6e": {
    "found": "2026-11-23",
    "id": "0990939c7d6e",
+   "status": "skip"
+  },
+  "0997548109d2": {
+   "found": "2026-11-25",
+   "id": "0997548109d2",
    "status": "skip"
   },
   "09ab134d6afd": {
@@ -1654,6 +1707,11 @@
    "v": 3,
    "why": "Relevant as South Africa is a key African nation shaping AI policy, and any national policy development contributes to the broader African AI governance landscape ILINA engages with."
   },
+  "0e3460e0aca3": {
+   "found": "2026-11-25",
+   "id": "0e3460e0aca3",
+   "status": "skip"
+  },
   "0e34b5f7818d": {
    "found": "2026-11-10",
    "id": "0e34b5f7818d",
@@ -1989,6 +2047,11 @@
    "v": 3,
    "why": "Advances ILINA's position on AI sovereignty and regionally owned infrastructure for Africa, offering a concrete policy framing beyond the binary of building costly local infrastructure or partnering on foreign terms."
   },
+  "115d838f57bf": {
+   "found": "2026-11-25",
+   "id": "115d838f57bf",
+   "status": "skip"
+  },
   "1199a9a84662": {
    "found": "2026-11-18",
    "id": "1199a9a84662",
@@ -2227,6 +2290,11 @@
   "1499aa10d598": {
    "found": "2026-11-10",
    "id": "1499aa10d598",
+   "status": "skip"
+  },
+  "14e0d4031934": {
+   "found": "2026-11-25",
+   "id": "14e0d4031934",
    "status": "skip"
   },
   "14f809a3ee68": {
@@ -2697,6 +2765,11 @@
    "id": "18cf33612842",
    "status": "skip"
   },
+  "1901d329f538": {
+   "found": "2026-11-25",
+   "id": "1901d329f538",
+   "status": "skip"
+  },
   "191cb18957af": {
    "action": "Monitor for follow-up at Paris Peace Forum; note university governance pathways",
    "african_input": false,
@@ -2794,6 +2867,47 @@
    "v": 3,
    "why": "The acceleration of AI R&D and risks of recursive self-improvement are core AI safety concerns; ILINA tracks frontier AI risks given fragile states and need for independent oversight."
   },
+  "193c8b941f86": {
+   "action": "Monitor for follow-up calls for input or submission deadlines related to the framework.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "multilateral",
+   "headline": "Guterres calls for global AI risk framework at Barbados safety summit",
+   "headline_only": true,
+   "id": "193c8b941f86",
+   "impact": 5,
+   "location": null,
+   "organizers": [
+    "United Nations"
+   ],
+   "participation": null,
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "The Insight International (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General Guterres called for a global AI risk framework to be established within a year at a safety summit in Barbados.",
+   "thread": null,
+   "title": "Guterres calls for global AI risk framework within a year at Barbados safety summit",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFktXzVCak9jWVpOYWdsczBYdk52UWRhb3laN2JaZWRMUlNwejBBeXFBbkV0S1ZUaTFVNmc0LURhb0wtZ2JGLXFQWml2dEFqWUtLNlFvX2R1RzNwd25ldWw4a3RuMmUyallVV2s5SXFIQnZuRGpiYlM3eUJWcy1yMi1lV0c5dldrYUNqbGhycTJORzdzQWt1bTVJVFA2TDl4NVhkREJ2aWNEUU9fU0pISExidw?oc=5",
+   "v": 3,
+   "why": "This is a high-level UN call on AI risk framework, which aligns with ILINA's interest in global AI governance processes and the UN Global Dialogue on AI Governance."
+  },
   "195318b92a94": {
    "action": "Monitor the election outcome and assess implications for African governance input in ITU processes.",
    "african_input": false,
@@ -2864,6 +2978,16 @@
   "1a6df6b70a63": {
    "found": "2026-11-16",
    "id": "1a6df6b70a63",
+   "status": "skip"
+  },
+  "1a84ce9e29e6": {
+   "found": "2026-11-25",
+   "id": "1a84ce9e29e6",
+   "status": "skip"
+  },
+  "1aa754fe5628": {
+   "found": "2026-11-25",
+   "id": "1aa754fe5628",
    "status": "skip"
   },
   "1ad3283ec35a": {
@@ -3019,6 +3143,11 @@
    "id": "1b8b28bac43b",
    "status": "skip"
   },
+  "1bbcd56bd5bb": {
+   "found": "2026-11-25",
+   "id": "1bbcd56bd5bb",
+   "status": "skip"
+  },
   "1be9af18b15c": {
    "action": "",
    "african_input": false,
@@ -3169,6 +3298,11 @@
   "1d4a57c80f9f": {
    "found": "2026-11-17",
    "id": "1d4a57c80f9f",
+   "status": "skip"
+  },
+  "1d571cac2e57": {
+   "found": "2026-11-25",
+   "id": "1d571cac2e57",
    "status": "skip"
   },
   "1d5dd9a77e71": {
@@ -3600,6 +3734,11 @@
    "id": "210dbf8d4593",
    "status": "skip"
   },
+  "2112407b547e": {
+   "found": "2026-11-25",
+   "id": "2112407b547e",
+   "status": "skip"
+  },
   "2123554a2a8b": {
    "found": "2026-11-08",
    "id": "2123554a2a8b",
@@ -3608,6 +3747,11 @@
   "214e2d62ec9d": {
    "found": "2026-11-23",
    "id": "214e2d62ec9d",
+   "status": "skip"
+  },
+  "21689e949643": {
+   "found": "2026-11-25",
+   "id": "21689e949643",
    "status": "skip"
   },
   "217ff028b1ff": {
@@ -3834,6 +3978,11 @@
    "id": "22edfde24a69",
    "status": "skip"
   },
+  "230deef2df97": {
+   "found": "2026-11-25",
+   "id": "230deef2df97",
+   "status": "skip"
+  },
   "23116914a381": {
    "found": "2026-11-12",
    "id": "23116914a381",
@@ -4050,6 +4199,11 @@
    "url": "https://www.linkedin.com/posts/international-telecommunication-union_ai-aiagents-standards-activity-7524458965091508225-VQ3T",
    "v": 3,
    "why": "Highlights foundational standards and opportunities for global cooperation on AI safety and accountability, relevant to ILINA's interest in AI safety and governance frameworks."
+  },
+  "24d5c8fcfbe5": {
+   "found": "2026-11-25",
+   "id": "24d5c8fcfbe5",
+   "status": "skip"
   },
   "24d6c45d9669": {
    "found": "2026-11-20",
@@ -4302,6 +4456,11 @@
    "id": "25ea5b9e4ab0",
    "status": "skip"
   },
+  "260440808089": {
+   "found": "2026-11-25",
+   "id": "260440808089",
+   "status": "skip"
+  },
   "262cfa35f430": {
    "found": "2026-11-23",
    "id": "262cfa35f430",
@@ -4493,6 +4652,45 @@
    "id": "28e1867a7978",
    "status": "skip"
   },
+  "28f2a543dc4e": {
+   "action": "Apply to participate or nominate African experts",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "opportunities",
+   "headline": "International Programme on AI Evaluation: Capabilities and Safety 2027 Opens Applications",
+   "headline_only": true,
+   "id": "28f2a543dc4e",
+   "impact": 3,
+   "location": null,
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-25",
+   "sector": "",
+   "snippet": "",
+   "source": "Global South Opportunities (via search)",
+   "status": "done",
+   "summary": "Applications open for a fully funded global programme on AI evaluation capabilities and safety in 2027.",
+   "thread": null,
+   "title": "International Programme on AI Evaluation: Capabilities and Safety 2027 Opens Applications for Fully Funded Global Participants",
+   "topics": [
+    "AI safety & security",
+    "evaluations & monitoring"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UnhLcTctMkNxOXdicFNFZWlvWlM5RTFlYzdXaFM2ZFVCcnp6WHpXRjRGZnFtTGNTeVNVYkdxcHI3TjQxbUJkd3VhTVFzYndxRzU4eGF0TzhRYVM2bllleHFDOFlpMUVhdXhCclkzNTNxT0U?oc=5",
+   "v": 3,
+   "why": "Relevant to ILINA's position on AI safety and AI security, particularly evaluations in African languages and contexts, third-party evaluations, and incident reporting."
+  },
   "2910679427c2": {
    "action": "Submit written input",
    "african_input": true,
@@ -4594,6 +4792,11 @@
   "2a1670662a48": {
    "found": "2026-10-28",
    "id": "2a1670662a48",
+   "status": "skip"
+  },
+  "2a8ce06b7c55": {
+   "found": "2026-11-25",
+   "id": "2a8ce06b7c55",
    "status": "skip"
   },
   "2a94e30d1ab0": {
@@ -4836,6 +5039,11 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHZrLV9yYkZHZEpmZl9IRFdFanNaeEVtVWdvSHZpN2oyc2lJMjB6RlRiY0tQWFhBZ2dram5WQnNtMVE3RGs4Q1duMjBsSzdEMW9vWXZqcG9uNnc4aHNhUkRZaEpDRlBwaWJuN3FwX2Q4d2hxNy04aHVtbUxqaU55ekdubFRMYl9LNFJWMXFGLVdKbHZGZlQyVDNaVFl2Qk0?oc=5",
    "v": 3,
    "why": "This is a national AI policy adoption by an African government, directly relevant to ILINA's focus on African countries shaping frontier AI development and governance."
+  },
+  "2c935aae5345": {
+   "found": "2026-11-25",
+   "id": "2c935aae5345",
+   "status": "skip"
   },
   "2ca3f087611b": {
    "found": "2026-11-10",
@@ -5674,6 +5882,11 @@
    "id": "342233509d48",
    "status": "skip"
   },
+  "344e202c3960": {
+   "found": "2026-11-25",
+   "id": "344e202c3960",
+   "status": "skip"
+  },
   "345b111b369f": {
    "found": "2026-11-14",
    "id": "345b111b369f",
@@ -5967,6 +6180,16 @@
    "v": 3,
    "why": "This aligns with ILINA's priority of ensuring AI improves outcomes in agriculture, healthcare and education while protecting African sovereignty and building domestic technical capacity."
   },
+  "3728a5d0f7a0": {
+   "found": "2026-11-25",
+   "id": "3728a5d0f7a0",
+   "status": "skip"
+  },
+  "374837f6b003": {
+   "found": "2026-11-25",
+   "id": "374837f6b003",
+   "status": "skip"
+  },
   "37ab0cc49d31": {
    "found": "2026-11-10",
    "id": "37ab0cc49d31",
@@ -5985,6 +6208,11 @@
   "37dfe760e5b9": {
    "found": "2026-11-01",
    "id": "37dfe760e5b9",
+   "status": "skip"
+  },
+  "3801c102fcde": {
+   "found": "2026-11-25",
+   "id": "3801c102fcde",
    "status": "skip"
   },
   "380d493fb5fb": {
@@ -6125,6 +6353,11 @@
    "id": "389c1504004a",
    "status": "skip"
   },
+  "38f2c80f01f1": {
+   "found": "2026-11-25",
+   "id": "38f2c80f01f1",
+   "status": "skip"
+  },
   "39029da42aa6": {
    "action": "",
    "african_input": false,
@@ -6163,6 +6396,11 @@
    "v": 3,
    "why": "This touches on AI governance in African markets, which aligns with ILINA's interest in AI policy formulation and responsible AI integration in public services on terms that protect African sovereignty."
   },
+  "391025d6a0b2": {
+   "found": "2026-11-25",
+   "id": "391025d6a0b2",
+   "status": "skip"
+  },
   "3911bc54a05a": {
    "found": "2026-11-10",
    "id": "3911bc54a05a",
@@ -6171,6 +6409,11 @@
   "392be045c81a": {
    "found": "2026-11-10",
    "id": "392be045c81a",
+   "status": "skip"
+  },
+  "396e44495ed9": {
+   "found": "2026-11-25",
+   "id": "396e44495ed9",
    "status": "skip"
   },
   "397e007117e9": {
@@ -6287,6 +6530,11 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0UtZThlTHd4aDcyb1JONjIzTm5Xbkw1RldfYzdmUTQyYVVzemY5T1N3Y3ZiR0tOOUp4V3dhYUFaWG5fVDhQaXN5MUVZbHlxWjZBanZOTXp2VExJMEM4NXBaeDRnS01MdTRGcWZDd1NpYTF1cXk5VnlNMEFYQlJuSnRIUG1FMUJUZi00ZzkzcmhaVGZ4RG90eGdHQ3RuQVNwaVVCaGhRUQ?oc=5",
    "v": 3,
    "why": "This signals AU-level policy direction on AI sovereignty, directly relevant to ILINA's focus on African governance and digital sovereignty."
+  },
+  "3a93ff309d30": {
+   "found": "2026-11-25",
+   "id": "3a93ff309d30",
+   "status": "skip"
   },
   "3b026c087eb5": {
    "action": "Monitor for revised policy or new consultation process",
@@ -6470,9 +6718,19 @@
    "id": "3c3367d0d4ee",
    "status": "skip"
   },
+  "3c6728c1bfd1": {
+   "found": "2026-11-25",
+   "id": "3c6728c1bfd1",
+   "status": "skip"
+  },
   "3c984ce46e0b": {
    "found": "2026-11-10",
    "id": "3c984ce46e0b",
+   "status": "skip"
+  },
+  "3ca81807b9fa": {
+   "found": "2026-11-25",
+   "id": "3ca81807b9fa",
    "status": "skip"
   },
   "3cbe96a06068": {
@@ -6623,6 +6881,11 @@
   "3d509e27bae2": {
    "found": "2026-11-23",
    "id": "3d509e27bae2",
+   "status": "skip"
+  },
+  "3d81ef4810e4": {
+   "found": "2026-11-25",
+   "id": "3d81ef4810e4",
    "status": "skip"
   },
   "3d87a9fff741": {
@@ -7504,6 +7767,11 @@
    "id": "4454b3b59960",
    "status": "skip"
   },
+  "451f6740dc7e": {
+   "found": "2026-11-25",
+   "id": "451f6740dc7e",
+   "status": "skip"
+  },
   "453bd379fbce": {
    "found": "2026-11-18",
    "id": "453bd379fbce",
@@ -7704,6 +7972,47 @@
    "id": "46688480b48b",
    "status": "skip"
   },
+  "4695d04bd658": {
+   "action": "Monitor the UN Global Dialogue on AI Governance 2027 and prepare input on democratic oversight, especially regarding African representation.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "tracker",
+   "headline": "Proposed UN regulation of AI needs democratic input and oversight",
+   "headline_only": true,
+   "id": "4695d04bd658",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "Democracy Without Borders"
+   ],
+   "participation": "",
+   "published": "2026-11-16",
+   "sector": "",
+   "snippet": "",
+   "source": "Democracy Without Borders (via search)",
+   "status": "done",
+   "summary": "A proposed UN regulation on AI regulation is being discussed, emphasizing the need for democratic input and oversight.",
+   "thread": null,
+   "title": "Proposed UN regulation of AI needs democratic input and oversight",
+   "topics": [
+    "Global Dialogue / UN",
+    "AI safety & security"
+   ],
+   "type": "field",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEVoSUZYc1Z1dmZNSFh5R1h1ejMyR3duTXR4RUxlUlZYZU9Ham9MakdVTEd0TUNBem1rVlI3Ui1ra3ZtcEQwZHdyaU0tN1JxN1ZEVEotWmd4N3ItY1pLYzJqZGdNb0llVFV0Z3Z3UHN0TE03aUx4Ujg1WlFWNGFzblJOU18tTjg0SmFxOVBBN2pQQ2ZDbnM4RFZ2dmZlV2hReHBPY1JOV2RaV21SampIVUVn?oc=5",
+   "v": 3,
+   "why": "This touches on the UN Global Dialogue on AI Governance and democratic oversight, which aligns with ILINA's interest in UN AI processes and African representation in global governance."
+  },
   "46b8a16d55a4": {
    "found": "2026-11-10",
    "id": "46b8a16d55a4",
@@ -7753,6 +8062,11 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaVBoQk5UUmdRNXVMY1Awa0V5dUdUbjkwcENOdl8wR1AxZnhLY2lzcGZyNlJVWFd1Q2Q5SmxWc0lGdEU2OWJpc0lQVkNsQjZLLXIxTGN6QWk0bVVjMzhhc0Y4NnRyNzRzNGwtTTBZbS1VT2dCbFd1cDV0bUh0VDd0QXAzZ2M1MWluM3MtYlpsMXZMNU9qNTFFcGt3aWxqbERGSk1RU0lBUGcybmRERFY4MUFWLWlHb3NUVVN5bHBKbFFmOXJiRkQ3OEVoY9IB0AFBVV95cUxOWUU2NGd6eTF4ZWVDYlZJQ2tkMlVNcGFKaF9mRDJpS09iWFpUakNTczFKOWlMVjl1SFJUSW9qYWJnR0c5VlEtZU83Q21ZNmF3VjBHaUJFTTRMMDczQl8wSzRzQWJLRnVkNlpmZmFMTnZBbjQ0dk9fUVlveEZTcUdQY0RZVHQtVDBRTDNjeGd3UFBfUzNZUHVncnpKM2NnRkVfZVdXQ1FXNFhlbVdac1A4aDk5UExsbW9JMnFNRnM2Ri1udjFkUWRrTlU4al9raHZr?oc=5",
    "v": 3,
    "why": "Okolo is a prominent voice on AI governance in Africa; her recognition signals growing global visibility for African perspectives on AI safety and policy."
+  },
+  "47371a78b067": {
+   "found": "2026-11-25",
+   "id": "47371a78b067",
+   "status": "skip"
   },
   "4743c35de9d8": {
    "found": "2026-11-17",
@@ -8282,6 +8596,11 @@
   "4c8fa7e690bd": {
    "found": "2026-11-10",
    "id": "4c8fa7e690bd",
+   "status": "skip"
+  },
+  "4c9608da258e": {
+   "found": "2026-11-25",
+   "id": "4c9608da258e",
    "status": "skip"
   },
   "4ce792ba5e83": {
@@ -9125,6 +9444,11 @@
    "v": 3,
    "why": "This is a concrete policy development from a national government directly shaping AI strategy, which aligns with ILINA's focus on African governance and public service integration."
   },
+  "55d61986495b": {
+   "found": "2026-11-25",
+   "id": "55d61986495b",
+   "status": "skip"
+  },
   "55d66fa09312": {
    "action": "Monitor the parliamentary process and prepare submission points on sovereignty, capacity building, and African representation in governance structures.",
    "african_input": false,
@@ -9375,6 +9699,47 @@
    "found": "2026-10-28",
    "id": "56e7c80b6691",
    "status": "skip"
+  },
+  "56e86e94cc87": {
+   "found": "2026-11-25",
+   "id": "56e86e94cc87",
+   "status": "skip"
+  },
+  "5713c0471e3e": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "tracker",
+   "headline": "Spotlight on AI safety, security and alignment",
+   "headline_only": true,
+   "id": "5713c0471e3e",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-25",
+   "sector": "",
+   "snippet": "",
+   "source": "Bristows (via search)",
+   "status": "done",
+   "summary": "A spotlight on AI safety, security and alignment and where regulation is heading.",
+   "thread": null,
+   "title": "Spotlight on AI safety, security and alignment | Where regulation is heading (via Passle)",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "field",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDdSUlA0N3A4TkN3TFlvTFVsbjFGaF80VWRJSEZoVVNHSkxLUlQwajlqMlNfUEdYOVRaeEI0NTZ5UHJGSEExRk5qTXRFVkd3Y1F2ZmpLV2hMdXR4R25BRDRlWFhuUDBxajJQWDNwYnp4OE1PNmxhQlp6Y09vSUlwUlpXSV9OdmpiVm5VVmhGdElSbTlqWDFUbHNBZnR5VjVzaG9zTHc5UEdSQ284RXB0cEtnczJPZmVfTTEwdHZjODZBdw?oc=5",
+   "v": 3,
+   "why": "Covers AI safety and regulation topics relevant to ILINA's governance focus."
   },
   "5731b478a175": {
    "action": "",
@@ -9696,6 +10061,11 @@
    "v": 3,
    "why": "This is a concrete government-AI company partnership at the UN level, directly relevant to ILINA's interest in African government engagement with frontier AI and data sovereignty."
   },
+  "5988e9c452ff": {
+   "found": "2026-11-25",
+   "id": "5988e9c452ff",
+   "status": "skip"
+  },
   "598c6194c0d3": {
    "found": "2026-11-23",
    "id": "598c6194c0d3",
@@ -9912,6 +10282,11 @@
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1J1c1BNRnFjRHNWUTlpS2l4R3RLMUZhM2ROX1hUMENiQlNqeHJsU1lFQmtsZnMtVDlGQXN3eGFiY3NINVpsbkRHVEpZUExCMGdMMmhmT0d4WFIwRVFLc3VjN1ZwZjNJMl8ySXp6UHUyaGpxR1huZ0hpTDFVVEhwNkUwMzNmXzB6YXc1WUxJdlhEMGNwbEZ3Rk92MzhuWC1VdGp6YmFNQTZIeFZRbngwRXRoSUpCTlV3VUdQVzQtOXZwMDlBVHBZcHdOUVJVcEFqOE1wUW9QcmE?oc=5",
    "v": 3,
    "why": "This signals industry-government alignment on AI safety governance, relevant to ILINA's interest in AI safety and security given fragile states and red lines."
+  },
+  "5b8e62e0cc25": {
+   "found": "2026-11-25",
+   "id": "5b8e62e0cc25",
+   "status": "skip"
   },
   "5b916f1bea87": {
    "found": "2026-11-23",
@@ -10307,6 +10682,11 @@
    "id": "5dcdd8f2c0bb",
    "status": "skip"
   },
+  "5de2db3672bb": {
+   "found": "2026-11-25",
+   "id": "5de2db3672bb",
+   "status": "skip"
+  },
   "5e0fa8b2c2d7": {
    "found": "2026-11-10",
    "id": "5e0fa8b2c2d7",
@@ -10429,6 +10809,11 @@
   "5f4f8f8f1b64": {
    "found": "2026-11-10",
    "id": "5f4f8f8f1b64",
+   "status": "skip"
+  },
+  "5f63ae84e339": {
+   "found": "2026-11-25",
+   "id": "5f63ae84e339",
    "status": "skip"
   },
   "5fa742d74483": {
@@ -10581,6 +10966,11 @@
   "623d4eb1c6f2": {
    "found": "2026-11-18",
    "id": "623d4eb1c6f2",
+   "status": "skip"
+  },
+  "627012e0f231": {
+   "found": "2026-11-25",
+   "id": "627012e0f231",
    "status": "skip"
   },
   "62776e922540": {
@@ -10757,6 +11147,11 @@
   "64d59b55a8fb": {
    "found": "2026-11-23",
    "id": "64d59b55a8fb",
+   "status": "skip"
+  },
+  "65155b596e8e": {
+   "found": "2026-11-25",
+   "id": "65155b596e8e",
    "status": "skip"
   },
   "652211f5c064": {
@@ -10994,6 +11389,47 @@
    "id": "6750c2461412",
    "status": "skip"
   },
+  "676399c1022d": {
+   "action": "Monitor for written submission calls or consultation opportunities arising from this UN initiative.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "multilateral",
+   "headline": "U.N. urges responsible AI use and safeguards against autonomous weapons",
+   "headline_only": true,
+   "id": "676399c1022d",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "United Nations"
+   ],
+   "participation": "",
+   "published": "2026-11-25",
+   "sector": "",
+   "snippet": "",
+   "source": "سانا (via search)",
+   "status": "done",
+   "summary": "The United Nations has issued a call for responsible AI use and the establishment of safeguards against autonomous weapons.",
+   "thread": null,
+   "title": "U.N. urges responsible AI use and safeguards against autonomous weapons",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZQXJURlUtTGlIcmwxZEdVQld6Nnp4N3RGamJqNXMxVzUtZjloT1ZfNkp4emxHZDU4YXlJdnhnOFUwMm5SMmVtZVZBcTBDaEFhX1Rr?oc=5",
+   "v": 3,
+   "why": "This UN-level call on responsible AI and autonomous weapons aligns with ILINA's priorities on AI safety and AI security given fragile states."
+  },
   "6766b455b147": {
    "action": "Monitor for details on the pledge commitments and participating nations to assess relevance to ILINA's positions on AI safety and security.",
    "african_input": false,
@@ -11107,9 +11543,19 @@
    "id": "68be6d54e6ef",
    "status": "skip"
   },
+  "68d90bac8c51": {
+   "found": "2026-11-25",
+   "id": "68d90bac8c51",
+   "status": "skip"
+  },
   "68e6b9dcdffe": {
    "found": "2026-11-17",
    "id": "68e6b9dcdffe",
+   "status": "skip"
+  },
+  "690102a7004c": {
+   "found": "2026-11-25",
+   "id": "690102a7004c",
    "status": "skip"
   },
   "69136d6c3fca": {
@@ -11796,6 +12242,11 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11TzJUTllXTlowU2NkdHJmZ2gxQzJNcDhad3hzUS1XVGt6MmFuWlJNVmFsRWdZX010SW5YUDdtejhIWnVkUnUzcUNIV3FMMDRGeFFVSnhrSUpKRXlSc3haVnpRRU4zbzZXMjJOQ0lfOE8wdHB6TndWYm41UWs?oc=5",
    "v": 3,
    "why": "This appointment could influence Africa's AI policy direction and representation in continental governance structures."
+  },
+  "70208667bab4": {
+   "found": "2026-11-25",
+   "id": "70208667bab4",
+   "status": "skip"
   },
   "704a294279d8": {
    "found": "2026-11-12",
@@ -12537,6 +12988,11 @@
    "v": 3,
    "why": "This is a national AI strategy from an African government, directly relevant to ILINA's priority of African countries shaping frontier AI development and deployment."
   },
+  "7670901095d0": {
+   "found": "2026-11-25",
+   "id": "7670901095d0",
+   "status": "skip"
+  },
   "76807b124c98": {
    "found": "2026-11-20",
    "id": "76807b124c98",
@@ -12951,6 +13407,11 @@
    "id": "794069c1d415",
    "status": "skip"
   },
+  "79d50966cca8": {
+   "found": "2026-11-25",
+   "id": "79d50966cca8",
+   "status": "skip"
+  },
   "79ecec531073": {
    "action": "Monitor the bill's progress and assess for policy implications; consider submitting input if consultation opens.",
    "african_input": false,
@@ -12997,6 +13458,11 @@
   "7a4d329c72ac": {
    "found": "2026-11-10",
    "id": "7a4d329c72ac",
+   "status": "skip"
+  },
+  "7a6462e387eb": {
+   "found": "2026-11-25",
+   "id": "7a6462e387eb",
    "status": "skip"
   },
   "7a944de50324": {
@@ -13310,6 +13776,53 @@
    "id": "7c5c30f51b80",
    "status": "skip"
   },
+  "7ce741307131": {
+   "action": "Monitor for written submission calls or stakeholder consultation opportunities at PP-26; note AI-enhanced disaster readiness pre-standardization work for potential African governance input.",
+   "african_input": false,
+   "allies": [
+    "ITU"
+   ],
+   "arena": "UN system",
+   "countries": [
+    "Africa",
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "multilateral",
+   "headline": "PP-26 perspective: When warnings are not enough",
+   "headline_only": false,
+   "id": "7ce741307131",
+   "impact": 3,
+   "location": "Online / PP-26 conference venue",
+   "organizers": [
+    "ITU (International Telecommunication Union)"
+   ],
+   "participation": "Open to PP-26 delegates and stakeholders; look for ITU calls for input on early warning standards or AI-enhanced disaster readiness pre-standardization.",
+   "published": "2026-11-25",
+   "sector": "security",
+   "snippet": "By Daniella Esi Darlington, Co-Founder and CEO, Alleina AI, and member of the ITU Secretary-General’s Youth Advisory Board Some of the deadliest disasters in living memory struck people who had no warning. In 1970, Cyclone Bhola hit what is now Bangladesh, killing between 300,000 and 500,000 people. Thirty-four years later, the Indian Ocean tsunami left more than […] The post PP-26 perspective: When warnings are not enough appeared first on ITU .",
+   "source": "ITU",
+   "status": "done",
+   "summary": "ITU perspective on disaster early warning systems, highlighting gaps in last-mile connectivity, network resilience after disasters, and the role of AI in closing warning gaps ahead of the ITU Plenipotentiary Conference 2026.",
+   "thread": null,
+   "title": "PP-26 perspective: When warnings are not enough",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "event",
+   "url": "https://www.itu.int/hub/2026/11/pp-26-perspective-when-warnings-are-not-enough/",
+   "v": 3,
+   "why": "Discusses early warning systems and AI integration in disaster readiness, directly relevant to ILINA's positions on AI safety, context-dependent risk assessment, and third-party evaluations in African contexts."
+  },
   "7d1873b29c42": {
    "found": "2026-11-12",
    "id": "7d1873b29c42",
@@ -13582,6 +14095,11 @@
   "808bef3cea5f": {
    "found": "2026-11-16",
    "id": "808bef3cea5f",
+   "status": "skip"
+  },
+  "808cbb7d05e3": {
+   "found": "2026-11-25",
+   "id": "808cbb7d05e3",
    "status": "skip"
   },
   "80b38ea7da37": {
@@ -13874,6 +14392,11 @@
   "8281fe781833": {
    "found": "2026-11-14",
    "id": "8281fe781833",
+   "status": "skip"
+  },
+  "82943dda6f2f": {
+   "found": "2026-11-25",
+   "id": "82943dda6f2f",
    "status": "skip"
   },
   "82a3793b2cda": {
@@ -14713,6 +15236,45 @@
    "id": "898404332f71",
    "status": "skip"
   },
+  "89933e07bf99": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "multilateral",
+   "headline": "Secretary-General at Special Summit on AI Safety",
+   "headline_only": true,
+   "id": "89933e07bf99",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "",
+   "snippet": "",
+   "source": "UN Meetings Coverage and Press Releases (via search)",
+   "status": "done",
+   "summary": "The UN Secretary-General spoke at a Special Summit on AI Safety, emphasizing that technology and its governance must work for every country and all of humanity.",
+   "thread": null,
+   "title": "Secretary-General, at Special Summit on AI Safety, Stresses Technology, Its Governance Must Work for Every Country, All of Humanity",
+   "topics": [
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTG45Y3JTbHVTdFRqYzZlQV9yVXdpaHMxZHB6UXExRnBVUXk5MnR2cnVOTmtRM3QyNmd3OGFRN09Ta0ZWMVFwc2xRT0VPVTJReFNpNXQwbGhsdw?oc=5",
+   "v": 3,
+   "why": "This is a UN-level AI safety event with the Secretary-General, relevant to ILINA's interest in global AI governance processes and summits."
+  },
   "899e7a41ae5c": {
    "found": "2026-11-16",
    "id": "899e7a41ae5c",
@@ -14996,6 +15558,11 @@
   "8bcb6000dc47": {
    "found": "2026-11-23",
    "id": "8bcb6000dc47",
+   "status": "skip"
+  },
+  "8bd38aaf580f": {
+   "found": "2026-11-25",
+   "id": "8bd38aaf580f",
    "status": "skip"
   },
   "8c10da93d541": {
@@ -15420,6 +15987,11 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1JXUXM5ZjBVdUgwV19Ybjl5bVdyQm5TcTRldVl6RDBoUXlzVW5VWHEyZ09mYnV3MkV5TDZmdnU0dWpGXzRSLUJtaEotaHdLUEl5amdldTF0akdKN0xhQ3I4V3dyUzNldWp0OHQtVlhBSm15TlhRclEyUGhQZzNyd3BIOUFjVURwTkx5TzNxVkhFbnlVMVBnWElhQQ?oc=5",
    "v": 3,
    "why": "This is an African Union governance event where Uganda's participation signals engagement with continental digital policy, relevant to ILINA's interest in African countries shaping frontier AI development."
+  },
+  "912299346929": {
+   "found": "2026-11-25",
+   "id": "912299346929",
+   "status": "skip"
   },
   "9135fb06c9b6": {
    "found": "2026-11-13",
@@ -15869,6 +16441,11 @@
    "id": "9547a3608e23",
    "status": "skip"
   },
+  "9562827e6666": {
+   "found": "2026-11-25",
+   "id": "9562827e6666",
+   "status": "skip"
+  },
   "958bef4751bf": {
    "found": "2026-11-23",
    "id": "958bef4751bf",
@@ -16269,6 +16846,11 @@
    "id": "99b7865e6a61",
    "status": "skip"
   },
+  "99b93f3e1098": {
+   "found": "2026-11-25",
+   "id": "99b93f3e1098",
+   "status": "skip"
+  },
   "99ba3de9f946": {
    "found": "2026-11-10",
    "id": "99ba3de9f946",
@@ -16335,6 +16917,11 @@
   "9a564987bc3f": {
    "found": "2026-11-10",
    "id": "9a564987bc3f",
+   "status": "skip"
+  },
+  "9a7a58f65d9e": {
+   "found": "2026-11-25",
+   "id": "9a7a58f65d9e",
    "status": "skip"
   },
   "9aa0ce2b4d3a": {
@@ -16953,6 +17540,11 @@
    "url": "https://nitda.gov.ng/ai-driven-cyber-threats-demand-global-action-experts-warn-at-icsc-2026/9920/",
    "v": 3,
    "why": "Raises AI security concerns in fragile states and highlights the need for global cooperation on AI-enabled cyber threats, which aligns with ILINA's position on AI safety and security given fragile states."
+  },
+  "a0a1abe6e2b4": {
+   "found": "2026-11-25",
+   "id": "a0a1abe6e2b4",
+   "status": "skip"
   },
   "a0e52baf0be3": {
    "action": "Submit written input or evidence on digital violence against women in Africa",
@@ -17603,6 +18195,47 @@
    "id": "a5bd7ba6d3ee",
    "status": "skip"
   },
+  "a5e092547051": {
+   "action": "Monitor the adopted resolutions for policy implications and potential consultation opportunities.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "multilateral",
+   "headline": "Second Committee Approves 13 Resolutions on AI Governance and Trade",
+   "headline_only": true,
+   "id": "a5e092547051",
+   "impact": 3,
+   "location": null,
+   "organizers": [
+    "UN Second Committee"
+   ],
+   "participation": null,
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "UN Meetings Coverage and Press Releases (via search)",
+   "status": "done",
+   "summary": "The UN Second Committee approved 13 resolutions, including measures addressing AI governance amid international trade divisions.",
+   "thread": null,
+   "title": "Second Committee Approves 13 Resolutions, amid Divisions over AI Governance, International Trade",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04OWMxMWV2b1QyNEt4WUtWVG9mc3NJYXlxdUZFelNRTEQ1TjZwS00yLXFFa2hwVnNsX2FnVElfZXlpTDRicVhqcElob1hjYWJzM1A1OHV4T2s?oc=5",
+   "v": 3,
+   "why": "The resolutions may shape global AI governance frameworks and multilateral processes relevant to ILINA's work on African representation and capacity development."
+  },
   "a613315ee6a5": {
    "found": "2026-11-10",
    "id": "a613315ee6a5",
@@ -17824,6 +18457,11 @@
    "v": 3,
    "why": "This event directly relates to African governance of AI infrastructure and the AU's positioning on AI ambitions, fitting ILINA's priority of African countries shaping frontier AI development."
   },
+  "a8086d2616a4": {
+   "found": "2026-11-25",
+   "id": "a8086d2616a4",
+   "status": "skip"
+  },
   "a839fa32dd46": {
    "action": "Monitor Kenya's AI Bill development and consider opportunities for input or analysis.",
    "african_input": false,
@@ -17878,6 +18516,11 @@
    "id": "a85de055c640",
    "status": "skip"
   },
+  "a86fba6218f0": {
+   "found": "2026-11-25",
+   "id": "a86fba6218f0",
+   "status": "skip"
+  },
   "a8a88faffecd": {
    "found": "2026-11-20",
    "id": "a8a88faffecd",
@@ -17911,6 +18554,11 @@
   "a98763b80c84": {
    "found": "2026-11-23",
    "id": "a98763b80c84",
+   "status": "skip"
+  },
+  "a9c4eef2b7f3": {
+   "found": "2026-11-25",
+   "id": "a9c4eef2b7f3",
    "status": "skip"
   },
   "a9c8f4fd9f60": {
@@ -18016,6 +18664,11 @@
   "aa78ce7e88b9": {
    "found": "2026-11-16",
    "id": "aa78ce7e88b9",
+   "status": "skip"
+  },
+  "aae1983f179e": {
+   "found": "2026-11-25",
+   "id": "aae1983f179e",
    "status": "skip"
   },
   "ab21b5c57ed6": {
@@ -18267,6 +18920,11 @@
    "id": "aca4ad6d8b15",
    "status": "skip"
   },
+  "acb85a2068c9": {
+   "found": "2026-11-25",
+   "id": "acb85a2068c9",
+   "status": "skip"
+  },
   "aced5079367f": {
    "action": "Submit written input",
    "african_input": true,
@@ -18323,6 +18981,11 @@
   "ad4994c80165": {
    "found": "2026-11-10",
    "id": "ad4994c80165",
+   "status": "skip"
+  },
+  "ad561cf68343": {
+   "found": "2026-11-25",
+   "id": "ad561cf68343",
    "status": "skip"
   },
   "ad806c0c55dd": {
@@ -18679,6 +19342,11 @@
   "afba86527f58": {
    "found": "2026-11-10",
    "id": "afba86527f58",
+   "status": "skip"
+  },
+  "afbee5096ff9": {
+   "found": "2026-11-25",
+   "id": "afbee5096ff9",
    "status": "skip"
   },
   "affb79d3b949": {
@@ -19241,6 +19909,11 @@
   "b607b7b2ea47": {
    "found": "2026-11-04",
    "id": "b607b7b2ea47",
+   "status": "skip"
+  },
+  "b60a94b59db9": {
+   "found": "2026-11-25",
+   "id": "b60a94b59db9",
    "status": "skip"
   },
   "b661a13c4408": {
@@ -19946,6 +20619,11 @@
    "url": "https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-11/Press%20Release_%20Thematic%20Brief%20on%20AI%20Capacity%20Building%20-%20AI%20Scientific%20Panel_0.pdf",
    "v": 3,
    "why": "It addresses the design of the Global Fund for AI Capacity Development, a key ILINA priority for African governance representation and cross-border funding streams."
+  },
+  "bdb4cabe0552": {
+   "found": "2026-11-25",
+   "id": "bdb4cabe0552",
+   "status": "skip"
   },
   "bdbb7f6a3222": {
    "found": "2026-11-24",
@@ -20856,6 +21534,11 @@
    "v": 3,
    "why": "This appointment signals African representation in a UN AI governance process, relevant to ILINA's goal of African countries shaping frontier AI development."
   },
+  "c65078b59d15": {
+   "found": "2026-11-25",
+   "id": "c65078b59d15",
+   "status": "skip"
+  },
   "c6529c3c97e9": {
    "found": "2026-11-21",
    "id": "c6529c3c97e9",
@@ -21433,6 +22116,11 @@
    "id": "caf94cfbc1d4",
    "status": "skip"
   },
+  "cafc17f65a90": {
+   "found": "2026-11-25",
+   "id": "cafc17f65a90",
+   "status": "skip"
+  },
   "cb91bd80662f": {
    "found": "2026-11-22",
    "id": "cb91bd80662f",
@@ -21671,6 +22359,11 @@
    "v": 3,
    "why": "This is a concrete policy development from a national government that ILINA can engage with to shape AI governance in Africa."
   },
+  "ccdcfd289104": {
+   "found": "2026-11-25",
+   "id": "ccdcfd289104",
+   "status": "skip"
+  },
   "cce1137b3f5f": {
    "found": "2026-11-10",
    "id": "cce1137b3f5f",
@@ -21679,6 +22372,11 @@
   "cce46a3909ee": {
    "found": "2026-11-10",
    "id": "cce46a3909ee",
+   "status": "skip"
+  },
+  "cd0caf104058": {
+   "found": "2026-11-25",
+   "id": "cd0caf104058",
    "status": "skip"
   },
   "cd16b30fffae": {
@@ -22026,6 +22724,11 @@
    "id": "cec12c540d7c",
    "status": "skip"
   },
+  "cf2c637f1528": {
+   "found": "2026-11-25",
+   "id": "cf2c637f1528",
+   "status": "skip"
+  },
   "cf3cacd40078": {
    "found": "2026-11-20",
    "id": "cf3cacd40078",
@@ -22106,6 +22809,11 @@
   "d0250ca2f410": {
    "found": "2026-11-17",
    "id": "d0250ca2f410",
+   "status": "skip"
+  },
+  "d04bfcc9fef5": {
+   "found": "2026-11-25",
+   "id": "d04bfcc9fef5",
    "status": "skip"
   },
   "d05ea3db3578": {
@@ -22566,6 +23274,11 @@
    "v": 3,
    "why": "This represents a policy change by the African Union to modernise governance frameworks for the AI era, directly relevant to ILINA's focus on African governance representation and AI policy formulation."
   },
+  "d30395e3a749": {
+   "found": "2026-11-25",
+   "id": "d30395e3a749",
+   "status": "skip"
+  },
   "d30bd1819810": {
    "found": "2026-11-17",
    "id": "d30bd1819810",
@@ -22650,6 +23363,44 @@
    "id": "d4dff498ce8c",
    "status": "skip"
   },
+  "d4f5b52fc921": {
+   "action": "Apply to speak or cite in memo",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "South Korea"
+   ],
+   "deadline": "2026-12-18",
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "news",
+   "headline": "AIM Safety Fellowship 2027 in South Korea",
+   "headline_only": true,
+   "id": "d4f5b52fc921",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "remote participation available",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "Global South Opportunities (via search)",
+   "status": "done",
+   "summary": "A remote-accessible AI safety research fellowship in South Korea with expert mentorship, open for applications with a December 18 deadline.",
+   "thread": null,
+   "title": "AIM Safety Fellowship 2027 in South Korea: AI Safety Research Programme with Expert Mentorship – Apply by December 18 (remote participation available)",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PaGlhUmF4TzlQdHR1SWRPTHBzc1ZUc1BJZ2NmbXpaZ243TTM0MGRZX1h4RE5UVk5xekl3R2RUVkdkUmRVSFl1Zm9fWTh1bDA0STRWVGFVWF96TV81ZGh6Z1hCczhCYWN0aVE?oc=5",
+   "v": 3,
+   "why": "Offers African researchers a chance to engage in frontier AI safety work, building technical capacity relevant to ILINA's priorities."
+  },
   "d4fc3f3af5c2": {
    "found": "2026-11-23",
    "id": "d4fc3f3af5c2",
@@ -22709,6 +23460,11 @@
   "d5269f2d63dd": {
    "found": "2026-10-28",
    "id": "d5269f2d63dd",
+   "status": "skip"
+  },
+  "d53367b37d2a": {
+   "found": "2026-11-25",
+   "id": "d53367b37d2a",
    "status": "skip"
   },
   "d59c7be15818": {
@@ -23133,6 +23889,11 @@
    "v": 3,
    "why": "This is a national policy development that could shape AI governance in Africa's most advanced economy."
   },
+  "d9005aa32859": {
+   "found": "2026-11-25",
+   "id": "d9005aa32859",
+   "status": "skip"
+  },
   "d9014271bb25": {
    "found": "2026-11-17",
    "id": "d9014271bb25",
@@ -23483,6 +24244,11 @@
    "id": "dc4c4975503b",
    "status": "skip"
   },
+  "dc91b3151994": {
+   "found": "2026-11-25",
+   "id": "dc91b3151994",
+   "status": "skip"
+  },
   "dc92f6add441": {
    "found": "2026-11-12",
    "id": "dc92f6add441",
@@ -23545,6 +24311,11 @@
   "dd2ee1a6f260": {
    "found": "2026-11-23",
    "id": "dd2ee1a6f260",
+   "status": "skip"
+  },
+  "dd3258cdea0e": {
+   "found": "2026-11-25",
+   "id": "dd3258cdea0e",
    "status": "skip"
   },
   "dd4b75c2b183": {
@@ -23937,6 +24708,11 @@
    "url": "https://www.hoy.com.py/nacionales/2025/03/05/fue-confundido-con-un-ladron-por-error-en-sistema-de-reconocimiento-facial",
    "v": 3,
    "why": "Illustrates real-world AI security and safety failure with facial recognition misidentification in a public setting, raising red lines for AI risk in fragile states and context-dependent risk assessment."
+  },
+  "e1668dcaacaa": {
+   "found": "2026-11-25",
+   "id": "e1668dcaacaa",
+   "status": "skip"
   },
   "e1682dcf5b2f": {
    "found": "2026-11-17",
@@ -24437,6 +25213,11 @@
    "id": "e60a09db2110",
    "status": "skip"
   },
+  "e648ab503767": {
+   "found": "2026-11-25",
+   "id": "e648ab503767",
+   "status": "skip"
+  },
   "e67f6766f754": {
    "action": "Monitor for details on fund structure, governance, and application windows; assess fit with ILINA's positions on cross-border funding and regional datasets.",
    "african_input": false,
@@ -24500,6 +25281,11 @@
   "e71c24f153bc": {
    "found": "2026-11-16",
    "id": "e71c24f153bc",
+   "status": "skip"
+  },
+  "e74ce1e15ad0": {
+   "found": "2026-11-25",
+   "id": "e74ce1e15ad0",
    "status": "skip"
   },
   "e780005468f2": {
@@ -24600,9 +25386,19 @@
    "id": "e8eacbc20ce6",
    "status": "skip"
   },
+  "e8f1308c5b22": {
+   "found": "2026-11-25",
+   "id": "e8f1308c5b22",
+   "status": "skip"
+  },
   "e90fc27c778f": {
    "found": "2026-11-10",
    "id": "e90fc27c778f",
+   "status": "skip"
+  },
+  "e922558b6c21": {
+   "found": "2026-11-25",
+   "id": "e922558b6c21",
    "status": "skip"
   },
   "e93152daf88e": {
@@ -24995,6 +25791,11 @@
    "v": 3,
    "why": "Raises AI safety and security concerns in a fragile state context, relevant to ILINA's position on AI safety given fragile states."
   },
+  "ec442b764e04": {
+   "found": "2026-11-25",
+   "id": "ec442b764e04",
+   "status": "skip"
+  },
   "ec4b9e43be4f": {
    "found": "2026-11-19",
    "id": "ec4b9e43be4f",
@@ -25003,6 +25804,11 @@
   "ec9b739e7240": {
    "found": "2026-11-08",
    "id": "ec9b739e7240",
+   "status": "skip"
+  },
+  "ece741c67edc": {
+   "found": "2026-11-25",
+   "id": "ece741c67edc",
    "status": "skip"
   },
   "ed08a73195bc": {
@@ -25294,6 +26100,48 @@
    "id": "ef12c7484017",
    "status": "skip"
   },
+  "ef4727089511": {
+   "action": "Monitor for written submission calls or position papers from the AU or African delegations; note the Secretary-General's July review priority on closing the technology gap.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-24",
+   "event_start": "2026-11-24",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-25",
+   "group": "multilateral",
+   "headline": "Security Council LIVE: AI and drones reshape war",
+   "headline_only": false,
+   "id": "ef4727089511",
+   "impact": 4,
+   "location": "New York, USA",
+   "organizers": [
+    "UN Security Council"
+   ],
+   "participation": "Live webcast on UNWebTV; no explicit public participation mentioned in the item.",
+   "published": "2026-11-24",
+   "sector": "security",
+   "snippet": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict. The Security Council on Tuesday is weighing these changes, with UN chief António Guterres telling ambassadors, “killer robots must have no place in our future.”",
+   "source": "UN News",
+   "status": "done",
+   "summary": "The UN Security Council held a live meeting on 24 November 2026 to discuss how AI and drones are reshaping warfare, with the Secretary-General warning that 'killer robots must have no place in our future' and noting that a push for a legally binding instrument on lethal autonomous weapons fell short last week in Geneva.",
+   "thread": null,
+   "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+   "v": 3,
+   "why": "This Security Council meeting directly addresses AI safety and security in conflict settings, a core ILINA priority given fragile states, and provides a forum where African governments could engage on lethal autonomous weapons and technology governance."
+  },
   "efc8ef3472a7": {
    "found": "2026-11-11",
    "id": "efc8ef3472a7",
@@ -25307,6 +26155,11 @@
   "eff1a4cbadbf": {
    "found": "2026-11-16",
    "id": "eff1a4cbadbf",
+   "status": "skip"
+  },
+  "f01ffa18c1d2": {
+   "found": "2026-11-25",
+   "id": "f01ffa18c1d2",
    "status": "skip"
   },
   "f042df9b78e8": {
@@ -25460,6 +26313,11 @@
   "f2031ab5d138": {
    "found": "2026-11-17",
    "id": "f2031ab5d138",
+   "status": "skip"
+  },
+  "f209d3f9f00d": {
+   "found": "2026-11-25",
+   "id": "f209d3f9f00d",
    "status": "skip"
   },
   "f2110c7b0d20": {
@@ -25636,6 +26494,11 @@
   "f3a66d0f5326": {
    "found": "2026-11-10",
    "id": "f3a66d0f5326",
+   "status": "skip"
+  },
+  "f3aa9260f109": {
+   "found": "2026-11-25",
+   "id": "f3aa9260f109",
    "status": "skip"
   },
   "f3c1c5666c1a": {
@@ -25860,6 +26723,11 @@
    "id": "f5e85b6c1b9b",
    "status": "skip"
   },
+  "f65ebf390307": {
+   "found": "2026-11-25",
+   "id": "f65ebf390307",
+   "status": "skip"
+  },
   "f66e9802f6a2": {
    "found": "2026-11-17",
    "id": "f66e9802f6a2",
@@ -26043,6 +26911,11 @@
   "f8a4e02f4212": {
    "found": "2026-11-24",
    "id": "f8a4e02f4212",
+   "status": "skip"
+  },
+  "f8bd874edd3f": {
+   "found": "2026-11-25",
+   "id": "f8bd874edd3f",
    "status": "skip"
   },
   "f8f941383521": {
@@ -27060,7 +27933,7 @@
   },
   "https://www.aisafety.asia/": {
    "links": [],
-   "text": "Together, We’re Building a Safer Digital Future for Asia\nA global AI future where sovereign networks meaningfully help steer the trajectory of frontier technology toward public accountability, competitive plurality, and human flourishing.\nOur Mission and Vision\nMission\nFrontier AI is being built and governed by a handful of dominant actors, while most nations negotiate with them alone. AISA works to change that before the terms are locked in, focusing on collaboration and leverage Asia’s middle powers already hold.\nTo empower institutions across Asia to fully exercise the leverage they each hold over how AI’s infrastructure, technology and governance take shape globally.\nVision\nA global AI future where sovereign networks meaningfully help steer the trajectory of frontier technology toward public accountability, competitive plurality, and human flourishing.\nTrusted By\nBuilding Trust at the Heart of\nAsia’s AI Future\nAISA serves as an agile, entrepreneurial partner to multilateral platforms and national institutions to strengthen AI governance in Asia.\nWho we are →\nTurning Ideas into Action for a\nSafer AI Future\nAISA helps institutions in Asia turn the influence they already hold into a practical counterweight, before decisions made upstream become impossible to reverse.\nWhat we do →\nCurate\nWe help governments map national dependencies and connect them with frontier-risk scientists to ground policy in objective analysis.\nInform\nWe translate technical foresight into actionable, enforceable safeguards, ensuring governments can negotiate from a clear view of their country’s bargaining power.\nCatalyse\nWe maintain invitation-only channels for senior officials and diplomats across key bridge states to achieve minimum viable alignment before formal international negotiations.\nKnowledge that Drives Change\nEvidence-based insights from AISA’s Curate, Inform, and Catalyse programmes across Asia.\nReport\nStronger Together: ASEAN in the AI Hardware Supply Chain\nSoutheast Asia is a key part of the AI hardware supply chain. Prepared with Metaculus after the 49th ASEAN Summit, this outlook pairs trade data with forecasts to show where the region stands and how, by negotiating together, members can gain more say over the terms of their role.\nRead more →\nReport\nScaling AI Diplomacy - How to use scenario exercises to building capacity and readiness\nThis policy report draws on a tabletop exercise convened alongside the UN Global Dialogue on AI Governance, arguing that there is an urgent need for countries to invest in preparedness through simulating crisis scenarios.\nRead it there →\nInsight\nThe World Doesn't Need Another UN AI Declaration. It Needs Architecture.\nWriting in Tech Policy Press, AISA argues the UN's Global Dialogue on AI Governance must move past symbolic declarations, and build capacity across the Global Majority, put affected communities at the centre of governance design, and form a route to addressing catastrophic risk.\nRead it there →\nInsight\nAI Safety Governance, The Southeast Asian Way: Bridging Global North Leadership with Regional Realities\nA landmark collaboration between AI Safety Asia and the Brookings Institution charts a new course for inclusive AI governance\nRead more →\nReport\nAI Safety Governance, the Southeast Asian Way\nA report on AI governance across eleven Southeast Asian countries, drawing on AISA’s regional roundtables. It argues that localised, culturally informed regulation coordinated through ASEAN offers lessons for other emerging economies balancing innovation with safety.\nRead it there →"
+   "text": "Together, We’re Building a Safer Digital Future for Asia\nA global AI future where sovereign networks meaningfully help steer the trajectory of frontier technology toward public accountability, competitive plurality, and human flourishing.\nOur Mission and Vision\nMission\nFrontier AI is being built and governed by a handful of dominant actors, while most nations negotiate with them alone. AISA works to change that before the terms are locked in, focusing on collaboration and leverage that Asian nations already hold.\nAISA aims to empower institutions across Asia to fully exercise the leverage they each hold over how AI’s infrastructure, technology and governance take shape globally.\nVision\nA global AI future where sovereign networks meaningfully help steer the trajectory of frontier technology toward public accountability, competitive plurality, and human flourishing.\nTrusted By\nBuilding Trust at the Heart of\nAsia’s AI Future\nAISA serves as an agile, entrepreneurial partner to multilateral platforms and national institutions to strengthen AI governance in Asia.\nWho we are →\nTurning Ideas into Action for a\nSafer AI Future\nAISA helps institutions in Asia turn the influence they already hold into a practical counterweight, before decisions made upstream become impossible to reverse.\nWhat we do →\nCurate\nWe help governments map national dependencies and connect them with frontier-risk scientists to ground policy in objective analysis.\nInform\nWe translate technical foresight into actionable, enforceable safeguards, ensuring governments can negotiate from a clear view of their country’s bargaining power.\nCatalyse\nWe maintain invitation-only channels for senior officials and diplomats across key bridge states to achieve minimum viable alignment before formal international negotiations.\nKnowledge that Drives Change\nEvidence-based insights from AISA’s Curate, Inform, and Catalyse programmes across Asia.\nReport\nStronger Together: ASEAN in the AI Hardware Supply Chain\nSoutheast Asia is a key part of the AI hardware supply chain. Prepared with Metaculus after the 49th ASEAN Summit, this outlook pairs trade data with forecasts to show where the region stands and how, by negotiating together, members can gain more say over the terms of their role.\nRead more →\nReport\nScaling AI Diplomacy - How to use scenario exercises to building capacity and readiness\nThis policy report draws on a tabletop exercise convened alongside the UN Global Dialogue on AI Governance, arguing that there is an urgent need for countries to invest in preparedness through simulating crisis scenarios.\nRead it there →\nInsight\nThe World Doesn't Need Another UN AI Declaration. It Needs Architecture.\nWriting in Tech Policy Press, AISA argues the UN's Global Dialogue on AI Governance must move past symbolic declarations, and build capacity across the Global Majority, put affected communities at the centre of governance design, and form a route to addressing catastrophic risk.\nRead it there →\nInsight\nAI Safety Governance, The Southeast Asian Way: Bridging Global North Leadership with Regional Realities\nA landmark collaboration between AI Safety Asia and the Brookings Institution charts a new course for inclusive AI governance\nRead more →\nReport\nAI Safety Governance, the Southeast Asian Way\nA report on AI governance across eleven Southeast Asian countries, drawing on AISA’s regional roundtables. It argues that localised, culturally informed regulation coordinated through ASEAN offers lessons for other emerging economies balancing innovation with safety.\nRead it there →"
   },
   "https://www.aisi.gov.uk/": {
    "links": [
@@ -27101,7 +27974,7 @@
     "https://www.anthropic.com/news/singapore-office-opening",
     "https://www.anthropic.com/research/early-progress-drug-development"
    ],
-   "text": "News\nLatest news\nNovember 24, 2026\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nEarly progress on accelerating drug development with Claude\nWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nFeatures\nThe Situation Report\nA rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\nRead more\nScenarios for our economic future\nAnthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\nRead more\nThe making of Claude Code\nThe inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\nRead more\nProject Deal: our Claude-run marketplace experiment\nWe created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\nRead more\nThe first AI-planned drive on Mars\nThe first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\nRead more\n286\nARTICLES\nFilter\nMost recent\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnnouncements\nNov 20, 2026\nNov 20, 2026\nAnnouncements\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnnouncements\nNov 18, 2026\nNov 18, 2026\nAnnouncements\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nAnnouncements\nNov 10, 2026\nNov 10, 2026\nAnnouncements\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAnnouncements\nNov 9, 2026\nNov 9, 2026\nAnnouncements\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nAnnouncements\nOct 28, 2026\nOct 28, 2026\nAnnouncements\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nPartnerships\nOct 27, 2026\nOct 27, 2026\nPartnerships\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnnouncements\nOct 26, 2026\nOct 26, 2026\nAnnouncements\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nProduct\nOct 22, 2026\nOct 22, 2026\nProduct\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nAnnouncements\nOct 22, 2026\nOct 22, 2026\nAnnouncements\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nAnnouncements\nOct 21, 2026\nOct 21, 2026\nAnnouncements\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnnouncements\nOct 18, 2026\nOct 18, 2026\nAnnouncements\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPolicy\nOct 15, 2026\nOct 15, 2026\nPolicy\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nSafeguards\nOct 14, 2026\nOct 14, 2026\nSafeguards\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nAnnouncements\nOct 14, 2026\nOct 14, 2026\nAnnouncements\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nSafeguards\nOct 12, 2026\nOct 12, 2026\nSafeguards\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\nSecurity\nOct 8, 2026\nOct 8, 2026\nSecurity\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nPolicy\nOct 8, 2026\nOct 8, 2026\nPolicy\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nPartnerships\nOct 8, 2026\nOct 8, 2026\nPartnerships\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nAnnouncements\nOct 7, 2026\nOct 7, 2026\nAnnouncements\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnnouncements\nOct 6, 2026\nOct 6, 2026\nAnnouncements\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nAnnouncements\nOct 2, 2026\nOct 2, 2026\nAnnouncements\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nAnnouncements\nOct 1, 2026\nOct 1, 2026\nAnnouncements\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nAnnouncements\nSep 28, 2026\nSep 28, 2026\nAnnouncements\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nAnnouncements\nSep 22, 2026\nSep 22, 2026\nAnnouncements\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nSee more\nContact us or download our press kit\nPress\npress@anthropic.com\nSupport\nHow to get support\nMedia assets\nDownload press kit"
+   "text": "News\nLatest news\nNovember 25, 2026\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nEarly progress on accelerating drug development with Claude\nWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nFeatures\nThe Situation Report\nA rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\nRead more\nScenarios for our economic future\nAnthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\nRead more\nThe making of Claude Code\nThe inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\nRead more\nProject Deal: our Claude-run marketplace experiment\nWe created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\nRead more\nThe first AI-planned drive on Mars\nThe first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\nRead more\n286\nARTICLES\nFilter\nMost recent\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnnouncements\nNov 20, 2026\nNov 20, 2026\nAnnouncements\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnnouncements\nNov 18, 2026\nNov 18, 2026\nAnnouncements\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nAnnouncements\nNov 10, 2026\nNov 10, 2026\nAnnouncements\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAnnouncements\nNov 9, 2026\nNov 9, 2026\nAnnouncements\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nAnnouncements\nOct 28, 2026\nOct 28, 2026\nAnnouncements\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nPartnerships\nOct 27, 2026\nOct 27, 2026\nPartnerships\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnnouncements\nOct 26, 2026\nOct 26, 2026\nAnnouncements\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nProduct\nOct 22, 2026\nOct 22, 2026\nProduct\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nAnnouncements\nOct 22, 2026\nOct 22, 2026\nAnnouncements\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nAnnouncements\nOct 21, 2026\nOct 21, 2026\nAnnouncements\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnnouncements\nOct 18, 2026\nOct 18, 2026\nAnnouncements\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPolicy\nOct 15, 2026\nOct 15, 2026\nPolicy\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nSafeguards\nOct 14, 2026\nOct 14, 2026\nSafeguards\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nAnnouncements\nOct 14, 2026\nOct 14, 2026\nAnnouncements\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nSafeguards\nOct 12, 2026\nOct 12, 2026\nSafeguards\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\nSecurity\nOct 8, 2026\nOct 8, 2026\nSecurity\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nPolicy\nOct 8, 2026\nOct 8, 2026\nPolicy\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nPartnerships\nOct 8, 2026\nOct 8, 2026\nPartnerships\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nAnnouncements\nOct 7, 2026\nOct 7, 2026\nAnnouncements\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnnouncements\nOct 6, 2026\nOct 6, 2026\nAnnouncements\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nAnnouncements\nOct 2, 2026\nOct 2, 2026\nAnnouncements\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nAnnouncements\nOct 1, 2026\nOct 1, 2026\nAnnouncements\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nAnnouncements\nSep 28, 2026\nSep 28, 2026\nAnnouncements\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nAnnouncements\nSep 22, 2026\nSep 22, 2026\nAnnouncements\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nSee more\nContact us or download our press kit\nPress\npress@anthropic.com\nSupport\nHow to get support\nMedia assets\nDownload press kit"
   },
   "https://www.giz.de/en/newsroom": {
    "links": [
@@ -27119,22 +27992,22 @@
     "https://www.giz.de/en/expertise/democracy-rule-of-law",
     "https://www.giz.de/en/expertise/infrastructure",
     "https://www.giz.de/en/newsroom/downloads",
-    "https://www.giz.de/en/newsroom/news/best-practice-turkiye-recycling-plastic-creating-opportunities",
     "https://www.giz.de/en/newsroom/news/breaking-down-barriers-opening-opportunities",
-    "https://www.giz.de/en/newsroom/news/colombian-coastline-armenian-fields-local-ideas-bolstering-climate-action-worldwide",
     "https://www.giz.de/en/newsroom/news/german-african-business-summit",
     "https://www.giz.de/en/newsroom/news/germanys-security-also-determined-factors-beyond-our-borders",
+    "https://www.giz.de/en/newsroom/news/how-climate-change-affecting-international-politics",
     "https://www.giz.de/en/newsroom/news/intelligent-cement-catalyst-climate-action-construction-sector",
+    "https://www.giz.de/en/newsroom/news/legislation-alone-not-enough-ending-female-genital-mutilation-through-community-action",
     "https://www.giz.de/en/newsroom/newsletter",
     "https://www.giz.de/en/newsroom/press",
     "https://www.giz.de/en/newsroom/stories",
-    "https://www.giz.de/en/newsroom/stories/interview-hoven-giz-cop31",
     "https://www.giz.de/en/newsroom/stories/opportunity-climate-action",
-    "https://www.giz.de/en/newsroom/stories/un-climate-change-conference",
+    "https://www.giz.de/en/newsroom/stories/vaccine-research-charite-kccr-germany-ghana",
+    "https://www.giz.de/en/newsroom/storys/artificial-intelligence-ai-governance",
     "https://www.giz.de/en/partner/contractor/services-construction-work",
     "https://www.giz.de/en/regions/latin-america-caribbean"
    ],
-   "text": "Newsroom\nInterview\n‘Climate pledges must now be turned into action’\nIn this interview, Ingrid-Gabriela Hoven talks about what she anticipates from the COP31 climate change conference in Antalya. The Managing Director at GIZ underlines why GIZ’s work in this area serves German interests, too.\nFind out more\n‘Climate pledges must now be turned into action’\nBackground\nAn opportunity for climate action\nCarbon markets mobilise funds for climate action projects. As the head of several such projects at GIZ, Sven Egbers explains how this works.\nFind out more\nAn opportunity for climate action\nBackground\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nThis year’s UN Climate Change Conference will be meeting in Türkiye. Here we answer key questions about it.\nFind out more\nUN Climate Change Conference 2026: What you need to know about COP31 in Antalya\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n20.11.2026\nGerman-African Business Summit\nAfrica offers huge potential for German companies. International cooperation helps strengthen economic relations.\nMore\nGerman-African Business Summit\nTopic\n17.11.2026\nEcuador: We open up public procurement for women in the agricultural sector.\nIn Ecuador, we are working with international partners to overcome obstacles so that more women-led enterprises can benefit from public contracts. GIZ is now supporting the same concept in Africa and Asia.\nMore\nEcuador: We open up public procurement for women in the agricultural sector.\nTopic\n11.11.2026\nIntelligent cement: a catalyst for climate action in the construction sector\nIn Mexico, a leading concrete manufacturer and a Berlin-based start-up are exploring ways to use artificial intelligence to reduce CO₂ emissions – without compromising on quality.\nMore\nIntelligent cement: a catalyst for climate action in the construction sector\nTopic\n05.11.2026\n‘Germany’s security is also determined by factors beyond our borders’\nInternational cooperation helps to promote greater security around the world and here in Germany. GIZ security expert Anne-Katrin Niemeier explains how this work.\nMore\n‘Germany’s security is also determined by factors beyond our borders’\nTopic\n30.10.2026\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nIm Interview spricht Eyyup Sezer darüber, wie das Unternehmen Sönmez Global die Kreislaufwirtschaft fördert und gleichzeitig die Lebensgrundlage von Geflüchteten unterstützt. Eine Win-win-Situation für alle.\nMore\nBest Practice aus der Türkei: Kunststoff recyclen und Chancen schaffen\nTopic\n27.10.2026\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nLocal people protect the climate and biodiversity. GIZ supports their ideas through the International Climate Initiative.\nMore\nFrom Colombian coastline to Armenian fields – the local ideas bolstering climate action worldwide\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
+   "text": "Newsroom\nBackground\nArtificial intelligence requires global rules\nWhy is AI governance important for sustainable development? How is GIZ assisting its partner countries’ efforts to shape the digital future – and can Germany learn anything from this? Kim Willett and Cheikh Ahmadou Bamba Fall tell us more.\nFind out more\nArtificial intelligence requires global rules\nReport\nResearch without borders\nResearching together, protecting together: GIZ supports improved access to vaccines by strengthening the global South and while also benefiting Germany. A visit to scientists in Germany and Ghana who work side by side.\nFind out more\nResearch without borders\nBackground\nAn opportunity for climate action\nCarbon markets mobilise funds for climate action projects. As the head of several such projects at GIZ, Sven Egbers explains how this works.\nFind out more\nAn opportunity for climate action\nNews\nQuestions and Answers about GIZ\nPress\nHere you can find our press releases and press material\nStoryportal\nHere you can find fascinating insights into GIZ's work worldwide\nDownloadcenter\nHere, you can find important reports and studies, quickly and conveniently.\nNewsletter\nKeep informed - sign up for our newsletters of your choice!\nNews\nTopic\n25.11.2026\nLegislation alone is not enough: ending female genital mutilation through community action\nFemale genital mutilation (FGM) is a deeply rooted practice in many societies. But change is possible when families and communities rethink their attitudes – as in Ethiopia.\nMore\nLegislation alone is not enough: ending female genital mutilation through community action\nTopic\n24.11.2026\nHow is climate change affecting international politics?\nWe discuss this topic with Kira Vinke, Co-Director of the German Council on Foreign Relations (DGAP) and head of the DGAP’s Center for Climate and Foreign Policy since its founding in 2021. Here, she explains how climate change is impacting human security.\nMore\nHow is climate change affecting international politics?\nTopic\n20.11.2026\nGerman-African Business Summit\nAfrica offers huge potential for German companies. International cooperation helps strengthen economic relations.\nMore\nGerman-African Business Summit\nTopic\n17.11.2026\nEcuador: We open up public procurement for women in the agricultural sector.\nIn Ecuador, we are working with international partners to overcome obstacles so that more women-led enterprises can benefit from public contracts. GIZ is now supporting the same concept in Africa and Asia.\nMore\nEcuador: We open up public procurement for women in the agricultural sector.\nTopic\n11.11.2026\nIntelligent cement: a catalyst for climate action in the construction sector\nIn Mexico, a leading concrete manufacturer and a Berlin-based start-up are exploring ways to use artificial intelligence to reduce CO₂ emissions – without compromising on quality.\nMore\nIntelligent cement: a catalyst for climate action in the construction sector\nTopic\n05.11.2026\n‘Germany’s security is also determined by factors beyond our borders’\nInternational cooperation helps to promote greater security around the world and here in Germany. GIZ security expert Anne-Katrin Niemeier explains how this work.\nMore\n‘Germany’s security is also determined by factors beyond our borders’\nAll our news\nGIZ's Corporate Design Center\nIn the Corporate Design Center (CDC) you will find all the information and guidelines on the corporate design of GIZ and that of our commissioning parties as well as various templates.\nRegistration\nis required for external users.\nLink to the CDC\nLink to the CDC\nQuestions and Answers about GIZ\nWhat is GIZ?\nThe Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a federal enterprise with worldwide operations. It supports the German Federal Government and many other public and private clients in achieving their goals in international cooperation for sustainable development and international education work. Together with its partners, GIZ has been developing effective solutions that offer people better prospects and improve their living conditions for more than 50 years.\nGIZ is wholly owned by the German Federal Government. As a shareholder, the Federal Government is represented by the German Federal Ministry for Economic Cooperation and Development (BMZ) and the German Ministry of Finance (BMF).\nHow does GIZ work?\nWe work in almost 120 countries worldwide. All projects are based on a specific mandate – for example from the German Federal Government, national and international clients or the private sector.\nWe offer a wide range of services: we advise policy-makers and the private sector locally in our partner countries, for example on economic development and employment promotion, energy and the environment and peace and security. Our work focuses on developing and strengthening the capacities of individuals, organisations and governments. We see this as the key to sustainable development – and sustainability is the principle that guides our actions and core business. A specific example is the work we do to support countries in driving digital transformation and implementing measures to counter disinformation. We develop strategies for fair skilled labour migration, manage construction and infrastructure projects and assist people in dealing with the impacts of climate change.\nWho commissions GIZ?\nOur work is financed by public and private funds. We use these funds in a targeted manner to achieve the best possible results. Our main commissioning party is the German Federal Ministry for Economic Cooperation and Development (BMZ). In 2025, around EUR 3.2 billion of our business volume was commissioned by BMZ. A further approx. EUR 443 million was commissioned by other German public contracting authorities, such as the German Federal Ministry of the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN) and the German Federal Foreign Office. We also support the federal states in implementing international development cooperation activities.\nWe also work for international clients such as the European Union, various UN organisations and foundations. National governments from all over the world, as well as the private sector, also commission us directly.\nWho does GIZ work with?\nWe work with a host of partners around the globe. Stable partnerships bring together interests between Germany, Europe and our partner countries and are essential for our work. After all, change can be achieved only if we work together.\nWe cooperate with international and regional organisations and with stakeholders from civil society and the scientific and academic community. We work with local partners – often with the relevant national ministries, but also with municipalities and local organisations. In Germany, we maintain close contact with public institutions, foundations, associations and KfW Development Bank.\nFurthermore, cooperation with the private sector is becoming more and more important. In partnership with us, companies can steer their activities so that their success also results in improved living conditions for people locally. We pave the way for more private involvement in our countries of assignment by advising them on the right framework conditions and making use of networks to bring potential partners together. Take hydrogen, for example: we provide advice on the market ramp-up of green hydrogen in countries such as Brazil, South Africa and Morocco. This supports local people and also opens doors for German businesses, helps the climate and makes an important contribution to Germany’s energy security.\nWhat values guide GIZ?\nWe work to shape a future worth living around the world. In doing so, our actions are guided by the principle of sustainability. We firmly believe that social responsibility, ecological balance and economic capacity must go hand in hand if current and future generations are to live safe, secure and dignified lives. As a federal enterprise, we are also guided by the principles upheld in German society. We promote respect for human rights, equal opportunities and integrity. At the same time, we support the rule of law and the political participation of the population, and are also committed to fairness within our own company.\nWhat relevance does GIZ's work have for Germany?\nInternational cooperation is in the\ninterests of Germany\nand Europe. It promotes peace, security and prosperity worldwide – including here at home. Our work is not only effective locally for every single person we support, but also in the almost 120 countries in which we operate, as it creates more stable conditions. Moreover, what we achieve in the rest of the world also has an impact here in Germany and Europe. For example, we help companies to open up new markets, secure jobs and attract skilled labour, we create prospects and reduce the root causes of displacement, and we ensure energy security and stable raw material supply chains. As an export nation, Germany is particularly dependent on stable partnerships and international cooperation to maintain its own prosperity. Our contribution to this is significant.\nIs GIZ a public-benefit organisation?\nGIZ is a corporation in the legal form of a limited liability company under German law (GmbH), which is recognised as having a public-benefit status due to its corporate purpose. It is not our aim to maximise financial profit. We think in an entrepreneurial way and act cost-effectively; however, we are not profit-driven. We focus on supporting public welfare as part of our corporate purpose.\nWe generate the majority of our revenue (almost EUR 4 billion in 2025) through the German federal government and other public-sector clients in Germany. These commissions are exempt from corporation and trade tax. Commissions from other clients, such as the European Commission, are taxed in accordance with German income tax regulations. However, even with these commissions, GIZ does not focus on making a profit. GIZ works on a cost-covering basis and also retains a small risk premium for these commissions to cover the entrepreneurial risk. Surplus profits are used for further international cooperation projects in line with the company’s purpose.\nWhat is GIZ's business volume?\nIn 2025, GIZ’s business volume was almost EUR 4 billion. Around EUR 3.7 billion of this was commissioned by federal ministries and other public sector clients in Germany. Business worth EUR 295 million was commissioned and financed by international clients from industrialised, emerging and developing countries.\nWho manages GIZ?\nGIZ is managed by a three-person\nManagement Board\n. Thorsten Schäfer-Gümbel is Chair of the Management Board. The other members are Ingrid-Gabriela Hoven and Anna Sophie Herken.\nWhen was GIZ established?\nGIZ was established on 1 January 2011 as the result of a merger between three organisations: Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH, the German Development Service (DED) gGmbH and Internationale Weiterbildung und Entwicklung gGmbH (InWEnt; Capacity Building International, Germany).\nWhere is GIZ based?\nGIZ has two registered offices in Germany: one in Bonn and one in Eschborn, near Frankfurt am Main.\nHow many employees does GIZ have?\nAs at 31 December 2025, a total of 23,787 people were working for GIZ in almost 120 countries – with 5,640 employed in Germany and 2,324 seconded abroad. 15,823 people worked as local staff in the partner countries. Overall, almost two thirds of GIZ employees work abroad. In 2025, GIZ’s workforce also included 184 development workers.\nAll relevant figures can be found in GIZ’s latest\ncompany report"
   },
   "https://www.globalcenter.ai/news": {
    "links": [
@@ -27282,25 +28155,25 @@
   },
   "https://www.techpolicy.press/": {
    "links": [
-    "https://www.techpolicy.press/as-anthropic-goes-public-who-has-the-power-to-stop-an-ai-company",
+    "https://www.techpolicy.press/anticipating-the-next-congresss-tech-investigations-agenda",
     "https://www.techpolicy.press/asias-gig-workers-unite-across-borders-to-fight-for-rights",
+    "https://www.techpolicy.press/black-friday-comes-with-a-price-as-eu-tightens-scrutiny-of-online-marketplaces",
     "https://www.techpolicy.press/characterai-december-bankruptcy-sale-is-too-soon-to-protect-kids-data",
+    "https://www.techpolicy.press/child-safety-enters-election-debate-in-spain-as-tiktok-faces-scrutiny",
     "https://www.techpolicy.press/congressional-staffing-is-the-biggest-tech-policy-problem-no-one-talks-about",
     "https://www.techpolicy.press/democrats-have-a-mandate-they-cant-repeat-congresss-tech-governance-failures",
-    "https://www.techpolicy.press/for-youth-losing-access-to-social-media-means-losing-access-to-power",
     "https://www.techpolicy.press/from-manhattan-to-manila-protesters-push-back-on-big-techs-grip",
     "https://www.techpolicy.press/julin-posada-on-the-people-powering-ai-and-the-platforms-exploiting-them",
     "https://www.techpolicy.press/middle-power-leverage-is-a-trap-for-europes-industrial-ai",
-    "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say",
     "https://www.techpolicy.press/no-cure-without-evidence-ai-overviews-cut-clicks-40-and-give-users-nothing",
     "https://www.techpolicy.press/openais-model-card-is-a-great-step-forward-for-child-safety-and-transparency",
     "https://www.techpolicy.press/robotics-is-coming-for-workers-data-its-time-for-a-national-response",
-    "https://www.techpolicy.press/the-dangerous-politics-of-ai-consciousness",
-    "https://www.techpolicy.press/the-next-big-tech-monopoly-could-be-your-personal-ai-agent",
+    "https://www.techpolicy.press/should-europe-replicate-the-us-tiktok-deal",
     "https://www.techpolicy.press/trump-left-manila-without-a-pax-silica-deal-what-can-the-philippines-demand",
-    "https://www.techpolicy.press/what-we-now-know-about-ai-and-elections"
+    "https://www.techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
+    "https://www.techpolicy.press/why-brazils-elections-offer-hope-in-the-fight-against-big-tech"
    ],
-   "text": "Perspective\nCharacter.AI’s December Bankruptcy Sale is Too Soon to Protect Kids’ Data\nThe outcome of this case matters far beyond the disposition of Character.AI’s assets, writes Bryan Jones.\nNovember 24, 2026\nFeatured\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nFeatured\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nLatest\nView more\nPerspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nPerspective\nThe Next Big Tech Monopoly Could Be Your Personal AI Agent\nNovember 20, 2026\nNews\nNo Bailout for the AI Bubble, Anthropic IPO Protesters Say\nNovember 19, 2026\nPerspective\nFor Youth, Losing Access to Social Media Means Losing Access to Power\nNovember 19, 2026\nPerspective\nWhat We Now Know About AI and Elections\nNovember 19, 2026\nNews\nAs Anthropic Goes Public, Who Has the Power to Stop an AI Company?\nNovember 19, 2026\nPerspective\nThe Dangerous Politics of AI Consciousness\nNovember 19, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Analysis\nChild Safety Enters Election Debate in Spain as TikTok Faces Scrutiny\nAs Spain heads to the polls, a TikTok case tests how far national regulators and courts can go to hold global platforms accountable, writes Naiara Bellio.\nNovember 25, 2026\nFeatured\nPerspective\nWelcome to the Trump-Nvidia-China-AI Hyper-Spectacle\nNovember 24, 2026\nAnalysis\nAnticipating the Next Congress's Tech Investigations Agenda\nNovember 24, 2026\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nFeatured\nPerspective\nWelcome to the Trump-Nvidia-China-AI Hyper-Spectacle\nNovember 24, 2026\nAnalysis\nAnticipating the Next Congress's Tech Investigations Agenda\nNovember 24, 2026\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nLatest\nView more\nNews\nBlack Friday Comes With a Price as EU Tightens Scrutiny of Online Marketplaces\nNovember 25, 2026\nPerspective\nShould Europe Replicate the US TikTok Deal?\nNovember 24, 2026\nPerspective\nWhy Brazil's Elections Offer Hope in the Fight Against Big Tech\nNovember 24, 2026\nPerspective\nCharacter.AI’s December Bankruptcy Sale is Too Soon to Protect Kids’ Data\nNovember 24, 2026\nPerspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nNovember 23, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
@@ -27349,7 +28222,7 @@
     "https://www.unesco.org/en/articles/preparing-thailands-future-judicial-leaders-age-ai",
     "https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=195885",
     "https://www.unesco.org/en/articles/small-ai-models-widen-access-learning-low-resource-settings",
-    "https://www.unesco.org/en/articles/unesco-joins-eu-funded-culturai-project-advance-responsible-ai-cultural-and-creative-sectors",
+    "https://www.unesco.org/en/articles/unesco-equips-young-content-creators-responsible-ai-skills-indonesia",
     "https://www.unesco.org/en/articles/unesco-promotes-stronger-data-governance-latin-america-and-caribbean",
     "https://www.unesco.org/en/artificial-intelligence/ai-public-sector",
     "https://www.unesco.org/en/artificial-intelligence/culture",
@@ -27373,7 +28246,7 @@
     "https://www.unesco.org/ethics-ai/en",
     "https://www.unesco.org/ethics-ai/en/ram?hub=195885"
    ],
-   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nSustainable AI and Climate Action at COP31\nResources\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nOur impact\nHow UNESCO is shaping an ethical digital future.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nStory\nPreparing Thailand's future judicial leaders for the age of AI\n24 November 2026\nNews\nSmall AI models widen access to learning in low-resource settings\n17 November 2026\nNews\nUNESCO promotes stronger data governance in Latin America and the Caribbean\n16 November 2026\nNews\nUNESCO joins EU-funded CULTURAI project to advance responsible AI in the cultural and creative sectors\n10 November 2026\nLoad more"
+   "text": "Shutterstock\nShutterstock\nArtificial Intelligence and emerging technologies\nUNESCO is committed to a future where AI and emerging technologies work for the people\nHome\nOur actions\nSharing knowledge\nFor governments\nFor the judiciary\nFor policy-makers\nFor teachers\nFor students\nBuilding standards\nRecommendation on the Ethics of Neurotechnology\nRecommendation on the Ethics of Artificial Intelligence\nPromoting inclusion\nAI for gender equality\nDigital Inclusion\nAI and human rights for youth\nGreen digital transformation\nSustainable AI and Climate Action at COP31\nResources\nBuilding standards together: emerging technology ethics\nUNESCO’s normative recommendations guide the ethical use of technologies, helping ensure they respect human rights, promote fairness, and benefit everyone.\nRecommendation on the Ethics of Neurotechnology\nThe 2025 UNESCO Recommendation on the Ethics of Neurotechnology sets global principles to ensure neurotechnology is developed and used in ways that respect human rights, dignity, and societal well-being.\nRecommendation on the Ethics of AI\nIn 2021, UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, guiding its work and helping Member States develop ethically aligned AI policies and capacities.\nOur impact\nHow UNESCO is shaping an ethical digital future.\nEducation\nWe convene leaders, experts, and innovators to address the impact of AI and technology in education, promoting human-centered, inclusive, and equitable approaches to the benefit of all learners.\nGender\nNew technologies risk widening gender gaps, especially when AI learns from biased data. UNESCO’s work on AI and gender guides policymakers and innovators to close these divides.\nCulture\nAs AI transforms how culture is created, accessed, managed, and experienced, UNESCO works to ensure AI’s development and use protect and promote cultural diversity, creativity, and access for all.\nGreen Digital Transformation\nWe foster global collaboration to make AI more sustainable, inclusive, and resilient for everyone.\nDigital transformation\nWe promote a human-centered digital transformation, wherein AI, data, and open solutions build capacity, foster inclusion, protect diversity, and drive sustainable, rights-based innovation.\nQuantum computing\nWe are helping the world prepare for the quantum revolution, wherein quantum mechanics helps solve problems too complex for today’s computers, in areas like medicine, encryption, and materials science.\nNeurotechnology\nWe are developing ethical frameworks to ensure these technologies fulfill their promise in health while upholding equity, mental privacy, freedom of thought, and protection of the most vulnerable.\nNatural science\nWe leverage AI to advance innovative, science-based solutions for sustainable development – from managing water and biodiversity to reducing disaster risks and strengthening climate resilience.\nInformation integrity\nAlgorithms and generative AI are reshaping how people access and trust information, with major effects on journalism, expression, and rights. We foster media literacy and inform digital platform governance.\nKey initiatives\nG20 Technology Policy Assistance Facility\nA G20-backed platform that helps policymakers and stakeholders research, design, and implement ethical, inclusive, and future-ready technology and AI policies.\nGlobal AI Ethics and Governance Observatory\nThe Observatory supports global stakeholders in promoting ethical and responsible AI through research, tools, and best practices.\nReadiness Assessment Methodology (RAM)\nThe RAM program helps governments identify and address gaps in their AI policies, strategies, and legislation, so that AI is deployed ethically and responsibly to the benefit of their their citizens.\nInternet Universality Indicators\nThis tool helps countries assess their Internet landscape, guide evidence-based policies, and foster inclusive, future-ready digital governance.\nUN Global Dialogue on AI Governance\nThe UN Global Dialogue on AI Governance brings together Member States and stakeholders to engage in the meaningful global conversation on AI that the world needs.\nCoordinated by UNESCO and the ITU as the joint UN Secretariat, the Dialogue—mandated by the General Assembly—aims to ensure that AI governance reflects the priorities of all nations, not just the most technologically advanced. International cooperation on AI governance is essential to ensure that AI development benefits all of us.\nMore information\nRegister here\nThumbnail\nplay_arrow\n©UNESCO\nNews and stories\nNews\nUNESCO Equips Young Content Creators with Responsible AI Skills in Indonesia\n24 November 2026\nStory\nPreparing Thailand's future judicial leaders for the age of AI\n24 November 2026\nNews\nSmall AI models widen access to learning in low-resource settings\n17 November 2026\nNews\nUNESCO promotes stronger data governance in Latin America and the Caribbean\n16 November 2026\nLoad more"
   }
  },
  "threads": {
