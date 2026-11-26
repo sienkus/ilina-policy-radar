@@ -1732,6 +1732,11 @@
    "id": "0e72da7227dd",
    "status": "skip"
   },
+  "0e790b5794b7": {
+   "found": "2026-11-26",
+   "id": "0e790b5794b7",
+   "status": "skip"
+  },
   "0e826c15f4b0": {
    "found": "2026-11-23",
    "id": "0e826c15f4b0",
@@ -1760,6 +1765,11 @@
   "0ee67a769e1d": {
    "found": "2026-11-10",
    "id": "0ee67a769e1d",
+   "status": "skip"
+  },
+  "0eefe7ef2f35": {
+   "found": "2026-11-26",
+   "id": "0eefe7ef2f35",
    "status": "skip"
   },
   "0ef046695ded": {
@@ -1997,6 +2007,11 @@
   "1112c01a76f2": {
    "found": "2026-11-17",
    "id": "1112c01a76f2",
+   "status": "skip"
+  },
+  "111e2b80578b": {
+   "found": "2026-11-26",
+   "id": "111e2b80578b",
    "status": "skip"
   },
   "114a392f8d8e": {
@@ -2290,6 +2305,11 @@
   "1499aa10d598": {
    "found": "2026-11-10",
    "id": "1499aa10d598",
+   "status": "skip"
+  },
+  "14d0010607fd": {
+   "found": "2026-11-26",
+   "id": "14d0010607fd",
    "status": "skip"
   },
   "14e0d4031934": {
@@ -2758,6 +2778,11 @@
   "1895c30e014f": {
    "found": "2026-11-13",
    "id": "1895c30e014f",
+   "status": "skip"
+  },
+  "18a0dd7fed1d": {
+   "found": "2026-11-26",
+   "id": "18a0dd7fed1d",
    "status": "skip"
   },
   "18cf33612842": {
@@ -4466,6 +4491,11 @@
    "id": "262cfa35f430",
    "status": "skip"
   },
+  "26345abd4a88": {
+   "found": "2026-11-26",
+   "id": "26345abd4a88",
+   "status": "skip"
+  },
   "26714fe0f5d8": {
    "found": "2026-11-23",
    "id": "26714fe0f5d8",
@@ -4651,6 +4681,52 @@
    "found": "2026-11-18",
    "id": "28e1867a7978",
    "status": "skip"
+  },
+  "28e61a4842f3": {
+   "action": "Monitor for submission calls or participation opportunities linked to the International Initiative on Co-building Foundation Model Evaluation Ecosystems for AI for Good",
+   "african_input": false,
+   "allies": [
+    "ITU"
+   ],
+   "arena": "Research & civil society",
+   "countries": [
+    "China",
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": "2026-11-25",
+   "event_start": "2026-11-25",
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "multilateral",
+   "headline": "Building shared standards for foundation model evaluation",
+   "headline_only": false,
+   "id": "28e61a4842f3",
+   "impact": 3,
+   "location": "Online / Summit venue",
+   "organizers": [
+    "AI for Good",
+    "China Academy of Information and Communications Technology (CAICT)"
+   ],
+   "participation": "Open workshop during AI for Good Global Summit 2026; organizations invited to join the International Initiative on Co-building Foundation Model Evaluation Ecosystems for AI for Good",
+   "published": "2026-11-25",
+   "sector": "",
+   "snippet": "The post Building shared standards for foundation model evaluation appeared first on AI for Good .",
+   "source": "AI for Good",
+   "status": "done",
+   "summary": "A workshop on foundation model evaluation held during the AI for Good Global Summit 2026, focusing on dynamic, transparent and internationally interoperable evaluation systems.",
+   "thread": "Td92b1",
+   "title": "Building shared standards for foundation model evaluation",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "event",
+   "url": "https://aiforgood.itu.int/building-shared-standards-for-foundation-model-evaluation/",
+   "v": 3,
+   "why": "Addresses AI safety and evaluation standards with relevance to African governance, capacity building, and interoperability - aligning with ILINA's interest in context-dependent risk assessment and third-party evaluations."
   },
   "28f2a543dc4e": {
    "action": "Apply to participate or nominate African experts",
@@ -6630,6 +6706,11 @@
    "id": "3b99de3030fe",
    "status": "skip"
   },
+  "3baac956d591": {
+   "found": "2026-11-26",
+   "id": "3baac956d591",
+   "status": "skip"
+  },
   "3bb9c71c60ec": {
    "found": "2026-11-16",
    "id": "3bb9c71c60ec",
@@ -7391,6 +7472,11 @@
    "id": "40ea67f8c23e",
    "status": "skip"
   },
+  "40ecf158dc0d": {
+   "found": "2026-11-26",
+   "id": "40ecf158dc0d",
+   "status": "skip"
+  },
   "4103c994fdaf": {
    "action": "Monitor for the bill's progression, public participation calls, or opportunities to submit input as the legislation develops.",
    "african_input": false,
@@ -7910,6 +7996,46 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzRXVzhSS0hGeDYzdkx6ckNGcEZhNWFmS0VYTlAwQjZEc3RTMHVHcEJrRUp1ZFFPTDczZXNrTmVDQ0xpOG41Q2tJUFlPMFd5RjNkeVV1ZkU2Y2pjNXBxNVV5bVlMT0ZwZ2hvVTk4TVh6OFRqeDQ4WTlFYl84TnVGVk96M3lpRVh4RzhWcVNydzl4cEZWVHl1bm9tMWhnRDlkV2VLbjR4YzNEeTU4cXc?oc=5",
    "v": 3,
    "why": "The event places AI governance and development at the highest-profile African convening, offering potential for policy dialogue and African voice amplification in global AI discussions."
+  },
+  "4596dded1420": {
+   "action": "Monitor for details on the engagement format, outcomes, and any policy positions announced.",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "news",
+   "headline": "Ramaphosa to engage US tech giants on SA’s AI future",
+   "headline_only": true,
+   "id": "4596dded1420",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "Office of the President of South Africa"
+   ],
+   "participation": "",
+   "published": "2026-11-13",
+   "sector": "",
+   "snippet": "",
+   "source": "ITWeb (via search)",
+   "status": "done",
+   "summary": "President Cyril Ramaphosa will engage US technology companies on South Africa's AI future.",
+   "thread": null,
+   "title": "Ramaphosa to engage US tech giants on SA’s AI future",
+   "topics": [
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONkpFbnpXV0czVXhDV3BEZlRfMXpoR0RkZDkwWWVuOGdtTERoMHBFc1l0TG01NXRhMER6ZjNVLXVibnFqNVFCWkRoX0FEQkdHSTFvSE5TdlF0VjAtUzdkSldGbXQxUE9Rb2dmWklBRXoxUlBWZWRVMm9yOGlQS3Jvek1BSVhkNGF6VS1tNlZpUklhQmFLUXR5c1pxX1RObEdSdHc?oc=5",
+   "v": 3,
+   "why": "A sitting African head of state directly engaging major AI developers signals a governance and policy moment relevant to ILINA's focus on African sovereignty and public service AI."
   },
   "45c21350969e": {
    "found": "2026-11-10",
@@ -8603,6 +8729,46 @@
    "id": "4c9608da258e",
    "status": "skip"
   },
+  "4ca3c1794ded": {
+   "action": "Monitor for AI safety or governance sessions at CPHIA 2026",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Ethiopia"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "multilateral",
+   "headline": "CPHIA 2026 Kicks Off in Addis Ababa as Africa Advances Health Sovereignty",
+   "headline_only": true,
+   "id": "4ca3c1794ded",
+   "impact": 3,
+   "location": "Addis Ababa, Ethiopia",
+   "organizers": [
+    "Fana Media Corporation S.C"
+   ],
+   "participation": "",
+   "published": "2026-11-23",
+   "sector": "health",
+   "snippet": "",
+   "source": "Fana Media Corporation S.C (via search)",
+   "status": "done",
+   "summary": "CPHIA 2026 kicked off in Addis Ababa, focusing on Africa's advancement of health sovereignty.",
+   "thread": null,
+   "title": "CPHIA 2026 Kicks Off in Addis Ababa as Africa Advances Health Sovereignty",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2U1TDY4dDNvVGViMHdVWjlma09RQkpjUm5hY0hpZXc0dTAxZ1RrT2hKZDB5ZEwzSFpQTHB4dVYwQ1htSXRCTVROX25fV0tTaHhwSGdvczlDVWJ5NmtRMXkyZVdSMGV3VkYyRF9aSkxrMXZwanhLdFAwREhzWnNSa0NNTVZabHVtdnpscWdCSWxOUUoxR0pZZzNrWVNrUkt6aUs0ei13VjU?oc=5",
+   "v": 3,
+   "why": "This is a major health governance convening in Africa, relevant to ILINA's interest in AI integration in public services and health outcomes."
+  },
   "4ce792ba5e83": {
    "found": "2026-11-23",
    "id": "4ce792ba5e83",
@@ -8967,6 +9133,11 @@
    "id": "50dfede67080",
    "status": "skip"
   },
+  "50ff40ec781f": {
+   "found": "2026-11-26",
+   "id": "50ff40ec781f",
+   "status": "skip"
+  },
   "511858f43542": {
    "found": "2026-11-10",
    "id": "511858f43542",
@@ -9216,6 +9387,11 @@
    "v": 3,
    "why": "Relevant to ILINA's position on responsible AI integration in public services and public procurement oversight; the working group's focus on governance and financing aligns with ILINA's interest in model access terms and public service integration."
   },
+  "532f830fd55b": {
+   "found": "2026-11-26",
+   "id": "532f830fd55b",
+   "status": "skip"
+  },
   "53a04b20abd6": {
    "found": "2026-11-10",
    "id": "53a04b20abd6",
@@ -9329,6 +9505,49 @@
    "id": "5466ef492f42",
    "status": "skip"
   },
+  "5489cd3fba03": {
+   "action": "Monitor for written submission calls or stakeholder consultation linked to the roadmap implementation",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "Kenya",
+    "EU"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "government",
+   "headline": "Kenya-EU AI, fibre and data adequacy roadmap",
+   "headline_only": true,
+   "id": "5489cd3fba03",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "Kenya",
+    "EU"
+   ],
+   "participation": "",
+   "published": "2026-11-26",
+   "sector": "",
+   "snippet": "",
+   "source": "TechTrendsKE (via search)",
+   "status": "done",
+   "summary": "Kenya and the EU have agreed on a roadmap covering AI cooperation, fibre infrastructure, and data adequacy.",
+   "thread": null,
+   "title": "Kenya, EU agree on AI, fibre and data adequacy roadmap",
+   "topics": [
+    "AI safety & security",
+    "Africa policy"
+   ],
+   "type": "policy_change",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYm93VFVKbTR3VWFMMTkyTnM3X2NDTm9nM08ydzR5ME9jdXlFRzRVXzFIZ3JGTDVzMzBhQWppT3VDT0YzaExHbjNUV0F4aHBkVkV1RmVMRnQ4ODJzdHFhMl9XZUdZdGRPUktwUTI5MEdxSUxGUk11eGRoZ1JPc1hUS3dXeUVOUkxZMG44NHdyUGRPUlFxR2c?oc=5",
+   "v": 3,
+   "why": "This is a concrete policy process between Kenya and the EU that could shape AI governance terms and data flows for lower-income governments."
+  },
   "549a77347d5e": {
    "found": "2026-11-23",
    "id": "549a77347d5e",
@@ -9337,6 +9556,11 @@
   "54ce7a528894": {
    "found": "2026-11-23",
    "id": "54ce7a528894",
+   "status": "skip"
+  },
+  "54e284aabe1a": {
+   "found": "2026-11-26",
+   "id": "54e284aabe1a",
    "status": "skip"
   },
   "54e631be99e8": {
@@ -9598,6 +9822,47 @@
    "id": "566001d7ebba",
    "status": "skip"
   },
+  "566af8aff63f": {
+   "action": "Monitor for submission calls or position papers related to the framework development",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "news",
+   "headline": "UN chief urges global AI risk management framework within a year",
+   "headline_only": true,
+   "id": "566af8aff63f",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "United Nations / UN Secretary-General"
+   ],
+   "participation": "",
+   "published": "2026-11-26",
+   "sector": "",
+   "snippet": "",
+   "source": "TRT Afrika (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General urges the establishment of a global AI risk management framework within a one-year timeframe.",
+   "thread": "Td92b1",
+   "title": "UN chief urges global AI risk management framework within a year",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ldnl2Um5TVE5BQnZ2VWFwX2N6dVVLNWgwRG9RYkdkZ2pyaUJoc1dycGdENGlOQ0FJUjc0RHR4dXRoR1htOFh4b1QzNHlHb0pNanoyRGV5VEdfbXM1V2xuUjk4bEU?oc=5",
+   "v": 3,
+   "why": "This relates to UN AI governance processes and the Global Dialogue on AI Governance, which ILINA tracks as a priority."
+  },
   "5684d178c520": {
    "found": "2026-11-10",
    "id": "5684d178c520",
@@ -9694,6 +9959,11 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3VxWEFVSUpLUVlZZVRyLUpsU0k3clRncEkxRV9BRnR1WnJUbjlLeDFwRW8tWDhYRUNGUDFnaU10bG5EeGV0QzlvT2t2T21mOGxPQV91cG80ckhzMWNET3Q1SEQtcEFYaVhxTkVnZ2hFcEFJdnRkSFY2bEk5dUllc2EwTnFnYzFX?oc=5",
    "v": 3,
    "why": "Establishing AI safety standards centres in Africa is relevant to ILINA's focus on African governance representation and context-dependent risk assessment."
+  },
+  "56a4ea75de70": {
+   "found": "2026-11-26",
+   "id": "56a4ea75de70",
+   "status": "skip"
   },
   "56e7c80b6691": {
    "found": "2026-10-28",
@@ -9802,6 +10072,11 @@
   "57c9f650f9db": {
    "found": "2026-11-20",
    "id": "57c9f650f9db",
+   "status": "skip"
+  },
+  "57cfc66c4524": {
+   "found": "2026-11-26",
+   "id": "57cfc66c4524",
    "status": "skip"
   },
   "57f647ecec79": {
@@ -9944,9 +10219,19 @@
    "v": 3,
    "why": "The paper directly addresses institutional gaps in global AI governance and proposes concrete mechanisms for crisis response and international coordination, which aligns with ILINA's interest in UN AI processes and global governance architecture."
   },
+  "586fc479b913": {
+   "found": "2026-11-26",
+   "id": "586fc479b913",
+   "status": "skip"
+  },
   "58746225634b": {
    "found": "2026-11-10",
    "id": "58746225634b",
+   "status": "skip"
+  },
+  "5879d023eabe": {
+   "found": "2026-11-26",
+   "id": "5879d023eabe",
    "status": "skip"
   },
   "5885cb292b96": {
@@ -10069,6 +10354,11 @@
   "598c6194c0d3": {
    "found": "2026-11-23",
    "id": "598c6194c0d3",
+   "status": "skip"
+  },
+  "599a91937c9d": {
+   "found": "2026-11-26",
+   "id": "599a91937c9d",
    "status": "skip"
   },
   "59b6ec13c20f": {
@@ -10841,6 +11131,11 @@
    "id": "5fe61985d243",
    "status": "skip"
   },
+  "5fecd3168a06": {
+   "found": "2026-11-26",
+   "id": "5fecd3168a06",
+   "status": "skip"
+  },
   "5fef5c58d09f": {
    "found": "2026-11-17",
    "id": "5fef5c58d09f",
@@ -10889,6 +11184,11 @@
   "60db8ff21ef1": {
    "found": "2026-11-17",
    "id": "60db8ff21ef1",
+   "status": "skip"
+  },
+  "60e951dc8948": {
+   "found": "2026-11-26",
+   "id": "60e951dc8948",
    "status": "skip"
   },
   "61495c5e2275": {
@@ -10963,6 +11263,46 @@
    "id": "61e347bd7300",
    "status": "skip"
   },
+  "622853cbb715": {
+   "action": "Monitor for policy consultation calls or research collaborations",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [
+    "Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "people",
+   "headline": "AI for climate risk management in African agriculture",
+   "headline_only": true,
+   "id": "622853cbb715",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-25",
+   "sector": "agriculture",
+   "snippet": "",
+   "source": "Tech Build Africa (via search)",
+   "status": "done",
+   "summary": "AI could change how African farmers and governments tackle climate risks beyond rain predictions.",
+   "thread": null,
+   "title": "Beyond Rain Predictions: AI Could Change How African Farmers and Government Tackle Climate Risks",
+   "topics": [
+    "AI safety & security",
+    "Africa policy",
+    "public services"
+   ],
+   "type": "field",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EeUUxY01NLTZIVmI4ZE9PYTFOWmRwQ2ZzMm5uVFpYcEdfajJ5aXJFSE1KclZCSDNBTjA1NURzVzFUaldvLS1zY1drRFF1dFc1cEZ6YkJnNWthaXJzWjdOTWFPMDlaVVprMXNwY3VJT2FVakI0Um1N?oc=5",
+   "v": 3,
+   "why": "Relevant to ILINA's priority of AI improving agriculture outcomes on terms protecting African sovereignty."
+  },
   "623d4eb1c6f2": {
    "found": "2026-11-18",
    "id": "623d4eb1c6f2",
@@ -10971,6 +11311,11 @@
   "627012e0f231": {
    "found": "2026-11-25",
    "id": "627012e0f231",
+   "status": "skip"
+  },
+  "6275a85befe7": {
+   "found": "2026-11-26",
+   "id": "6275a85befe7",
    "status": "skip"
   },
   "62776e922540": {
@@ -11469,6 +11814,11 @@
   "67cfadea649a": {
    "found": "2026-11-10",
    "id": "67cfadea649a",
+   "status": "skip"
+  },
+  "67fbf12e666c": {
+   "found": "2026-11-26",
+   "id": "67fbf12e666c",
    "status": "skip"
   },
   "680b35173b97": {
@@ -12018,6 +12368,11 @@
    "id": "6d43c73bd467",
    "status": "skip"
   },
+  "6d60c87b009c": {
+   "found": "2026-11-26",
+   "id": "6d60c87b009c",
+   "status": "skip"
+  },
   "6d63d4858ea7": {
    "action": "Monitor the development of South Africa's draft AI policy for participation opportunities.",
    "african_input": false,
@@ -12059,6 +12414,11 @@
   "6d798b7cbced": {
    "found": "2026-11-15",
    "id": "6d798b7cbced",
+   "status": "skip"
+  },
+  "6d7e2770b523": {
+   "found": "2026-11-26",
+   "id": "6d7e2770b523",
    "status": "skip"
   },
   "6de75e73988b": {
@@ -12115,6 +12475,11 @@
   "6e7d6c4388b7": {
    "found": "2026-11-23",
    "id": "6e7d6c4388b7",
+   "status": "skip"
+  },
+  "6ebfcb362b61": {
+   "found": "2026-11-26",
+   "id": "6ebfcb362b61",
    "status": "skip"
   },
   "6ee1a7a813d9": {
@@ -12257,6 +12622,44 @@
    "found": "2026-11-17",
    "id": "704d949666d4",
    "status": "skip"
+  },
+  "7068d3ab0ff6": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "Industry",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "tracker",
+   "headline": "OpenAI, Google, Anthropic Hit With Lawsuit Seeking to Halt Frontier AI Development",
+   "headline_only": true,
+   "id": "7068d3ab0ff6",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-13",
+   "sector": "",
+   "snippet": "",
+   "source": "Insurance Journal (via search)",
+   "status": "done",
+   "summary": "A lawsuit has been filed against major frontier AI developers OpenAI, Google, and Anthropic, seeking to halt the development of frontier AI systems.",
+   "thread": null,
+   "title": "OpenAI, Google, Anthropic Hit With Lawsuit Seeking to Halt Frontier AI Development",
+   "topics": [
+    "AI safety & security"
+   ],
+   "type": "field",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uNjU1R0pod3Y3NXp6bklnbFVNeWpjeG5LVHBuRU53Yk5nLTNWTmx4MUduWko1anE1RjYxdjBFNkxCV2RfZ1FqcnFJN1ljSlJGdGJUTURrZFc2M0xPS21QNzVPaHhySjNyNVlndjdsUUpQdWtaeUFF?oc=5",
+   "v": 3,
+   "why": "This raises AI safety and frontier AI risk concerns, which are among ILINA's priority areas, particularly regarding AI safety in fragile states and context-dependent risk assessment."
   },
   "707367cdebe9": {
    "action": "Monitor the conference outcomes for AI policy implications and potential submission opportunities.",
@@ -12656,6 +13059,11 @@
   "74190eec4d34": {
    "found": "2026-11-24",
    "id": "74190eec4d34",
+   "status": "skip"
+  },
+  "747c832556c5": {
+   "found": "2026-11-26",
+   "id": "747c832556c5",
    "status": "skip"
   },
   "748f9afb81e5": {
@@ -13407,6 +13815,11 @@
    "id": "794069c1d415",
    "status": "skip"
   },
+  "797a11917a76": {
+   "found": "2026-11-26",
+   "id": "797a11917a76",
+   "status": "skip"
+  },
   "79d50966cca8": {
    "found": "2026-11-25",
    "id": "79d50966cca8",
@@ -13776,6 +14189,44 @@
    "id": "7c5c30f51b80",
    "status": "skip"
   },
+  "7cb30b7a22f5": {
+   "action": "Monitor for participation opportunities or policy input calls from South Africa",
+   "african_input": false,
+   "allies": [],
+   "arena": "National government",
+   "countries": [
+    "South Africa"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "government",
+   "headline": "South Africa steps forward as a confident co-creator of the AI future",
+   "headline_only": true,
+   "id": "7cb30b7a22f5",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-19",
+   "sector": "",
+   "snippet": "",
+   "source": "ITWeb Africa (via search)",
+   "status": "done",
+   "summary": "South Africa is positioning itself as a co-creator of the AI future, indicating a shift toward active participation in shaping AI development and policy.",
+   "thread": null,
+   "title": "South Africa steps forward as a confident co-creator of the AI future",
+   "topics": [
+    "Africa policy"
+   ],
+   "type": "event",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdU9Bc1FvRXJuZWxVbjZRcFFwR3I2VU9nSEdnTkUyMmRvRmQ4OVYxazdxcWJfMUk5cE80SVlnOThUaThIODZtTnNWTUJocC1jZGhzTHlGTS1JLUtCbDRnQ0xYVlF2YkNaeVhQYTZfVmgzcmdPMHk5WjJBeS12eHh4amtXb3BjTDduOV93Tkh4RFYyM0xqMmpTZ0FEcm14SFVoNnhiRnlEbmY3NUpRa2lHWnR5d0NHQQ?oc=5",
+   "v": 3,
+   "why": "This signals South Africa's growing role in AI governance, which aligns with ILINA's goal of African countries shaping frontier AI development."
+  },
   "7ce741307131": {
    "action": "Monitor for written submission calls or stakeholder consultation opportunities at PP-26; note AI-enhanced disaster readiness pre-standardization work for potential African governance input.",
    "african_input": false,
@@ -13900,6 +14351,11 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHgyMFRld29hX3pOTDhtcjRYMmtKMk8yNWF6NFdYR0wxRW8xdWNFYnFMY1JoSTFFQ0hWNlRQdnN1WnVMT0I5dlV2eWhic3k0WTVyWFE2RjNWdzVxSVdkRlpSY0RIcDUxdUtRSmE2c2lLZTBadnM2YlZYQ0ZQRm5IRlNjVTNWWDhja2lXUkV6aGxoc3N5b2xvVkhnSQ?oc=5",
    "v": 3,
    "why": "The article touches on AI governance and the role of major powers like the US in shaping global AI regulation, which aligns with ILINA's interest in global AI policy processes and the involvement of key actors in AI safety."
+  },
+  "7ddcbbfae633": {
+   "found": "2026-11-26",
+   "id": "7ddcbbfae633",
+   "status": "skip"
   },
   "7e9c5b23649e": {
    "found": "2026-11-10",
@@ -14262,6 +14718,47 @@
    "id": "815fc58277d3",
    "status": "skip"
   },
+  "8171f611e608": {
+   "action": "Monitor the UN Global Dialogue on AI Governance 2027 thread for Africa-related sessions or submission calls.",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "multilateral",
+   "headline": "UN chief urges inclusive AI governance",
+   "headline_only": true,
+   "id": "8171f611e608",
+   "impact": 3,
+   "location": "",
+   "organizers": [
+    "United Nations"
+   ],
+   "participation": "",
+   "published": "2026-11-25",
+   "sector": "",
+   "snippet": "",
+   "source": "DD News (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General Antonio Guterres warns that AI's future cannot be decided by a few countries or controlled by billionaires, calling for broader governance.",
+   "thread": null,
+   "title": "Future of AI cannot be decided by handful of countries or controlled by a few billionaires: UN chief Antonio Guterres",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN"
+   ],
+   "type": "field",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2JBc1NvSDhDMndrcE4zN1pwZ1c3NU1LeDUwVVFZLVVoTl83NFFWUTh3emdnckhZNWFKX2pHakY1d01KOTdvRDQ5c0tlVm9fRFE3UXN1bDY5WGlPVmM1VkxFZFA2OXFTM2h6RUo5SWRYZjFwNHJsb2hBRi00RmhBR2hBQXFhSTV1UXpoM1pGamhDR3ppaGZwWU00bVhRVE1wTnh6b1kzZnZUWVUtQ1pYNlJFNkxVbFNLeU80RGZ2MTVvd2RiTG9uek9GX2JUeFV1NHZ2R0lMX0ZFQQ?oc=5",
+   "v": 3,
+   "why": "Aligns with ILINA's priority on African representation in global AI governance and the Global Fund for AI Capacity Development."
+  },
   "81797189a8bf": {
    "found": "2026-11-17",
    "id": "81797189a8bf",
@@ -14479,6 +14976,11 @@
    "id": "833c404e9faf",
    "status": "skip"
   },
+  "8352afe4e6ab": {
+   "found": "2026-11-26",
+   "id": "8352afe4e6ab",
+   "status": "skip"
+  },
   "836cc50f5785": {
    "found": "2026-11-20",
    "id": "836cc50f5785",
@@ -14575,6 +15077,11 @@
   "83ec9f299d00": {
    "found": "2026-11-10",
    "id": "83ec9f299d00",
+   "status": "skip"
+  },
+  "83f3091c5460": {
+   "found": "2026-11-26",
+   "id": "83f3091c5460",
    "status": "skip"
   },
   "840433cf1f3e": {
@@ -14929,6 +15436,11 @@
   "8621b27367e9": {
    "found": "2026-11-20",
    "id": "8621b27367e9",
+   "status": "skip"
+  },
+  "862b60b1b043": {
+   "found": "2026-11-26",
+   "id": "862b60b1b043",
    "status": "skip"
   },
   "86466a0150f2": {
@@ -15370,6 +15882,11 @@
   "8a218f42a438": {
    "found": "2026-11-23",
    "id": "8a218f42a438",
+   "status": "skip"
+  },
+  "8a3484b86fa2": {
+   "found": "2026-11-26",
+   "id": "8a3484b86fa2",
    "status": "skip"
   },
   "8a40fb4b41fa": {
@@ -15856,6 +16373,11 @@
    "id": "8f013c86607d",
    "status": "skip"
   },
+  "8f0560f8dfb0": {
+   "found": "2026-11-26",
+   "id": "8f0560f8dfb0",
+   "status": "skip"
+  },
   "8f2f08b6e197": {
    "found": "2026-11-23",
    "id": "8f2f08b6e197",
@@ -16006,6 +16528,11 @@
   "913d1556a5c0": {
    "found": "2026-11-10",
    "id": "913d1556a5c0",
+   "status": "skip"
+  },
+  "915bc201cd14": {
+   "found": "2026-11-26",
+   "id": "915bc201cd14",
    "status": "skip"
   },
   "9166dbb4b9e0": {
@@ -16203,6 +16730,11 @@
   "92ce57fb63da": {
    "found": "2026-11-12",
    "id": "92ce57fb63da",
+   "status": "skip"
+  },
+  "92f98993464a": {
+   "found": "2026-11-26",
+   "id": "92f98993464a",
    "status": "skip"
   },
   "9304107ab3e6": {
@@ -16441,6 +16973,11 @@
    "id": "9547a3608e23",
    "status": "skip"
   },
+  "95495fc09650": {
+   "found": "2026-11-26",
+   "id": "95495fc09650",
+   "status": "skip"
+  },
   "9562827e6666": {
    "found": "2026-11-25",
    "id": "9562827e6666",
@@ -16488,6 +17025,11 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWng4QjFxLVk5UlRiZDZWbUhhV09seUtKMjRGNFZKdm9rWDUybDVMeUpCdXNURW1NUkRVcTk3aHNZY0JPVmFfZF9wbmhPREtFOTdhV2FKaUJTRzhtb1Jfc0hwblhQSGpMZU9zTXZVQ0o2SV9hZVhYR3dENkg5OW1QaUt2djZ2bWd5b3RpRzZibXB2VnFVazBwQ0hfQkZnMzNGZllxc0hYWGltY19ROVN0V01DYWhoSjd1cm9udlFxWmV0UQ?oc=5",
    "v": 3,
    "why": "This signals a setback for AI governance processes in Africa and raises concerns about the quality of policy drafting, which ILINA monitors closely as it affects the credibility and feasibility of AI regulations on the continent."
+  },
+  "95bf0a0703e9": {
+   "found": "2026-11-26",
+   "id": "95bf0a0703e9",
+   "status": "skip"
   },
   "95cddbff80e7": {
    "action": "Monitor for upcoming consultation calls or policy proposals from the Ministry of Communications.",
@@ -16730,6 +17272,11 @@
   "993eca38d8d7": {
    "found": "2026-11-20",
    "id": "993eca38d8d7",
+   "status": "skip"
+  },
+  "9947056ac94c": {
+   "found": "2026-11-26",
+   "id": "9947056ac94c",
    "status": "skip"
   },
   "99493cf439ac": {
@@ -17310,6 +17857,11 @@
   "9f5c3ed13b07": {
    "found": "2026-11-19",
    "id": "9f5c3ed13b07",
+   "status": "skip"
+  },
+  "9f673aba880d": {
+   "found": "2026-11-26",
+   "id": "9f673aba880d",
    "status": "skip"
   },
   "9f7d21593b83": {
@@ -18978,6 +19530,11 @@
    "id": "ad1d60da2326",
    "status": "skip"
   },
+  "ad44d5b0d73a": {
+   "found": "2026-11-26",
+   "id": "ad44d5b0d73a",
+   "status": "skip"
+  },
   "ad4994c80165": {
    "found": "2026-11-10",
    "id": "ad4994c80165",
@@ -19098,6 +19655,11 @@
   "ae774b2c3eb3": {
    "found": "2026-11-23",
    "id": "ae774b2c3eb3",
+   "status": "skip"
+  },
+  "ae82f5d28b68": {
+   "found": "2026-11-26",
+   "id": "ae82f5d28b68",
    "status": "skip"
   },
   "ae85c4d6bb78": {
@@ -19377,6 +19939,11 @@
   "b082599f96f1": {
    "found": "2026-11-17",
    "id": "b082599f96f1",
+   "status": "skip"
+  },
+  "b08436ffd21f": {
+   "found": "2026-11-26",
+   "id": "b08436ffd21f",
    "status": "skip"
   },
   "b08dcabb735c": {
@@ -19689,6 +20256,11 @@
   "b34ed609c533": {
    "found": "2026-11-23",
    "id": "b34ed609c533",
+   "status": "skip"
+  },
+  "b358af808657": {
+   "found": "2026-11-26",
+   "id": "b358af808657",
    "status": "skip"
   },
   "b35af7b25f6c": {
@@ -20012,6 +20584,11 @@
    "v": 3,
    "why": "This UN summit convened African-adjacent voices (Barbados PM, French President) and raised the Global Fund for AI Capacity-Building, directly touching ILINA's priorities on African governance representation, context-dependent risk assessment, and capacity development."
   },
+  "b737e51b732f": {
+   "found": "2026-11-26",
+   "id": "b737e51b732f",
+   "status": "skip"
+  },
   "b7581be4d829": {
    "found": "2026-11-17",
    "id": "b7581be4d829",
@@ -20056,6 +20633,44 @@
    "found": "2026-11-10",
    "id": "b831f46f9415",
    "status": "skip"
+  },
+  "b842cfb2f2b1": {
+   "action": "Apply to run a Community Assembly on AI program",
+   "african_input": false,
+   "allies": [],
+   "arena": "Research & civil society",
+   "countries": [],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "multilateral",
+   "headline": "Open Call: Run a Community Assembly on AI Program",
+   "headline_only": true,
+   "id": "b842cfb2f2b1",
+   "impact": 3,
+   "location": "",
+   "organizers": [],
+   "participation": "",
+   "published": "2026-11-26",
+   "sector": "",
+   "snippet": "",
+   "source": "fundsforNGOs - Grants and Resources for Sustainability (via search)",
+   "status": "done",
+   "summary": "An open call inviting applications to run a Community Assembly on AI program, though details on format, eligibility, and duration are not specified in the headline.",
+   "thread": null,
+   "title": "Open Call: Run a Community Assembly on AI Program",
+   "topics": [
+    "AI safety & security",
+    "Global Dialogue / UN",
+    "AI summits"
+   ],
+   "type": "call_for_input",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnNGN3NrNmRKOUFJSnlUUS1oS3BTdXB0YlBaMDhEdXV1Skp0bF8yc1k0bXJJU1BkVUVDMTNCS1FlRDZDbTVHLXl2M25ZTUxwbHNqdEp5OXVhd0oxU1RHNnFnWGdJdElEN0JNWU5qZUowS0k1emJoeFRXZkdPbDN2Qi0zVW9IYlo2dndXOEJjLWhseTlESzZKblQ4ONIBmwFBVV95cUxQbnNGN3NrNmRKOUFJSnlUUS1oS3BTdXB0YlBaMDhEdXV1Skp0bF8yc1k0bXJJU1BkVUVDMTNCS1FlRDZDbTVHLXl2M25ZTUxwbHNqdEp5OXVhd0oxU1RHNnFnWGdJdElEN0JNWU5qZUowS0k1emJoeFRXZkdPbDN2Qi0zVW9IYlo2dndXOEJjLWhseTlESzZKblQ4OA?oc=5",
+   "v": 3,
+   "why": "This is a concrete call for applications to run a program, which aligns with ILINA's interest in opportunities to shape AI governance and public engagement across Africa."
   },
   "b84eb8856e35": {
    "found": "2026-11-16",
@@ -20959,6 +21574,11 @@
    "id": "c0188ed7a95d",
    "status": "skip"
   },
+  "c01e76113522": {
+   "found": "2026-11-26",
+   "id": "c01e76113522",
+   "status": "skip"
+  },
   "c07fe49ce53b": {
    "found": "2026-11-17",
    "id": "c07fe49ce53b",
@@ -21224,6 +21844,11 @@
   "c42112f94422": {
    "found": "2026-11-17",
    "id": "c42112f94422",
+   "status": "skip"
+  },
+  "c42d02a6b463": {
+   "found": "2026-11-26",
+   "id": "c42d02a6b463",
    "status": "skip"
   },
   "c444f8592743": {
@@ -21729,6 +22354,11 @@
    "url": "https://www.lawyershub.org/",
    "v": 3,
    "why": "This is a continent-wide AI governance assessment that directly feeds into the UN Global Dialogue, giving African countries a coordinated agenda and measurable data to shape frontier AI governance."
+  },
+  "c860bea1f9ed": {
+   "found": "2026-11-26",
+   "id": "c860bea1f9ed",
+   "status": "skip"
   },
   "c86e5400aaea": {
    "action": "Monitor for submission calls, panel nominations, or side event proposals; prepare ILINA position on African representation and responsible AI integration in public services.",
@@ -22826,6 +23456,11 @@
    "id": "d0816a7c5585",
    "status": "skip"
   },
+  "d081a4542475": {
+   "found": "2026-11-26",
+   "id": "d081a4542475",
+   "status": "skip"
+  },
   "d0a64e15a934": {
    "found": "2026-11-10",
    "id": "d0a64e15a934",
@@ -22932,6 +23567,11 @@
   "d10bb9a9f9af": {
    "found": "2026-11-18",
    "id": "d10bb9a9f9af",
+   "status": "skip"
+  },
+  "d12d2ac6bee4": {
+   "found": "2026-11-26",
+   "id": "d12d2ac6bee4",
    "status": "skip"
   },
   "d1318183fe17": {
@@ -23528,6 +24168,46 @@
    "found": "2026-11-17",
    "id": "d666da33610e",
    "status": "skip"
+  },
+  "d69abe9cf0bd": {
+   "action": "",
+   "african_input": false,
+   "allies": [],
+   "arena": "UN system",
+   "countries": [
+    "Global"
+   ],
+   "deadline": null,
+   "event_end": null,
+   "event_start": null,
+   "first": false,
+   "fit": 3,
+   "found": "2026-11-26",
+   "group": "news",
+   "headline": "UN chief calls for world to agree on AI oversight within a year",
+   "headline_only": true,
+   "id": "d69abe9cf0bd",
+   "impact": 5,
+   "location": "",
+   "organizers": [
+    "UN Secretary-General"
+   ],
+   "participation": "",
+   "published": "2026-11-24",
+   "sector": "",
+   "snippet": "",
+   "source": "Al Jazeera (via search)",
+   "status": "done",
+   "summary": "UN Secretary-General urges global agreement on AI oversight mechanisms within a one-year timeframe.",
+   "thread": null,
+   "title": "UN chief calls for world to agree on AI oversight within a year",
+   "topics": [
+    "Global Dialogue / UN"
+   ],
+   "type": "news",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVNBQl9aRURGZHBIc0xiTVRvOW9pWE0yaWdNVkZrNzJVZUtGb2luUUx2SzhCN1BQUXZzdFJLRDA4Q3FBVTg1WXZ0TkQ0S0EyOENRNi05NW50Y19RNkI5czBYMkQxX0NULW1nZUw1bENaYmk3ZVlGaFNJUUJxMUVjM0VERl90SzVDMm9qRHpzcjR1Q0lVVHZEWDh6c3RoRWs4NkI2eVBkZUXSAa4BQVVfeXFMUFFyTWlPTHRZcnY1QWNBZF85elMyeTRnQTFObnAwYUdDVnFYUDVGSEQyYm9CblpHcUpJMEJ1UmVBOHVqQ201VVFKOVVRNjBXakVValFUWi1DSTUxU294RjlHZ2toQTQ0Wm04Tm1YbFU4WTRlN25LLUQteE5MeFlhbG5PdzB2UWlsSmttRXNpY0hrdmJZaGZ1enNLczQ5d2JkaTFnYzNRV1c3UEgwemVB?oc=5",
+   "v": 3,
+   "why": "High-level UN governance initiative relevant to ILINA's engagement with global AI governance processes."
   },
   "d6b1a7735048": {
    "action": "Monitor for written submission calls, side events, or participation opportunities linked to the summit; consider ILINA submission on African governance representation and capacity development.",
@@ -24338,6 +25018,11 @@
    "id": "dd89d548190b",
    "status": "skip"
   },
+  "dd94f7af62fb": {
+   "found": "2026-11-26",
+   "id": "dd94f7af62fb",
+   "status": "skip"
+  },
   "dda9773dd3c9": {
    "found": "2026-11-23",
    "id": "dda9773dd3c9",
@@ -24779,6 +25464,11 @@
    "id": "e2a6ec0f5592",
    "status": "skip"
   },
+  "e2c9a1aa63c0": {
+   "found": "2026-11-26",
+   "id": "e2c9a1aa63c0",
+   "status": "skip"
+  },
   "e2cc1c6b6457": {
    "action": "Monitor the committee's agenda for AI governance or safety opportunities.",
    "african_input": false,
@@ -25072,6 +25762,11 @@
    "id": "e4a8ab53f0a1",
    "status": "skip"
   },
+  "e4cee17eb6e9": {
+   "found": "2026-11-26",
+   "id": "e4cee17eb6e9",
+   "status": "skip"
+  },
   "e4f38a04549a": {
    "found": "2026-11-11",
    "id": "e4f38a04549a",
@@ -25202,6 +25897,11 @@
    "url": "https://x.com/ECA_OFFICIAL/status/2118269876339159208",
    "v": 3,
    "why": "ILINA tracks African multilateral AI governance events; this dialogue at the African Internet Governance Forum could shape AI policy input pathways."
+  },
+  "e5faf514a457": {
+   "found": "2026-11-26",
+   "id": "e5faf514a457",
+   "status": "skip"
   },
   "e5fcc72b5b57": {
    "found": "2026-11-16",
@@ -26546,6 +27246,11 @@
    "id": "f404abc44587",
    "status": "skip"
   },
+  "f40613a038a0": {
+   "found": "2026-11-26",
+   "id": "f40613a038a0",
+   "status": "skip"
+  },
   "f431b8189a95": {
    "found": "2026-11-21",
    "id": "f431b8189a95",
@@ -27647,6 +28352,11 @@
    "id": "ff3d70fa0248",
    "status": "skip"
   },
+  "ff4827a9bd4c": {
+   "found": "2026-11-26",
+   "id": "ff4827a9bd4c",
+   "status": "skip"
+  },
   "ff5d1138e496": {
    "found": "2026-11-23",
    "id": "ff5d1138e496",
@@ -27974,7 +28684,7 @@
     "https://www.anthropic.com/news/singapore-office-opening",
     "https://www.anthropic.com/research/early-progress-drug-development"
    ],
-   "text": "News\nLatest news\nNovember 25, 2026\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nEarly progress on accelerating drug development with Claude\nWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nFeatures\nThe Situation Report\nA rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\nRead more\nScenarios for our economic future\nAnthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\nRead more\nThe making of Claude Code\nThe inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\nRead more\nProject Deal: our Claude-run marketplace experiment\nWe created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\nRead more\nThe first AI-planned drive on Mars\nThe first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\nRead more\n286\nARTICLES\nFilter\nMost recent\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnnouncements\nNov 20, 2026\nNov 20, 2026\nAnnouncements\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnnouncements\nNov 18, 2026\nNov 18, 2026\nAnnouncements\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nAnnouncements\nNov 10, 2026\nNov 10, 2026\nAnnouncements\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAnnouncements\nNov 9, 2026\nNov 9, 2026\nAnnouncements\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nAnnouncements\nOct 28, 2026\nOct 28, 2026\nAnnouncements\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nPartnerships\nOct 27, 2026\nOct 27, 2026\nPartnerships\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnnouncements\nOct 26, 2026\nOct 26, 2026\nAnnouncements\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nProduct\nOct 22, 2026\nOct 22, 2026\nProduct\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nAnnouncements\nOct 22, 2026\nOct 22, 2026\nAnnouncements\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nAnnouncements\nOct 21, 2026\nOct 21, 2026\nAnnouncements\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnnouncements\nOct 18, 2026\nOct 18, 2026\nAnnouncements\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPolicy\nOct 15, 2026\nOct 15, 2026\nPolicy\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nSafeguards\nOct 14, 2026\nOct 14, 2026\nSafeguards\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nAnnouncements\nOct 14, 2026\nOct 14, 2026\nAnnouncements\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nSafeguards\nOct 12, 2026\nOct 12, 2026\nSafeguards\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\nSecurity\nOct 8, 2026\nOct 8, 2026\nSecurity\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nPolicy\nOct 8, 2026\nOct 8, 2026\nPolicy\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nPartnerships\nOct 8, 2026\nOct 8, 2026\nPartnerships\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nAnnouncements\nOct 7, 2026\nOct 7, 2026\nAnnouncements\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnnouncements\nOct 6, 2026\nOct 6, 2026\nAnnouncements\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nAnnouncements\nOct 2, 2026\nOct 2, 2026\nAnnouncements\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nAnnouncements\nOct 1, 2026\nOct 1, 2026\nAnnouncements\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nAnnouncements\nSep 28, 2026\nSep 28, 2026\nAnnouncements\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nAnnouncements\nSep 22, 2026\nSep 22, 2026\nAnnouncements\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nSee more\nContact us or download our press kit\nPress\npress@anthropic.com\nSupport\nHow to get support\nMedia assets\nDownload press kit"
+   "text": "News\nLatest news\nNovember 26, 2026\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nEarly progress on accelerating drug development with Claude\nWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nFeatures\nThe Situation Report\nA rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\nRead more\nScenarios for our economic future\nAnthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\nRead more\nThe making of Claude Code\nThe inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\nRead more\nProject Deal: our Claude-run marketplace experiment\nWe created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\nRead more\nThe first AI-planned drive on Mars\nThe first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\nRead more\n286\nARTICLES\nFilter\nMost recent\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnnouncements\nNov 20, 2026\nNov 20, 2026\nAnnouncements\nAnthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\nToday Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnnouncements\nNov 18, 2026\nNov 18, 2026\nAnnouncements\nAnthropic prices initial public offering\nToday Anthropic, PBC priced its initial public offering of its Class A common stock.\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nAnnouncements\nNov 10, 2026\nNov 10, 2026\nAnnouncements\nAnthropic launches roadshow for proposed initial public offering\nToday Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAnnouncements\nNov 9, 2026\nNov 9, 2026\nAnnouncements\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2\nOur most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nAnnouncements\nOct 28, 2026\nOct 28, 2026\nAnnouncements\nAI for Science expands to foundations and research institutions\nWe’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nPartnerships\nOct 27, 2026\nOct 27, 2026\nPartnerships\nExpanding our partnership with GSA to bring Claude to all levels of government\nWe are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nAnnouncements\nOct 26, 2026\nOct 26, 2026\nAnnouncements\nAnthropic files S-1 with the SEC for proposed initial public offering\nToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nProduct\nOct 22, 2026\nOct 22, 2026\nProduct\nDonating Agent Skills to the Agentic AI Foundation\nWe’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nAnnouncements\nOct 22, 2026\nOct 22, 2026\nAnnouncements\nOpen call for guest investigators in the life sciences\nToday, we’re inviting members of the life sciences community to apply to work with us on special projects.\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nAnnouncements\nOct 21, 2026\nOct 21, 2026\nAnnouncements\nPhysicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\nDr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAnnouncements\nOct 18, 2026\nOct 18, 2026\nAnnouncements\nInvesting in the public benefit\nWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPolicy\nOct 15, 2026\nOct 15, 2026\nPolicy\nAn update on independent evaluators\nTo evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nSafeguards\nOct 14, 2026\nOct 14, 2026\nSafeguards\nPreparing for the 2026 US midterms\nEarlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nAnnouncements\nOct 14, 2026\nOct 14, 2026\nAnnouncements\nAnthropic opens Singapore office and signs MOU with the Government of Singapore\nAnthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nSafeguards\nOct 12, 2026\nOct 12, 2026\nSafeguards\nStrengthening our defenses against distillation attacks\nIllicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\nSecurity\nOct 8, 2026\nOct 8, 2026\nSecurity\nIntroducing the Anthropic Cyber Mission\nWe’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nPolicy\nOct 8, 2026\nOct 8, 2026\nPolicy\n2026 Usage Policy update\nWe’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nPartnerships\nOct 8, 2026\nOct 8, 2026\nPartnerships\nBuilding on our commitment to American scientific discovery\nAnthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nAnnouncements\nOct 7, 2026\nOct 7, 2026\nAnnouncements\nIntroducing Claude Haiku 5.5\nClaude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnnouncements\nOct 6, 2026\nOct 6, 2026\nAnnouncements\nExpanding the Cyber Verification Program\nWe’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nAnnouncements\nOct 2, 2026\nOct 2, 2026\nAnnouncements\nAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap\nAnthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nAnnouncements\nOct 1, 2026\nOct 1, 2026\nAnnouncements\nBarclays scales Claude to upgrade operations and improve client experience\nBarclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nAnnouncements\nSep 28, 2026\nSep 28, 2026\nAnnouncements\nIntroducing Claude Sonnet 5.5\nClaude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nAnnouncements\nSep 22, 2026\nSep 22, 2026\nAnnouncements\nIntroducing Claude Opus 5.5\nClaude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\nSee more\nContact us or download our press kit\nPress\npress@anthropic.com\nSupport\nHow to get support\nMedia assets\nDownload press kit"
   },
   "https://www.giz.de/en/newsroom": {
    "links": [
@@ -28160,20 +28870,20 @@
     "https://www.techpolicy.press/black-friday-comes-with-a-price-as-eu-tightens-scrutiny-of-online-marketplaces",
     "https://www.techpolicy.press/characterai-december-bankruptcy-sale-is-too-soon-to-protect-kids-data",
     "https://www.techpolicy.press/child-safety-enters-election-debate-in-spain-as-tiktok-faces-scrutiny",
-    "https://www.techpolicy.press/congressional-staffing-is-the-biggest-tech-policy-problem-no-one-talks-about",
     "https://www.techpolicy.press/democrats-have-a-mandate-they-cant-repeat-congresss-tech-governance-failures",
+    "https://www.techpolicy.press/do-we-need-a-right-to-reality",
     "https://www.techpolicy.press/from-manhattan-to-manila-protesters-push-back-on-big-techs-grip",
     "https://www.techpolicy.press/julin-posada-on-the-people-powering-ai-and-the-platforms-exploiting-them",
     "https://www.techpolicy.press/middle-power-leverage-is-a-trap-for-europes-industrial-ai",
-    "https://www.techpolicy.press/no-cure-without-evidence-ai-overviews-cut-clicks-40-and-give-users-nothing",
     "https://www.techpolicy.press/openais-model-card-is-a-great-step-forward-for-child-safety-and-transparency",
     "https://www.techpolicy.press/robotics-is-coming-for-workers-data-its-time-for-a-national-response",
     "https://www.techpolicy.press/should-europe-replicate-the-us-tiktok-deal",
     "https://www.techpolicy.press/trump-left-manila-without-a-pax-silica-deal-what-can-the-philippines-demand",
     "https://www.techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
+    "https://www.techpolicy.press/what-will-a-supplementary-protocol-to-the-un-cybercrime-convention-achieve",
     "https://www.techpolicy.press/why-brazils-elections-offer-hope-in-the-fight-against-big-tech"
    ],
-   "text": "Analysis\nChild Safety Enters Election Debate in Spain as TikTok Faces Scrutiny\nAs Spain heads to the polls, a TikTok case tests how far national regulators and courts can go to hold global platforms accountable, writes Naiara Bellio.\nNovember 25, 2026\nFeatured\nPerspective\nWelcome to the Trump-Nvidia-China-AI Hyper-Spectacle\nNovember 24, 2026\nAnalysis\nAnticipating the Next Congress's Tech Investigations Agenda\nNovember 24, 2026\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nFeatured\nPerspective\nWelcome to the Trump-Nvidia-China-AI Hyper-Spectacle\nNovember 24, 2026\nAnalysis\nAnticipating the Next Congress's Tech Investigations Agenda\nNovember 24, 2026\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nLatest\nView more\nNews\nBlack Friday Comes With a Price as EU Tightens Scrutiny of Online Marketplaces\nNovember 25, 2026\nPerspective\nShould Europe Replicate the US TikTok Deal?\nNovember 24, 2026\nPerspective\nWhy Brazil's Elections Offer Hope in the Fight Against Big Tech\nNovember 24, 2026\nPerspective\nCharacter.AI’s December Bankruptcy Sale is Too Soon to Protect Kids’ Data\nNovember 24, 2026\nPerspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nNovember 23, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nPerspective\nCongressional Staffing Is the Biggest Tech Policy Problem No One Talks About\nNovember 20, 2026\nPerspective\nNo Cure Without Evidence? AI Overviews Cut Clicks 40% and Give Users Nothing\nNovember 20, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
+   "text": "Perspective\nDo We Need a Right to Reality?\nThe goal is not a world free of deception. It is about building one that is resilient to it, write WITNESS's Jacobo Castellanos and Bruna Martins dos Santos.\nNovember 25, 2026\nFeatured\nNews\nBlack Friday Comes With a Price as EU Tightens Scrutiny of Online Marketplaces\nNovember 25, 2026\nAnalysis\nChild Safety Enters Election Debate in Spain as TikTok Faces Scrutiny\nNovember 25, 2026\nPerspective\nWhat Will a Supplementary Protocol to the UN Cybercrime Convention Achieve?\nNovember 25, 2026\nFeatured\nNews\nBlack Friday Comes With a Price as EU Tightens Scrutiny of Online Marketplaces\nNovember 25, 2026\nAnalysis\nChild Safety Enters Election Debate in Spain as TikTok Faces Scrutiny\nNovember 25, 2026\nPerspective\nWhat Will a Supplementary Protocol to the UN Cybercrime Convention Achieve?\nNovember 25, 2026\nLatest\nView more\nAnalysis\nAnticipating the Next Congress's Tech Investigations Agenda\nNovember 24, 2026\nPerspective\nWelcome to the Trump-Nvidia-China-AI Hyper-Spectacle\nNovember 24, 2026\nPerspective\nShould Europe Replicate the US TikTok Deal?\nNovember 24, 2026\nPerspective\nWhy Brazil's Elections Offer Hope in the Fight Against Big Tech\nNovember 24, 2026\nPerspective\nOpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency\nNovember 24, 2026\nPerspective\nCharacter.AI’s December Bankruptcy Sale is Too Soon to Protect Kids’ Data\nNovember 24, 2026\nPodcast\nView more\nRecent\nView more\nPerspective\nCharacter.AI’s December Bankruptcy Sale is Too Soon to Protect Kids’ Data\nNovember 24, 2026\nPerspective\n‘Middle Power Leverage’ is a Trap for Europe's Industrial AI\nNovember 23, 2026\nPerspective\nRobotics Is Coming for Workers’ Data. It’s Time for a National Response\nNovember 23, 2026\nPerspective\nTrump Left Manila Without a Pax Silica Deal. What Can the Philippines Demand?\nNovember 23, 2026\nPerspective\nDemocrats Have A Mandate. They Can’t Repeat Congress’s Tech Governance Failures.\nNovember 23, 2026\nNewsletter\nFrom Manhattan to Manila, Protesters Push Back on Big Tech’s Grip\nNovember 22, 2026\nPodcast\nJulián Posada on the People Powering AI and the Platforms Exploiting Them\nNovember 22, 2026\nPodcast\nAsia's Gig Workers Unite Across Borders to Fight for Rights\nNovember 22, 2026\nOur content delivered to your inbox\nJoin our newsletter on issues and ideas at the intersection of tech and democracy.\nThank you!\nYou have successfully joined our mailing list.\nMore to come in January 2021 !\nWant to get in touch now?\nEmail us\nAround the globe"
   },
   "https://www.un.org/digital-emerging-technologies/events": {
    "links": [
@@ -28256,7 +28966,7 @@
   },
   "Td92b1": {
    "name": "UN Global Dialogue on AI Governance 2027",
-   "updated": "2026-11-23"
+   "updated": "2026-11-26"
   }
  }
 }
